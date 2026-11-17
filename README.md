@@ -83,7 +83,7 @@ The design keeps three layers apart, so each one can change without touching the
 ### Install
 
 ```bash
-git clone https://github.com/mmnowmedia/alexai.git
+git clone https://github.com/ibrahimjehad/alexai.git
 ```
 
 ```bash
