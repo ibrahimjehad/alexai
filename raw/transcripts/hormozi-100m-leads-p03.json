@@ -1,0 +1,2882 @@
+{
+  "source_id": "hormozi-100m-leads-p03",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.18,
+      "end": 2.62,
+      "text": "I'm super excited about the episode today."
+    },
+    {
+      "start": 2.72,
+      "end": 9.5,
+      "text": "This is a special edition 100 million dollar leads audiobook podcast collab between myself and myself."
+    },
+    {
+      "start": 11.0,
+      "end": 15.16,
+      "text": "Um, I'm, uh, going to be covering, uh, getting leads in general and warm outreach."
+    },
+    {
+      "start": 15.3,
+      "end": 16.74,
+      "text": "This is how you get your first five customers."
+    },
+    {
+      "start": 16.78,
+      "end": 18.34,
+      "text": "This is how I got my first five customers."
+    },
+    {
+      "start": 18.8,
+      "end": 25.12,
+      "text": "If you want to start a business, you have a business, and you're, you're doing less than 500,000 a year, like this chapter I wrote for you."
+    },
+    {
+      "start": 29.14,
+      "end": 30.74,
+      "text": "Section three, get leads."
+    },
+    {
+      "start": 31.58,
+      "end": 33.22,
+      "text": "The core four advertising methods."
+    },
+    {
+      "start": 34.12,
+      "end": 40.02,
+      "text": "We get engaged leads by letting know about our stuff, and there are two types of people we let know, people who know us and people who don't."
+    },
+    {
+      "start": 40.7,
+      "end": 43.88,
+      "text": "And there are two paths of letting them know about it, one-to-one and one-to-many."
+    },
+    {
+      "start": 44.44,
+      "end": 48.32,
+      "text": "Those combine into the four basic ways one person can let another person know about anything."
+    },
+    {
+      "start": 49.06,
+      "end": 51.86,
+      "text": "Let's break down how we can use those four ways to get us leads."
+    },
+    {
+      "start": 52.3,
+      "end": 54.42,
+      "text": "Two types of audiences, warm and cold."
+    },
+    {
+      "start": 54.96,
+      "end": 57.58,
+      "text": "Warm audiences are people who gave you permission to contact them."
+    },
+    {
+      "start": 58.0,
+      "end": 64.42,
+      "text": "Think people who know you, AKA friends, family, followers, current customers, previous customers, contacts, etcetera."
+    },
+    {
+      "start": 64.94,
+      "end": 67.78,
+      "text": "Cold audiences are people who have not given you permission to contact them."
+    },
+    {
+      "start": 68.0,
+      "end": 75.6,
+      "text": "Think strangers, AKA other people's audiences, buying contact lists, making contact lists, paying platforms for access, etcetera."
+    },
+    {
+      "start": 76.28,
+      "end": 78.88,
+      "text": "The difference matters because it changes how we advertise to them."
+    },
+    {
+      "start": 79.48,
+      "end": 83.26,
+      "text": "Two ways to communicate, one-to-one, private, one-to-many, public."
+    },
+    {
+      "start": 84.52,
+      "end": 86.52,
+      "text": "We can contact people one-to-one or one-to-many."
+    },
+    {
+      "start": 86.98,
+      "end": 89.86,
+      "text": "Another way of thinking about this is private or public communication."
+    },
+    {
+      "start": 90.28,
+      "end": 93.6,
+      "text": "Private communication is when only one person gets a message at a time."
+    },
+    {
+      "start": 94.06,
+      "end": 95.48,
+      "text": "Think phone call or email."
+    },
+    {
+      "start": 96.26,
+      "end": 99.74,
+      "text": "If you announce something publicly, many people get it at the same time."
+    },
+    {
+      "start": 100.16,
+      "end": 102.92,
+      "text": "Think social media posts or billboards or podcasts."
+    },
+    {
+      "start": 103.42,
+      "end": 106.1,
+      "text": "Now, automation can make this seem confusing."
+    },
+    {
+      "start": 106.32,
+      "end": 106.74,
+      "text": "Don't let it."
+    },
+    {
+      "start": 107.2,
+      "end": 110.18,
+      "text": "Automation just means some of the work is done by machines."
+    },
+    {
+      "start": 110.68,
+      "end": 112.36,
+      "text": "The nature of the communication stays the same."
+    },
+    {
+      "start": 112.7,
+      "end": 114.36,
+      "text": "Email, for instance, is one-to-one."
+    },
+    {
+      "start": 114.8,
+      "end": 120.04,
+      "text": "Emailing a 10,000-person list once is more like one-to-one really fast by a machine."
+    },
+    {
+      "start": 120.6,
+      "end": 124.38,
+      "text": "Automation, which we cover later, is one of the many ways we can get leads on steroids."
+    },
+    {
+      "start": 124.84,
+      "end": 129.6,
+      "text": "Like audiences, the difference between public and private communication matters because they change how we advertise."
+    },
+    {
+      "start": 130.12,
+      "end": 132.08,
+      "text": "Section three outline, get leads."
+    },
+    {
+      "start": 132.4,
+      "end": 139.2,
+      "text": "Combining warm and cold audiences with one-to-one and one-to-many leads us to the only four ways we can let anyone know about anything, the core four."
+    },
+    {
+      "start": 139.86,
+      "end": 141.2,
+      "text": "I combine them below for you."
+    },
+    {
+      "start": 141.96,
+      "end": 144.12,
+      "text": "One-to-one to a warm audience, warm outreach."
+    },
+    {
+      "start": 144.62,
+      "end": 147.14,
+      "text": "One-to-many to a warm audience, posting content."
+    },
+    {
+      "start": 147.52,
+      "end": 149.46,
+      "text": "One-to-one to a cold audience, cold outreach."
+    },
+    {
+      "start": 149.66,
+      "end": 151.64,
+      "text": "One-to-many to a cold audience, paid ads."
+    },
+    {
+      "start": 152.14,
+      "end": 159.76,
+      "text": "These are the only four things you can do to let other people know about the stuff you sell, and each method takes us one step closer to the land of overflowing leads."
+    },
+    {
+      "start": 160.32,
+      "end": 163.14,
+      "text": "I refer to the core four throughout the rest of the book, so get to know them."
+    },
+    {
+      "start": 163.32,
+      "end": 164.88,
+      "text": "In fact, make them part of yourself."
+    },
+    {
+      "start": 165.28,
+      "end": 169.18,
+      "text": "Once you do, you will have your own get-out-of-jail-free card to carry around forever."
+    },
+    {
+      "start": 169.86,
+      "end": 175.48,
+      "text": "It will give you as many chances to succeed at business as you could ever want for the rest of your life, or at least it has for me."
+    },
+    {
+      "start": 176.26,
+      "end": 180.38,
+      "text": "So if you aren't getting as many leads as you want, you're not doing the core four with enough skill or with enough volume."
+    },
+    {
+      "start": 180.82,
+      "end": 187.12,
+      "text": "We cover all this stuff in lots of detail, how they work, how to do them, when to do them, and show how to measure your progress along the way."
+    },
+    {
+      "start": 187.44,
+      "end": 192.26,
+      "text": "This simplifies the overly confusing world of advertising into four core actions."
+    },
+    {
+      "start": 192.72,
+      "end": 196.68,
+      "text": "Either do them and get as many leads as you darn well please, or get crushed by those who do."
+    },
+    {
+      "start": 197.94,
+      "end": 200.88,
+      "text": "Free gift, bonus training, the core four framework."
+    },
+    {
+      "start": 201.68,
+      "end": 206.08,
+      "text": "I did a live training where I explained the 50-plus iterations that created this simple two-by-two box."
+    },
+    {
+      "start": 206.66,
+      "end": 210.96,
+      "text": "I explain how to use the core four framework to get the most leads possible and create goals within your company."
+    },
+    {
+      "start": 211.38,
+      "end": 216.32,
+      "text": "If you want it, you can get it for free here at acquisition.com/training/leads."
+    },
+    {
+      "start": 216.42,
+      "end": 218.76,
+      "text": "You can also scan the QR code below if you hate typing."
+    },
+    {
+      "start": 222.96,
+      "end": 225.96,
+      "text": "Warm outreach, how to reach out to people you know."
+    },
+    {
+      "start": 226.82,
+      "end": 230.28,
+      "text": "The world belongs to those who can keep doing without seeing the result of their doing."
+    },
+    {
+      "start": 231.12,
+      "end": 232.74,
+      "text": "May 2013, starting out."
+    },
+    {
+      "start": 234.18,
+      "end": 240.0,
+      "text": "For the third time that day, I pulled out my phone and checked my bank account, 51,128 dollars 13 cents."
+    },
+    {
+      "start": 240.52,
+      "end": 241.7,
+      "text": "I let out a small sigh of relief."
+    },
+    {
+      "start": 242.16,
+      "end": 245.02,
+      "text": "It's amazing how years of work and saving can fit into such a tiny screen."
+    },
+    {
+      "start": 245.5,
+      "end": 248.54,
+      "text": "Feeling good for the moment, I switched over to social media to get some more dopamine."
+    },
+    {
+      "start": 249.58,
+      "end": 251.18,
+      "text": "Friends from college were applying to business school."
+    },
+    {
+      "start": 251.62,
+      "end": 253.04,
+      "text": "Acceptance letters filled my newsfeed."
+    },
+    {
+      "start": 253.48,
+      "end": 255.6,
+      "text": "I too started the business school application process."
+    },
+    {
+      "start": 256.4,
+      "end": 256.92,
+      "text": "I had a choice."
+    },
+    {
+      "start": 257.62,
+      "end": 261.24,
+      "text": "I could either quit my job and go to business school, or I could quit my job and start a business."
+    },
+    {
+      "start": 261.78,
+      "end": 263.1,
+      "text": "The application stared back at me."
+    },
+    {
+      "start": 263.92,
+      "end": 266.32,
+      "text": "How will Harvard MBA help your short and long-term goals?"
+    },
+    {
+      "start": 267.24,
+      "end": 268.32,
+      "text": "That question changed my life."
+    },
+    {
+      "start": 269.2,
+      "end": 270.6,
+      "text": "I spent three days trying to answer it."
+    },
+    {
+      "start": 270.86,
+      "end": 272.38,
+      "text": "At the end of the third day, I saw the truth."
+    },
+    {
+      "start": 272.7,
+      "end": 273.08,
+      "text": "It wouldn't."
+    },
+    {
+      "start": 273.78,
+      "end": 280.42,
+      "text": "150,000 in loans in two years without income wouldn't help me start a business, at least not as much as starting a business and taking two years to figure it out."
+    },
+    {
+      "start": 281.2,
+      "end": 285.88,
+      "text": "I could make the same amount by the time I graduate and skip the debt, or at least that's what I told myself."
+    },
+    {
+      "start": 286.66,
+      "end": 288.64,
+      "text": "So I quit my job and took the steps to start my business."
+    },
+    {
+      "start": 289.1,
+      "end": 292.18,
+      "text": "I set up Impetus Group LLC, check."
+    },
+    {
+      "start": 292.54,
+      "end": 294.24,
+      "text": "I set up a business banking account, check."
+    },
+    {
+      "start": 294.7,
+      "end": 296.74,
+      "text": "I set up a merchant account to process payments, check."
+    },
+    {
+      "start": 297.28,
+      "end": 299.78,
+      "text": "There still wasn't any money coming in, but at least I felt legit."
+    },
+    {
+      "start": 300.72,
+      "end": 304.72,
+      "text": "Impetus Group LLC, say it out loud, which you guys can now already hear."
+    },
+    {
+      "start": 305.54,
+      "end": 308.36,
+      "text": "The first person I told about my new business said, \"Impetus?"
+    },
+    {
+      "start": 309.08,
+      "end": 309.7,
+      "text": "God, I suck."
+    },
+    {
+      "start": 309.86,
+      "end": 310.9,
+      "text": "No wonder the name was available.\""
+    },
+    {
+      "start": 311.6,
+      "end": 313.74,
+      "text": "I immediately changed it to The Free Training Project."
+    },
+    {
+      "start": 314.12,
+      "end": 315.6,
+      "text": "Name that doesn't suck, check."
+    },
+    {
+      "start": 315.86,
+      "end": 316.46,
+      "text": "I was in business."
+    },
+    {
+      "start": 317.08,
+      "end": 317.72,
+      "text": "But I had a problem."
+    },
+    {
+      "start": 318.0,
+      "end": 321.32,
+      "text": "I didn't know anything about advertising or sales, but I did know I needed clients."
+    },
+    {
+      "start": 321.84,
+      "end": 323.24,
+      "text": "So I just asked around where I could."
+    },
+    {
+      "start": 323.42,
+      "end": 326.14,
+      "text": "I called, I texted, and I sent Facebook messages to a bunch of people I knew."
+    },
+    {
+      "start": 326.54,
+      "end": 328.42,
+      "text": "\"Hey, do you know anyone who's trying to get in shape?"
+    },
+    {
+      "start": 328.74,
+      "end": 330.94,
+      "text": "I'm training people for free for 12 weeks."
+    },
+    {
+      "start": 331.3,
+      "end": 333.7,
+      "text": "On top of that, I'll make them a custom nutrition and grocery list."
+    },
+    {
+      "start": 334.12,
+      "end": 336.9,
+      "text": "All they have to do is donate to a charity of their choice and let me use their testimonial.\""
+    },
+    {
+      "start": 337.64,
+      "end": 338.78,
+      "text": "Only six people said yes."
+    },
+    {
+      "start": 339.1,
+      "end": 339.44,
+      "text": "Six."
+    },
+    {
+      "start": 339.8,
+      "end": 342.28,
+      "text": "Two high school friends, one college friend, and three people they referred."
+    },
+    {
+      "start": 342.58,
+      "end": 344.76,
+      "text": "I emailed everyone fitness plans, and we got to work."
+    },
+    {
+      "start": 345.32,
+      "end": 347.1,
+      "text": "We texted during the week to keep tabs on progress."
+    },
+    {
+      "start": 347.3,
+      "end": 349.44,
+      "text": "Thankfully, they were all friends of mine, so they gave it their all."
+    },
+    {
+      "start": 349.62,
+      "end": 351.22,
+      "text": "They encouraged me more than anyone in the beginning."
+    },
+    {
+      "start": 351.62,
+      "end": 353.86,
+      "text": "A decade later, I still have their before and after pictures."
+    },
+    {
+      "start": 354.7,
+      "end": 357.44,
+      "text": "And this is where the decision to skip business school started to come back to haunt me."
+    },
+    {
+      "start": 357.74,
+      "end": 359.66,
+      "text": "A few months into this, I was less sure of myself."
+    },
+    {
+      "start": 359.9,
+      "end": 363.06,
+      "text": "My pile of money didn't look as big without new money coming in every month."
+    },
+    {
+      "start": 363.65,
+      "end": 365.13,
+      "text": "And it started turning into a real problem."
+    },
+    {
+      "start": 365.73,
+      "end": 369.83,
+      "text": "So after twelve weeks of the pay a charity period, I asked them to pay me instead."
+    },
+    {
+      "start": 370.47,
+      "end": 371.29,
+      "text": "I was the charity now."
+    },
+    {
+      "start": 371.57,
+      "end": 371.83,
+      "text": "Ha."
+    },
+    {
+      "start": 372.43,
+      "end": 375.37,
+      "text": "I worried they'd be upset to pay me instead, but they didn't seem to mind."
+    },
+    {
+      "start": 376.27,
+      "end": 378.45,
+      "text": "Once they got results, I asked them to send their friends over."
+    },
+    {
+      "start": 378.71,
+      "end": 381.37,
+      "text": "To my surprise, I got another five or six clients from their referrals."
+    },
+    {
+      "start": 382.07,
+      "end": 383.37,
+      "text": "I asked the referrals to pay me directly."
+    },
+    {
+      "start": 383.51,
+      "end": 384.73,
+      "text": "Again, none of them minded."
+    },
+    {
+      "start": 385.23,
+      "end": 388.97,
+      "text": "That little business made about 4,000 dollars per month and replaced the income from my first job."
+    },
+    {
+      "start": 389.39,
+      "end": 391.17,
+      "text": "It gave me enough money to live on and some."
+    },
+    {
+      "start": 391.63,
+      "end": 392.81,
+      "text": "My savings started to grow again."
+    },
+    {
+      "start": 393.21,
+      "end": 393.83,
+      "text": "Sigh of relief."
+    },
+    {
+      "start": 394.83,
+      "end": 397.31,
+      "text": "If this business sounded straightforward, that's because it was."
+    },
+    {
+      "start": 397.99,
+      "end": 400.71,
+      "text": "I emailed clients their plans, and they texted me questions they had along the way."
+    },
+    {
+      "start": 401.05,
+      "end": 401.67,
+      "text": "That's about it."
+    },
+    {
+      "start": 402.03,
+      "end": 403.55,
+      "text": "So if you're starting, you don't need a lot."
+    },
+    {
+      "start": 403.75,
+      "end": 407.59,
+      "text": "All you need is a tax ID, a bank account, a way to take payments, and a way to communicate with people."
+    },
+    {
+      "start": 408.11,
+      "end": 411.79,
+      "text": "But that last part, a way to communicate with people, is the most important part."
+    },
+    {
+      "start": 412.11,
+      "end": 413.03,
+      "text": "It's how you get leads."
+    },
+    {
+      "start": 413.47,
+      "end": 418.01,
+      "text": "So even though I had no idea I was doing warm reach outs, one of the core four, it's how I got my first leads."
+    },
+    {
+      "start": 418.49,
+      "end": 422.59,
+      "text": "I still get leads this way, just with bigger numbers, and I'll show you how you can too."
+    },
+    {
+      "start": 423.33,
+      "end": 424.59,
+      "text": "How warm reach outs work."
+    },
+    {
+      "start": 425.57,
+      "end": 430.87,
+      "text": "Warm reach outs are when you make one-to-one contact with your warm audience, aka the people who know you."
+    },
+    {
+      "start": 431.37,
+      "end": 434.65,
+      "text": "It's the cheapest and easiest way to find people interested in the stuff you sell."
+    },
+    {
+      "start": 435.19,
+      "end": 438.15,
+      "text": "It's super effective, and most businesses don't do it."
+    },
+    {
+      "start": 438.57,
+      "end": 439.79,
+      "text": "Don't be like most businesses."
+    },
+    {
+      "start": 440.41,
+      "end": 444.85,
+      "text": "Also, you do have a warm audience, even if you don't know it."
+    },
+    {
+      "start": 445.43,
+      "end": 449.17,
+      "text": "Everybody knows somebody, so your personal contacts are the easiest place to start."
+    },
+    {
+      "start": 449.95,
+      "end": 454.31,
+      "text": "Warm reach outs usually come in the form of calls, texts, emails, direct messages, voicemails, etc."
+    },
+    {
+      "start": 455.03,
+      "end": 458.17,
+      "text": "And like we learned in section two, you advertise one of two things."
+    },
+    {
+      "start": 458.53,
+      "end": 463.67,
+      "text": "You let them know about your lead magnet, something free and valuable, or you let them know about your core offer, the main thing you sell."
+    },
+    {
+      "start": 464.31,
+      "end": 467.79,
+      "text": "When you start doing warm reach outs, you don't get many engaged leads for your time."
+    },
+    {
+      "start": 468.11,
+      "end": 470.69,
+      "text": "You do everything on your own and make each message personal."
+    },
+    {
+      "start": 470.83,
+      "end": 472.41,
+      "text": "But for that reason, it is reliable."
+    },
+    {
+      "start": 472.81,
+      "end": 475.41,
+      "text": "As certain as the sun sets and rises, it works."
+    },
+    {
+      "start": 476.15,
+      "end": 480.91,
+      "text": "Note, reaching out to your warm audience works whether you have a hundred contacts or a million contacts."
+    },
+    {
+      "start": 481.37,
+      "end": 484.81,
+      "text": "So as your business grows, you will use automation and employees to make it more efficient."
+    },
+    {
+      "start": 485.25,
+      "end": 488.17,
+      "text": "The systems start small with you, but they scale all the way up."
+    },
+    {
+      "start": 488.65,
+      "end": 491.89,
+      "text": "I detail how to scale these systems to larger audiences in section four."
+    },
+    {
+      "start": 492.93,
+      "end": 494.59,
+      "text": "How to do warm reach outs in ten steps."
+    },
+    {
+      "start": 495.57,
+      "end": 500.03,
+      "text": "Warm reach outs are a fantastic way to get your first five clients for any new product or service."
+    },
+    {
+      "start": 500.51,
+      "end": 503.41,
+      "text": "Advanced folks, think re-engagements and new product lines."
+    },
+    {
+      "start": 503.79,
+      "end": 504.57,
+      "text": "Here's how to do it."
+    },
+    {
+      "start": 505.33,
+      "end": 506.55,
+      "text": "Step one, get your list."
+    },
+    {
+      "start": 506.73,
+      "end": 508.03,
+      "text": "Step two, pick a platform."
+    },
+    {
+      "start": 508.09,
+      "end": 509.45,
+      "text": "Step three, personalize your message."
+    },
+    {
+      "start": 509.51,
+      "end": 510.59,
+      "text": "Step four, reach out."
+    },
+    {
+      "start": 510.87,
+      "end": 512.35,
+      "text": "Step five, warm them up."
+    },
+    {
+      "start": 512.61,
+      "end": 513.93,
+      "text": "Step six, invite their friends."
+    },
+    {
+      "start": 514.07,
+      "end": 516.03,
+      "text": "Step seven, make them the easiest offer in the world."
+    },
+    {
+      "start": 516.35,
+      "end": 517.67,
+      "text": "Step eight, start at the top."
+    },
+    {
+      "start": 517.91,
+      "end": 519.11,
+      "text": "Step nine, start charging."
+    },
+    {
+      "start": 519.25,
+      "end": 520.63,
+      "text": "Step ten, keep your list warm."
+    },
+    {
+      "start": 521.09,
+      "end": 522.33,
+      "text": "All right, let's rock and roll."
+    },
+    {
+      "start": 523.01,
+      "end": 524.99,
+      "text": "Step one, but I don't have any leads."
+    },
+    {
+      "start": 525.55,
+      "end": 526.47,
+      "text": "Everyone has a list."
+    },
+    {
+      "start": 527.25,
+      "end": 528.09,
+      "text": "You know other humans."
+    },
+    {
+      "start": 528.41,
+      "end": 529.23,
+      "text": "Let me prove it to you."
+    },
+    {
+      "start": 529.55,
+      "end": 530.21,
+      "text": "Grab your phone."
+    },
+    {
+      "start": 530.53,
+      "end": 531.57,
+      "text": "Inside you have contacts."
+    },
+    {
+      "start": 531.77,
+      "end": 533.97,
+      "text": "Each contact has subscribed to communication from you."
+    },
+    {
+      "start": 534.35,
+      "end": 536.71,
+      "text": "They have given you the means and permission to contact them."
+    },
+    {
+      "start": 537.19,
+      "end": 539.99,
+      "text": "Pull up all the email accounts you've ever used over the years."
+    },
+    {
+      "start": 540.47,
+      "end": 542.83,
+      "text": "Pull your contacts and address list from each."
+    },
+    {
+      "start": 543.23,
+      "end": 543.67,
+      "text": "Bingo."
+    },
+    {
+      "start": 544.05,
+      "end": 544.93,
+      "text": "Look at all them leads."
+    },
+    {
+      "start": 545.55,
+      "end": 547.39,
+      "text": "Now, go to your social media profiles."
+    },
+    {
+      "start": 547.63,
+      "end": 551.31,
+      "text": "See your followers, subscribers, friends, connections, or whatever the kids call them these days."
+    },
+    {
+      "start": 551.73,
+      "end": 553.21,
+      "text": "Eureka, you got more leads."
+    },
+    {
+      "start": 553.97,
+      "end": 557.03,
+      "text": "Add up all your contacts from all the platforms."
+    },
+    {
+      "start": 557.43,
+      "end": 559.17,
+      "text": "Seriously, figure out the number."
+    },
+    {
+      "start": 559.55,
+      "end": 564.73,
+      "text": "Between your phone, email, social media, and other platforms, you will have more than enough contacts to get started."
+    },
+    {
+      "start": 565.11,
+      "end": 567.31,
+      "text": "For many of you, this will be your first thousand leads."
+    },
+    {
+      "start": 567.61,
+      "end": 568.45,
+      "text": "Would you look at that?"
+    },
+    {
+      "start": 568.85,
+      "end": 569.71,
+      "text": "I don't have any leads."
+    },
+    {
+      "start": 569.93,
+      "end": 571.25,
+      "text": "Psh, just found some."
+    },
+    {
+      "start": 571.77,
+      "end": 574.25,
+      "text": "And if you're terrified you'll have to talk to people, relax."
+    },
+    {
+      "start": 574.41,
+      "end": 575.71,
+      "text": "You'll like what I'm going to show you next."
+    },
+    {
+      "start": 576.49,
+      "end": 578.45,
+      "text": "Step two, but I don't know where to start."
+    },
+    {
+      "start": 578.79,
+      "end": 579.57,
+      "text": "Pick a platform."
+    },
+    {
+      "start": 580.33,
+      "end": 582.19,
+      "text": "Pick the platform you have the most contacts on."
+    },
+    {
+      "start": 582.69,
+      "end": 585.35,
+      "text": "Phone, email, social media, mail, carrier pigeon, etc."
+    },
+    {
+      "start": 585.67,
+      "end": 586.27,
+      "text": "It doesn't matter."
+    },
+    {
+      "start": 586.61,
+      "end": 588.03,
+      "text": "Just pick the one with the most contacts."
+    },
+    {
+      "start": 588.09,
+      "end": 589.33,
+      "text": "You'll hit them all eventually anyways."
+    },
+    {
+      "start": 590.45,
+      "end": 592.45,
+      "text": "Step three, but what do I say?"
+    },
+    {
+      "start": 593.03,
+      "end": 594.03,
+      "text": "Personalize your greeting."
+    },
+    {
+      "start": 594.31,
+      "end": 597.19,
+      "text": "Use something you know about the contact as your actual reason to reach out."
+    },
+    {
+      "start": 597.61,
+      "end": 602.87,
+      "text": "If you don't have much personal info, you can check their social media profiles, etc., to learn a bit about them first."
+    },
+    {
+      "start": 603.35,
+      "end": 603.95,
+      "text": "Don't be a weirdo."
+    },
+    {
+      "start": 604.31,
+      "end": 605.05,
+      "text": "Pay your social dues."
+    },
+    {
+      "start": 605.11,
+      "end": 606.75,
+      "text": "Remember, you haven't asked for anything."
+    },
+    {
+      "start": 607.15,
+      "end": 609.59,
+      "text": "You're just checking in and providing value, so relax."
+    },
+    {
+      "start": 610.05,
+      "end": 612.25,
+      "text": "Example, saw you just had a baby."
+    },
+    {
+      "start": 612.51,
+      "end": 612.95,
+      "text": "Congrats."
+    },
+    {
+      "start": 613.23,
+      "end": 613.99,
+      "text": "How's the baby doing?"
+    },
+    {
+      "start": 614.23,
+      "end": 614.69,
+      "text": "How are you?"
+    },
+    {
+      "start": 615.93,
+      "end": 617.65,
+      "text": "Step four, now what?"
+    },
+    {
+      "start": 618.35,
+      "end": 621.19,
+      "text": "Reach out to 100 people every day."
+    },
+    {
+      "start": 621.53,
+      "end": 623.41,
+      "text": "To get what you want, you have to deserve what you want."
+    },
+    {
+      "start": 623.67,
+      "end": 624.19,
+      "text": "Charlie Munger."
+    },
+    {
+      "start": 624.99,
+      "end": 628.73,
+      "text": "Now, reach out to 100 of them per day with your personalized messages."
+    },
+    {
+      "start": 628.95,
+      "end": 632.35,
+      "text": "You'll call, text, email, message, send a postcard, etc."
+    },
+    {
+      "start": 633.15,
+      "end": 638.79,
+      "text": "And you will reach out to them up to three times, once per day for three days or until they respond, whichever comes first."
+    },
+    {
+      "start": 639.25,
+      "end": 640.69,
+      "text": "Once per week with physical mail."
+    },
+    {
+      "start": 641.45,
+      "end": 643.07,
+      "text": "Pro tip, rip off the band-aid."
+    },
+    {
+      "start": 643.73,
+      "end": 646.25,
+      "text": "The first reach out is always the hardest and takes the longest."
+    },
+    {
+      "start": 646.43,
+      "end": 649.15,
+      "text": "Your second reach out will take minutes, your third seconds."
+    },
+    {
+      "start": 649.53,
+      "end": 650.43,
+      "text": "Be okay with sucking."
+    },
+    {
+      "start": 650.55,
+      "end": 651.01,
+      "text": "It's new."
+    },
+    {
+      "start": 651.05,
+      "end": 651.87,
+      "text": "This is how we learn."
+    },
+    {
+      "start": 652.07,
+      "end": 657.31,
+      "text": "When thinking about starting new things, I remember this Chinese proverb, \"Everything must be hard before it can be easy.\""
+    },
+    {
+      "start": 657.65,
+      "end": 659.93,
+      "text": "Step five, what do I say when they respond?"
+    },
+    {
+      "start": 660.43,
+      "end": 661.21,
+      "text": "Act like a human."
+    },
+    {
+      "start": 662.05,
+      "end": 663.93,
+      "text": "Now we can break the ice without sounding icky."
+    },
+    {
+      "start": 664.29,
+      "end": 666.33,
+      "text": "Reply using the ACA framework."
+    },
+    {
+      "start": 667.07,
+      "end": 670.27,
+      "text": "A, acknowledge what they said, restate it in your own words."
+    },
+    {
+      "start": 670.57,
+      "end": 671.65,
+      "text": "This shows active listening."
+    },
+    {
+      "start": 672.03,
+      "end": 674.43,
+      "text": "Example, two kids and you're an accountant..."
+    },
+    {
+      "start": 675.97,
+      "end": 678.29,
+      "text": "C, compliment them on whatever they just told you."
+    },
+    {
+      "start": 679.09,
+      "end": 680.95,
+      "text": "Tie it to a positive character trait if you can."
+    },
+    {
+      "start": 681.25,
+      "end": 685.45,
+      "text": "Example, wow, supermom, so hardworking, managing a full-time career and two kids..."
+    },
+    {
+      "start": 687.07,
+      "end": 688.63,
+      "text": "A, ask another question."
+    },
+    {
+      "start": 689.21,
+      "end": 691.03,
+      "text": "Lead the conversation in whatever direction you want."
+    },
+    {
+      "start": 691.29,
+      "end": 693.49,
+      "text": "In this case, a topic closer to your offer."
+    },
+    {
+      "start": 693.77,
+      "end": 697.83,
+      "text": "Examples, if I were selling therapy or life coaching, do you get time for yourself?"
+    },
+    {
+      "start": 698.39,
+      "end": 701.91,
+      "text": "If I were selling fitness or weight loss, do you have time to get your workouts in?"
+    },
+    {
+      "start": 702.31,
+      "end": 705.51,
+      "text": "If I were selling cleaning services, do you have anyone who helps you keep the house tidy?"
+    },
+    {
+      "start": 705.83,
+      "end": 708.37,
+      "text": "The ACA framework is great because it helps you talk to anyone."
+    },
+    {
+      "start": 708.75,
+      "end": 712.03,
+      "text": "It just so happens it's also useful for letting people know about your stuff."
+    },
+    {
+      "start": 712.41,
+      "end": 715.53,
+      "text": "This means you can learn about the person and guide the conversation towards your offer."
+    },
+    {
+      "start": 716.05,
+      "end": 718.31,
+      "text": "People love talking about themselves, so let them."
+    },
+    {
+      "start": 718.59,
+      "end": 720.79,
+      "text": "They also love to be complimented, so do that too."
+    },
+    {
+      "start": 721.05,
+      "end": 723.99,
+      "text": "And if people feel good when talking to you, they'll like and trust you more."
+    },
+    {
+      "start": 724.39,
+      "end": 725.89,
+      "text": "You want people to like and trust you more."
+    },
+    {
+      "start": 726.27,
+      "end": 729.29,
+      "text": "Besides, it's solid practice to find the good in everyone anyway."
+    },
+    {
+      "start": 729.85,
+      "end": 732.41,
+      "text": "Speaking of practice, this will take practice, and that's okay."
+    },
+    {
+      "start": 733.14,
+      "end": 735.52,
+      "text": "Pro tip: on email, you'll be more upfront."
+    },
+    {
+      "start": 736.08,
+      "end": 740.32,
+      "text": "On email, you will have a personalized opener to show you actually took the time to research them in some way."
+    },
+    {
+      "start": 740.7,
+      "end": 741.66,
+      "text": "Think two to three sentences."
+    },
+    {
+      "start": 742.2,
+      "end": 746.0,
+      "text": "Then you'll transition directly to your offer, lead magnet, which we'll talk about next."
+    },
+    {
+      "start": 746.28,
+      "end": 748.72,
+      "text": "You sort of do it all at once with email or voicemails."
+    },
+    {
+      "start": 749.34,
+      "end": 751.48,
+      "text": "Step six: how do I know if they're interested?"
+    },
+    {
+      "start": 752.22,
+      "end": 752.94,
+      "text": "Make them an offer."
+    },
+    {
+      "start": 753.24,
+      "end": 755.9,
+      "text": "Get through a, quote, \"normal\" amount of conversation."
+    },
+    {
+      "start": 756.34,
+      "end": 760.72,
+      "text": "Think three to four exchanges if on the phone or messaging, and three to four minutes if in person."
+    },
+    {
+      "start": 761.18,
+      "end": 763.0,
+      "text": "Then you'll make them an offer to see if they're interested."
+    },
+    {
+      "start": 763.68,
+      "end": 766.46,
+      "text": "When I make an offer from scratch, I refer to the value equation."
+    },
+    {
+      "start": 766.66,
+      "end": 768.22,
+      "text": "If you're wondering, what's the value equation?"
+    },
+    {
+      "start": 768.78,
+      "end": 771.76,
+      "text": "It was the core concept of my first book, 100 Million Dollar Offers."
+    },
+    {
+      "start": 772.12,
+      "end": 774.18,
+      "text": "Value, as I define it, has four elements."
+    },
+    {
+      "start": 774.58,
+      "end": 778.44,
+      "text": "One, dream outcome: what the person wants to happen the way they want it to happen."
+    },
+    {
+      "start": 779.08,
+      "end": 781.44,
+      "text": "State the best possible results your product can get."
+    },
+    {
+      "start": 781.82,
+      "end": 784.76,
+      "text": "Big bonus points if those results come from people like the one you're talking to."
+    },
+    {
+      "start": 785.66,
+      "end": 790.14,
+      "text": "Two, perceived likelihood of achievement: how likely they think it is for them to achieve their goal."
+    },
+    {
+      "start": 790.9,
+      "end": 796.32,
+      "text": "Include reviews, results, awards, endorsements, certifications, and other forms of third-party validation."
+    },
+    {
+      "start": 796.94,
+      "end": 798.46,
+      "text": "Also, guarantees are huge."
+    },
+    {
+      "start": 799.8,
+      "end": 803.74,
+      "text": "Three, time delay: how long they believe it'll take to get the results after they buy."
+    },
+    {
+      "start": 804.48,
+      "end": 811.56,
+      "text": "Describe how fast people start getting results and how often they get results when they start, and how long it takes to get the best possible results."
+    },
+    {
+      "start": 812.84,
+      "end": 819.74,
+      "text": "Four, effort and sacrifice: the bad stuff they'll have to endure and the good stuff they'll have to give up in their struggle to get the result."
+    },
+    {
+      "start": 820.3,
+      "end": 828.28,
+      "text": "Show them the good stuff they can keep doing or get to do and still get results, and show them the bad stuff they can get rid of or avoid doing and still get the results."
+    },
+    {
+      "start": 828.94,
+      "end": 831.62,
+      "text": "The goal is to maximize the first two and minimize the second two."
+    },
+    {
+      "start": 832.14,
+      "end": 839.86,
+      "text": "So all you have to do is now show someone you have exactly what they want, they're guaranteed to get it insanely fast without lifting a finger or giving up anything they love."
+    },
+    {
+      "start": 840.38,
+      "end": 841.04,
+      "text": "No biggie, right?"
+    },
+    {
+      "start": 841.58,
+      "end": 842.66,
+      "text": "Obviously, that's ideal."
+    },
+    {
+      "start": 842.88,
+      "end": 845.3,
+      "text": "We gotta get as close to that without lying or exaggerating."
+    },
+    {
+      "start": 845.74,
+      "end": 847.6,
+      "text": "So let's just do it with a real-life offer."
+    },
+    {
+      "start": 847.98,
+      "end": 848.56,
+      "text": "Dot, dot, dot."
+    },
+    {
+      "start": 848.74,
+      "end": 855.92,
+      "text": "By the way, do you know anybody who is, describe their struggle, looking to dream outcome in time delay?"
+    },
+    {
+      "start": 856.8,
+      "end": 859.58,
+      "text": "I'm taking on five case studies for free because that's all I can handle."
+    },
+    {
+      "start": 860.16,
+      "end": 862.22,
+      "text": "I just want to get some testimonials for my product or service."
+    },
+    {
+      "start": 862.94,
+      "end": 865.94,
+      "text": "I help them dream outcome without effort and sacrifice."
+    },
+    {
+      "start": 866.32,
+      "end": 866.78,
+      "text": "It works."
+    },
+    {
+      "start": 867.52,
+      "end": 870.94,
+      "text": "I even guarantee people dream outcome, or I work with them until they do."
+    },
+    {
+      "start": 871.52,
+      "end": 879.1,
+      "text": "I just had a girl named XXX work with me, dream outcome, even though she described the same struggle the contact has."
+    },
+    {
+      "start": 879.64,
+      "end": 883.06,
+      "text": "I also had a guy dream outcome, and it was his first time."
+    },
+    {
+      "start": 883.82,
+      "end": 886.42,
+      "text": "I'd just like more testimonials to show it works across different scenarios."
+    },
+    {
+      "start": 886.94,
+      "end": 888.52,
+      "text": "Does anyone you like come to mind?"
+    },
+    {
+      "start": 889.26,
+      "end": 890.2,
+      "text": "Pause if on the phone."
+    },
+    {
+      "start": 890.74,
+      "end": 893.4,
+      "text": "If they say no, say, \"Ha ha."
+    },
+    {
+      "start": 893.7,
+      "end": 895.44,
+      "text": "Well, does anyone you hate come to mind?"
+    },
+    {
+      "start": 895.9,
+      "end": 896.08,
+      "text": "Ha.\""
+    },
+    {
+      "start": 896.46,
+      "end": 897.6,
+      "text": "This breaks any awkwardness."
+    },
+    {
+      "start": 898.28,
+      "end": 901.42,
+      "text": "Pro tip: implied perceived likelihood of achievement."
+    },
+    {
+      "start": 902.08,
+      "end": 909.86,
+      "text": "You'll notice besides the guarantee, there's no slot for perceived likelihood of achievement, but how we explain the testimonials fulfills that need."
+    },
+    {
+      "start": 910.24,
+      "end": 915.08,
+      "text": "After all, we're not going to say, \"Hey, I can obviously help you because I've helped someone exactly like you.\""
+    },
+    {
+      "start": 915.4,
+      "end": 919.38,
+      "text": "But we imply that by selecting the testimonial that's as close to their situation as possible."
+    },
+    {
+      "start": 919.78,
+      "end": 923.58,
+      "text": "And the longer you are in business, the more perfect fit testimonials you'll have to show."
+    },
+    {
+      "start": 924.1,
+      "end": 927.64,
+      "text": "So, the easier it'll be to show testimonials that perfectly match the person you're speaking with."
+    },
+    {
+      "start": 928.04,
+      "end": 932.32,
+      "text": "Then, once you can show one perfect testimonial, the only thing better is a buttload of them."
+    },
+    {
+      "start": 932.8,
+      "end": 933.9,
+      "text": "There's an important feature here."
+    },
+    {
+      "start": 934.7,
+      "end": 936.14,
+      "text": "We're not asking them to buy anything."
+    },
+    {
+      "start": 936.34,
+      "end": 938.08,
+      "text": "We're asking if they know anyone."
+    },
+    {
+      "start": 938.52,
+      "end": 941.62,
+      "text": "And of the people who say yes, most say they are interested."
+    },
+    {
+      "start": 942.16,
+      "end": 945.84,
+      "text": "This entire thing is engineered to boost their perceived likelihood of achievement."
+    },
+    {
+      "start": 946.36,
+      "end": 953.68,
+      "text": "It's why we show struggles and results from people like them who have struggle like theirs, but we let them connect the dots."
+    },
+    {
+      "start": 954.24,
+      "end": 957.18,
+      "text": "Since you didn't ask them to buy anything, you don't come off as pushy."
+    },
+    {
+      "start": 957.6,
+      "end": 959.08,
+      "text": "Some people will show interest in your stuff."
+    },
+    {
+      "start": 959.58,
+      "end": 961.18,
+      "text": "Some will refer you to those who might."
+    },
+    {
+      "start": 961.46,
+      "end": 962.2,
+      "text": "Some will do both."
+    },
+    {
+      "start": 962.44,
+      "end": 967.14,
+      "text": "In all three outcomes, you win, and you win without pushing anything on anyone."
+    },
+    {
+      "start": 967.7,
+      "end": 971.96,
+      "text": "If you have even less time or space to deliver it, just use the value elements back to back."
+    },
+    {
+      "start": 972.64,
+      "end": 981.44,
+      "text": "I help ideal customer get dream outcome in time period without effort and sacrifice and increase perceived likelihood of achievement."
+    },
+    {
+      "start": 981.82,
+      "end": 982.9,
+      "text": "Look at the pro tip below."
+    },
+    {
+      "start": 983.48,
+      "end": 988.52,
+      "text": "Note: these work well for emails, texts, direct messages, calls, and in-person touchpoints in an elevator."
+    },
+    {
+      "start": 989.06,
+      "end": 989.98,
+      "text": "Just fill in the blanks."
+    },
+    {
+      "start": 990.88,
+      "end": 994.48,
+      "text": "Pro tip: 11 ways to increase perceived likelihood of achievement."
+    },
+    {
+      "start": 995.3,
+      "end": 998.92,
+      "text": "Here's how you increase the perceived likelihood of achievement so more people take you up on your offer."
+    },
+    {
+      "start": 999.44,
+      "end": 1000.92,
+      "text": "Include one or more of the following."
+    },
+    {
+      "start": 1001.48,
+      "end": 1006.0,
+      "text": "One, showing proof we have done what they want, our own story."
+    },
+    {
+      "start": 1006.7,
+      "end": 1010.26,
+      "text": "Two, showing proof of people just like them getting what they want."
+    },
+    {
+      "start": 1010.44,
+      "end": 1011.32,
+      "text": "Think testimonials."
+    },
+    {
+      "start": 1012.08,
+      "end": 1016.14,
+      "text": "Three, the sheer volume of happy reviews we've received."
+    },
+    {
+      "start": 1016.3,
+      "end": 1017.58,
+      "text": "Think lots of five stars."
+    },
+    {
+      "start": 1018.2,
+      "end": 1021.84,
+      "text": "And if you don't have reviews yet, even the number of people you've helped works."
+    },
+    {
+      "start": 1022.72,
+      "end": 1027.16,
+      "text": "Four, certifications, degrees, third-party accreditations that were legit."
+    },
+    {
+      "start": 1028.0,
+      "end": 1032.5,
+      "text": "Five, numbers, stats, research that support the outcome you want them to believe."
+    },
+    {
+      "start": 1033.3,
+      "end": 1035.46,
+      "text": "Six, experts vouching for us."
+    },
+    {
+      "start": 1036.12,
+      "end": 1042.04,
+      "text": "Seven, some new unique characteristic they haven't failed with before, so they think it might work this time."
+    },
+    {
+      "start": 1042.74,
+      "end": 1045.0,
+      "text": "Eight, celebrities who have endorsed us."
+    },
+    {
+      "start": 1045.3,
+      "end": 1046.94,
+      "text": "They trusted them, so should I."
+    },
+    {
+      "start": 1047.88,
+      "end": 1052.16,
+      "text": "Nine, guaranteeing they'll achieve it, so we put some of our own skin in the game too."
+    },
+    {
+      "start": 1052.74,
+      "end": 1056.5,
+      "text": "Ten, how well you describe them or the current pain they're experiencing."
+    },
+    {
+      "start": 1056.92,
+      "end": 1058.22,
+      "text": "The more specific, the better."
+    },
+    {
+      "start": 1058.56,
+      "end": 1060.34,
+      "text": "They should think, \"He really gets me."
+    },
+    {
+      "start": 1060.56,
+      "end": 1061.5,
+      "text": "They must know how to help.\""
+    },
+    {
+      "start": 1064.5,
+      "end": 1067.84,
+      "text": "Hey, I hope you're enjoying the book chapter that you're listening to right now of 100 Million Dollar Leads."
+    },
+    {
+      "start": 1068.32,
+      "end": 1070.56,
+      "text": "I took a long time putting it together for you."
+    },
+    {
+      "start": 1071.02,
+      "end": 1076.48,
+      "text": "Uh, and so my only ask is that you just take a quick second and leave a review for the book on Amazon."
+    },
+    {
+      "start": 1076.64,
+      "end": 1081.64,
+      "text": "It's the number one way that people find books, um, and this is a way of getting more people into our world."
+    },
+    {
+      "start": 1081.7,
+      "end": 1087.76,
+      "text": "And so our mission at acquisition.com is to make real business education accessible to everyone, and I need your help."
+    },
+    {
+      "start": 1087.98,
+      "end": 1095.7,
+      "text": "And so if you could do that, just that one, one small action, um, and it has a trade for the two years that I took putting this book together for you, uh, it would mean the world to me."
+    },
+    {
+      "start": 1095.94,
+      "end": 1096.78,
+      "text": "So, thank you."
+    },
+    {
+      "start": 1098.48,
+      "end": 1104.5,
+      "text": "Eleven, if possible, demonstrate the outcome live or show a recording of it happening."
+    },
+    {
+      "start": 1105.02,
+      "end": 1111.26,
+      "text": "Example, advertising agency plays a recording of a call that a gym owner has to make to a lead on a sales call."
+    },
+    {
+      "start": 1111.76,
+      "end": 1114.65,
+      "text": "Could you handle making a call like this to a lead if we got them for you?"
+    },
+    {
+      "start": 1114.94,
+      "end": 1117.66,
+      "text": "It demonstrates the outcome of the advertising services."
+    },
+    {
+      "start": 1118.22,
+      "end": 1120.24,
+      "text": "People don't want leads, they want customers."
+    },
+    {
+      "start": 1120.46,
+      "end": 1122.04,
+      "text": "They just don't know a better way to ask for them."
+    },
+    {
+      "start": 1122.68,
+      "end": 1125.36,
+      "text": "Step seven, how do I get them to say yes?"
+    },
+    {
+      "start": 1125.84,
+      "end": 1128.5,
+      "text": "Make it easy for them to say yes and make it free."
+    },
+    {
+      "start": 1129.04,
+      "end": 1131.9,
+      "text": "After people show interest, make your offer easy to say yes to."
+    },
+    {
+      "start": 1132.44,
+      "end": 1135.42,
+      "text": "I like to start with the easiest offer enhancer in the world, free."
+    },
+    {
+      "start": 1136.02,
+      "end": 1137.54,
+      "text": "And don't try to look advanced if you're not."
+    },
+    {
+      "start": 1137.72,
+      "end": 1138.5,
+      "text": "People aren't dumb."
+    },
+    {
+      "start": 1138.94,
+      "end": 1140.2,
+      "text": "Just be honest and keep it simple."
+    },
+    {
+      "start": 1140.8,
+      "end": 1152.6,
+      "text": "Since I'm only taking on five people, I can give you all the attention you need to get brag-worthy results, and I'll give it to you all for free so long as you promise to, one, use it, two, give me feedback, and three, leave a killer review if you think it deserves one."
+    },
+    {
+      "start": 1152.86,
+      "end": 1153.64,
+      "text": "Does that sound fair?"
+    },
+    {
+      "start": 1154.44,
+      "end": 1159.16,
+      "text": "This sets reasonable expectations up front, and boom, now you're just helping people for free."
+    },
+    {
+      "start": 1159.58,
+      "end": 1159.88,
+      "text": "Winning."
+    },
+    {
+      "start": 1160.54,
+      "end": 1163.14,
+      "text": "Pro tip, stack yeses to build early momentum."
+    },
+    {
+      "start": 1163.84,
+      "end": 1165.74,
+      "text": "Early on, I felt terrified to ask for money."
+    },
+    {
+      "start": 1166.0,
+      "end": 1171.6,
+      "text": "So if you recall from the story above, I told people I would work with them for free as long as they donated to a charity of their choice."
+    },
+    {
+      "start": 1171.92,
+      "end": 1177.22,
+      "text": "I still got them invested in their results, but asking them for a feel-good tax write-off felt like a much safer way to do it."
+    },
+    {
+      "start": 1177.68,
+      "end": 1179.78,
+      "text": "By the way, this was the first thing I ever sold."
+    },
+    {
+      "start": 1180.0,
+      "end": 1187.14,
+      "text": "Looking back, I wanted easy, low-pressure yeses under my belt, and those early yeses built my first business, and they can build your business too."
+    },
+    {
+      "start": 1187.54,
+      "end": 1191.86,
+      "text": "My recommendation, when you launch a new product or service, make the first five free."
+    },
+    {
+      "start": 1192.5,
+      "end": 1195.18,
+      "text": "The exact number matters less than knowing why you benefit from it."
+    },
+    {
+      "start": 1195.78,
+      "end": 1196.34,
+      "text": "Here's why."
+    },
+    {
+      "start": 1196.76,
+      "end": 1200.22,
+      "text": "One, you get the reps in and become comfortable with making offers to people."
+    },
+    {
+      "start": 1200.4,
+      "end": 1204.68,
+      "text": "It'll calm your nerves knowing you're just helping for free for now, winky face."
+    },
+    {
+      "start": 1205.3,
+      "end": 1207.68,
+      "text": "Two, you probably suck for now."
+    },
+    {
+      "start": 1208.22,
+      "end": 1210.44,
+      "text": "People are far more forgiving when you haven't charged them anything."
+    },
+    {
+      "start": 1211.28,
+      "end": 1214.72,
+      "text": "Three, because you probably suck, you need to learn how to suck less."
+    },
+    {
+      "start": 1215.02,
+      "end": 1216.34,
+      "text": "You suck less by doing more."
+    },
+    {
+      "start": 1216.58,
+      "end": 1218.76,
+      "text": "So it's better to have a few guinea pigs to get the kinks out."
+    },
+    {
+      "start": 1219.0,
+      "end": 1221.6,
+      "text": "You learn a ton from the people you help for free, I promise."
+    },
+    {
+      "start": 1222.18,
+      "end": 1224.94,
+      "text": "Even though it may not feel like it now, you're getting the better end of the deal."
+    },
+    {
+      "start": 1225.74,
+      "end": 1235.22,
+      "text": "Four, if people get value, especially for free, they're far more likely to, A, leave positive reviews and testimonials, B, give you feedback, C, send their friends and family."
+    },
+    {
+      "start": 1235.72,
+      "end": 1239.14,
+      "text": "And if that's not awesome enough, free customers can make you money in three other ways."
+    },
+    {
+      "start": 1239.66,
+      "end": 1241.28,
+      "text": "One, they convert into paying customers."
+    },
+    {
+      "start": 1241.78,
+      "end": 1244.0,
+      "text": "Two, they send you paying customers via referrals."
+    },
+    {
+      "start": 1244.52,
+      "end": 1247.5,
+      "text": "Three, their testimonials bring in paying customers."
+    },
+    {
+      "start": 1247.94,
+      "end": 1249.54,
+      "text": "So no matter what, you win."
+    },
+    {
+      "start": 1250.32,
+      "end": 1252.52,
+      "text": "Pro tip, apply the hinge method to referrals."
+    },
+    {
+      "start": 1253.14,
+      "end": 1255.46,
+      "text": "If you ask for a referral, get a three-way introduction."
+    },
+    {
+      "start": 1255.8,
+      "end": 1263.8,
+      "text": "My favorite way to do this in person is to grab the customer's phone, take a picture of the two of us, then text that picture to the referral and your own number."
+    },
+    {
+      "start": 1264.2,
+      "end": 1267.26,
+      "text": "If I'm virtual, screenshot a video call and do the same thing."
+    },
+    {
+      "start": 1267.9,
+      "end": 1274.32,
+      "text": "If you can't do that, then at least get a three-way conversation with the customer making the referral initiating it."
+    },
+    {
+      "start": 1275.3,
+      "end": 1276.18,
+      "text": "What if they say no?"
+    },
+    {
+      "start": 1276.9,
+      "end": 1281.04,
+      "text": "Often the most expensive part of what you sell isn't the price, it's the hidden costs."
+    },
+    {
+      "start": 1281.62,
+      "end": 1285.76,
+      "text": "Hidden costs are the time, effort, and sacrifice it takes to get results from the thing you sell."
+    },
+    {
+      "start": 1286.4,
+      "end": 1288.88,
+      "text": "In other words, the bottom part of the value equation."
+    },
+    {
+      "start": 1289.44,
+      "end": 1298.54,
+      "text": "If you struggle to give away your stuff for free, it means either people don't want it, dream outcome, they don't believe you, perceived likelihood of achievement, or the hidden costs, time, effort, sacrifice, are too high."
+    },
+    {
+      "start": 1299.28,
+      "end": 1301.72,
+      "text": "In short, your free stuff is too expensive."
+    },
+    {
+      "start": 1302.26,
+      "end": 1303.64,
+      "text": "So figure out the hidden costs."
+    },
+    {
+      "start": 1304.02,
+      "end": 1308.5,
+      "text": "Once you do, you unlock even more value that you'll eventually be able to charge for."
+    },
+    {
+      "start": 1309.0,
+      "end": 1311.42,
+      "text": "To build your understanding of hidden costs, ask."
+    },
+    {
+      "start": 1311.76,
+      "end": 1313.72,
+      "text": "So when someone says no, ask why."
+    },
+    {
+      "start": 1314.12,
+      "end": 1316.3,
+      "text": "What would I have to do to make it worth it for you to continue?"
+    },
+    {
+      "start": 1317.06,
+      "end": 1321.88,
+      "text": "Their answers give you a chance to solve their problem, and if you solve that problem, they'll probably buy from you."
+    },
+    {
+      "start": 1322.28,
+      "end": 1325.88,
+      "text": "And even if they don't buy from you, they'll give you the ammo to get the next person to."
+    },
+    {
+      "start": 1326.54,
+      "end": 1329.12,
+      "text": "And remember, failure is a requisite for success."
+    },
+    {
+      "start": 1329.24,
+      "end": 1330.36,
+      "text": "It's part of the process."
+    },
+    {
+      "start": 1330.74,
+      "end": 1332.8,
+      "text": "So rack up failures as fast as you can."
+    },
+    {
+      "start": 1332.94,
+      "end": 1335.66,
+      "text": "Get them out of the way to start paying down your no tax."
+    },
+    {
+      "start": 1336.1,
+      "end": 1339.46,
+      "text": "If you get thousands of nos, you will get your yeses, I promise."
+    },
+    {
+      "start": 1339.94,
+      "end": 1344.12,
+      "text": "I always tell myself, yeses give me opportunity, nos give me feedback."
+    },
+    {
+      "start": 1344.26,
+      "end": 1345.16,
+      "text": "Either way, I win."
+    },
+    {
+      "start": 1345.46,
+      "end": 1347.56,
+      "text": "Author note, Warren Buffett and Benjamin Graham."
+    },
+    {
+      "start": 1348.28,
+      "end": 1352.98,
+      "text": "Before Warren Buffett became the greatest investor of our time, he offered to work for his hero, Ben Graham, for free."
+    },
+    {
+      "start": 1353.2,
+      "end": 1354.36,
+      "text": "Want to know Graham's response?"
+    },
+    {
+      "start": 1355.16,
+      "end": 1355.94,
+      "text": "You're overpriced."
+    },
+    {
+      "start": 1356.62,
+      "end": 1357.5,
+      "text": "Graham knew what was up."
+    },
+    {
+      "start": 1358.04,
+      "end": 1361.8,
+      "text": "The most expensive thing about hiring Buffett wasn't a paycheck, but the time to train him."
+    },
+    {
+      "start": 1362.32,
+      "end": 1366.54,
+      "text": "Graham would actually be working for Buffett, and in the same way, your early customers are working for you."
+    },
+    {
+      "start": 1367.24,
+      "end": 1370.96,
+      "text": "They're training you for free, and you want to minimize that cost to them."
+    },
+    {
+      "start": 1371.34,
+      "end": 1372.44,
+      "text": "Know your hidden costs."
+    },
+    {
+      "start": 1372.76,
+      "end": 1375.82,
+      "text": "PS, Buffett still managed to get Graham to take his free offer."
+    },
+    {
+      "start": 1376.0,
+      "end": 1376.82,
+      "text": "The rest is history."
+    },
+    {
+      "start": 1377.82,
+      "end": 1379.16,
+      "text": "Pro tip, learning or earning."
+    },
+    {
+      "start": 1379.84,
+      "end": 1384.92,
+      "text": "If anyone tells you not to, quote, \"undervalue yourself\" by giving away your services for free in the beginning, tell them to hush."
+    },
+    {
+      "start": 1385.34,
+      "end": 1388.3,
+      "text": "Sure, you're a special snowflake, but the stuff you sell isn't."
+    },
+    {
+      "start": 1388.72,
+      "end": 1389.62,
+      "text": "It isn't valuable yet."
+    },
+    {
+      "start": 1389.78,
+      "end": 1390.6,
+      "text": "You barely started."
+    },
+    {
+      "start": 1390.92,
+      "end": 1393.48,
+      "text": "The objective right now is to learn, not to earn."
+    },
+    {
+      "start": 1393.76,
+      "end": 1397.2,
+      "text": "We'll get to the earning once we've learned more, but we must crawl before we run."
+    },
+    {
+      "start": 1397.64,
+      "end": 1398.9,
+      "text": "Don't get the objective mixed."
+    },
+    {
+      "start": 1399.38,
+      "end": 1400.96,
+      "text": "The earning will come, I promise."
+    },
+    {
+      "start": 1402.1,
+      "end": 1404.76,
+      "text": "Step eight, what do I do once I've reached out to everyone?"
+    },
+    {
+      "start": 1405.2,
+      "end": 1406.2,
+      "text": "Start back at the top."
+    },
+    {
+      "start": 1406.84,
+      "end": 1410.98,
+      "text": "After reaching out to all the leads on one platform, switch to the platform you have the second most leads on."
+    },
+    {
+      "start": 1411.18,
+      "end": 1414.9,
+      "text": "After you reach out to those leads, go to the platform you have the third most leads on, and so forth."
+    },
+    {
+      "start": 1415.5,
+      "end": 1418.98,
+      "text": "Let's say you follow this to the T because being poor sucks more than helping people for free."
+    },
+    {
+      "start": 1419.2,
+      "end": 1425.44,
+      "text": "If between all platforms you have a thousand leads, that gives you 10 solid days of work, a month of work including follow-ups."
+    },
+    {
+      "start": 1425.96,
+      "end": 1432.5,
+      "text": "By this point, I promise, five or more people have accepted your free offer, and some will have converted into paying customers."
+    },
+    {
+      "start": 1433.24,
+      "end": 1437.4,
+      "text": "If you did a good job, they'll send their friends, and they'll become paying customers too."
+    },
+    {
+      "start": 1437.84,
+      "end": 1439.02,
+      "text": "So let's make our first dollar."
+    },
+    {
+      "start": 1439.34,
+      "end": 1441.76,
+      "text": "Step nine, but I can't work for free forever."
+    },
+    {
+      "start": 1442.3,
+      "end": 1443.0,
+      "text": "Start charging."
+    },
+    {
+      "start": 1443.7,
+      "end": 1444.48,
+      "text": "This is important."
+    },
+    {
+      "start": 1444.9,
+      "end": 1447.64,
+      "text": "This is your litmus test to know when you're good enough to charge."
+    },
+    {
+      "start": 1448.4,
+      "end": 1450.84,
+      "text": "Once people start referring, start charging."
+    },
+    {
+      "start": 1451.3,
+      "end": 1462.18,
+      "text": "When that happens, swap out free in the script above to 80% off for the next five, then 60% off for the next five, then 40% off for the next five, and so forth."
+    },
+    {
+      "start": 1462.52,
+      "end": 1467.9,
+      "text": "The I increase my prices every five rule also adds urgency because prices actually go up."
+    },
+    {
+      "start": 1468.26,
+      "end": 1470.76,
+      "text": "And if you're curious, you don't have to stop raising your price."
+    },
+    {
+      "start": 1471.24,
+      "end": 1474.54,
+      "text": "Feel free to keep raising it by 20% every five until you find your sweet spot."
+    },
+    {
+      "start": 1474.6,
+      "end": 1475.28,
+      "text": "It's your business."
+    },
+    {
+      "start": 1475.4,
+      "end": 1476.2,
+      "text": "You can do what you want."
+    },
+    {
+      "start": 1476.6,
+      "end": 1479.2,
+      "text": "Charge more as you get more experienced, a nice reward."
+    },
+    {
+      "start": 1479.44,
+      "end": 1482.72,
+      "text": "Pro tip: get more cash up front and more yeses."
+    },
+    {
+      "start": 1483.2,
+      "end": 1484.52,
+      "text": "Prepay plus guarantee."
+    },
+    {
+      "start": 1485.36,
+      "end": 1488.44,
+      "text": "Offering a guarantee gets more people to buy because it reverses risk."
+    },
+    {
+      "start": 1488.86,
+      "end": 1492.62,
+      "text": "Here's a nice twist on a guarantee that'll get you more yeses and more cash."
+    },
+    {
+      "start": 1493.18,
+      "end": 1496.2,
+      "text": "You can offer a guarantee only to people who pay up front."
+    },
+    {
+      "start": 1496.6,
+      "end": 1501.58,
+      "text": "Reason why, people who invest up front are more committed, and as a result, we're able to guarantee their outcomes."
+    },
+    {
+      "start": 1501.98,
+      "end": 1504.56,
+      "text": "So if you'd like our guarantee, you can prepay for our service."
+    },
+    {
+      "start": 1505.18,
+      "end": 1507.22,
+      "text": "Another version of wording I got from my good friend Dr."
+    },
+    {
+      "start": 1507.44,
+      "end": 1512.42,
+      "text": "Kashi, after the person agrees to buy, you say, \"Would you rather pay less today or get all your money back?\""
+    },
+    {
+      "start": 1512.94,
+      "end": 1515.66,
+      "text": "Paying less today equals a payment plan, so less money down."
+    },
+    {
+      "start": 1516.06,
+      "end": 1521.46,
+      "text": "Get all your money back equals prepayment and get a guarantee that you get the result you want."
+    },
+    {
+      "start": 1521.98,
+      "end": 1527.48,
+      "text": "Example, pay less equals 2,000 a month for three months, which is 6,000 dollars with no guarantee."
+    },
+    {
+      "start": 1528.22,
+      "end": 1532.92,
+      "text": "Or get all your money back equals 6,000 dollars up front with a guarantee."
+    },
+    {
+      "start": 1533.48,
+      "end": 1537.42,
+      "text": "Presented this way, the majority of people take the upfront cash option with the guarantee."
+    },
+    {
+      "start": 1537.96,
+      "end": 1542.72,
+      "text": "So if you plan on offering one anyways, you might as well weaponize it to incentivize people to pay more up front."
+    },
+    {
+      "start": 1543.66,
+      "end": 1545.64,
+      "text": "Step 10: but what do I do from here?"
+    },
+    {
+      "start": 1546.26,
+      "end": 1547.04,
+      "text": "Keep your list warm."
+    },
+    {
+      "start": 1547.62,
+      "end": 1551.28,
+      "text": "Give regular value to your list through email, social media, et cetera, to keep it warm."
+    },
+    {
+      "start": 1551.5,
+      "end": 1553.96,
+      "text": "A warm list stays prime for your warm reach outs in the future."
+    },
+    {
+      "start": 1554.42,
+      "end": 1557.14,
+      "text": "We cover exactly how to give that value in the next chapter."
+    },
+    {
+      "start": 1557.62,
+      "end": 1563.68,
+      "text": "Once you've given value for a while or see who wants value, probe your list with Dean Jackson's timeless nine-word email template."
+    },
+    {
+      "start": 1564.26,
+      "end": 1566.58,
+      "text": "Are you still looking to, forward desire."
+    },
+    {
+      "start": 1566.94,
+      "end": 1570.48,
+      "text": "No images, no frills, no links, just a question, nothing else."
+    },
+    {
+      "start": 1570.64,
+      "end": 1575.82,
+      "text": "This message is money for getting leads to engage, and it's among the first things I do when I invest in a new business."
+    },
+    {
+      "start": 1576.28,
+      "end": 1577.34,
+      "text": "Here are a few examples."
+    },
+    {
+      "start": 1577.76,
+      "end": 1586.72,
+      "text": "Are you looking to, dot, dot, dot, buy your dream home, dot, dot, dot, get more sales leads, dot, dot, dot, tone up your arm, dot, dot, dot, open an online store, dot, dot, dot, start a YouTube channel."
+    },
+    {
+      "start": 1587.14,
+      "end": 1587.74,
+      "text": "You get the idea."
+    },
+    {
+      "start": 1588.02,
+      "end": 1589.08,
+      "text": "Swipe and deploy."
+    },
+    {
+      "start": 1589.32,
+      "end": 1596.94,
+      "text": "You make the ask to see who replies, AKA engaged leads, and these replies should be your top priority for warm reach outs."
+    },
+    {
+      "start": 1597.56,
+      "end": 1601.7,
+      "text": "I'll end step 10 here because I break down the give-ask process in the next chapter."
+    },
+    {
+      "start": 1602.12,
+      "end": 1607.82,
+      "text": "The main point is that a warm list is a huge asset because it's a consistent and growing source of engaged leads."
+    },
+    {
+      "start": 1608.28,
+      "end": 1610.8,
+      "text": "If you treat them well, your audience will feed you forever."
+    },
+    {
+      "start": 1611.24,
+      "end": 1612.44,
+      "text": "Advertising checklist summary."
+    },
+    {
+      "start": 1613.0,
+      "end": 1615.78,
+      "text": "Now let's look at this in 10 lines because we took 10 pages to get here."
+    },
+    {
+      "start": 1616.02,
+      "end": 1617.66,
+      "text": "Warm reach outs daily checklist."
+    },
+    {
+      "start": 1617.74,
+      "end": 1617.96,
+      "text": "Who?"
+    },
+    {
+      "start": 1618.22,
+      "end": 1618.64,
+      "text": "Yourself."
+    },
+    {
+      "start": 1618.84,
+      "end": 1619.02,
+      "text": "What?"
+    },
+    {
+      "start": 1619.54,
+      "end": 1620.68,
+      "text": "Your first five for free."
+    },
+    {
+      "start": 1620.94,
+      "end": 1621.18,
+      "text": "Where?"
+    },
+    {
+      "start": 1621.6,
+      "end": 1623.7,
+      "text": "Phone, email, physical mail, SMS, et cetera."
+    },
+    {
+      "start": 1624.4,
+      "end": 1624.78,
+      "text": "To whom?"
+    },
+    {
+      "start": 1625.04,
+      "end": 1625.72,
+      "text": "Your contacts."
+    },
+    {
+      "start": 1626.12,
+      "end": 1626.36,
+      "text": "When?"
+    },
+    {
+      "start": 1627.04,
+      "end": 1628.2,
+      "text": "First four hours of your day."
+    },
+    {
+      "start": 1628.56,
+      "end": 1628.82,
+      "text": "Why?"
+    },
+    {
+      "start": 1629.22,
+      "end": 1631.02,
+      "text": "You want to get customers or introductions."
+    },
+    {
+      "start": 1631.36,
+      "end": 1631.6,
+      "text": "How?"
+    },
+    {
+      "start": 1632.12,
+      "end": 1634.0,
+      "text": "Personalized messages using ACA."
+    },
+    {
+      "start": 1634.36,
+      "end": 1634.76,
+      "text": "How much?"
+    },
+    {
+      "start": 1635.08,
+      "end": 1636.14,
+      "text": "100 attempts per day."
+    },
+    {
+      "start": 1636.38,
+      "end": 1636.78,
+      "text": "How many?"
+    },
+    {
+      "start": 1637.24,
+      "end": 1639.58,
+      "text": "Follow up two to three more times after the first."
+    },
+    {
+      "start": 1640.18,
+      "end": 1640.68,
+      "text": "How long?"
+    },
+    {
+      "start": 1641.26,
+      "end": 1642.76,
+      "text": "Until you get customers."
+    },
+    {
+      "start": 1643.02,
+      "end": 1643.68,
+      "text": "Benchmarks."
+    },
+    {
+      "start": 1644.34,
+      "end": 1645.24,
+      "text": "How well am I doing?"
+    },
+    {
+      "start": 1645.82,
+      "end": 1648.84,
+      "text": "Warm reach outs should get you about one in five contacts to engage."
+    },
+    {
+      "start": 1649.22,
+      "end": 1652.44,
+      "text": "So 100 warm reach outs should get you about 20 replies."
+    },
+    {
+      "start": 1652.68,
+      "end": 1656.2,
+      "text": "Of the 20 who reply, another one in five-ish will take you up on your free offer."
+    },
+    {
+      "start": 1656.72,
+      "end": 1657.62,
+      "text": "So four people."
+    },
+    {
+      "start": 1658.08,
+      "end": 1663.98,
+      "text": "Of the four people who take your free offer, now you should be able to convert one into some sort of paid offer later."
+    },
+    {
+      "start": 1664.42,
+      "end": 1664.8,
+      "text": "Hooray."
+    },
+    {
+      "start": 1665.34,
+      "end": 1665.68,
+      "text": "Money."
+    },
+    {
+      "start": 1666.34,
+      "end": 1670.04,
+      "text": "This framework allows you to predict how many customers you get per 100 warm reach outs."
+    },
+    {
+      "start": 1670.1,
+      "end": 1673.3,
+      "text": "In the example, you would get one customer per 100 warm reach outs."
+    },
+    {
+      "start": 1673.8,
+      "end": 1676.6,
+      "text": "These numbers vary based on the value of your offer and how much they trust you."
+    },
+    {
+      "start": 1677.02,
+      "end": 1679.7,
+      "text": "But no matter what, with enough volume, you will get a customer."
+    },
+    {
+      "start": 1680.14,
+      "end": 1682.12,
+      "text": "And the more you do it, the better your numbers will get."
+    },
+    {
+      "start": 1682.72,
+      "end": 1683.74,
+      "text": "It just takes effort."
+    },
+    {
+      "start": 1684.26,
+      "end": 1689.2,
+      "text": "You'll also learn a lot about what engages your audience, what they value, and how to make offers to them."
+    },
+    {
+      "start": 1689.98,
+      "end": 1691.34,
+      "text": "This knowledge can make you millions."
+    },
+    {
+      "start": 1691.66,
+      "end": 1693.42,
+      "text": "You get to learn while you earn."
+    },
+    {
+      "start": 1693.98,
+      "end": 1694.3,
+      "text": "Score."
+    },
+    {
+      "start": 1694.76,
+      "end": 1698.2,
+      "text": "This process alone can take you to 100,000 per year with nothing else."
+    },
+    {
+      "start": 1698.48,
+      "end": 1699.34,
+      "text": "Wild, I know."
+    },
+    {
+      "start": 1699.64,
+      "end": 1700.38,
+      "text": "Here's the money math."
+    },
+    {
+      "start": 1700.92,
+      "end": 1705.16,
+      "text": "This assumes 1% of your list buys a 400 dollar offer using only warm reach outs."
+    },
+    {
+      "start": 1706.14,
+      "end": 1708.34,
+      "text": "500 reach outs per week equals five customers per week."
+    },
+    {
+      "start": 1708.94,
+      "end": 1713.54,
+      "text": "400 dollar product equals five customers per week times 400 dollars each equals 2,000 dollars per week."
+    },
+    {
+      "start": 1714.2,
+      "end": 1717.7,
+      "text": "2,000 dollars per week times 52 weeks equals 104,000 dollars."
+    },
+    {
+      "start": 1718.08,
+      "end": 1718.52,
+      "text": "Bingo."
+    },
+    {
+      "start": 1718.92,
+      "end": 1722.3,
+      "text": "Which, as of this writing, is still two times the median household income in the US."
+    },
+    {
+      "start": 1722.6,
+      "end": 1723.08,
+      "text": "Not bad."
+    },
+    {
+      "start": 1723.8,
+      "end": 1725.2,
+      "text": "Pro tip: join communities."
+    },
+    {
+      "start": 1725.52,
+      "end": 1729.4,
+      "text": "To learn even faster, join communities of people doing the same advertising method as you."
+    },
+    {
+      "start": 1729.88,
+      "end": 1732.72,
+      "text": "They're great for peer support and up-to-date tricks and tips."
+    },
+    {
+      "start": 1732.94,
+      "end": 1734.3,
+      "text": "Also, don't do anything sketchy."
+    },
+    {
+      "start": 1734.68,
+      "end": 1737.0,
+      "text": "There are lots of people who pride themselves on pushing the legal envelope."
+    },
+    {
+      "start": 1737.34,
+      "end": 1738.06,
+      "text": "Don't be that person."
+    },
+    {
+      "start": 1738.12,
+      "end": 1739.26,
+      "text": "It always comes back to bite you."
+    },
+    {
+      "start": 1739.66,
+      "end": 1741.78,
+      "text": "Do it the right way, and you'll feed yourself for the long term."
+    },
+    {
+      "start": 1742.18,
+      "end": 1745.32,
+      "text": "You can get good enough at almost anything in 20 hours of focused effort."
+    },
+    {
+      "start": 1745.36,
+      "end": 1748.0,
+      "text": "The problem is, most people spend years delaying the first hour."
+    },
+    {
+      "start": 1748.16,
+      "end": 1752.28,
+      "text": "You learn more in the first 10 days of doing 100 reach outs than you did from everything you've ever read or watched."
+    },
+    {
+      "start": 1752.84,
+      "end": 1754.6,
+      "text": "Get that learning done as fast as you can."
+    },
+    {
+      "start": 1754.82,
+      "end": 1757.04,
+      "text": "Remember, we want to get rich, not just get by."
+    },
+    {
+      "start": 1757.84,
+      "end": 1758.38,
+      "text": "What's next?"
+    },
+    {
+      "start": 1759.1,
+      "end": 1760.58,
+      "text": "Warm reach outs have two limitations."
+    },
+    {
+      "start": 1760.92,
+      "end": 1761.86,
+      "text": "The first is time."
+    },
+    {
+      "start": 1762.08,
+      "end": 1764.62,
+      "text": "When you're starting out, getting new customers should take the majority of your time."
+    },
+    {
+      "start": 1765.04,
+      "end": 1766.46,
+      "text": "Think four hours per day minimum."
+    },
+    {
+      "start": 1767.12,
+      "end": 1770.82,
+      "text": "It should be the first thing you do when you get up, and you shouldn't stop until you achieve your goal."
+    },
+    {
+      "start": 1771.06,
+      "end": 1771.8,
+      "text": "Embrace the work."
+    },
+    {
+      "start": 1771.88,
+      "end": 1773.54,
+      "text": "It will be part of the story you tell one day."
+    },
+    {
+      "start": 1773.78,
+      "end": 1774.66,
+      "text": "It has been for me."
+    },
+    {
+      "start": 1775.22,
+      "end": 1777.4,
+      "text": "The second limiter is the number of people who know you."
+    },
+    {
+      "start": 1778.28,
+      "end": 1779.46,
+      "text": "You'll eventually run out."
+    },
+    {
+      "start": 1779.8,
+      "end": 1780.36,
+      "text": "Don't worry, though."
+    },
+    {
+      "start": 1780.56,
+      "end": 1781.98,
+      "text": "We can get more, a lot more."
+    },
+    {
+      "start": 1782.5,
+      "end": 1786.56,
+      "text": "Now we add the second of the core four advertising activities, posting free content."
+    },
+    {
+      "start": 1786.9,
+      "end": 1789.08,
+      "text": "Free gift, bonus training, warm reach outs."
+    },
+    {
+      "start": 1789.38,
+      "end": 1796.8,
+      "text": "If you like this stuff, I go deeper in a no-holds-barred breakdown of the many different strategies you can use within warm reach outs to get your first or zillionth customer."
+    },
+    {
+      "start": 1797.38,
+      "end": 1803.06,
+      "text": "If that sounds cool, go to acquisition.com/training/leads, and if you needed another reason, it's free."
+    },
+    {
+      "start": 1803.46,
+      "end": 1805.22,
+      "text": "I hope you use it to get as many leads as you need."
+    },
+    {
+      "start": 1807.22,
+      "end": 1813.32,
+      "text": "I hope you enjoyed that, uh, short episode, and maybe you're going to listen to it a couple more times if you are going to go implement that, what I hope, which I hope you do."
+    },
+    {
+      "start": 1813.76,
+      "end": 1818.32,
+      "text": "Um, I also just want to say, it would mean the world to me if you left the book a review on Amazon."
+    },
+    {
+      "start": 1818.36,
+      "end": 1826.82,
+      "text": "So if you do choose to grab a copy of it, whether it's the Kindle version so you can read it while you're listening, I just want you to win, um, but it would help me help other people if you left it a review."
+    },
+    {
+      "start": 1827.32,
+      "end": 1838.36,
+      "text": "Um, and next we're going to have episode four, which is going to be three chapters, one about posting content, uh, the second about monetizing content, and the third is going to be a surprise chapter that you will just want to hear."
+    },
+    {
+      "start": 1838.38,
+      "end": 1840.8,
+      "text": "You won't, you won't be able to, uh, believe it until you hear it."
+    },
+    {
+      "start": 1841.22,
+      "end": 1842.08,
+      "text": "Uh, but it's a banger."
+    },
+    {
+      "start": 1842.1,
+      "end": 1853.64,
+      "text": "It's a 47-minute hunk, um, and it is basically the cornerstone of how we built Mosey Media, which is all the media and the content that we push out across all the platforms and how we get 150 million impressions a month for free."
+    },
+    {
+      "start": 1854.0,
+      "end": 1854.96,
+      "text": "That's the whole framework."
+    },
+    {
+      "start": 1855.14,
+      "end": 1856.94,
+      "text": "You're going to not want to miss it."
+    },
+    {
+      "start": 1857.2,
+      "end": 1857.62,
+      "text": "Enjoy."
+    },
+    {
+      "start": 1860.92,
+      "end": 1865.9,
+      "text": "This has been \"100 Million Dollar Leads,\" written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 1866.1,
+      "end": 1868.58,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 1868.84,
+      "end": 1872.62,
+      "text": "Audio production copyright 2023, acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "1c606aa80999b295e5f89068ffd4ac6636e1f307aea5e96998091c15d8094ce1",
+  "audio_duration_sec": 1876.401633,
+  "elapsed_sec": 16.3,
+  "created": "2026-11-16T03:05:10+00:00"
+}

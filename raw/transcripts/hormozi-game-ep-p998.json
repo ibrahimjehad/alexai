@@ -1,0 +1,4557 @@
+{
+  "source_id": "hormozi-game-ep-p998",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 3.26,
+      "text": "My name is Alex Hormozi, and this is Scale or Fail."
+    },
+    {
+      "start": 11.44,
+      "end": 12.12,
+      "text": "Hi, how's it going?"
+    },
+    {
+      "start": 12.36,
+      "end": 12.58,
+      "text": "Good."
+    },
+    {
+      "start": 12.74,
+      "end": 13.16,
+      "text": "Amazing."
+    },
+    {
+      "start": 13.32,
+      "end": 13.62,
+      "text": "Excited?"
+    },
+    {
+      "start": 14.08,
+      "end": 14.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 14.48,
+      "end": 14.88,
+      "text": "Ready to rock?"
+    },
+    {
+      "start": 15.2,
+      "end": 15.48,
+      "text": "Yes."
+    },
+    {
+      "start": 15.68,
+      "end": 15.9,
+      "text": "All right."
+    },
+    {
+      "start": 16.04,
+      "end": 16.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 16.3,
+      "end": 16.9,
+      "text": "Tell me about the business."
+    },
+    {
+      "start": 17.24,
+      "end": 18.56,
+      "text": "My name is Tina, Tina Suh."
+    },
+    {
+      "start": 18.94,
+      "end": 25.6,
+      "text": "In the last 12 months, I did 770,000 dollars, and 555,000 is profit."
+    },
+    {
+      "start": 25.84,
+      "end": 26.14,
+      "text": "Amazing."
+    },
+    {
+      "start": 26.36,
+      "end": 27.92,
+      "text": "72% profit margin."
+    },
+    {
+      "start": 28.0,
+      "end": 28.98,
+      "text": "And you helped a bunch of families."
+    },
+    {
+      "start": 29.18,
+      "end": 29.26,
+      "text": "Yep."
+    },
+    {
+      "start": 29.52,
+      "end": 29.76,
+      "text": "Okay."
+    },
+    {
+      "start": 30.08,
+      "end": 30.82,
+      "text": "So what do you sell?"
+    },
+    {
+      "start": 30.94,
+      "end": 31.84,
+      "text": "How do you make the dollars work?"
+    },
+    {
+      "start": 32.18,
+      "end": 32.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 32.5,
+      "end": 34.54,
+      "text": "So my core product is called Hi Mama."
+    },
+    {
+      "start": 34.86,
+      "end": 35.06,
+      "text": "Okay."
+    },
+    {
+      "start": 35.4,
+      "end": 42.7,
+      "text": "And it's a group program that helps children who have speech delay, so for example, non-verbal kids, to speak their first words."
+    },
+    {
+      "start": 42.82,
+      "end": 43.0,
+      "text": "Okay."
+    },
+    {
+      "start": 43.36,
+      "end": 48.08,
+      "text": "While also at the same time healing, reducing of autism symptoms as well."
+    },
+    {
+      "start": 48.32,
+      "end": 49.4,
+      "text": "Okay, got it."
+    },
+    {
+      "start": 49.66,
+      "end": 51.86,
+      "text": "And the offer you sell is 2,500 bucks a year?"
+    },
+    {
+      "start": 52.24,
+      "end": 53.06,
+      "text": "Uh, the offer..."
+    },
+    {
+      "start": 53.4,
+      "end": 53.4,
+      "text": "Okay."
+    },
+    {
+      "start": 53.44,
+      "end": 55.72,
+      "text": "So the Hi Mama program is 2,500."
+    },
+    {
+      "start": 55.96,
+      "end": 56.16,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 56.44,
+      "end": 61.54,
+      "text": "And it's for the year with a three-month intensive in the beginning, nine months of aftercare."
+    },
+    {
+      "start": 61.8,
+      "end": 62.0,
+      "text": "Okay."
+    },
+    {
+      "start": 62.28,
+      "end": 66.58,
+      "text": "So once a person is in the program, then I sell them onto the all-access pass- Mm-hmm ..."
+    },
+    {
+      "start": 66.72,
+      "end": 70.34,
+      "text": "which gets them every cohort of Hi Mama, the three-month intensive."
+    },
+    {
+      "start": 70.64,
+      "end": 70.9,
+      "text": "Cool."
+    },
+    {
+      "start": 70.96,
+      "end": 73.86,
+      "text": "So they can stay in the energy, and they can continue- Cool ..."
+    },
+    {
+      "start": 73.92,
+      "end": 76.46,
+      "text": "to move on to the next level of their children's healing."
+    },
+    {
+      "start": 76.8,
+      "end": 77.58,
+      "text": "What do you think is stopping you right now?"
+    },
+    {
+      "start": 80.22,
+      "end": 80.44,
+      "text": "Me."
+    },
+    {
+      "start": 82.16,
+      "end": 82.36,
+      "text": "Okay."
+    },
+    {
+      "start": 82.52,
+      "end": 84.96,
+      "text": "So I am doing everything."
+    },
+    {
+      "start": 85.36,
+      "end": 85.54,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 85.64,
+      "end": 88.88,
+      "text": "Um, I just, like, I can't let go of, you know, like- You're still the millionaire."
+    },
+    {
+      "start": 88.9,
+      "end": 91.78,
+      "text": "So, so I have, like, every single Instagram conversation."
+    },
+    {
+      "start": 91.82,
+      "end": 91.82,
+      "text": "Yeah."
+    },
+    {
+      "start": 91.84,
+      "end": 92.64,
+      "text": "This is how I currently..."
+    },
+    {
+      "start": 92.68,
+      "end": 93.74,
+      "text": "I don't do sales calls."
+    },
+    {
+      "start": 94.38,
+      "end": 96.48,
+      "text": "Uh, and I'm in every piece of marketing."
+    },
+    {
+      "start": 96.54,
+      "end": 97.48,
+      "text": "I'm in the delivery."
+    },
+    {
+      "start": 97.78,
+      "end": 97.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 97.98,
+      "end": 101.16,
+      "text": "My team handles customer service, but I'm often in that as well."
+    },
+    {
+      "start": 101.5,
+      "end": 101.5,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 101.54,
+      "end": 106.3,
+      "text": "So just I have my hands in everything, and at the end of the day, I just don't have time for anything."
+    },
+    {
+      "start": 106.6,
+      "end": 106.74,
+      "text": "No."
+    },
+    {
+      "start": 107.28,
+      "end": 109.12,
+      "text": "So low-hanging fruits just doesn't get done."
+    },
+    {
+      "start": 109.6,
+      "end": 109.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 110.22,
+      "end": 110.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 110.88,
+      "end": 111.3,
+      "text": "Understood."
+    },
+    {
+      "start": 111.62,
+      "end": 111.84,
+      "text": "Okay."
+    },
+    {
+      "start": 112.28,
+      "end": 113.2,
+      "text": "Why does solving this matter?"
+    },
+    {
+      "start": 113.46,
+      "end": 116.4,
+      "text": "Why is growing this business important versus just staying where you're at, making 500 grand a year?"
+    },
+    {
+      "start": 116.78,
+      "end": 117.28,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 117.6,
+      "end": 120.1,
+      "text": "Um, I mean, it's, it's, it's not about the money."
+    },
+    {
+      "start": 120.68,
+      "end": 129.14,
+      "text": "Um, before starting this business, I had another business, and I still have that business, and I had developed that other business, you know, from nothing."
+    },
+    {
+      "start": 129.32,
+      "end": 129.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 129.34,
+      "end": 134.0,
+      "text": "Like, when my son was a baby, between the hours of 8:00 PM and 2:00 AM- Savage."
+    },
+    {
+      "start": 134.4,
+      "end": 136.54,
+      "text": "I grew that all the way to 20 million dollars."
+    },
+    {
+      "start": 136.7,
+      "end": 137.1,
+      "text": "Amazing."
+    },
+    {
+      "start": 137.56,
+      "end": 140.32,
+      "text": "And I had that business when this happened with my son."
+    },
+    {
+      "start": 140.62,
+      "end": 140.62,
+      "text": "Okay."
+    },
+    {
+      "start": 140.66,
+      "end": 144.8,
+      "text": "And so, um, so my son used to have autism, ADHD, and epilepsy."
+    },
+    {
+      "start": 145.34,
+      "end": 145.34,
+      "text": "Okay."
+    },
+    {
+      "start": 145.42,
+      "end": 148.7,
+      "text": "And we had done everything conventional medicine told us to do."
+    },
+    {
+      "start": 148.9,
+      "end": 149.06,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 149.58,
+      "end": 151.56,
+      "text": "All the conventional therapies and medication."
+    },
+    {
+      "start": 151.6,
+      "end": 151.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 152.26,
+      "end": 153.86,
+      "text": "And my son got worse."
+    },
+    {
+      "start": 154.32,
+      "end": 154.58,
+      "text": "Yeah."
+    },
+    {
+      "start": 154.6,
+      "end": 156.46,
+      "text": "And at, he was, when he was nine- Yeah ..."
+    },
+    {
+      "start": 156.84,
+      "end": 158.64,
+      "text": "the last of his ADHD..."
+    },
+    {
+      "start": 159.08,
+      "end": 159.34,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 160.0,
+      "end": 160.52,
+      "text": "I'm gonna cry."
+    },
+    {
+      "start": 160.58,
+      "end": 160.66,
+      "text": "Okay."
+    },
+    {
+      "start": 160.7,
+      "end": 160.9,
+      "text": "You're good."
+    },
+    {
+      "start": 161.68,
+      "end": 165.32,
+      "text": "When he was nine, the last of his ADHD medication stopped working."
+    },
+    {
+      "start": 165.4,
+      "end": 170.42,
+      "text": "He had been on seven at that time, and they were ready to move him onto antipsychotics."
+    },
+    {
+      "start": 170.46,
+      "end": 170.6,
+      "text": "Yeah."
+    },
+    {
+      "start": 171.36,
+      "end": 173.26,
+      "text": "And he stopped sleeping, and it was just hell."
+    },
+    {
+      "start": 173.56,
+      "end": 173.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 174.76,
+      "end": 175.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 175.3,
+      "end": 175.52,
+      "text": "Um..."
+    },
+    {
+      "start": 175.98,
+      "end": 176.78,
+      "text": "So you wanted to fix it."
+    },
+    {
+      "start": 176.82,
+      "end": 181.22,
+      "text": "And then somebody, like, just recommended us, like, \"Hey, look into holistic, change- Yeah ..."
+    },
+    {
+      "start": 181.3,
+      "end": 183.06,
+      "text": "what you're eating and the environment.\""
+    },
+    {
+      "start": 183.12,
+      "end": 187.46,
+      "text": "And, uh, so I went on this, like, holistic journey to helping him."
+    },
+    {
+      "start": 188.28,
+      "end": 190.26,
+      "text": "And, uh, and in two years..."
+    },
+    {
+      "start": 191.24,
+      "end": 191.54,
+      "text": "It's okay."
+    },
+    {
+      "start": 193.12,
+      "end": 201.74,
+      "text": "Um, in two years, all of his symptoms of autism, ADHD, and epilepsy went into remission."
+    },
+    {
+      "start": 201.96,
+      "end": 202.26,
+      "text": "Awesome."
+    },
+    {
+      "start": 202.8,
+      "end": 203.32,
+      "text": "That's amazing."
+    },
+    {
+      "start": 203.36,
+      "end": 203.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 203.62,
+      "end": 208.04,
+      "text": "And then when he got better, I was like, \"I have to do this.\""
+    },
+    {
+      "start": 208.1,
+      "end": 208.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 208.66,
+      "end": 209.5,
+      "text": "Well, congratulations."
+    },
+    {
+      "start": 210.06,
+      "end": 210.46,
+      "text": "You did it."
+    },
+    {
+      "start": 211.08,
+      "end": 211.96,
+      "text": "Now you're helping people out."
+    },
+    {
+      "start": 212.14,
+      "end": 212.14,
+      "text": "Yeah."
+    },
+    {
+      "start": 212.18,
+      "end": 212.88,
+      "text": "You're making money doing it."
+    },
+    {
+      "start": 212.92,
+      "end": 213.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 213.1,
+      "end": 220.0,
+      "text": "So I had to, like, I just paused from my other business and, like, just went all in and just, I just go in with the attitude as I'm on year four."
+    },
+    {
+      "start": 220.04,
+      "end": 220.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 220.1,
+      "end": 222.22,
+      "text": "I just go in with, like, I didn't even look at the numbers."
+    },
+    {
+      "start": 222.26,
+      "end": 223.4,
+      "text": "I'm like, \"I don't even care."
+    },
+    {
+      "start": 223.46,
+      "end": 224.74,
+      "text": "I'm willing to work for free.\""
+    },
+    {
+      "start": 225.04,
+      "end": 225.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 225.46,
+      "end": 226.9,
+      "text": "Because that's how I started my first business."
+    },
+    {
+      "start": 227.04,
+      "end": 227.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 227.1,
+      "end": 228.44,
+      "text": "Is literally, you know..."
+    },
+    {
+      "start": 230.2,
+      "end": 233.14,
+      "text": "So we're gonna, uh, you can big exhale."
+    },
+    {
+      "start": 233.32,
+      "end": 233.62,
+      "text": "You're good."
+    },
+    {
+      "start": 234.14,
+      "end": 234.44,
+      "text": "There you go."
+    },
+    {
+      "start": 234.98,
+      "end": 235.2,
+      "text": "You're good."
+    },
+    {
+      "start": 235.22,
+      "end": 236.48,
+      "text": "This is not what I planned on saying."
+    },
+    {
+      "start": 236.5,
+      "end": 236.96,
+      "text": "You're fine."
+    },
+    {
+      "start": 237.0,
+      "end": 237.48,
+      "text": "Don't worry about it."
+    },
+    {
+      "start": 237.52,
+      "end": 238.06,
+      "text": "But- You're good."
+    },
+    {
+      "start": 238.3,
+      "end": 240.14,
+      "text": "I'll probably challenge you on a couple things- Yeah ..."
+    },
+    {
+      "start": 240.24,
+      "end": 242.86,
+      "text": "around, like, the numbers and making money."
+    },
+    {
+      "start": 243.02,
+      "end": 243.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 243.04,
+      "end": 248.26,
+      "text": "Because I'm sensing that that will limit the amount of people that you can help."
+    },
+    {
+      "start": 248.46,
+      "end": 250.1,
+      "text": "Because on some level, and- Yeah ..."
+    },
+    {
+      "start": 250.16,
+      "end": 259.86,
+      "text": "you can correct me if I'm wrong, it feels like you may have equated, like, maybe charging more or having upsells or even having a more standardized sales process with bad."
+    },
+    {
+      "start": 260.62,
+      "end": 263.82,
+      "text": "And I, I don't think that that's gonna be the case."
+    },
+    {
+      "start": 263.86,
+      "end": 266.08,
+      "text": "And I think the more we can structure some of these things- Yeah ..."
+    },
+    {
+      "start": 266.14,
+      "end": 269.6,
+      "text": "and know all of the numbers of the business, the more families you're ultimately gonna help."
+    },
+    {
+      "start": 269.8,
+      "end": 269.98,
+      "text": "Yeah."
+    },
+    {
+      "start": 270.22,
+      "end": 270.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 270.6,
+      "end": 270.84,
+      "text": "Okay."
+    },
+    {
+      "start": 271.24,
+      "end": 273.28,
+      "text": "I'll ask this question, but I'm pretty sure I know the answer."
+    },
+    {
+      "start": 273.62,
+      "end": 273.86,
+      "text": "Okay."
+    },
+    {
+      "start": 274.28,
+      "end": 277.36,
+      "text": "Do you think the business model as it currently stands will scale?"
+    },
+    {
+      "start": 280.26,
+      "end": 283.88,
+      "text": "How it is today, probably not to the scale I would want."
+    },
+    {
+      "start": 284.08,
+      "end": 284.28,
+      "text": "Okay."
+    },
+    {
+      "start": 284.56,
+      "end": 287.08,
+      "text": "But, but it can scale to my goal."
+    },
+    {
+      "start": 287.5,
+      "end": 287.72,
+      "text": "Okay."
+    },
+    {
+      "start": 287.98,
+      "end": 289.08,
+      "text": "So you're open to changing some things?"
+    },
+    {
+      "start": 289.14,
+      "end": 289.84,
+      "text": "I'm open, yes."
+    },
+    {
+      "start": 289.88,
+      "end": 290.16,
+      "text": "All right."
+    },
+    {
+      "start": 290.2,
+      "end": 290.26,
+      "text": "Yes."
+    },
+    {
+      "start": 290.3,
+      "end": 290.52,
+      "text": "Cool."
+    },
+    {
+      "start": 290.56,
+      "end": 290.74,
+      "text": "Absolutely."
+    },
+    {
+      "start": 290.74,
+      "end": 290.9,
+      "text": "Let's do it."
+    },
+    {
+      "start": 291.04,
+      "end": 291.32,
+      "text": "Let's rock."
+    },
+    {
+      "start": 295.2,
+      "end": 301.34,
+      "text": "So we're gonna fix this in standard fashion, and by standard fashion, I like doing things back to front."
+    },
+    {
+      "start": 301.64,
+      "end": 306.16,
+      "text": "So we'll fix offer, and then we'll fix the conversion process."
+    },
+    {
+      "start": 306.44,
+      "end": 307.6,
+      "text": "And you're like, \"How's this back to front?\""
+    },
+    {
+      "start": 307.72,
+      "end": 309.24,
+      "text": "Well, this is the thing you deliver, right?"
+    },
+    {
+      "start": 309.6,
+      "end": 309.74,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 310.14,
+      "end": 312.38,
+      "text": "Um, and then we'll go to traffic."
+    },
+    {
+      "start": 313.02,
+      "end": 313.22,
+      "text": "Okay?"
+    },
+    {
+      "start": 314.06,
+      "end": 315.74,
+      "text": "This is kind of our, our three-step approach."
+    },
+    {
+      "start": 316.0,
+      "end": 316.18,
+      "text": "Okay."
+    },
+    {
+      "start": 316.26,
+      "end": 320.82,
+      "text": "So right now, you currently don't have, like, a formal pitch or webinar that you go through."
+    },
+    {
+      "start": 320.84,
+      "end": 323.12,
+      "text": "You do, like, a three to four hour, like, Mondo thing."
+    },
+    {
+      "start": 323.22,
+      "end": 323.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 323.82,
+      "end": 327.04,
+      "text": "And it's only just because I have resistance to creating webinars."
+    },
+    {
+      "start": 327.12,
+      "end": 327.12,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 327.16,
+      "end": 327.3,
+      "text": "Yeah."
+    },
+    {
+      "start": 327.34,
+      "end": 327.6,
+      "text": "Why?"
+    },
+    {
+      "start": 327.72,
+      "end": 327.98,
+      "text": "Um,"
+    },
+    {
+      "start": 329.56,
+      "end": 334.1,
+      "text": "I just, I don't want this to be, sorry for saying this, but, like, bro marketing."
+    },
+    {
+      "start": 334.14,
+      "end": 334.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 334.2,
+      "end": 336.92,
+      "text": "Like, I don't, I don't want people to feel sold to."
+    },
+    {
+      "start": 337.14,
+      "end": 337.38,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 337.76,
+      "end": 339.9,
+      "text": "Um, so- People only feel sold to if it's bad."
+    },
+    {
+      "start": 340.4,
+      "end": 340.6,
+      "text": "Oh."
+    },
+    {
+      "start": 341.32,
+      "end": 342.38,
+      "text": "Like, good selling- Yeah ..."
+    },
+    {
+      "start": 342.52,
+      "end": 342.88,
+      "text": "feels good."
+    },
+    {
+      "start": 343.1,
+      "end": 345.92,
+      "text": "I tried working on a webinar for, like, a few weeks, and I just, like, couldn't finish it."
+    },
+    {
+      "start": 345.94,
+      "end": 348.12,
+      "text": "Well, think about how many things you've bought over the last month."
+    },
+    {
+      "start": 348.86,
+      "end": 350.0,
+      "text": "How many did you feel sold to?"
+    },
+    {
+      "start": 350.76,
+      "end": 351.0,
+      "text": "That's true."
+    },
+    {
+      "start": 351.04,
+      "end": 351.8,
+      "text": "Probably not many."
+    },
+    {
+      "start": 351.86,
+      "end": 352.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 352.34,
+      "end": 355.34,
+      "text": "And every one of those purchases, somebody for sure thought about how to get you to buy."
+    },
+    {
+      "start": 355.7,
+      "end": 355.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 356.04,
+      "end": 356.96,
+      "text": "It's just they did a good job."
+    },
+    {
+      "start": 357.16,
+      "end": 357.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 357.7,
+      "end": 357.8,
+      "text": "Right?"
+    },
+    {
+      "start": 357.86,
+      "end": 360.78,
+      "text": "So just from a belief-breaking perspective, I agree with you, you should not sell poorly."
+    },
+    {
+      "start": 361.0,
+      "end": 361.16,
+      "text": "Yeah."
+    },
+    {
+      "start": 361.3,
+      "end": 361.9,
+      "text": "You should sell well."
+    },
+    {
+      "start": 362.93,
+      "end": 363.09,
+      "text": "Yeah?"
+    },
+    {
+      "start": 363.29,
+      "end": 363.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 363.43,
+      "end": 363.63,
+      "text": "Okay."
+    },
+    {
+      "start": 364.17,
+      "end": 374.63,
+      "text": "So, fundamentally, what's happening is you're probably doing over three to four hours covering the points that could be covered in 45 minutes, and you just don't want to be as structured about it."
+    },
+    {
+      "start": 374.71,
+      "end": 378.45,
+      "text": "And if you're just structured about it, your value per second will go up for the, for the, the parent."
+    },
+    {
+      "start": 378.67,
+      "end": 378.91,
+      "text": "Yeah."
+    },
+    {
+      "start": 378.95,
+      "end": 388.83,
+      "text": "And if your stated goal is that you want to help more parents, having the expectation that they're going to wait two, three hours before hearing about how you can help them, um, is doing a disservice because you're losing half of them anyways."
+    },
+    {
+      "start": 389.33,
+      "end": 391.27,
+      "text": "So, like, I think that does them a disservice- Yeah."
+    },
+    {
+      "start": 391.57,
+      "end": 393.57,
+      "text": "-because of whatever belief that you have about selling poorly."
+    },
+    {
+      "start": 393.77,
+      "end": 394.05,
+      "text": "Yeah."
+    },
+    {
+      "start": 394.11,
+      "end": 394.25,
+      "text": "Right?"
+    },
+    {
+      "start": 394.45,
+      "end": 394.51,
+      "text": "Yeah."
+    },
+    {
+      "start": 394.83,
+      "end": 401.05,
+      "text": "So I think from a-- this is me actually getting into conversion, but I'll, uh, I'll put this here, which is, um, structured"
+    },
+    {
+      "start": 402.73,
+      "end": 403.07,
+      "text": "webinar."
+    },
+    {
+      "start": 403.87,
+      "end": 409.95,
+      "text": "And I think one of the things that holds a lot of people back with webinars is they think that, like, webinars have this very specific- Yeah."
+    },
+    {
+      "start": 410.11,
+      "end": 410.91,
+      "text": "-language pattern."
+    },
+    {
+      "start": 410.95,
+      "end": 413.11,
+      "text": "It's-- No, it's just, it's really clear communication."
+    },
+    {
+      "start": 413.19,
+      "end": 417.81,
+      "text": "It's, let me tell my quick story so that I have some reason why you should listen to me."
+    },
+    {
+      "start": 418.15,
+      "end": 419.79,
+      "text": "There's gonna be a big promise right before that."
+    },
+    {
+      "start": 419.85,
+      "end": 421.97,
+      "text": "That's what you start with, which is like, why the hell are you here?"
+    },
+    {
+      "start": 422.17,
+      "end": 423.63,
+      "text": "What-- Like, why is it worth staying on?"
+    },
+    {
+      "start": 424.33,
+      "end": 424.47,
+      "text": "Right?"
+    },
+    {
+      "start": 424.77,
+      "end": 425.19,
+      "text": "Who am I?"
+    },
+    {
+      "start": 425.79,
+      "end": 435.69,
+      "text": "And then you say, this is the main thing that we're going to talk about, which is then the, the-- call it your, your core, you showing what you shared here was your kind of core transformation that you went through."
+    },
+    {
+      "start": 435.95,
+      "end": 436.83,
+      "text": "This is the old way, new way."
+    },
+    {
+      "start": 436.87,
+      "end": 438.11,
+      "text": "It's a very classic pitch."
+    },
+    {
+      "start": 438.65,
+      "end": 446.49,
+      "text": "Um, I used to do this, this didn't work, and then I discovered a friend of mine, guru comes in, shares the secret knowledge, which was that holistic was the way."
+    },
+    {
+      "start": 446.85,
+      "end": 449.95,
+      "text": "I implemented the stuff, and then I got this great outcome, both internally and externally."
+    },
+    {
+      "start": 450.15,
+      "end": 450.71,
+      "text": "It was amazing."
+    },
+    {
+      "start": 450.99,
+      "end": 455.59,
+      "text": "But it didn't just work for me, it worked for X, Y, and Z as well, because then we're going to hit the different avatars that come up."
+    },
+    {
+      "start": 455.77,
+      "end": 455.95,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 455.97,
+      "end": 461.49,
+      "text": "And so the big three biggest concerns that people have about this is problem number one, problem number two, problem number three."
+    },
+    {
+      "start": 462.13,
+      "end": 465.17,
+      "text": "And then you just systematically break down each of the three problems."
+    },
+    {
+      "start": 465.25,
+      "end": 465.43,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 465.69,
+      "end": 468.85,
+      "text": "And with each one of them, you're going to follow a what they think."
+    },
+    {
+      "start": 470.05,
+      "end": 471.19,
+      "text": "They think this, right?"
+    },
+    {
+      "start": 471.49,
+      "end": 471.63,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 472.21,
+      "end": 473.91,
+      "text": "And then you're going to say, why wrong?"
+    },
+    {
+      "start": 475.05,
+      "end": 475.73,
+      "text": "Why that's not true."
+    },
+    {
+      "start": 476.25,
+      "end": 477.63,
+      "text": "Like, I used to believe this, it's not true."
+    },
+    {
+      "start": 478.47,
+      "end": 478.93,
+      "text": "What's right?"
+    },
+    {
+      "start": 479.81,
+      "end": 480.29,
+      "text": "And then proof."
+    },
+    {
+      "start": 481.01,
+      "end": 481.83,
+      "text": "And proof can be anything."
+    },
+    {
+      "start": 481.89,
+      "end": 486.79,
+      "text": "Proof can be stats, it can be stories, um, anything that just proves the point, and ideally as many forms of proof as you can."
+    },
+    {
+      "start": 487.07,
+      "end": 487.19,
+      "text": "Okay."
+    },
+    {
+      "start": 487.43,
+      "end": 487.61,
+      "text": "Okay?"
+    },
+    {
+      "start": 488.21,
+      "end": 499.77,
+      "text": "So if we can just take our four-hour marathon and turn it into a 45-minute more structured presentation with slides that has visuals to support, because some of them are listening within the background- Yeah."
+    },
+    {
+      "start": 499.77,
+      "end": 500.45,
+      "text": "-all these other things."
+    },
+    {
+      "start": 500.51,
+      "end": 503.71,
+      "text": "If you can have it more visually stimulating, you'll get a higher conversion rate."
+    },
+    {
+      "start": 503.83,
+      "end": 513.61,
+      "text": "Because right now, I think you actually have an avatar that's in a ton of pain and wants to buy because you're converting like 9% right now, which I think you could probably convert double that because you're also selling to a warm audience."
+    },
+    {
+      "start": 514.15,
+      "end": 516.47,
+      "text": "And if you want to scale it, which you're saying you do- Mm-hmm."
+    },
+    {
+      "start": 516.47,
+      "end": 518.65,
+      "text": "-you have to sell to a cold audience."
+    },
+    {
+      "start": 518.79,
+      "end": 523.93,
+      "text": "And so the ads that you're running right now are pretty much just targeting your existing people since most people who are coming in already know who you are."
+    },
+    {
+      "start": 524.09,
+      "end": 524.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 524.59,
+      "end": 526.45,
+      "text": "So we can't sell to people who already know who you are."
+    },
+    {
+      "start": 526.81,
+      "end": 530.57,
+      "text": "You have to sell like they don't know, and then you will sell people who don't know you."
+    },
+    {
+      "start": 530.85,
+      "end": 530.97,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 531.03,
+      "end": 534.77,
+      "text": "But if you sell only like you're selling to people who do know you, then no one who doesn't know you will buy."
+    },
+    {
+      "start": 535.55,
+      "end": 535.75,
+      "text": "Got it."
+    },
+    {
+      "start": 535.77,
+      "end": 536.21,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 536.25,
+      "end": 536.41,
+      "text": "Got it."
+    },
+    {
+      "start": 536.43,
+      "end": 539.15,
+      "text": "You got to sell like it's cold to warm, and it converts everything."
+    },
+    {
+      "start": 539.47,
+      "end": 541.29,
+      "text": "You sell like it's warm to everyone, you only convert warm."
+    },
+    {
+      "start": 541.55,
+      "end": 541.89,
+      "text": "Got it."
+    },
+    {
+      "start": 541.93,
+      "end": 542.09,
+      "text": "Got it."
+    },
+    {
+      "start": 542.09,
+      "end": 542.21,
+      "text": "Okay."
+    },
+    {
+      "start": 542.43,
+      "end": 543.67,
+      "text": "From an offer perspective,"
+    },
+    {
+      "start": 545.97,
+      "end": 548.79,
+      "text": "do you know what your upsell, uh, percentage is from the back end to the front end?"
+    },
+    {
+      "start": 549.01,
+      "end": 549.21,
+      "text": "Ten."
+    },
+    {
+      "start": 549.47,
+      "end": 550.99,
+      "text": "So 10% of people are taking the second offer?"
+    },
+    {
+      "start": 551.23,
+      "end": 551.31,
+      "text": "Yeah."
+    },
+    {
+      "start": 551.85,
+      "end": 552.23,
+      "text": "Hmm."
+    },
+    {
+      "start": 552.75,
+      "end": 554.77,
+      "text": "Any reason you don't just do six month and have it recurring?"
+    },
+    {
+      "start": 556.95,
+      "end": 559.03,
+      "text": "That's a good-- I, I've thought about not doing- Like three and three."
+    },
+    {
+      "start": 559.15,
+      "end": 562.09,
+      "text": "Like three months of intensive, three months of- Aftercare."
+    },
+    {
+      "start": 562.15,
+      "end": 562.97,
+      "text": "-the aftercare, whatever."
+    },
+    {
+      "start": 563.21,
+      "end": 567.07,
+      "text": "And then- And so we want to make the actual conversion to aftercare before aftercare comes up."
+    },
+    {
+      "start": 567.97,
+      "end": 575.97,
+      "text": "So this is also a conversion thing, but sell, upsell during intensive three months, right?"
+    },
+    {
+      "start": 576.01,
+      "end": 584.81,
+      "text": "And ideally, ideally, you want to sell it at the halfway point, and then at like the two-thirds, and then you do a last chance at the end."
+    },
+    {
+      "start": 584.87,
+      "end": 586.09,
+      "text": "So right now, you're only selling here."
+    },
+    {
+      "start": 586.49,
+      "end": 586.67,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 586.89,
+      "end": 588.01,
+      "text": "You want to sell here and here as well."
+    },
+    {
+      "start": 588.47,
+      "end": 590.59,
+      "text": "The more times you ask, the more likely they're going to take the purchase offer."
+    },
+    {
+      "start": 590.61,
+      "end": 590.97,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 591.01,
+      "end": 595.43,
+      "text": "If you sell only at the end, typically, and you're not even selling, you're like kind of mentioning it."
+    },
+    {
+      "start": 595.51,
+      "end": 596.09,
+      "text": "I just mentioned it, yeah."
+    },
+    {
+      "start": 596.11,
+      "end": 596.41,
+      "text": "Right."
+    },
+    {
+      "start": 596.45,
+      "end": 599.73,
+      "text": "If you actually-- If you were to actually just only sell, you usually get about a third."
+    },
+    {
+      "start": 599.93,
+      "end": 602.07,
+      "text": "So you're getting less than that, which is if you just wait to the end."
+    },
+    {
+      "start": 602.23,
+      "end": 602.51,
+      "text": "Got it."
+    },
+    {
+      "start": 602.59,
+      "end": 606.95,
+      "text": "If you wait-- if you go to the halfway point and the, uh, the two-thirds point, you'll be able to get like half or more."
+    },
+    {
+      "start": 607.57,
+      "end": 607.99,
+      "text": "Got it."
+    },
+    {
+      "start": 608.23,
+      "end": 608.43,
+      "text": "Got it."
+    },
+    {
+      "start": 608.47,
+      "end": 608.65,
+      "text": "Okay?"
+    },
+    {
+      "start": 608.81,
+      "end": 611.43,
+      "text": "I actually sell most to the people in the aftercare."
+    },
+    {
+      "start": 611.67,
+      "end": 613.87,
+      "text": "So when they're done closer to the 12th month."
+    },
+    {
+      "start": 613.99,
+      "end": 614.91,
+      "text": "You want to sell them when they're hot."
+    },
+    {
+      "start": 615.29,
+      "end": 615.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 615.55,
+      "end": 616.73,
+      "text": "Because everyone cools off over time."
+    },
+    {
+      "start": 616.81,
+      "end": 616.83,
+      "text": "Yeah."
+    },
+    {
+      "start": 616.85,
+      "end": 619.41,
+      "text": "So you want to sell when the pain is, pain is still elevated, and they're- Yeah."
+    },
+    {
+      "start": 619.67,
+      "end": 623.57,
+      "text": "And ideally, from a buying perspective, you want to sell when they're mid-decision, not making a new decision."
+    },
+    {
+      "start": 624.39,
+      "end": 627.19,
+      "text": "So they're still in flight, and you're like, \"Hey, let's just keep the party going.\""
+    },
+    {
+      "start": 627.33,
+      "end": 629.27,
+      "text": "Not, \"Okay, we finished that thing."
+    },
+    {
+      "start": 629.41,
+      "end": 630.19,
+      "text": "Now, do you want to start the...\""
+    },
+    {
+      "start": 630.23,
+      "end": 631.75,
+      "text": "It's a, it's a different-- it's a heavier sale."
+    },
+    {
+      "start": 632.05,
+      "end": 632.17,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 632.23,
+      "end": 636.49,
+      "text": "And about a third of people will take that offer, but you can get two-thirds or more if you sell during the process."
+    },
+    {
+      "start": 636.83,
+      "end": 637.23,
+      "text": "Got it."
+    },
+    {
+      "start": 637.27,
+      "end": 639.39,
+      "text": "People are always scared of that because they're like, \"But I'm not done yet.\""
+    },
+    {
+      "start": 639.43,
+      "end": 640.01,
+      "text": "It's like, it's okay."
+    },
+    {
+      "start": 640.05,
+      "end": 640.69,
+      "text": "They've already gotten value."
+    },
+    {
+      "start": 640.71,
+      "end": 641.31,
+      "text": "\"I just paid."
+    },
+    {
+      "start": 641.39,
+      "end": 641.89,
+      "text": "I don't want to...\""
+    },
+    {
+      "start": 642.11,
+      "end": 642.69,
+      "text": "It's not like that."
+    },
+    {
+      "start": 642.73,
+      "end": 643.37,
+      "text": "It doesn't work that way."
+    },
+    {
+      "start": 643.43,
+      "end": 649.67,
+      "text": "If you go run a marathon and you buy shoes, and the guy's like, \"Hey, do you want, you know, uh, one of those tank tops to go with it and an iPhone band?\""
+    },
+    {
+      "start": 649.73,
+      "end": 651.55,
+      "text": "You're probably like, \"Well, well, I just bought."
+    },
+    {
+      "start": 651.63,
+      "end": 652.25,
+      "text": "I'm not buying anything.\""
+    },
+    {
+      "start": 652.29,
+      "end": 654.11,
+      "text": "It's like, no, you're still in, you're still in flight, right?"
+    },
+    {
+      "start": 654.31,
+      "end": 658.23,
+      "text": "Now, if you finish the marathon race and they say, \"Do you want an i- an iPhone thing for your wrist?\""
+    },
+    {
+      "start": 658.27,
+      "end": 659.65,
+      "text": "You're like, \"No, I'm, I'm actually pretty good.\""
+    },
+    {
+      "start": 660.29,
+      "end": 660.61,
+      "text": "You get what I'm saying?"
+    },
+    {
+      "start": 660.83,
+      "end": 660.91,
+      "text": "Yeah."
+    },
+    {
+      "start": 661.09,
+      "end": 661.23,
+      "text": "Okay."
+    },
+    {
+      "start": 661.51,
+      "end": 662.17,
+      "text": "Okay."
+    },
+    {
+      "start": 662.27,
+      "end": 663.89,
+      "text": "Um, okay."
+    },
+    {
+      "start": 664.11,
+      "end": 668.27,
+      "text": "So from the offer itself, I think, I think we go 2,500 dollars,"
+    },
+    {
+      "start": 670.29,
+      "end": 671.35,
+      "text": "uh, basically biannually."
+    },
+    {
+      "start": 671.79,
+      "end": 672.65,
+      "text": "Hopefully I'm spelling this right."
+    },
+    {
+      "start": 673.09,
+      "end": 673.81,
+      "text": "I think it's biannually."
+    },
+    {
+      "start": 674.11,
+      "end": 676.13,
+      "text": "If it's not, I'm sure someone in the comments will correct me."
+    },
+    {
+      "start": 676.65,
+      "end": 676.85,
+      "text": "Okay."
+    },
+    {
+      "start": 676.95,
+      "end": 676.95,
+      "text": "Yeah."
+    },
+    {
+      "start": 676.97,
+      "end": 678.81,
+      "text": "So during the launch, does everyone buy through checkout?"
+    },
+    {
+      "start": 679.03,
+      "end": 681.17,
+      "text": "They can buy through checkout, but a lot of them- Do they?"
+    },
+    {
+      "start": 681.91,
+      "end": 683.55,
+      "text": "Uh, about 30%."
+    },
+    {
+      "start": 683.57,
+      "end": 683.93,
+      "text": "Okay."
+    },
+    {
+      "start": 683.95,
+      "end": 684.11,
+      "text": "Yeah."
+    },
+    {
+      "start": 684.15,
+      "end": 684.73,
+      "text": "So a third of them do."
+    },
+    {
+      "start": 684.79,
+      "end": 687.63,
+      "text": "So what I want to do, and this may sound like a little wild- Yeah."
+    },
+    {
+      "start": 687.95,
+      "end": 690.87,
+      "text": "-is I want you to have 2,500 dollars checkout price."
+    },
+    {
+      "start": 691.19,
+      "end": 691.37,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 692.35,
+      "end": 696.27,
+      "text": "And I want to have a 3,000 dollar, uh, one-on-one price."
+    },
+    {
+      "start": 698.85,
+      "end": 701.55,
+      "text": "So if I have to talk to you one-on-one, it's, it's 500 dollars extra."
+    },
+    {
+      "start": 701.59,
+      "end": 706.21,
+      "text": "And it's just because if I were to charge hourly for me consulting with you, it would be 500 dollars an hour."
+    },
+    {
+      "start": 706.47,
+      "end": 706.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 706.87,
+      "end": 710.37,
+      "text": "And so I'll only charge you for one hour, um, to do that."
+    },
+    {
+      "start": 710.79,
+      "end": 714.89,
+      "text": "But this is, if you're like on the fence, let me just already cover all these issues."
+    },
+    {
+      "start": 714.93,
+      "end": 718.35,
+      "text": "Now, I think part of the reason that you're getting all these questions is you don't have a structured webinar."
+    },
+    {
+      "start": 719.43,
+      "end": 721.15,
+      "text": "So you're not having a structured FAQ part."
+    },
+    {
+      "start": 721.45,
+      "end": 721.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 721.49,
+      "end": 721.63,
+      "text": "Right?"
+    },
+    {
+      "start": 721.81,
+      "end": 723.81,
+      "text": "Which then, this is going to go to conversion."
+    },
+    {
+      "start": 724.19,
+      "end": 728.25,
+      "text": "What I want you to do is if you look at all-- you already have all the DMs categorized, right?"
+    },
+    {
+      "start": 728.35,
+      "end": 731.99,
+      "text": "You have like a big data set of all the, all the DM conversations you've had, right?"
+    },
+    {
+      "start": 732.03,
+      "end": 732.11,
+      "text": "Yeah."
+    },
+    {
+      "start": 732.67,
+      "end": 732.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 732.75,
+      "end": 736.39,
+      "text": "I want you to take, call it every single bucket of, of FAQ."
+    },
+    {
+      "start": 736.61,
+      "end": 736.83,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 737.62,
+      "end": 739.46,
+      "text": "And I want you to review it at the end of the webinar."
+    },
+    {
+      "start": 739.78,
+      "end": 744.6,
+      "text": "And what I want you to do is just pull the question behind you or pull it up on the screen and then answer it."
+    },
+    {
+      "start": 745.32,
+      "end": 745.96,
+      "text": "Answer it live?"
+    },
+    {
+      "start": 746.12,
+      "end": 746.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 746.28,
+      "end": 746.48,
+      "text": "Okay."
+    },
+    {
+      "start": 746.58,
+      "end": 746.58,
+      "text": "Okay."
+    },
+    {
+      "start": 746.62,
+      "end": 748.44,
+      "text": "Because, because they have the same questions."
+    },
+    {
+      "start": 748.62,
+      "end": 748.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 749.0,
+      "end": 750.1,
+      "text": "There's, there's no new questions."
+    },
+    {
+      "start": 750.22,
+      "end": 750.3,
+      "text": "It's the same."
+    },
+    {
+      "start": 750.3,
+      "end": 750.3,
+      "text": "It's the same."
+    },
+    {
+      "start": 750.34,
+      "end": 751.14,
+      "text": "There's no new questions."
+    },
+    {
+      "start": 751.26,
+      "end": 751.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 751.62,
+      "end": 756.38,
+      "text": "So the only reason that, like, you have to do this one-on-one is, and it's wasting a ton of your time, is we're just not handling it."
+    },
+    {
+      "start": 756.86,
+      "end": 757.58,
+      "text": "Just handle it up front."
+    },
+    {
+      "start": 758.54,
+      "end": 762.04,
+      "text": "So when we have our think what they think, we have our point, you know, intro,"
+    },
+    {
+      "start": 764.24,
+      "end": 764.7,
+      "text": "promise,"
+    },
+    {
+      "start": 766.84,
+      "end": 773.08,
+      "text": "your intro, which is your story, origin, and we have point one, two, and three of the webinar."
+    },
+    {
+      "start": 773.26,
+      "end": 773.44,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 773.58,
+      "end": 774.24,
+      "text": "Then you have your offer,"
+    },
+    {
+      "start": 776.48,
+      "end": 777.26,
+      "text": "and then you have your FAQ."
+    },
+    {
+      "start": 778.74,
+      "end": 779.94,
+      "text": "And then how many questions?"
+    },
+    {
+      "start": 780.24,
+      "end": 780.8,
+      "text": "As many as there are."
+    },
+    {
+      "start": 781.06,
+      "end": 781.24,
+      "text": "Okay."
+    },
+    {
+      "start": 781.82,
+      "end": 782.56,
+      "text": "Just think about buckets."
+    },
+    {
+      "start": 782.62,
+      "end": 787.52,
+      "text": "Like, I mean, there's, there's probably six flavors or eight flavors or nine, whatever, however many questions there are, like, you answer all of them."
+    },
+    {
+      "start": 787.58,
+      "end": 787.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 787.88,
+      "end": 789.22,
+      "text": "As long as they're on, keep answering."
+    },
+    {
+      "start": 789.62,
+      "end": 789.86,
+      "text": "Okay."
+    },
+    {
+      "start": 790.92,
+      "end": 791.08,
+      "text": "Okay?"
+    },
+    {
+      "start": 791.42,
+      "end": 794.24,
+      "text": "But- Because you're used to doing three or four hours, so like, you just keep answering questions."
+    },
+    {
+      "start": 794.76,
+      "end": 795.3,
+      "text": "I'm dead serious."
+    },
+    {
+      "start": 795.34,
+      "end": 795.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 795.48,
+      "end": 796.02,
+      "text": "Just keep answering."
+    },
+    {
+      "start": 796.2,
+      "end": 797.6,
+      "text": "If they're still on, keep answering questions."
+    },
+    {
+      "start": 797.86,
+      "end": 797.98,
+      "text": "Yeah."
+    },
+    {
+      "start": 798.14,
+      "end": 803.58,
+      "text": "But answer the ones you already know that represent the big-- like, answer it in, in order of greatest percentage of questions."
+    },
+    {
+      "start": 803.74,
+      "end": 803.88,
+      "text": "Okay."
+    },
+    {
+      "start": 804.08,
+      "end": 807.8,
+      "text": "So it's like the majority-- if I only pick one question, it's going to be this one, and that's going to be 40% of people."
+    },
+    {
+      "start": 808.12,
+      "end": 810.64,
+      "text": "And my number two most asked question is going to be this, which is 25% of people."
+    },
+    {
+      "start": 810.68,
+      "end": 812.54,
+      "text": "And then my number three, and then it goes in the long tail."
+    },
+    {
+      "start": 812.78,
+      "end": 813.02,
+      "text": "Got it."
+    },
+    {
+      "start": 813.16,
+      "end": 813.32,
+      "text": "Got it."
+    },
+    {
+      "start": 813.34,
+      "end": 813.58,
+      "text": "Okay?"
+    },
+    {
+      "start": 814.28,
+      "end": 824.06,
+      "text": "The, the problem with, like, having the live parents come here versus my three, four-hour thing is because they take a long time, and it could be like I'll invite up to eight parents."
+    },
+    {
+      "start": 824.28,
+      "end": 824.46,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 824.92,
+      "end": 826.08,
+      "text": "That might be my own problem."
+    },
+    {
+      "start": 826.3,
+      "end": 833.12,
+      "text": "But because that could drag, that could drag this on, like- Oh, that's because you're doing like Zoom calls, not like-- and you're getting 10% of those people to buy?"
+    },
+    {
+      "start": 834.26,
+      "end": 837.92,
+      "text": "10, 10% that come live buy, but every time, like- That's insane."
+    },
+    {
+      "start": 838.12,
+      "end": 843.46,
+      "text": "Even outside the replay for the three, four-hour thing, if someone watches it, and they can truly afford it- Yeah."
+    },
+    {
+      "start": 843.62,
+      "end": 846.24,
+      "text": "They'll, they'll reach out to my-- in my DMs and be like, \"Can I buy?"
+    },
+    {
+      "start": 846.3,
+      "end": 846.84,
+      "text": "Can I get it now?\""
+    },
+    {
+      "start": 846.96,
+      "end": 847.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 847.26,
+      "end": 848.64,
+      "text": "So this is how I'm converting them."
+    },
+    {
+      "start": 848.82,
+      "end": 849.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 849.12,
+      "end": 853.84,
+      "text": "We just need to-- basically, your delivery needs to become your content, and your pitches need to be your pitches."
+    },
+    {
+      "start": 854.02,
+      "end": 855.42,
+      "text": "You're kind of like muddling the two."
+    },
+    {
+      "start": 856.48,
+      "end": 856.62,
+      "text": "Right?"
+    },
+    {
+      "start": 856.94,
+      "end": 857.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 857.22,
+      "end": 859.28,
+      "text": "Just sell when you need to sell, deliver when you need to deliver."
+    },
+    {
+      "start": 860.38,
+      "end": 863.38,
+      "text": "And all that delivery stuff, that becomes content, which I'll get to in a second when we get to traffic."
+    },
+    {
+      "start": 863.48,
+      "end": 863.66,
+      "text": "Okay."
+    },
+    {
+      "start": 863.74,
+      "end": 863.94,
+      "text": "Okay?"
+    },
+    {
+      "start": 864.2,
+      "end": 864.42,
+      "text": "Okay."
+    },
+    {
+      "start": 864.44,
+      "end": 864.94,
+      "text": "How does this feel?"
+    },
+    {
+      "start": 865.54,
+      "end": 869.14,
+      "text": "Um, this 3,000 one- I want to have a reason for them to check out rather than having to DM you."
+    },
+    {
+      "start": 869.96,
+      "end": 871.4,
+      "text": "Oh."
+    },
+    {
+      "start": 871.68,
+      "end": 873.34,
+      "text": "If you want to have a call with me, it'll be 3,000 dollars."
+    },
+    {
+      "start": 873.42,
+      "end": 875.18,
+      "text": "I just add 500 bucks because it costs my time."
+    },
+    {
+      "start": 876.0,
+      "end": 876.5,
+      "text": "So, so, okay."
+    },
+    {
+      "start": 876.58,
+      "end": 878.56,
+      "text": "So when they're checking out, they have these two options."
+    },
+    {
+      "start": 878.58,
+      "end": 878.58,
+      "text": "Yes."
+    },
+    {
+      "start": 878.6,
+      "end": 882.24,
+      "text": "They can either do- So you can just check out now, and if you want to talk to me- Mm-hmm."
+    },
+    {
+      "start": 882.78,
+      "end": 886.04,
+      "text": "Then it's 3,000 dollars, it's extra 500 bucks, and that's just because it's going to take my time."
+    },
+    {
+      "start": 886.08,
+      "end": 886.92,
+      "text": "Oh, extra 500 dollars."
+    },
+    {
+      "start": 886.96,
+      "end": 887.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 887.06,
+      "end": 887.5,
+      "text": "Okay, got it."
+    },
+    {
+      "start": 887.52,
+      "end": 890.3,
+      "text": "Now, I, I know this because everyone's-- and I would just, just state the fact and tell the truth."
+    },
+    {
+      "start": 890.44,
+      "end": 893.84,
+      "text": "Like, I can't physically talk to everyone, and this is why you need more people on those calls."
+    },
+    {
+      "start": 893.88,
+      "end": 896.04,
+      "text": "That's why it's like you're doing eight people at a time, it's just a waste."
+    },
+    {
+      "start": 896.08,
+      "end": 898.02,
+      "text": "Like, let's get 50 people or 100 people on the call."
+    },
+    {
+      "start": 898.22,
+      "end": 898.38,
+      "text": "Yeah."
+    },
+    {
+      "start": 898.7,
+      "end": 902.88,
+      "text": "Have a structured webinar, answer all the questions, make this offer, more people will be willing to buy."
+    },
+    {
+      "start": 903.2,
+      "end": 906.36,
+      "text": "And then it's like, if you're not sure- You're not sure, and you want to talk to me, then- Yeah, go ahead."
+    },
+    {
+      "start": 906.86,
+      "end": 907.04,
+      "text": "Okay."
+    },
+    {
+      "start": 907.52,
+      "end": 914.96,
+      "text": "But what if it's like too many people, or is that offer there because less people, people won't- Well, it's-- the, the goal is that more people don't want to pay the extra 500 dollars."
+    },
+    {
+      "start": 915.04,
+      "end": 915.3,
+      "text": "Got it."
+    },
+    {
+      "start": 915.36,
+      "end": 918.54,
+      "text": "Now, if everyone is-- wants to pay this, then great, we raise our prices."
+    },
+    {
+      "start": 919.52,
+      "end": 920.88,
+      "text": "Because I'm like, I don't want to do one-on-one."
+    },
+    {
+      "start": 920.92,
+      "end": 921.26,
+      "text": "No, great."
+    },
+    {
+      "start": 921.28,
+      "end": 921.88,
+      "text": "But- Yeah, yeah."
+    },
+    {
+      "start": 921.92,
+      "end": 924.36,
+      "text": "Well, but like that-- they're doing it now for-- you're doing it for free right now."
+    },
+    {
+      "start": 924.6,
+      "end": 924.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 924.92,
+      "end": 925.06,
+      "text": "Right."
+    },
+    {
+      "start": 925.12,
+      "end": 928.48,
+      "text": "So like, let's at least get paid for it if you're going to do it, but the goal is to incentivize people to do this."
+    },
+    {
+      "start": 928.74,
+      "end": 929.06,
+      "text": "Got it."
+    },
+    {
+      "start": 929.1,
+      "end": 934.64,
+      "text": "And again, we're selling biannually, so automatically this whole thing is going to switch because they're going to have to opt out rather than opting in."
+    },
+    {
+      "start": 936.18,
+      "end": 936.52,
+      "text": "Got it."
+    },
+    {
+      "start": 936.82,
+      "end": 937.06,
+      "text": "Track?"
+    },
+    {
+      "start": 937.24,
+      "end": 937.5,
+      "text": "Yes."
+    },
+    {
+      "start": 937.62,
+      "end": 937.76,
+      "text": "Okay."
+    },
+    {
+      "start": 937.92,
+      "end": 938.1,
+      "text": "Yes."
+    },
+    {
+      "start": 938.92,
+      "end": 945.26,
+      "text": "So on the conversion process, I think one of the big, uh, one of the big ones is husband slash-- it's mostly female buyers, husband's not there."
+    },
+    {
+      "start": 945.54,
+      "end": 945.64,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 945.64,
+      "end": 945.7,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 946.14,
+      "end": 950.06,
+      "text": "So I would just say give a three-day no sweat, uh, guarantee."
+    },
+    {
+      "start": 950.38,
+      "end": 950.56,
+      "text": "Okay."
+    },
+    {
+      "start": 951.06,
+      "end": 956.48,
+      "text": "Which you legally have to anyways, uh, so people can back out of a purchase, which is that if someone changes their mind, they change their mind."
+    },
+    {
+      "start": 956.66,
+      "end": 956.8,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 956.9,
+      "end": 957.04,
+      "text": "Right?"
+    },
+    {
+      "start": 957.08,
+      "end": 965.84,
+      "text": "And so just say, \"Hey, no worries, buy it, and if for some reason over the next three days you talk to your husband, and he's like, 'I don't want our kid to get better, I want him to stay the same and get worse and like this be a problem forever.'"
+    },
+    {
+      "start": 966.26,
+      "end": 968.44,
+      "text": "If he says that, no worries, just let me know, I'll refund you.\""
+    },
+    {
+      "start": 968.72,
+      "end": 968.9,
+      "text": "Okay."
+    },
+    {
+      "start": 969.66,
+      "end": 969.8,
+      "text": "Right?"
+    },
+    {
+      "start": 969.84,
+      "end": 978.34,
+      "text": "So that way it's like get in, and then that way, um, what we want to do to counteract like potential refunds, which is not going to be high anyways, is you want to do your onboarding ASAP."
+    },
+    {
+      "start": 979.8,
+      "end": 981.3,
+      "text": "So as soon as someone buys- Mm-hmm."
+    },
+    {
+      "start": 981.88,
+      "end": 985.06,
+      "text": "Do the onboarding like the next day, because then the likelihood that they get cold feet goes down."
+    },
+    {
+      "start": 985.52,
+      "end": 985.9,
+      "text": "Got it."
+    },
+    {
+      "start": 985.94,
+      "end": 987.04,
+      "text": "Just give them value as fast as you can."
+    },
+    {
+      "start": 987.44,
+      "end": 987.6,
+      "text": "Okay."
+    },
+    {
+      "start": 987.72,
+      "end": 988.36,
+      "text": "Give value as fast as you can."
+    },
+    {
+      "start": 988.38,
+      "end": 990.94,
+      "text": "Because if they, if they buy and then they get on board, the likelihood they refund is really low."
+    },
+    {
+      "start": 991.3,
+      "end": 992.0,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 992.02,
+      "end": 992.1,
+      "text": "Right?"
+    },
+    {
+      "start": 992.2,
+      "end": 993.4,
+      "text": "So it's like, let's just pull it forward."
+    },
+    {
+      "start": 993.5,
+      "end": 993.9,
+      "text": "Got it."
+    },
+    {
+      "start": 993.96,
+      "end": 994.38,
+      "text": "Got it."
+    },
+    {
+      "start": 994.42,
+      "end": 996.68,
+      "text": "Like, they have three days to do it, but you can deliver ASAP."
+    },
+    {
+      "start": 996.74,
+      "end": 997.25,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 997.32,
+      "end": 997.42,
+      "text": "Right?"
+    },
+    {
+      "start": 997.68,
+      "end": 1003.96,
+      "text": "So on my live events currently, I'll have something like, if you buy while you're on this call, there's a bonus."
+    },
+    {
+      "start": 1004.1,
+      "end": 1004.24,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1004.34,
+      "end": 1005.6,
+      "text": "So should I take that out or..."
+    },
+    {
+      "start": 1006.02,
+      "end": 1008.62,
+      "text": "No, I mean, you can do-- have a price goes up, and there's a bonus."
+    },
+    {
+      "start": 1008.66,
+      "end": 1009.84,
+      "text": "So this is cheaper, and you get more."
+    },
+    {
+      "start": 1010.66,
+      "end": 1010.86,
+      "text": "Okay."
+    },
+    {
+      "start": 1011.18,
+      "end": 1011.48,
+      "text": "Cool?"
+    },
+    {
+      "start": 1011.52,
+      "end": 1011.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 1012.12,
+      "end": 1018.36,
+      "text": "Now, uh, you have this 150 dollar a month thing for like one-on-one with your- It's not with me, yeah."
+    },
+    {
+      "start": 1018.4,
+      "end": 1019.12,
+      "text": "It's my membership."
+    },
+    {
+      "start": 1019.16,
+      "end": 1019.82,
+      "text": "But with your, your team or whatever."
+    },
+    {
+      "start": 1019.86,
+      "end": 1021.0,
+      "text": "Yeah, with my coaching team."
+    },
+    {
+      "start": 1021.1,
+      "end": 1025.2,
+      "text": "So if you're going to do that, you need to make it like five times as expensive or get rid of it."
+    },
+    {
+      "start": 1025.64,
+      "end": 1026.34,
+      "text": "Oh."
+    },
+    {
+      "start": 1026.38,
+      "end": 1027.06,
+      "text": "It's not priced right."
+    },
+    {
+      "start": 1027.7,
+      "end": 1027.96,
+      "text": "Okay."
+    },
+    {
+      "start": 1028.3,
+      "end": 1031.66,
+      "text": "Yeah, because you have one to many, and then it's like for twice the price, you get one-on-one, basically."
+    },
+    {
+      "start": 1032.16,
+      "end": 1032.26,
+      "text": "Right?"
+    },
+    {
+      "start": 1032.32,
+      "end": 1033.52,
+      "text": "So it should be like five times the price."
+    },
+    {
+      "start": 1033.86,
+      "end": 1034.2,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1034.7,
+      "end": 1038.62,
+      "text": "So it's like, think like 8,000, 8,000, 10,000 is what it would be if I wanted to have."
+    },
+    {
+      "start": 1039.18,
+      "end": 1039.84,
+      "text": "People have the money."
+    },
+    {
+      "start": 1040.62,
+      "end": 1041.3,
+      "text": "I promise they do."
+    },
+    {
+      "start": 1041.88,
+      "end": 1043.74,
+      "text": "And that money will allow you to scale up."
+    },
+    {
+      "start": 1046.66,
+      "end": 1049.34,
+      "text": "It just, it like one, it just, it, it-- the math doesn't math."
+    },
+    {
+      "start": 1049.64,
+      "end": 1049.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 1050.2,
+      "end": 1050.94,
+      "text": "But it's not with me."
+    },
+    {
+      "start": 1051.16,
+      "end": 1051.54,
+      "text": "No, I know."
+    },
+    {
+      "start": 1051.68,
+      "end": 1052.24,
+      "text": "It's with my team."
+    },
+    {
+      "start": 1052.32,
+      "end": 1052.46,
+      "text": "I know."
+    },
+    {
+      "start": 1052.5,
+      "end": 1055.4,
+      "text": "It's, it's, it's, it's not about- But it's like, it's like support."
+    },
+    {
+      "start": 1055.6,
+      "end": 1056.26,
+      "text": "It's buying behavior."
+    },
+    {
+      "start": 1056.28,
+      "end": 1057.08,
+      "text": "It's not me."
+    },
+    {
+      "start": 1057.14,
+      "end": 1057.74,
+      "text": "It's buying behavior."
+    },
+    {
+      "start": 1058.3,
+      "end": 1061.7,
+      "text": "So either include the, like, include your base level support, which is what you have without one-on-one."
+    },
+    {
+      "start": 1061.88,
+      "end": 1062.06,
+      "text": "Yeah."
+    },
+    {
+      "start": 1062.32,
+      "end": 1064.74,
+      "text": "And then if they want one-on-one, they have to pay for the one-on-one price."
+    },
+    {
+      "start": 1065.52,
+      "end": 1067.54,
+      "text": "Many people, everybody needs one-on-one, everything."
+    },
+    {
+      "start": 1068.36,
+      "end": 1075.58,
+      "text": "But it just doesn't mean that everyone can afford it, and it's not worth-- it's-- you have a responsibility to the business, and the business has a responsibility to the customers."
+    },
+    {
+      "start": 1075.98,
+      "end": 1078.1,
+      "text": "But your responsibility is to make sure the business survives and grows."
+    },
+    {
+      "start": 1078.4,
+      "end": 1078.62,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1079.16,
+      "end": 1081.1,
+      "text": "And in order for the business to survive and grow, it has to take care of the customer."
+    },
+    {
+      "start": 1081.14,
+      "end": 1082.72,
+      "text": "So it's a, it's a, it's a circle."
+    },
+    {
+      "start": 1083.62,
+      "end": 1084.2,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 1084.26,
+      "end": 1084.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 1084.66,
+      "end": 1084.66,
+      "text": "Yeah."
+    },
+    {
+      "start": 1084.72,
+      "end": 1085.16,
+      "text": "Okay."
+    },
+    {
+      "start": 1085.26,
+      "end": 1088.3,
+      "text": "On the delivery part, so this is on delivery a little bit."
+    },
+    {
+      "start": 1088.78,
+      "end": 1090.82,
+      "text": "Um, you have this Telegram, right?"
+    },
+    {
+      "start": 1090.88,
+      "end": 1092.5,
+      "text": "That you use cohorts in Telegram."
+    },
+    {
+      "start": 1092.54,
+      "end": 1092.68,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1093.34,
+      "end": 1094.46,
+      "text": "You can-- are you familiar with AI?"
+    },
+    {
+      "start": 1094.84,
+      "end": 1095.0,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1095.22,
+      "end": 1095.42,
+      "text": "Okay."
+    },
+    {
+      "start": 1095.82,
+      "end": 1099.14,
+      "text": "So what I would do is I'd vibe code, um, an agent- Mm-hmm."
+    },
+    {
+      "start": 1099.38,
+      "end": 1101.92,
+      "text": "That- Searches the whole Telegram."
+    },
+    {
+      "start": 1102.1,
+      "end": 1102.28,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1103.02,
+      "end": 1112.36,
+      "text": "Uh, and looks for past responses that are similar to the question, and then suggests it to you or your team, and then you can check or exit, and then it sends it."
+    },
+    {
+      "start": 1112.98,
+      "end": 1116.32,
+      "text": "And that way, you're going to dramatically increase the leverage that you have for each of your delivery people."
+    },
+    {
+      "start": 1117.7,
+      "end": 1120.34,
+      "text": "So have the agent send it automatically?"
+    },
+    {
+      "start": 1120.38,
+      "end": 1120.44,
+      "text": "No."
+    },
+    {
+      "start": 1120.54,
+      "end": 1122.48,
+      "text": "So basically, you'll-- I've got a dashboard."
+    },
+    {
+      "start": 1122.64,
+      "end": 1122.9,
+      "text": "Yeah."
+    },
+    {
+      "start": 1122.94,
+      "end": 1123.96,
+      "text": "They don't even have to be in Telegram."
+    },
+    {
+      "start": 1124.08,
+      "end": 1124.28,
+      "text": "Yeah."
+    },
+    {
+      "start": 1124.32,
+      "end": 1124.98,
+      "text": "Like your team."
+    },
+    {
+      "start": 1125.02,
+      "end": 1125.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 1125.12,
+      "end": 1125.78,
+      "text": "They have a dashboard."
+    },
+    {
+      "start": 1126.14,
+      "end": 1134.58,
+      "text": "And then people ask their questions to Telegram because it's convenient for them, but you make it convenient for your team to have them all in one place where it already has suggested answers, and they just reply or edit, so you go way faster."
+    },
+    {
+      "start": 1134.88,
+      "end": 1136.66,
+      "text": "Oh, got it."
+    },
+    {
+      "start": 1137.28,
+      "end": 1137.52,
+      "text": "Okay."
+    },
+    {
+      "start": 1137.88,
+      "end": 1137.88,
+      "text": "Good?"
+    },
+    {
+      "start": 1137.92,
+      "end": 1138.58,
+      "text": "I can do that, yeah."
+    },
+    {
+      "start": 1138.62,
+      "end": 1138.74,
+      "text": "Okay."
+    },
+    {
+      "start": 1139.26,
+      "end": 1140.44,
+      "text": "How frequently are you running webinars?"
+    },
+    {
+      "start": 1140.92,
+      "end": 1143.0,
+      "text": "Once every, every time there's a launch."
+    },
+    {
+      "start": 1143.28,
+      "end": 1143.36,
+      "text": "Okay."
+    },
+    {
+      "start": 1143.4,
+      "end": 1144.38,
+      "text": "So, so that is..."
+    },
+    {
+      "start": 1144.64,
+      "end": 1145.78,
+      "text": "So this is what I would consider doing."
+    },
+    {
+      "start": 1145.98,
+      "end": 1146.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 1146.56,
+      "end": 1148.22,
+      "text": "Once a week, hold a webinar- Uh-huh."
+    },
+    {
+      "start": 1148.22,
+      "end": 1152.66,
+      "text": "-for all the people who DM you and say, \"Hey, I'm doing a live thing with other parents that way you won't feel alone."
+    },
+    {
+      "start": 1153.32,
+      "end": 1153.86,
+      "text": "Come attend.\""
+    },
+    {
+      "start": 1154.26,
+      "end": 1159.32,
+      "text": "And then you can just do the structured webinar once a week, and then mop up everyone that's been in your DMs- Mm-hmm."
+    },
+    {
+      "start": 1159.36,
+      "end": 1160.84,
+      "text": "-and just send reminders to them to show up."
+    },
+    {
+      "start": 1161.26,
+      "end": 1164.8,
+      "text": "That way, you don't have to go into all these long conversations because you're having the same conversation 100 times in a row."
+    },
+    {
+      "start": 1164.86,
+      "end": 1165.08,
+      "text": "Yeah."
+    },
+    {
+      "start": 1165.58,
+      "end": 1165.92,
+      "text": "Okay?"
+    },
+    {
+      "start": 1165.98,
+      "end": 1166.1,
+      "text": "Yeah."
+    },
+    {
+      "start": 1166.4,
+      "end": 1170.52,
+      "text": "And then you still do your launches, that's going to be to paid, but your, your weekly webinar can be organic."
+    },
+    {
+      "start": 1170.9,
+      "end": 1171.06,
+      "text": "Okay."
+    },
+    {
+      "start": 1171.84,
+      "end": 1172.34,
+      "text": "That, that's the other thing."
+    },
+    {
+      "start": 1172.36,
+      "end": 1175.92,
+      "text": "So only, only for the people that are DMing me, or should I- No, I would just-- No."
+    },
+    {
+      "start": 1175.94,
+      "end": 1177.12,
+      "text": "-message the wait list too?"
+    },
+    {
+      "start": 1177.84,
+      "end": 1180.72,
+      "text": "Um, I would just do-- For me, I'd rather just have all the people who are DMing you."
+    },
+    {
+      "start": 1180.94,
+      "end": 1182.32,
+      "text": "I'd use my wait list for the launches."
+    },
+    {
+      "start": 1182.82,
+      "end": 1183.04,
+      "text": "Okay."
+    },
+    {
+      "start": 1183.2,
+      "end": 1184.36,
+      "text": "Because it'd be like more razzle-dazzle."
+    },
+    {
+      "start": 1184.62,
+      "end": 1184.66,
+      "text": "Got it."
+    },
+    {
+      "start": 1184.68,
+      "end": 1186.78,
+      "text": "But you're-- We're trying to account for, like, what happens in between."
+    },
+    {
+      "start": 1186.9,
+      "end": 1187.1,
+      "text": "Got it."
+    },
+    {
+      "start": 1187.14,
+      "end": 1191.52,
+      "text": "So big picture, we're changing from our three-hour-- three to four-hour marathon to a structured webinar."
+    },
+    {
+      "start": 1191.74,
+      "end": 1191.9,
+      "text": "Okay."
+    },
+    {
+      "start": 1192.1,
+      "end": 1193.02,
+      "text": "We're going to follow this structure."
+    },
+    {
+      "start": 1193.8,
+      "end": 1197.76,
+      "text": "We can bring up the people live to do the proof for each of the points if you want to, and that's only for your launches."
+    },
+    {
+      "start": 1198.44,
+      "end": 1199.62,
+      "text": "We'll still use the same webinar."
+    },
+    {
+      "start": 1199.72,
+      "end": 1200.88,
+      "text": "You don't have to have the live people."
+    },
+    {
+      "start": 1201.24,
+      "end": 1203.4,
+      "text": "The upsell timing, we're going to shift, right?"
+    },
+    {
+      "start": 1203.58,
+      "end": 1207.2,
+      "text": "Because we won't even need to because we're going to, we're going to be biannually here anyways."
+    },
+    {
+      "start": 1207.48,
+      "end": 1209.16,
+      "text": "So this might not even be an issue."
+    },
+    {
+      "start": 1209.18,
+      "end": 1212.16,
+      "text": "So the biannual, you don't think it matters whether it's 6 months or 12 months?"
+    },
+    {
+      "start": 1212.52,
+      "end": 1213.12,
+      "text": "Converts the same."
+    },
+    {
+      "start": 1213.18,
+      "end": 1213.52,
+      "text": "That I know."
+    },
+    {
+      "start": 1213.84,
+      "end": 1213.98,
+      "text": "Okay."
+    },
+    {
+      "start": 1214.04,
+      "end": 1214.46,
+      "text": "It converts the same."
+    },
+    {
+      "start": 1214.46,
+      "end": 1216.74,
+      "text": "Because I thought it was like, oh, you get a year, it might be..."
+    },
+    {
+      "start": 1217.78,
+      "end": 1218.42,
+      "text": "Let me say it differently."
+    },
+    {
+      "start": 1219.24,
+      "end": 1221.22,
+      "text": "Do you want to have your tooth pulled out in 5 minutes or 5 hours?"
+    },
+    {
+      "start": 1222.96,
+      "end": 1224.78,
+      "text": "If you can fix your-- fix my kid in half the time- Yeah."
+    },
+    {
+      "start": 1224.78,
+      "end": 1225.66,
+      "text": "-fix my kid in half the time."
+    },
+    {
+      "start": 1225.72,
+      "end": 1225.84,
+      "text": "Yeah."
+    },
+    {
+      "start": 1226.22,
+      "end": 1229.47,
+      "text": "The biannual is still happening on a 6-month basis anyway, so it's automatic."
+    },
+    {
+      "start": 1229.64,
+      "end": 1234.6,
+      "text": "I still want to have a conversion, like, push and reminder because I don't want to bill people without them knowing."
+    },
+    {
+      "start": 1234.74,
+      "end": 1234.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 1234.78,
+      "end": 1235.4,
+      "text": "That's not the goal."
+    },
+    {
+      "start": 1235.6,
+      "end": 1235.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 1235.9,
+      "end": 1240.86,
+      "text": "But we want to have, like-- it's like we want to get the legal right to do it here, but we want to have the psychological right from here."
+    },
+    {
+      "start": 1241.24,
+      "end": 1241.46,
+      "text": "Got it."
+    },
+    {
+      "start": 1241.5,
+      "end": 1241.86,
+      "text": "Does that track?"
+    },
+    {
+      "start": 1242.06,
+      "end": 1242.26,
+      "text": "Got it."
+    },
+    {
+      "start": 1242.32,
+      "end": 1242.44,
+      "text": "Okay."
+    },
+    {
+      "start": 1243.28,
+      "end": 1249.4,
+      "text": "Uh, we're doing this pricing so that we get more people to not DM you and buy immediately, so it'll be a cheaper price and a bonus if they buy on."
+    },
+    {
+      "start": 1249.72,
+      "end": 1253.82,
+      "text": "And if they buy from you one-on-one, then you're like, you don't get the bonus, and it costs more."
+    },
+    {
+      "start": 1253.88,
+      "end": 1257.58,
+      "text": "Now, if you're on the call, you can be like, \"Hey, I'm not supposed to do this, but I'll give you the, the bonus if they, if they ask for it.\""
+    },
+    {
+      "start": 1257.6,
+      "end": 1257.82,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1257.86,
+      "end": 1258.0,
+      "text": "Okay?"
+    },
+    {
+      "start": 1258.06,
+      "end": 1258.32,
+      "text": "Got it."
+    },
+    {
+      "start": 1258.34,
+      "end": 1260.62,
+      "text": "We're going to vibe code delivery, so you get way more leverage from your team."
+    },
+    {
+      "start": 1261.46,
+      "end": 1261.88,
+      "text": "That's all good?"
+    },
+    {
+      "start": 1262.08,
+      "end": 1262.24,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1262.4,
+      "end": 1262.56,
+      "text": "Okay."
+    },
+    {
+      "start": 1263.38,
+      "end": 1267.1,
+      "text": "And we're going to include this little no sweat onto the pitch, and we're going to add our FAQs in."
+    },
+    {
+      "start": 1267.38,
+      "end": 1268.22,
+      "text": "That's all conversion stuff."
+    },
+    {
+      "start": 1268.38,
+      "end": 1268.46,
+      "text": "Okay."
+    },
+    {
+      "start": 1268.52,
+      "end": 1268.72,
+      "text": "Okay."
+    },
+    {
+      "start": 1269.46,
+      "end": 1272.28,
+      "text": "Once we have all this, now we have an offer that's already renewing."
+    },
+    {
+      "start": 1272.48,
+      "end": 1273.52,
+      "text": "We're renewing at the right point."
+    },
+    {
+      "start": 1273.56,
+      "end": 1274.86,
+      "text": "We have a structured conversion process."
+    },
+    {
+      "start": 1274.92,
+      "end": 1276.02,
+      "text": "Delivery got more leverage."
+    },
+    {
+      "start": 1276.3,
+      "end": 1279.7,
+      "text": "We have our FAQs covered, and we have guarantees, so we can, uh, deal with the spouse issue."
+    },
+    {
+      "start": 1280.12,
+      "end": 1281.16,
+      "text": "Now we just need more traffic."
+    },
+    {
+      "start": 1281.36,
+      "end": 1281.58,
+      "text": "Okay?"
+    },
+    {
+      "start": 1282.26,
+      "end": 1283.34,
+      "text": "So this is what I want to do."
+    },
+    {
+      "start": 1284.16,
+      "end": 1284.82,
+      "text": "So how many--"
+    },
+    {
+      "start": 1286.78,
+      "end": 1290.46,
+      "text": "So you have like 200 plus testimonials that you've already captured, which is great."
+    },
+    {
+      "start": 1290.5,
+      "end": 1292.06,
+      "text": "There's like 200 I haven't even posted."
+    },
+    {
+      "start": 1292.12,
+      "end": 1292.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 1292.68,
+      "end": 1292.92,
+      "text": "Yeah."
+    },
+    {
+      "start": 1293.54,
+      "end": 1295.2,
+      "text": "So you have-- Post those."
+    },
+    {
+      "start": 1295.44,
+      "end": 1298.56,
+      "text": "Um, how much, uh, Q&A is there in your delivery?"
+    },
+    {
+      "start": 1299.24,
+      "end": 1299.72,
+      "text": "A lot."
+    },
+    {
+      "start": 1299.96,
+      "end": 1300.16,
+      "text": "Okay."
+    },
+    {
+      "start": 1300.36,
+      "end": 1302.16,
+      "text": "And they're the same questions every cohort."
+    },
+    {
+      "start": 1302.24,
+      "end": 1302.32,
+      "text": "Okay."
+    },
+    {
+      "start": 1302.36,
+      "end": 1302.76,
+      "text": "That's great."
+    },
+    {
+      "start": 1303.22,
+      "end": 1305.02,
+      "text": "So, um, you're familiar with Dave Ramsey?"
+    },
+    {
+      "start": 1305.46,
+      "end": 1305.5,
+      "text": "Yes."
+    },
+    {
+      "start": 1305.52,
+      "end": 1306.0,
+      "text": "Probably."
+    },
+    {
+      "start": 1306.06,
+      "end": 1306.54,
+      "text": "Yes, yes."
+    },
+    {
+      "start": 1306.58,
+      "end": 1311.0,
+      "text": "He-- People get on, and they say, \"I should probably spend less than I'm, than I'm spending.\""
+    },
+    {
+      "start": 1311.18,
+      "end": 1311.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 1311.28,
+      "end": 1312.12,
+      "text": "\"And I should save more money.\""
+    },
+    {
+      "start": 1312.16,
+      "end": 1313.12,
+      "text": "And he says, \"That's a great idea.\""
+    },
+    {
+      "start": 1313.66,
+      "end": 1314.58,
+      "text": "He's been doing it for 45 years."
+    },
+    {
+      "start": 1315.26,
+      "end": 1319.2,
+      "text": "And so even though it's the same question for you, the audience will not perceive it as the same question."
+    },
+    {
+      "start": 1320.12,
+      "end": 1327.78,
+      "text": "And so I want you to take those Q&As, and you can probably have an AI editor just cut it down."
+    },
+    {
+      "start": 1327.82,
+      "end": 1329.36,
+      "text": "Worst case, you can have an offshore editor do it."
+    },
+    {
+      "start": 1329.54,
+      "end": 1329.7,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1329.88,
+      "end": 1332.14,
+      "text": "Uh, because it's a very repeatable cutting process."
+    },
+    {
+      "start": 1332.18,
+      "end": 1332.34,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1332.84,
+      "end": 1336.08,
+      "text": "And I'd love you-- How many, how many, how many Q&As would you say you do per week?"
+    },
+    {
+      "start": 1336.22,
+      "end": 1338.8,
+      "text": "When I say-- I don't mean sessions, I mean actual questions that you're answering."
+    },
+    {
+      "start": 1339.54,
+      "end": 1341.46,
+      "text": "Actual questions, like on the live calls?"
+    },
+    {
+      "start": 1341.5,
+      "end": 1341.62,
+      "text": "Yeah."
+    },
+    {
+      "start": 1342.18,
+      "end": 1343.84,
+      "text": "Probably between 30 to 50."
+    },
+    {
+      "start": 1344.08,
+      "end": 1344.26,
+      "text": "Okay."
+    },
+    {
+      "start": 1344.58,
+      "end": 1344.7,
+      "text": "Yeah."
+    },
+    {
+      "start": 1344.8,
+      "end": 1349.04,
+      "text": "So to me, that means you get 30 to 50 posts a week"
+    },
+    {
+      "start": 1353.08,
+      "end": 1354.1,
+      "text": "just by capturing and editing."
+    },
+    {
+      "start": 1354.54,
+      "end": 1354.54,
+      "text": "Okay."
+    },
+    {
+      "start": 1354.58,
+      "end": 1358.12,
+      "text": "So the whole- So it doesn't matter, like, what we do in the program is, like, being shown out."
+    },
+    {
+      "start": 1359.17,
+      "end": 1359.6,
+      "text": "Doesn't matter."
+    },
+    {
+      "start": 1359.98,
+      "end": 1362.1,
+      "text": "No, because it's going to be so-- it's going to be bite-sized."
+    },
+    {
+      "start": 1362.34,
+      "end": 1364.74,
+      "text": "You also have questions that are coming in from Telegram, right?"
+    },
+    {
+      "start": 1364.78,
+      "end": 1365.6,
+      "text": "And all those questions."
+    },
+    {
+      "start": 1365.92,
+      "end": 1366.04,
+      "text": "Yes, yes."
+    },
+    {
+      "start": 1366.08,
+      "end": 1369.58,
+      "text": "So the ones that get, like, upvoted or have a lot of, like, engagement around it- Mm-hmm."
+    },
+    {
+      "start": 1369.58,
+      "end": 1371.38,
+      "text": "-I would do green screen answers."
+    },
+    {
+      "start": 1372.4,
+      "end": 1372.88,
+      "text": "What does that mean?"
+    },
+    {
+      "start": 1373.54,
+      "end": 1375.38,
+      "text": "So you pull the question behind you."
+    },
+    {
+      "start": 1375.72,
+      "end": 1375.86,
+      "text": "Okay."
+    },
+    {
+      "start": 1376.0,
+      "end": 1376.96,
+      "text": "And you just talk about the question."
+    },
+    {
+      "start": 1377.74,
+      "end": 1377.86,
+      "text": "Okay."
+    },
+    {
+      "start": 1377.94,
+      "end": 1379.1,
+      "text": "You've probably seen reaction videos."
+    },
+    {
+      "start": 1379.56,
+      "end": 1379.62,
+      "text": "Okay."
+    },
+    {
+      "start": 1379.64,
+      "end": 1380.56,
+      "text": "You just react to the question."
+    },
+    {
+      "start": 1380.9,
+      "end": 1381.02,
+      "text": "Okay."
+    },
+    {
+      "start": 1381.08,
+      "end": 1386.56,
+      "text": "This is a question, you know, like, so-- And you can have an AI voice read it, and then you respond, or you can read it and respond."
+    },
+    {
+      "start": 1386.78,
+      "end": 1387.22,
+      "text": "Either way is fine."
+    },
+    {
+      "start": 1387.4,
+      "end": 1387.6,
+      "text": "Okay."
+    },
+    {
+      "start": 1387.94,
+      "end": 1388.32,
+      "text": "Does that track?"
+    },
+    {
+      "start": 1388.36,
+      "end": 1388.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 1388.94,
+      "end": 1390.88,
+      "text": "Just don't start with, \"A lot of people have been asking me this question.\""
+    },
+    {
+      "start": 1390.92,
+      "end": 1391.48,
+      "text": "That's a terrible hook."
+    },
+    {
+      "start": 1391.72,
+      "end": 1392.28,
+      "text": "Okay, don't start with that."
+    },
+    {
+      "start": 1392.48,
+      "end": 1392.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 1392.72,
+      "end": 1392.86,
+      "text": "Okay."
+    },
+    {
+      "start": 1392.92,
+      "end": 1393.58,
+      "text": "Just read the question."
+    },
+    {
+      "start": 1393.7,
+      "end": 1394.18,
+      "text": "Got it, got it."
+    },
+    {
+      "start": 1394.22,
+      "end": 1394.36,
+      "text": "Okay?"
+    },
+    {
+      "start": 1395.08,
+      "end": 1401.14,
+      "text": "Um, when you go on these other platforms, if Instagram is where you're used to converting everyone, push people from those platforms to Instagram."
+    },
+    {
+      "start": 1402.18,
+      "end": 1405.78,
+      "text": "So if you do YouTube Shorts, your description should say, \"DM me on Instagram.\""
+    },
+    {
+      "start": 1406.1,
+      "end": 1406.26,
+      "text": "Okay."
+    },
+    {
+      "start": 1406.84,
+      "end": 1410.14,
+      "text": "If people are on TikTok, have your bio say, \"DM me on Instagram.\""
+    },
+    {
+      "start": 1410.22,
+      "end": 1412.18,
+      "text": "That way, we can just funnel everything to one conversion point."
+    },
+    {
+      "start": 1412.2,
+      "end": 1412.34,
+      "text": "Got it, got it."
+    },
+    {
+      "start": 1412.38,
+      "end": 1414.0,
+      "text": "And then that pushes people to webinar."
+    },
+    {
+      "start": 1414.26,
+      "end": 1414.52,
+      "text": "Got it."
+    },
+    {
+      "start": 1414.76,
+      "end": 1414.94,
+      "text": "Okay."
+    },
+    {
+      "start": 1415.86,
+      "end": 1418.9,
+      "text": "Now, we should probably post the 200 testimonials."
+    },
+    {
+      "start": 1421.56,
+      "end": 1422.92,
+      "text": "But I really want to edit all of them."
+    },
+    {
+      "start": 1423.38,
+      "end": 1425.92,
+      "text": "Well, you-- For all of this, you need to get editing."
+    },
+    {
+      "start": 1426.34,
+      "end": 1426.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 1426.64,
+      "end": 1427.42,
+      "text": "You have the profit."
+    },
+    {
+      "start": 1427.8,
+      "end": 1427.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 1428.1,
+      "end": 1429.82,
+      "text": "You have the profit to do it, and that's not going to cost a lot of money."
+    },
+    {
+      "start": 1430.12,
+      "end": 1431.6,
+      "text": "Now, on"
+    },
+    {
+      "start": 1433.66,
+      "end": 1439.78,
+      "text": "the ad side, these content become ads."
+    },
+    {
+      "start": 1440.86,
+      "end": 1450.04,
+      "text": "Because if we're-- if you're, if you're capturing 30 to 40 posts plus your green screens, we're talking 3, 4, 5 posts a day."
+    },
+    {
+      "start": 1450.16,
+      "end": 1451.16,
+      "text": "That's per platform."
+    },
+    {
+      "start": 1451.2,
+      "end": 1453.34,
+      "text": "So all of a sudden, you're at like 20, 30 posts a day per platform."
+    },
+    {
+      "start": 1453.4,
+      "end": 1454.16,
+      "text": "You're going to be all over the place."
+    },
+    {
+      "start": 1454.42,
+      "end": 1458.36,
+      "text": "Then take the winners from there and run them as ads to your thing."
+    },
+    {
+      "start": 1458.84,
+      "end": 1459.6,
+      "text": "To the webinar."
+    },
+    {
+      "start": 1460.02,
+      "end": 1460.14,
+      "text": "To your launch."
+    },
+    {
+      "start": 1460.14,
+      "end": 1460.86,
+      "text": "To your launch, yeah."
+    },
+    {
+      "start": 1461.02,
+      "end": 1462.42,
+      "text": "To the wait list or the webinar?"
+    },
+    {
+      "start": 1462.94,
+      "end": 1466.76,
+      "text": "Well, you, you're used to-- The launches, I think we do with the ads because you're used to doing that, and that's fine."
+    },
+    {
+      "start": 1466.8,
+      "end": 1466.98,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1467.34,
+      "end": 1469.66,
+      "text": "Um, this I just want to do with organic for now."
+    },
+    {
+      "start": 1469.97,
+      "end": 1470.19,
+      "text": "Okay."
+    },
+    {
+      "start": 1470.71,
+      "end": 1477.73,
+      "text": "Just so-- now, if all of a sudden we, we find out, like, maybe this just turns into a better cycle where you just run ads every week to a webinar that you do once a week, I'm fine with it."
+    },
+    {
+      "start": 1478.45,
+      "end": 1478.67,
+      "text": "Okay."
+    },
+    {
+      "start": 1479.61,
+      "end": 1481.11,
+      "text": "But this is your ad strategy."
+    },
+    {
+      "start": 1481.43,
+      "end": 1481.63,
+      "text": "Okay."
+    },
+    {
+      "start": 1481.85,
+      "end": 1484.01,
+      "text": "So then this goes into the wait list."
+    },
+    {
+      "start": 1484.31,
+      "end": 1484.47,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1484.71,
+      "end": 1484.87,
+      "text": "Okay."
+    },
+    {
+      "start": 1485.61,
+      "end": 1485.75,
+      "text": "Okay."
+    },
+    {
+      "start": 1486.33,
+      "end": 1489.19,
+      "text": "Uh, what we found work is having like a three-second delay"
+    },
+    {
+      "start": 1490.73,
+      "end": 1491.21,
+      "text": "on the banner."
+    },
+    {
+      "start": 1491.75,
+      "end": 1505.19,
+      "text": "So if you have like a CTA, um, that's like, \"Hey, register for my next whatever, my launch,\" would say that, but my, my thing, um, just delay the, the button by like three seconds, like the banner on the, on the video."
+    },
+    {
+      "start": 1505.79,
+      "end": 1506.25,
+      "text": "At the end?"
+    },
+    {
+      "start": 1506.81,
+      "end": 1508.15,
+      "text": "So if the hook starts- Uh-huh."
+    },
+    {
+      "start": 1508.19,
+      "end": 1510.81,
+      "text": "-three seconds, then put your CTA in, and then it can stay there."
+    },
+    {
+      "start": 1511.09,
+      "end": 1511.27,
+      "text": "Okay."
+    },
+    {
+      "start": 1511.51,
+      "end": 1513.37,
+      "text": "We just found that it gets-- it's a higher quality traffic."
+    },
+    {
+      "start": 1513.51,
+      "end": 1513.69,
+      "text": "Okay."
+    },
+    {
+      "start": 1513.95,
+      "end": 1514.71,
+      "text": "Just a little tactic."
+    },
+    {
+      "start": 1514.77,
+      "end": 1514.97,
+      "text": "Okay."
+    },
+    {
+      "start": 1515.31,
+      "end": 1515.79,
+      "text": "How does this feel?"
+    },
+    {
+      "start": 1516.01,
+      "end": 1516.47,
+      "text": "It feels good."
+    },
+    {
+      "start": 1516.83,
+      "end": 1518.49,
+      "text": "But it's funny, it's not what I expected."
+    },
+    {
+      "start": 1518.99,
+      "end": 1518.99,
+      "text": "Oh, yeah?"
+    },
+    {
+      "start": 1519.01,
+      "end": 1521.07,
+      "text": "I was expecting like higher setters."
+    },
+    {
+      "start": 1521.93,
+      "end": 1522.25,
+      "text": "No."
+    },
+    {
+      "start": 1522.99,
+      "end": 1525.13,
+      "text": "I don't even want you in the DMs, ideally."
+    },
+    {
+      "start": 1525.15,
+      "end": 1525.59,
+      "text": "Me neither."
+    },
+    {
+      "start": 1525.87,
+      "end": 1529.21,
+      "text": "I think you can get one, one person to really just point people over to."
+    },
+    {
+      "start": 1529.37,
+      "end": 1529.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 1529.71,
+      "end": 1529.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 1529.73,
+      "end": 1531.73,
+      "text": "Being like, \"Tina's doing this thing,\" da, da, da."
+    },
+    {
+      "start": 1531.85,
+      "end": 1531.89,
+      "text": "Okay."
+    },
+    {
+      "start": 1531.91,
+      "end": 1532.05,
+      "text": "Yeah."
+    },
+    {
+      "start": 1532.05,
+      "end": 1536.17,
+      "text": "You can also, um, hook up, uh, AI now to just respond."
+    },
+    {
+      "start": 1536.35,
+      "end": 1539.85,
+      "text": "So it's already been linked up on Instagram, so it can just respond or- But see, that's one of the things."
+    },
+    {
+      "start": 1539.89,
+      "end": 1543.09,
+      "text": "When people DM me, they're like, \"Holy shit, you're a real person- Yeah."
+    },
+    {
+      "start": 1543.09,
+      "end": 1549.33,
+      "text": "-addressing actual prob--\" You know, like, I don't want that, them to feel-- I'm managing people's feelings again."
+    },
+    {
+      "start": 1549.65,
+      "end": 1549.81,
+      "text": "Yeah."
+    },
+    {
+      "start": 1549.85,
+      "end": 1550.05,
+      "text": "But..."
+    },
+    {
+      "start": 1550.63,
+      "end": 1552.73,
+      "text": "I don't respond to everybody who DMs me."
+    },
+    {
+      "start": 1552.95,
+      "end": 1553.37,
+      "text": "That's true."
+    },
+    {
+      "start": 1553.57,
+      "end": 1554.07,
+      "text": "I don't think."
+    },
+    {
+      "start": 1554.65,
+      "end": 1556.93,
+      "text": "And if I did, I wouldn't be able to help a lot of business owners."
+    },
+    {
+      "start": 1557.73,
+      "end": 1558.45,
+      "text": "I'd be DMing all day."
+    },
+    {
+      "start": 1559.67,
+      "end": 1559.79,
+      "text": "So..."
+    },
+    {
+      "start": 1560.51,
+      "end": 1560.75,
+      "text": "That's true."
+    },
+    {
+      "start": 1560.79,
+      "end": 1561.21,
+      "text": "It's your call."
+    },
+    {
+      "start": 1561.67,
+      "end": 1561.83,
+      "text": "Yeah."
+    },
+    {
+      "start": 1562.43,
+      "end": 1563.57,
+      "text": "I could have a human do it."
+    },
+    {
+      "start": 1563.79,
+      "end": 1563.95,
+      "text": "Yeah."
+    },
+    {
+      "start": 1564.21,
+      "end": 1573.49,
+      "text": "But they probably won't-- like, I'd rather them just-- like, I'd rather them push to you and get a fractionalized version of you than a whole percentage of somebody who's not."
+    },
+    {
+      "start": 1574.45,
+      "end": 1574.83,
+      "text": "Got it."
+    },
+    {
+      "start": 1575.41,
+      "end": 1575.75,
+      "text": "Cool?"
+    },
+    {
+      "start": 1575.81,
+      "end": 1575.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 1576.57,
+      "end": 1577.87,
+      "text": "I mean, this feels pretty straightforward."
+    },
+    {
+      "start": 1577.97,
+      "end": 1578.25,
+      "text": "It's really straightforward."
+    },
+    {
+      "start": 1578.27,
+      "end": 1579.35,
+      "text": "We got our recurring here."
+    },
+    {
+      "start": 1579.39,
+      "end": 1579.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 1579.67,
+      "end": 1580.79,
+      "text": "We need to structure the webinar."
+    },
+    {
+      "start": 1581.29,
+      "end": 1587.05,
+      "text": "We add these elements to the conversion process, expand delivery here, and then we blow the fucking door off the, the front end."
+    },
+    {
+      "start": 1587.27,
+      "end": 1587.47,
+      "text": "Okay."
+    },
+    {
+      "start": 1587.59,
+      "end": 1592.35,
+      "text": "Now, one thing I do want to address is that I think you said you're self-sabotaging or something like that."
+    },
+    {
+      "start": 1593.05,
+      "end": 1600.51,
+      "text": "You making more money means that you are helping more families, and you can help all the families who can't afford it with this."
+    },
+    {
+      "start": 1603.81,
+      "end": 1608.19,
+      "text": "I have helped a zillion more people, business owners who have not paid me than the ones who have."
+    },
+    {
+      "start": 1608.45,
+      "end": 1608.65,
+      "text": "Yeah."
+    },
+    {
+      "start": 1609.05,
+      "end": 1609.57,
+      "text": "And that's fine."
+    },
+    {
+      "start": 1609.77,
+      "end": 1610.19,
+      "text": "I want that."
+    },
+    {
+      "start": 1610.47,
+      "end": 1611.95,
+      "text": "Like, I could never, I could never possibly."
+    },
+    {
+      "start": 1612.21,
+      "end": 1612.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 1612.65,
+      "end": 1612.81,
+      "text": "Right?"
+    },
+    {
+      "start": 1613.63,
+      "end": 1621.65,
+      "text": "So I think if you can just-- you have to just separate out the, \"If I charge, it's bad,\" because I know that you also had some resistance to raising the price."
+    },
+    {
+      "start": 1622.11,
+      "end": 1622.39,
+      "text": "Yeah."
+    },
+    {
+      "start": 1622.45,
+      "end": 1629.69,
+      "text": "I'm-- I mean, like, one of my biggest fears, and I feel silly even saying it, is like, I don't want people to think I'm in it for the money."
+    },
+    {
+      "start": 1630.83,
+      "end": 1633.87,
+      "text": "And that's like- The business is in it to make money, the business is."
+    },
+    {
+      "start": 1634.39,
+      "end": 1635.21,
+      "text": "You own the business."
+    },
+    {
+      "start": 1636.29,
+      "end": 1637.97,
+      "text": "You can be in it for whatever reason you want."
+    },
+    {
+      "start": 1638.39,
+      "end": 1640.27,
+      "text": "The business needs to make a profit in order to grow."
+    },
+    {
+      "start": 1641.81,
+      "end": 1645.97,
+      "text": "And if you want to help more people, it will-- like, you can help more people and make more money- Mm-hmm."
+    },
+    {
+      "start": 1645.97,
+      "end": 1647.01,
+      "text": "-rather than or."
+    },
+    {
+      "start": 1647.63,
+      "end": 1650.11,
+      "text": "Because, um, uh, my friend Taki says this great thing."
+    },
+    {
+      "start": 1650.13,
+      "end": 1653.19,
+      "text": "He says, \"Either you can be a starving artist or you can be a soulless corporation.\""
+    },
+    {
+      "start": 1653.27,
+      "end": 1654.47,
+      "text": "And I think that the beauty is in the middle."
+    },
+    {
+      "start": 1654.83,
+      "end": 1654.95,
+      "text": "Yeah."
+    },
+    {
+      "start": 1655.53,
+      "end": 1659.55,
+      "text": "And so if we make all this stuff, we're helping lots of people for free."
+    },
+    {
+      "start": 1659.99,
+      "end": 1664.51,
+      "text": "But for the percentage of people that want more help, there's a, there's a for-purchase option."
+    },
+    {
+      "start": 1666.53,
+      "end": 1666.71,
+      "text": "Okay."
+    },
+    {
+      "start": 1667.23,
+      "end": 1667.41,
+      "text": "Cool?"
+    },
+    {
+      "start": 1667.67,
+      "end": 1667.81,
+      "text": "Yeah."
+    },
+    {
+      "start": 1668.23,
+      "end": 1668.47,
+      "text": "Okay."
+    },
+    {
+      "start": 1668.89,
+      "end": 1669.09,
+      "text": "All right?"
+    },
+    {
+      "start": 1669.27,
+      "end": 1669.41,
+      "text": "Yeah."
+    },
+    {
+      "start": 1670.85,
+      "end": 1671.15,
+      "text": "Easy."
+    },
+    {
+      "start": 1671.45,
+      "end": 1671.69,
+      "text": "Easy."
+    },
+    {
+      "start": 1671.73,
+      "end": 1671.73,
+      "text": "Easy."
+    },
+    {
+      "start": 1671.93,
+      "end": 1672.19,
+      "text": "Easy."
+    },
+    {
+      "start": 1672.57,
+      "end": 1672.73,
+      "text": "Okay."
+    },
+    {
+      "start": 1673.75,
+      "end": 1674.01,
+      "text": "All right."
+    },
+    {
+      "start": 1674.79,
+      "end": 1675.21,
+      "text": "Doable."
+    },
+    {
+      "start": 1675.71,
+      "end": 1675.97,
+      "text": "All right."
+    },
+    {
+      "start": 1676.07,
+      "end": 1676.47,
+      "text": "Doable."
+    },
+    {
+      "start": 1676.85,
+      "end": 1677.19,
+      "text": "We did it."
+    },
+    {
+      "start": 1681.71,
+      "end": 1681.87,
+      "text": "All right."
+    },
+    {
+      "start": 1681.91,
+      "end": 1683.07,
+      "text": "Let's see where you're at on the scaling roadmap."
+    },
+    {
+      "start": 1684.11,
+      "end": 1684.39,
+      "text": "All right."
+    },
+    {
+      "start": 1684.59,
+      "end": 1684.85,
+      "text": "Let's see."
+    },
+    {
+      "start": 1684.91,
+      "end": 1685.27,
+      "text": "Where are you at?"
+    },
+    {
+      "start": 1685.49,
+      "end": 1687.23,
+      "text": "So you're at-- how many employees do you have?"
+    },
+    {
+      "start": 1688.29,
+      "end": 1690.49,
+      "text": "Uh, not including the coaches, seven."
+    },
+    {
+      "start": 1691.17,
+      "end": 1693.45,
+      "text": "Including the coaches, uh, 12."
+    },
+    {
+      "start": 1694.17,
+      "end": 1694.33,
+      "text": "Okay."
+    },
+    {
+      "start": 1694.41,
+      "end": 1695.71,
+      "text": "So you're probably between these two steps."
+    },
+    {
+      "start": 1695.91,
+      "end": 1700.77,
+      "text": "So between 5 to 9 and 10 to 19 in terms of prioritizing and productizing."
+    },
+    {
+      "start": 1700.99,
+      "end": 1701.19,
+      "text": "Okay."
+    },
+    {
+      "start": 1701.73,
+      "end": 1701.91,
+      "text": "All right."
+    },
+    {
+      "start": 1702.61,
+      "end": 1703.77,
+      "text": "So we probably have a little bit of a mix here."
+    },
+    {
+      "start": 1704.43,
+      "end": 1707.19,
+      "text": "So if we're looking at product, you said yes to anyone who would pay."
+    },
+    {
+      "start": 1708.03,
+      "end": 1708.23,
+      "text": "Yes."
+    },
+    {
+      "start": 1708.47,
+      "end": 1708.73,
+      "text": "Right?"
+    },
+    {
+      "start": 1709.47,
+      "end": 1710.91,
+      "text": "And you're getting feedback from lots of different people."
+    },
+    {
+      "start": 1711.11,
+      "end": 1711.23,
+      "text": "Yes."
+    },
+    {
+      "start": 1711.85,
+      "end": 1714.17,
+      "text": "And so we need to be a little bit more specific about our product."
+    },
+    {
+      "start": 1714.69,
+      "end": 1716.17,
+      "text": "And you already did cut one of them, right?"
+    },
+    {
+      "start": 1716.23,
+      "end": 1718.83,
+      "text": "You had the picky eaters and the, and the, and the Hi Mama."
+    },
+    {
+      "start": 1719.07,
+      "end": 1719.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 1719.89,
+      "end": 1721.47,
+      "text": "We already, we already made that selection, right?"
+    },
+    {
+      "start": 1721.47,
+      "end": 1721.49,
+      "text": "Yes."
+    },
+    {
+      "start": 1721.51,
+      "end": 1723.59,
+      "text": "So you, you kind of partially graduated from here."
+    },
+    {
+      "start": 1723.73,
+      "end": 1723.83,
+      "text": "Yeah."
+    },
+    {
+      "start": 1724.01,
+      "end": 1726.27,
+      "text": "From an unqualified leads perspective, you're like, \"Wow, I'm gonna help everyone.\""
+    },
+    {
+      "start": 1726.39,
+      "end": 1727.27,
+      "text": "That's what we make the content for."
+    },
+    {
+      "start": 1727.33,
+      "end": 1729.41,
+      "text": "And I got rid of all my lower payment plans."
+    },
+    {
+      "start": 1729.45,
+      "end": 1730.57,
+      "text": "I had a 12-month and an 18-month."
+    },
+    {
+      "start": 1730.59,
+      "end": 1731.41,
+      "text": "And I love this for us."
+    },
+    {
+      "start": 1731.63,
+      "end": 1732.25,
+      "text": "I love this for us."
+    },
+    {
+      "start": 1732.39,
+      "end": 1732.57,
+      "text": "All right?"
+    },
+    {
+      "start": 1732.93,
+      "end": 1734.55,
+      "text": "And then same thing, we got rid of the one-on-one."
+    },
+    {
+      "start": 1734.77,
+      "end": 1734.85,
+      "text": "Yeah."
+    },
+    {
+      "start": 1734.95,
+      "end": 1735.87,
+      "text": "Or we're pricing it way higher."
+    },
+    {
+      "start": 1736.19,
+      "end": 1736.85,
+      "text": "Those are our options."
+    },
+    {
+      "start": 1736.91,
+      "end": 1737.09,
+      "text": "Okay."
+    },
+    {
+      "start": 1737.29,
+      "end": 1737.47,
+      "text": "Okay?"
+    },
+    {
+      "start": 1738.01,
+      "end": 1745.55,
+      "text": "Now, from a sales perspective, this-- you have decent tracking, but I think we might be looking over here because now you're at this level."
+    },
+    {
+      "start": 1746.01,
+      "end": 1747.65,
+      "text": "We need to create sales aids and materials."
+    },
+    {
+      "start": 1748.23,
+      "end": 1748.55,
+      "text": "Webinar."
+    },
+    {
+      "start": 1749.05,
+      "end": 1749.15,
+      "text": "Yes."
+    },
+    {
+      "start": 1749.67,
+      "end": 1749.79,
+      "text": "Right?"
+    },
+    {
+      "start": 1749.93,
+      "end": 1755.51,
+      "text": "Install weekly game tape between CS, sales, and marketing, basically making sure that, well, your pro-- this happens more when you have a sales team."
+    },
+    {
+      "start": 1755.59,
+      "end": 1755.71,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1755.73,
+      "end": 1756.79,
+      "text": "So you don't have to worry about that as much."
+    },
+    {
+      "start": 1757.01,
+      "end": 1757.39,
+      "text": "Okay."
+    },
+    {
+      "start": 1757.47,
+      "end": 1760.43,
+      "text": "And the refund rate stuff, we're gonna make sure-- we're gonna onboard a little sooner."
+    },
+    {
+      "start": 1760.69,
+      "end": 1761.73,
+      "text": "That way we don't have to worry about that."
+    },
+    {
+      "start": 1762.03,
+      "end": 1764.35,
+      "text": "All right, so it feels like this is about the, the right thing."
+    },
+    {
+      "start": 1764.47,
+      "end": 1764.57,
+      "text": "Yes."
+    },
+    {
+      "start": 1764.71,
+      "end": 1766.07,
+      "text": "Spend more on niche down messaging."
+    },
+    {
+      "start": 1766.19,
+      "end": 1769.69,
+      "text": "That's all these little videos that we're talking about, which then turns into ads."
+    },
+    {
+      "start": 1769.81,
+      "end": 1769.91,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 1770.57,
+      "end": 1772.45,
+      "text": "So that's what we're doing on the, on the marketing side."
+    },
+    {
+      "start": 1772.65,
+      "end": 1772.87,
+      "text": "Okay."
+    },
+    {
+      "start": 1772.97,
+      "end": 1775.39,
+      "text": "And we don't need to worry about this one for now."
+    },
+    {
+      "start": 1775.65,
+      "end": 1778.65,
+      "text": "And then, uh, build proper CS playbook to onboard and train team answers."
+    },
+    {
+      "start": 1780.71,
+      "end": 1783.45,
+      "text": "It's gonna review all the past ones, make suggestions, and they can just approve."
+    },
+    {
+      "start": 1783.65,
+      "end": 1783.93,
+      "text": "Got it."
+    },
+    {
+      "start": 1785.15,
+      "end": 1786.49,
+      "text": "Does these feel like your problems?"
+    },
+    {
+      "start": 1786.67,
+      "end": 1786.99,
+      "text": "Yeah."
+    },
+    {
+      "start": 1787.05,
+      "end": 1787.33,
+      "text": "Yes."
+    },
+    {
+      "start": 1787.83,
+      "end": 1788.07,
+      "text": "Yes."
+    },
+    {
+      "start": 1788.47,
+      "end": 1795.49,
+      "text": "If you're wa-- if you're watching from home, you can fill out the form, and it'll tell you where you're at and gives tons of videos for every one of these things in a lot more detail."
+    },
+    {
+      "start": 1795.61,
+      "end": 1796.57,
+      "text": "And it's free, so go grab it."
+    },
+    {
+      "start": 1796.97,
+      "end": 1797.47,
+      "text": "Pressure's on."
+    },
+    {
+      "start": 1797.67,
+      "end": 1798.39,
+      "text": "Oh my gosh."
+    },
+    {
+      "start": 1802.19,
+      "end": 1802.37,
+      "text": "All right."
+    },
+    {
+      "start": 1802.57,
+      "end": 1804.55,
+      "text": "And so that was this episode of Scale or Fail."
+    },
+    {
+      "start": 1804.69,
+      "end": 1805.53,
+      "text": "Stay tuned for the next one."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "b4730cb235e19940dc01445b3072655adaad02267f8683d3fa4c754f59ae42e3",
+  "audio_duration_sec": 1808.248163,
+  "elapsed_sec": 34.1,
+  "created": "2026-11-16T16:29:49+00:00"
+}

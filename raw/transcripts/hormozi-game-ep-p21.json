@@ -1,0 +1,832 @@
+{
+  "source_id": "hormozi-game-ep-p21",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.16,
+      "end": 0.98,
+      "text": "What is up, everyone?"
+    },
+    {
+      "start": 1.08,
+      "end": 3.2,
+      "text": "And welcome to the Gym Secrets Podcast."
+    },
+    {
+      "start": 3.36,
+      "end": 5.52,
+      "text": "My name is Alex, and I will be your host."
+    },
+    {
+      "start": 5.94,
+      "end": 16.58,
+      "text": "Um, if you are a gym owner and you are looking to fill your gym and see how we keep getting all these gym owners all these dollars and all these clients, you can go to idonthatemoney.com, and that is only if you do not hate money."
+    },
+    {
+      "start": 16.7,
+      "end": 17.82,
+      "text": "If you do hate money, then please don't go there."
+    },
+    {
+      "start": 18.08,
+      "end": 20.2,
+      "text": "Anyways, anyway, I love that URL."
+    },
+    {
+      "start": 20.44,
+      "end": 27.24,
+      "text": "Anyways, um, so I wanted to continue the discussion we were talking about yesterday, how to sell expensive stuff, and really the sales process in general."
+    },
+    {
+      "start": 27.74,
+      "end": 32.76,
+      "text": "And, um, one of the things that, uh, that, that kind of came up at the very end was the, the two main questions about sales."
+    },
+    {
+      "start": 32.78,
+      "end": 37.5,
+      "text": "And I want to dig into that because, like, if you understand this, then you can basically sell anything, okay?"
+    },
+    {
+      "start": 37.94,
+      "end": 41.34,
+      "text": "And as someone who has, like, and here we go, I'm gonna go toot my own horn."
+    },
+    {
+      "start": 41.82,
+      "end": 46.2,
+      "text": "Um, I've been flown out for 25,000 a day to go help mortgage teams sell more leads."
+    },
+    {
+      "start": 46.34,
+      "end": 48.78,
+      "text": "I've helped info product guys sell more, more phone sales."
+    },
+    {
+      "start": 48.84,
+      "end": 52.62,
+      "text": "We've done high ticket, we've done low ticket, we've done high volume, we've done weight loss, we've done a lot of different stuff."
+    },
+    {
+      "start": 53.28,
+      "end": 53.62,
+      "text": "And"
+    },
+    {
+      "start": 55.3,
+      "end": 61.6,
+      "text": "understanding the nature of this, these two questions, um, is the basis of all persuasion from a sales standpoint."
+    },
+    {
+      "start": 61.66,
+      "end": 62.58,
+      "text": "So I'll dig into them."
+    },
+    {
+      "start": 62.72,
+      "end": 64.02,
+      "text": "So the first question is,"
+    },
+    {
+      "start": 65.76,
+      "end": 77.1,
+      "text": "if I am telling the truth and this program, product, service, et cetera, does what I say it does, is it worth it to you for this price?"
+    },
+    {
+      "start": 77.18,
+      "end": 84.1,
+      "text": "Or does this price make-- you know, like, is this, is that, is that valuable enough that we can get you to do, uh, get you to this promised land, right?"
+    },
+    {
+      "start": 84.72,
+      "end": 90.0,
+      "text": "Now, in the first, uh, podcast or podcast right before this, I kind of said, well, most times they're gonna say yes."
+    },
+    {
+      "start": 90.1,
+      "end": 105.32,
+      "text": "And I thought more about it, and that's, that's not entirely true because sometimes when you're selling, let's say if you're selling a, uh, and I, I've got a friend, Darren Casey, who, um, he sells like 10 to 15,000 dollar 12-week packages as online personal training, okay?"
+    },
+    {
+      "start": 105.7,
+      "end": 106.38,
+      "text": "Super high ticket."
+    },
+    {
+      "start": 106.86,
+      "end": 114.86,
+      "text": "Now, in his case, now if you're doing any kind of like monetization, money, you know, any like, you know, if you're B2B, a lot of times it's gonna be related to bottom line, right?"
+    },
+    {
+      "start": 114.94,
+      "end": 117.82,
+      "text": "So if you're doing business to business sales, bottom line's gonna be really important."
+    },
+    {
+      "start": 117.84,
+      "end": 120.86,
+      "text": "They're gonna wanna know what their ROI is on buying your product or service, right?"
+    },
+    {
+      "start": 120.9,
+      "end": 124.52,
+      "text": "And so it's really clear-cut because then it's like, hey, if this makes you more than you're paying, is that worth it?"
+    },
+    {
+      "start": 124.54,
+      "end": 125.14,
+      "text": "They're gonna say yes."
+    },
+    {
+      "start": 125.16,
+      "end": 129.22,
+      "text": "So that, in that instance, it becomes really clear-cut, but the conviction becomes harder, right?"
+    },
+    {
+      "start": 129.96,
+      "end": 136.46,
+      "text": "Now, in the other way, in, in an emotional selling script, so something where you're selling a service that's really just a benefit to someone, okay?"
+    },
+    {
+      "start": 137.06,
+      "end": 144.76,
+      "text": "Um, one of the things that I found value, and since we, most of our people are gym owners, and this is called the Gym Secrets Podcast, um, the..."
+    },
+    {
+      "start": 146.8,
+      "end": 154.82,
+      "text": "Here are some ways that you can build value for someone who you don't think they are valuing what you're selling, um, as much as they should, okay?"
+    },
+    {
+      "start": 155.4,
+      "end": 158.88,
+      "text": "So one, painting the ideal picture."
+    },
+    {
+      "start": 158.96,
+      "end": 160.6,
+      "text": "First, you ask them what they want, okay?"
+    },
+    {
+      "start": 161.28,
+      "end": 167.9,
+      "text": "And once they tell you what they want, then really what you're gonna do is just enhance that picture, and you're gonna really try and paint it as a picture and emotional experience."
+    },
+    {
+      "start": 167.94,
+      "end": 169.7,
+      "text": "Like, what would it look like?"
+    },
+    {
+      "start": 169.76,
+      "end": 171.38,
+      "text": "So, so Dorothy, right?"
+    },
+    {
+      "start": 171.68,
+      "end": 174.28,
+      "text": "Like, what, like, what do you want to have happen?"
+    },
+    {
+      "start": 174.58,
+      "end": 176.64,
+      "text": "Like, what, you know, and, and this is a famous question."
+    },
+    {
+      "start": 176.64,
+      "end": 182.4,
+      "text": "It's like, if we were, if we were talking six months from now and you're looking back on this conversation, what would have had to have happened for you to be really happy?"
+    },
+    {
+      "start": 182.54,
+      "end": 186.1,
+      "text": "Okay, which is really just about like as-ascribing value."
+    },
+    {
+      "start": 186.26,
+      "end": 187.14,
+      "text": "This is that first question."
+    },
+    {
+      "start": 187.2,
+      "end": 189.62,
+      "text": "Is this like, what do you need to think that this is valuable?"
+    },
+    {
+      "start": 189.84,
+      "end": 190.02,
+      "text": "Okay."
+    },
+    {
+      "start": 190.66,
+      "end": 191.8,
+      "text": "And then they'll tell you."
+    },
+    {
+      "start": 192.02,
+      "end": 194.7,
+      "text": "And in this case, you know, she might say, \"I just really want to lose 30 pounds.\""
+    },
+    {
+      "start": 195.48,
+      "end": 202.12,
+      "text": "And this is where you have like the whole seven layers of why thing, which is, you know, one way of doing it, which is just basically asking why over and over again."
+    },
+    {
+      "start": 202.16,
+      "end": 204.2,
+      "text": "So she's like, \"Okay, why do you want to lose 30 pounds?\""
+    },
+    {
+      "start": 204.24,
+      "end": 206.6,
+      "text": "\"Well, because, uh, I, I feel fat.\""
+    },
+    {
+      "start": 206.68,
+      "end": 206.92,
+      "text": "\"Okay."
+    },
+    {
+      "start": 207.36,
+      "end": 209.02,
+      "text": "Well, what would..."
+    },
+    {
+      "start": 209.3,
+      "end": 213.06,
+      "text": "So is it just losing 30 pounds or like, now when you feel fat, is that influencing other things?"
+    },
+    {
+      "start": 213.1,
+      "end": 214.92,
+      "text": "Do you feel like you're not good, like a good mother?"
+    },
+    {
+      "start": 215.02,
+      "end": 218.44,
+      "text": "You feel like, uh, like you're not being a good wife?"
+    },
+    {
+      "start": 218.5,
+      "end": 220.24,
+      "text": "Like, you know, is it influencing your work?"
+    },
+    {
+      "start": 220.3,
+      "end": 221.8,
+      "text": "Like, tell me more about that,\" right?"
+    },
+    {
+      "start": 222.5,
+      "end": 225.72,
+      "text": "Um, I don't like saying why every time because I think people just get really, you know, annoyed with that."
+    },
+    {
+      "start": 225.9,
+      "end": 227.1,
+      "text": "But like, tell me more about that."
+    },
+    {
+      "start": 227.14,
+      "end": 228.8,
+      "text": "Let's like dig a little bit deeper here, right?"
+    },
+    {
+      "start": 229.18,
+      "end": 232.84,
+      "text": "And eventually you can kind of find the main nuggets, right?"
+    },
+    {
+      "start": 233.74,
+      "end": 240.48,
+      "text": "But with this whole value question, uh, in the, in the context of weight loss, I like to paint the picture more or less,"
+    },
+    {
+      "start": 242.42,
+      "end": 246.88,
+      "text": "if you were 80 years old, there's two main huge priceless things that I like to sell."
+    },
+    {
+      "start": 249.4,
+      "end": 250.0,
+      "text": "Hey, Mozi Nation."
+    },
+    {
+      "start": 250.18,
+      "end": 254.2,
+      "text": "Quick break just to let you know that we've been starting to post on LinkedIn and want to connect with you."
+    },
+    {
+      "start": 254.62,
+      "end": 258.68,
+      "text": "All right, so send me a connection request and note letting me know that you listen to the show, and I will accept it."
+    },
+    {
+      "start": 258.96,
+      "end": 265.2,
+      "text": "If there's anyone you think that we should be connected with, tag them in one of my or Layla's posts, and I will give you all the love in the world."
+    },
+    {
+      "start": 265.46,
+      "end": 266.46,
+      "text": "All right, so let's get back to the show."
+    },
+    {
+      "start": 270.04,
+      "end": 270.28,
+      "text": "One,"
+    },
+    {
+      "start": 271.8,
+      "end": 275.14,
+      "text": "permanent weight loss is the, is like the, is the holy grail, okay?"
+    },
+    {
+      "start": 275.34,
+      "end": 279.78,
+      "text": "So if you can sell permanent weight loss, now mind you, this is a huge caveat, you have to know how to deliver, okay?"
+    },
+    {
+      "start": 280.26,
+      "end": 304.56,
+      "text": "But if you can deliver, right, then you're like, if you lost 25 pounds and you never gained it back, so you're 80 years old and you, you, you feel great, you still have awesome like mobility, you're walking around, you can do all these things, um, and you've kept that weight off your whole life, your 30s, your 40s, your 50s, your 60s, and you've, and you've continued that habit of, of, of this healthy lifestyle."
+    },
+    {
+      "start": 304.62,
+      "end": 309.92,
+      "text": "You sleep better, you're, you're nicer to your spouse, you work harder because you have more energy, all these things."
+    },
+    {
+      "start": 309.96,
+      "end": 311.6,
+      "text": "I'm like, \"What is that worth to you?\""
+    },
+    {
+      "start": 312.22,
+      "end": 312.36,
+      "text": "Right?"
+    },
+    {
+      "start": 312.7,
+      "end": 316.74,
+      "text": "See how much more valuable that is than, hey, like, what if we help you lose 10 pounds?"
+    },
+    {
+      "start": 316.78,
+      "end": 320.72,
+      "text": "Like, well, you can just shed water weight and then gain it back if you really want to, but the, that's not the point, right?"
+    },
+    {
+      "start": 320.76,
+      "end": 321.62,
+      "text": "That's not what they want."
+    },
+    {
+      "start": 322.46,
+      "end": 324.9,
+      "text": "So what is that value to you, right?"
+    },
+    {
+      "start": 325.7,
+      "end": 326.38,
+      "text": "Here's another one."
+    },
+    {
+      "start": 327.76,
+      "end": 339.0,
+      "text": "If every time you walked into a room, you felt like you were like in just unbelievable shape, like you're incredibly toned, like, and like a good one I like to ask is like, uh, in high school, right?"
+    },
+    {
+      "start": 339.56,
+      "end": 341.1,
+      "text": "Uh, what was your weight in high school?"
+    },
+    {
+      "start": 341.14,
+      "end": 343.02,
+      "text": "Now, some people were overweight in high school, but a lot of people weren't."
+    },
+    {
+      "start": 343.18,
+      "end": 346.78,
+      "text": "Like, man, if I could get back to my high school weight, and some women will just be, they, they won't even believe it, right?"
+    },
+    {
+      "start": 346.82,
+      "end": 350.16,
+      "text": "They'll be like, \"I'm never gonna get back to that, but I'd be happy at 150.\""
+    },
+    {
+      "start": 350.78,
+      "end": 355.0,
+      "text": "I'd be like, but I like digging, I'm like, \"But what if we could get you to 130, right?"
+    },
+    {
+      "start": 355.22,
+      "end": 356.04,
+      "text": "And have you toned?\""
+    },
+    {
+      "start": 356.8,
+      "end": 360.94,
+      "text": "And, and like, when you walk into a room, you get double takes because people are like, \"Dang.\""
+    },
+    {
+      "start": 361.65,
+      "end": 366.95,
+      "text": "And depending on where their age is, be like, you know, okay, I won't, I won't go in that."
+    },
+    {
+      "start": 367.29,
+      "end": 368.73,
+      "text": "But age is tricky."
+    },
+    {
+      "start": 369.17,
+      "end": 371.69,
+      "text": "But, uh, you know, if you can get someone to be like, \"Hey, she looks great for her age.\""
+    },
+    {
+      "start": 372.13,
+      "end": 373.81,
+      "text": "Um, that's a terrible caveat."
+    },
+    {
+      "start": 374.11,
+      "end": 382.83,
+      "text": "Anyways, um, but like if you could get back to that, because I'm s- I'm bringing this up because I know we can, because we've done it so many times."
+    },
+    {
+      "start": 383.33,
+      "end": 384.75,
+      "text": "But like, is that something..."
+    },
+    {
+      "start": 384.79,
+      "end": 385.91,
+      "text": "And like you got to stay there."
+    },
+    {
+      "start": 385.95,
+      "end": 392.21,
+      "text": "And not only did you stay there, because people always talk about maintenance, but what about we get you to lose 20 pounds and then you continue to improve?"
+    },
+    {
+      "start": 392.69,
+      "end": 392.87,
+      "text": "Okay?"
+    },
+    {
+      "start": 392.95,
+      "end": 394.17,
+      "text": "Not maintain, but improve."
+    },
+    {
+      "start": 394.53,
+      "end": 397.73,
+      "text": "You grow, you get better, you get stronger, you get leaner, you get more toned, you have more energy."
+    },
+    {
+      "start": 397.79,
+      "end": 399.81,
+      "text": "You continually do this, right?"
+    },
+    {
+      "start": 400.09,
+      "end": 402.43,
+      "text": "And what if those habits start trickling over into other parts of your life?"
+    },
+    {
+      "start": 402.47,
+      "end": 404.27,
+      "text": "Because then you start to know that you have this discipline."
+    },
+    {
+      "start": 404.51,
+      "end": 408.45,
+      "text": "And believe it or not, discipline in this area of your life will carry over to all the other areas of your life."
+    },
+    {
+      "start": 408.81,
+      "end": 408.95,
+      "text": "Okay?"
+    },
+    {
+      "start": 409.01,
+      "end": 410.39,
+      "text": "How you do one thing is how you do everything."
+    },
+    {
+      "start": 410.89,
+      "end": 411.13,
+      "text": "All right?"
+    },
+    {
+      "start": 411.41,
+      "end": 412.91,
+      "text": "And right now you're doing this pretty poorly, right?"
+    },
+    {
+      "start": 412.97,
+      "end": 413.97,
+      "text": "And probably feel guilty about it."
+    },
+    {
+      "start": 414.41,
+      "end": 419.29,
+      "text": "And be like, yeah, I'm like, what if, what if we could give you the habits that could fix that, right?"
+    },
+    {
+      "start": 419.87,
+      "end": 423.73,
+      "text": "What if like you lose those 20 pounds and not only you lose them, but you continue to improve?"
+    },
+    {
+      "start": 424.35,
+      "end": 425.59,
+      "text": "Like, what is that worth to you?"
+    },
+    {
+      "start": 426.01,
+      "end": 426.25,
+      "text": "Okay?"
+    },
+    {
+      "start": 427.17,
+      "end": 428.69,
+      "text": "And then you can throw stones, okay?"
+    },
+    {
+      "start": 429.49,
+      "end": 431.19,
+      "text": "And the throwing stones process would look like this."
+    },
+    {
+      "start": 431.87,
+      "end": 433.29,
+      "text": "You say like, \"Yes, I get there's...\""
+    },
+    {
+      "start": 433.51,
+      "end": 437.85,
+      "text": "Like, you could just starve yourself for, you know, three weeks and then you can lose the same amount of weight, right?"
+    },
+    {
+      "start": 438.51,
+      "end": 438.67,
+      "text": "But"
+    },
+    {
+      "start": 440.21,
+      "end": 441.15,
+      "text": "have you tried to diet before?"
+    },
+    {
+      "start": 441.17,
+      "end": 441.91,
+      "text": "And she's gonna say yes."
+    },
+    {
+      "start": 441.95,
+      "end": 443.39,
+      "text": "I'm like, \"So you've lost weight before in the past?\""
+    },
+    {
+      "start": 443.39,
+      "end": 444.39,
+      "text": "\"Well, yeah, I've lost weight before.\""
+    },
+    {
+      "start": 444.49,
+      "end": 444.85,
+      "text": "Like, okay."
+    },
+    {
+      "start": 445.47,
+      "end": 445.97,
+      "text": "But why are you here?"
+    },
+    {
+      "start": 446.41,
+      "end": 447.59,
+      "text": "Because you gained it back, right?"
+    },
+    {
+      "start": 448.53,
+      "end": 458.91,
+      "text": "So like when you're 80 and you look back on your life, like do you want to just say that you were in shape three or four times in your life for a couple months, maybe a year?"
+    },
+    {
+      "start": 460.33,
+      "end": 460.99,
+      "text": "Do you want to say that?"
+    },
+    {
+      "start": 461.49,
+      "end": 461.73,
+      "text": "No."
+    },
+    {
+      "start": 462.95,
+      "end": 469.55,
+      "text": "Well, if like, if you keep continuing down the path that you're at and you keep doing these one-off things, then like that's what it's gonna be your story."
+    },
+    {
+      "start": 471.11,
+      "end": 472.53,
+      "text": "So like, do you want to change that story?"
+    },
+    {
+      "start": 473.21,
+      "end": 473.89,
+      "text": "And be like, \"Yeah.\""
+    },
+    {
+      "start": 474.47,
+      "end": 475.17,
+      "text": "Like, awesome."
+    },
+    {
+      "start": 476.33,
+      "end": 477.09,
+      "text": "Because we can do that."
+    },
+    {
+      "start": 477.33,
+      "end": 479.67,
+      "text": "Now, if we can help you change that story, imagine this is your story."
+    },
+    {
+      "start": 480.87,
+      "end": 491.05,
+      "text": "Today, you look back and you're like, \"I can't believe I sat there with this guy and I paid all this money to do this thing, but boy am I glad I did because that was the day that everything changed for me."
+    },
+    {
+      "start": 492.97,
+      "end": 498.79,
+      "text": "And my life improved, my, my, my, my, my marriage, my, my work, my, my motherhood."
+    },
+    {
+      "start": 499.11,
+      "end": 502.57,
+      "text": "All of those things improved because I got this one area of my life under control.\""
+    },
+    {
+      "start": 503.17,
+      "end": 507.23,
+      "text": "And like, if you took-- if you could tell that story, how much is that worth to you?"
+    },
+    {
+      "start": 508.01,
+      "end": 510.33,
+      "text": "And I like to care-- I like to be like, \"I'm just being real with you.\""
+    },
+    {
+      "start": 510.53,
+      "end": 511.89,
+      "text": "It's like, \"Is that worth it to you?\""
+    },
+    {
+      "start": 512.49,
+      "end": 513.77,
+      "text": "And then they'll be like, \"Well, yeah."
+    },
+    {
+      "start": 513.97,
+      "end": 516.25,
+      "text": "I mean, if that-- if we could do that, it's worth it to me.\""
+    },
+    {
+      "start": 516.33,
+      "end": 516.83,
+      "text": "Like, boom."
+    },
+    {
+      "start": 516.95,
+      "end": 518.35,
+      "text": "Okay, so we figured out the first question."
+    },
+    {
+      "start": 518.85,
+      "end": 519.01,
+      "text": "Great."
+    },
+    {
+      "start": 519.11,
+      "end": 520.19,
+      "text": "So now they've described the value."
+    },
+    {
+      "start": 520.25,
+      "end": 526.15,
+      "text": "So if I need to build the value up so that I can then get the agreement, then that's-- those are the questions that we're asking in order to do it."
+    },
+    {
+      "start": 526.91,
+      "end": 527.13,
+      "text": "Okay?"
+    },
+    {
+      "start": 527.77,
+      "end": 533.99,
+      "text": "Um, and then we would transition to the second question about believability and conviction that you can deliver on that promise."
+    },
+    {
+      "start": 534.37,
+      "end": 534.55,
+      "text": "Okay?"
+    },
+    {
+      "start": 534.89,
+      "end": 540.37,
+      "text": "Since this, uh, podcast actually took a little bit longer than I thought, um, but I'm really glad I got to dig into that question a little bit more."
+    },
+    {
+      "start": 540.45,
+      "end": 546.05,
+      "text": "I'm gonna make another, uh, podcast, uh, right now, right after this, um, talking about the second question regarding conviction."
+    },
+    {
+      "start": 546.13,
+      "end": 547.49,
+      "text": "So the two main questions."
+    },
+    {
+      "start": 547.77,
+      "end": 551.89,
+      "text": "One, if this does what we say it does, is it worth this price?"
+    },
+    {
+      "start": 552.19,
+      "end": 554.87,
+      "text": "If you're in the B2B space, it's, it's much easier to do."
+    },
+    {
+      "start": 554.93,
+      "end": 557.09,
+      "text": "If you're in the emotional selling space, it's harder to do."
+    },
+    {
+      "start": 557.35,
+      "end": 557.53,
+      "text": "Okay?"
+    },
+    {
+      "start": 557.87,
+      "end": 559.37,
+      "text": "And within weight loss, that's an emotional sale."
+    },
+    {
+      "start": 559.69,
+      "end": 562.07,
+      "text": "So you say, like, \"This is how I would stack the value.\""
+    },
+    {
+      "start": 562.11,
+      "end": 566.01,
+      "text": "You talk long term, you talk permanence, you talk about habits, you talk about all the other areas of life that it trickles."
+    },
+    {
+      "start": 566.05,
+      "end": 569.61,
+      "text": "You talk about building someone's story because what you're really selling is a new identity."
+    },
+    {
+      "start": 570.05,
+      "end": 570.29,
+      "text": "Okay?"
+    },
+    {
+      "start": 570.59,
+      "end": 572.59,
+      "text": "You're selling a new identity."
+    },
+    {
+      "start": 574.11,
+      "end": 574.75,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 574.95,
+      "end": 589.89,
+      "text": "So if you're a gym owner and you like what you hear and you think that, uh, we, we know a thing or two, which we super appreciate, um, and you don't hate money, go to idonthatemoney.com and we will show you how we get gyms from zero to full capacity in 30 days, and we are excited to potentially hop on the phone with you and not sell you anything."
+    },
+    {
+      "start": 590.13,
+      "end": 590.35,
+      "text": "Okay?"
+    },
+    {
+      "start": 590.63,
+      "end": 592.87,
+      "text": "So have a great day, and I'll see you on the flip side."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "8110739fd6a6d54f5bc1a6ed3425fb122f868306b6a849c2cf5427d9248abab6",
+  "audio_duration_sec": 600.659592,
+  "elapsed_sec": 13.2,
+  "created": "2026-11-16T15:23:42+00:00"
+}

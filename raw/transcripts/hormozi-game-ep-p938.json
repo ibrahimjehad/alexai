@@ -1,0 +1,3347 @@
+{
+  "source_id": "hormozi-game-ep-p938",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 3.26,
+      "end": 7.86,
+      "text": "You aren't making as much money as you want because you don't know how to get it from the people who've got it."
+    },
+    {
+      "start": 8.46,
+      "end": 9.4,
+      "text": "My name's Alex Hormozi."
+    },
+    {
+      "start": 9.56,
+      "end": 13.24,
+      "text": "I run a portfolio of companies at acquisition.com that generate over 250 million dollars per year."
+    },
+    {
+      "start": 13.38,
+      "end": 20.18,
+      "text": "I did a book launch 12 weeks ago that did 106 million dollars in sales in a weekend and bros-- broke a Guinness World Record for the fastest-selling non-fiction book of all time."
+    },
+    {
+      "start": 20.74,
+      "end": 31.38,
+      "text": "In this video, I'm going to explain a core shift in my understanding of how getting money actually works and why the rich do in fact get richer, and I'm going to show you the math behind it, and most importantly, how you can gain access to it."
+    },
+    {
+      "start": 35.44,
+      "end": 40.24,
+      "text": "The first reason that you aren't making as much as you want is because you're selling to people who don't have the money to give you."
+    },
+    {
+      "start": 40.76,
+      "end": 42.8,
+      "text": "So think about it like this, and this is really important."
+    },
+    {
+      "start": 43.32,
+      "end": 47.4,
+      "text": "Imagine this pyramid as the representation of earning in the United States."
+    },
+    {
+      "start": 48.7,
+      "end": 51.98,
+      "text": "So all the earnings, so this would probably be 40% of earning, okay?"
+    },
+    {
+      "start": 52.22,
+      "end": 53.28,
+      "text": "40%, that's a lot."
+    },
+    {
+      "start": 53.74,
+      "end": 58.1,
+      "text": "What percentage of the people do you think earn 40% of the income?"
+    },
+    {
+      "start": 58.52,
+      "end": 63.22,
+      "text": "The top 10% earn 40% of the income in the entire US."
+    },
+    {
+      "start": 63.78,
+      "end": 69.9,
+      "text": "Now, that's income, and that's pretty extreme, but it's not even close to the difference when you look at wealth."
+    },
+    {
+      "start": 70.64,
+      "end": 75.18,
+      "text": "So US household net worth, okay, this is the value of their assets,"
+    },
+    {
+      "start": 77.38,
+      "end": 84.36,
+      "text": "last year was 163 trillion dollars."
+    },
+    {
+      "start": 84.94,
+      "end": 86.06,
+      "text": "And you're like, \"Man, how am I going to pay rent?\""
+    },
+    {
+      "start": 86.12,
+      "end": 89.42,
+      "text": "I'm like, \"Let's get some of that 163 trillion.\""
+    },
+    {
+      "start": 89.94,
+      "end": 92.2,
+      "text": "So I want you to imagine that you had 100 dollars, okay?"
+    },
+    {
+      "start": 92.28,
+      "end": 96.28,
+      "text": "So I'm going to equate this 163 trillion is now 100 dollars, okay?"
+    },
+    {
+      "start": 96.34,
+      "end": 100.56,
+      "text": "And we're going to spread it out relative to how it actually is spread within the United States."
+    },
+    {
+      "start": 100.94,
+      "end": 107.04,
+      "text": "One, two, three, four, five, six, seven, eight,"
+    },
+    {
+      "start": 108.8,
+      "end": 109.58,
+      "text": "nine, 10."
+    },
+    {
+      "start": 121.04,
+      "end": 123.18,
+      "text": "One, two, three, four."
+    },
+    {
+      "start": 123.9,
+      "end": 126.7,
+      "text": "One, two, three, four."
+    },
+    {
+      "start": 126.92,
+      "end": 127.48,
+      "text": "That took a second."
+    },
+    {
+      "start": 128.3,
+      "end": 133.32,
+      "text": "So this is 100 people to represent 100 percentiles in terms of net worth in the United States."
+    },
+    {
+      "start": 133.98,
+      "end": 139.94,
+      "text": "This 163 trillion dollars, the bottom 50%, how much do you think they would actually have of it?"
+    },
+    {
+      "start": 140.26,
+      "end": 143.3,
+      "text": "So this bottom 50%, so let's, let's label it, right?"
+    },
+    {
+      "start": 143.62,
+      "end": 144.28,
+      "text": "Bottom 50."
+    },
+    {
+      "start": 147.68,
+      "end": 150.18,
+      "text": "What would they have if there was 100 people to represent this 100 dollars?"
+    },
+    {
+      "start": 151.5,
+      "end": 153.44,
+      "text": "They would have 2 dollars and 50 cents."
+    },
+    {
+      "start": 153.76,
+      "end": 155.36,
+      "text": "I'm just going to use bills because I don't feel like I have any change."
+    },
+    {
+      "start": 155.88,
+      "end": 159.56,
+      "text": "So 2 dollars out of that 100, the bottom 50."
+    },
+    {
+      "start": 161.16,
+      "end": 163.92,
+      "text": "Now, what do you think the next 40% would earn?"
+    },
+    {
+      "start": 164.6,
+      "end": 167.12,
+      "text": "Okay, so now we're talking all the way up to the top 90, all right?"
+    },
+    {
+      "start": 168.54,
+      "end": 173.96,
+      "text": "They're going to have 20, 25, 28 bucks, right?"
+    },
+    {
+      "start": 174.32,
+      "end": 175.56,
+      "text": "That's the next 40."
+    },
+    {
+      "start": 176.0,
+      "end": 177.56,
+      "text": "Remember, we got 100 dollars to distribute here."
+    },
+    {
+      "start": 178.78,
+      "end": 182.06,
+      "text": "Now, what about the next 9%, all right?"
+    },
+    {
+      "start": 182.18,
+      "end": 184.1,
+      "text": "So now we're getting the top 10% of America."
+    },
+    {
+      "start": 184.44,
+      "end": 185.24,
+      "text": "How much do you think they got?"
+    },
+    {
+      "start": 185.9,
+      "end": 192.96,
+      "text": "They got 20, they got 30, they got 35, got 38, all right?"
+    },
+    {
+      "start": 193.58,
+      "end": 196.78,
+      "text": "38 dollars in just this 9%."
+    },
+    {
+      "start": 197.7,
+      "end": 200.1,
+      "text": "Now, you ready for the, the drum roll?"
+    },
+    {
+      "start": 201.8,
+      "end": 204.3,
+      "text": "How much do you think the top 1% has?"
+    },
+    {
+      "start": 205.04,
+      "end": 206.38,
+      "text": "I mean, it's one-tenth, right?"
+    },
+    {
+      "start": 206.46,
+      "end": 208.92,
+      "text": "So like, it can't be more than the other nine, right?"
+    },
+    {
+      "start": 209.12,
+      "end": 210.2,
+      "text": "I mean, you'd think that."
+    },
+    {
+      "start": 211.76,
+      "end": 213.68,
+      "text": "The top one, just the one guy,"
+    },
+    {
+      "start": 215.48,
+      "end": 215.76,
+      "text": "would have"
+    },
+    {
+      "start": 218.36,
+      "end": 219.02,
+      "text": "32 dollars."
+    },
+    {
+      "start": 220.16,
+      "end": 220.66,
+      "text": "One guy."
+    },
+    {
+      "start": 223.66,
+      "end": 224.16,
+      "text": "You can scroll."
+    },
+    {
+      "start": 225.18,
+      "end": 233.22,
+      "text": "Now, this means that this one guy has more than the bottom 90% combined."
+    },
+    {
+      "start": 234.3,
+      "end": 238.28,
+      "text": "This is very important because it has implications for how you do business."
+    },
+    {
+      "start": 239.78,
+      "end": 243.62,
+      "text": "So when you hear me say, \"Sell to the rich, they pay better,\" it's not some pithy statement."
+    },
+    {
+      "start": 243.78,
+      "end": 249.6,
+      "text": "It's reality, and it takes people a very long time to learn this, and people often take years before they actually start to figure this out."
+    },
+    {
+      "start": 249.96,
+      "end": 251.04,
+      "text": "Usually there's belief issues."
+    },
+    {
+      "start": 251.08,
+      "end": 252.06,
+      "text": "They're like, \"No one else could do this.\""
+    },
+    {
+      "start": 252.4,
+      "end": 257.74,
+      "text": "And part of the reason is because everyone they know is poor, and they're like, \"There's no way I could sell something for that price.\""
+    },
+    {
+      "start": 258.08,
+      "end": 263.22,
+      "text": "And so they make stuff against all the other small businesses to compete for these 2 dollars."
+    },
+    {
+      "start": 263.82,
+      "end": 264.82,
+      "text": "Think about that for a second."
+    },
+    {
+      "start": 265.14,
+      "end": 267.74,
+      "text": "You're putting all the resources because you see all these people."
+    },
+    {
+      "start": 267.8,
+      "end": 269.28,
+      "text": "They're the ones that you're brushing shoulders with."
+    },
+    {
+      "start": 269.3,
+      "end": 276.04,
+      "text": "They're the ones that you see in the street every single day, and you're trying to compete and slice these 2 dollars 100 different ways, right?"
+    },
+    {
+      "start": 278.28,
+      "end": 281.34,
+      "text": "If you want to make money, go where the money is."
+    },
+    {
+      "start": 281.96,
+      "end": 284.28,
+      "text": "So let's put this concept on steroids now, all right,"
+    },
+    {
+      "start": 285.84,
+      "end": 287.74,
+      "text": "and actually apply this to doing business."
+    },
+    {
+      "start": 288.26,
+      "end": 290.52,
+      "text": "This is how big companies get big."
+    },
+    {
+      "start": 290.68,
+      "end": 294.92,
+      "text": "They go where the money's at, and this is a breakdown of something called Pareto's principle."
+    },
+    {
+      "start": 295.02,
+      "end": 296.26,
+      "text": "You might have heard of it, 80/20."
+    },
+    {
+      "start": 296.68,
+      "end": 300.54,
+      "text": "It's one of the most powerful concepts in business, and most people still don't understand how to actually apply it."
+    },
+    {
+      "start": 300.86,
+      "end": 302.4,
+      "text": "All right, so I want you to freeze this idea in your head."
+    },
+    {
+      "start": 302.44,
+      "end": 303.3,
+      "text": "Just look at the money here."
+    },
+    {
+      "start": 303.64,
+      "end": 307.08,
+      "text": "2 dollars here, 28 bucks here, 38 here."
+    },
+    {
+      "start": 307.38,
+      "end": 308.86,
+      "text": "Now we're in the top 10%, right?"
+    },
+    {
+      "start": 309.18,
+      "end": 311.72,
+      "text": "And we have another 32 here."
+    },
+    {
+      "start": 312.12,
+      "end": 320.52,
+      "text": "So I said earlier that this one guy is more than the bottom 90, but 69% of all the wealth is just in these 10 people."
+    },
+    {
+      "start": 321.32,
+      "end": 326.84,
+      "text": "If this doesn't change how you do business, you are missing the plot."
+    },
+    {
+      "start": 327.8,
+      "end": 329.74,
+      "text": "Okay, so let's translate this."
+    },
+    {
+      "start": 330.2,
+      "end": 348.08,
+      "text": "So the idea of 80/20 is that Pareto, who was I think an Italian economist, realized that there was this pattern that existed, like 20% of customers or 80% of customers, uh, you know, 20% of customers created 80% of the revenue, uh, and he just noticed this 80/20, you know, kind of issue that continued to, uh, occur within all different types of data sets."
+    },
+    {
+      "start": 348.8,
+      "end": 349.9,
+      "text": "And so that became his principle."
+    },
+    {
+      "start": 350.08,
+      "end": 351.9,
+      "text": "Now, here's where this gets really interesting."
+    },
+    {
+      "start": 353.1,
+      "end": 360.64,
+      "text": "So within business, it totally rings true, where 20% of your customers will be responsible for 80% of your profits, right?"
+    },
+    {
+      "start": 361.38,
+      "end": 367.58,
+      "text": "And then here's where people miss the next point, is that within this 80, within this 80%-"
+    },
+    {
+      "start": 370.37,
+      "end": 380.47,
+      "text": "64% of the aggregate profit, right, comes from just 4% of the people in there, 4 customers if you had 100."
+    },
+    {
+      "start": 381.21,
+      "end": 388.75,
+      "text": "And then of this 64, 51% of the profit comes from just the top 1%."
+    },
+    {
+      "start": 389.73,
+      "end": 400.55,
+      "text": "Now, doesn't that all of a sudden start to make sense when you look at how the wealth is distributed, that the wealth is distributed in a way that also makes sense that the business would get in its profits in that way, right?"
+    },
+    {
+      "start": 401.43,
+      "end": 405.47,
+      "text": "And so we repeat this process, and this is kind of power law within business."
+    },
+    {
+      "start": 405.55,
+      "end": 408.29,
+      "text": "This is how you do less and make more."
+    },
+    {
+      "start": 409.57,
+      "end": 420.57,
+      "text": "And so when we talk about profit, because that's the, you know, literally the bottom line at the end of the day, profit takes into account the fact that a single person often doesn't cost that much more to handle than the other 99."
+    },
+    {
+      "start": 421.03,
+      "end": 423.57,
+      "text": "So it's more work, but significantly more profitable."
+    },
+    {
+      "start": 424.07,
+      "end": 432.41,
+      "text": "Now, this is only true under one very important commi- condition, that you actually have a business model that allows them to pay more, right?"
+    },
+    {
+      "start": 432.57,
+      "end": 446.23,
+      "text": "If you just only charge 10 dollars for your thing, like, this is one of my favorite sayings is, \"The only thing worse than offering a 1,000 dollar thing to somebody who's got a 100 dollar budget is offering a 100 dollar thing to somebody who's got a 1,000 dollar budget.\""
+    },
+    {
+      "start": 446.77,
+      "end": 448.63,
+      "text": "In the first scenario, you lose 100 bucks."
+    },
+    {
+      "start": 448.79,
+      "end": 450.73,
+      "text": "In the second, you lose 900."
+    },
+    {
+      "start": 452.41,
+      "end": 453.01,
+      "text": "Big difference."
+    },
+    {
+      "start": 453.63,
+      "end": 454.51,
+      "text": "And so here's the important thing."
+    },
+    {
+      "start": 455.01,
+      "end": 460.35,
+      "text": "If you have a model that allows for that, you have to understand that 99 out of 100 people are not the top 1%, right?"
+    },
+    {
+      "start": 460.63,
+      "end": 461.51,
+      "text": "If we're pulling back here,"
+    },
+    {
+      "start": 463.43,
+      "end": 469.91,
+      "text": "all these people are not the top 1%, so you should expect them to say no to your expensive products and services."
+    },
+    {
+      "start": 470.35,
+      "end": 475.43,
+      "text": "But when that whale comes, you should want to Captain Ahab that bitch and get it done."
+    },
+    {
+      "start": 476.03,
+      "end": 488.77,
+      "text": "Now, to be clear, this is just one of the principles at just one of the areas in the scaling roadmap, I'm not going to tell you which one it is, uh, where you actually have to reconsider your pricing and your products for your services so you can generate more profit per person, right?"
+    },
+    {
+      "start": 488.81,
+      "end": 492.17,
+      "text": "And every business gets stuck at specific points in their journey."
+    },
+    {
+      "start": 492.29,
+      "end": 495.49,
+      "text": "And so my team and I put the 100 Million Dollar Scaling Roadmap together."
+    },
+    {
+      "start": 495.57,
+      "end": 496.35,
+      "text": "It's 100% free."
+    },
+    {
+      "start": 496.73,
+      "end": 501.07,
+      "text": "Just put your information in, and it'll show you where you're at and what you need to do next to get the next level of scale."
+    },
+    {
+      "start": 501.33,
+      "end": 503.25,
+      "text": "We've done this a lot of times across a lot of different companies."
+    },
+    {
+      "start": 503.29,
+      "end": 504.05,
+      "text": "It's my gift to you."
+    },
+    {
+      "start": 504.37,
+      "end": 504.93,
+      "text": "Go grab it."
+    },
+    {
+      "start": 505.41,
+      "end": 506.35,
+      "text": "Like, it's really good."
+    },
+    {
+      "start": 506.85,
+      "end": 508.47,
+      "text": "We have 250,000 businesses going through it."
+    },
+    {
+      "start": 508.49,
+      "end": 509.63,
+      "text": "We have a ton of data to work off of."
+    },
+    {
+      "start": 509.95,
+      "end": 517.67,
+      "text": "Like, we break it down to product, marketing, sales, customer service, um, IT, recruiting, uh, HR, and finance, right?"
+    },
+    {
+      "start": 517.99,
+      "end": 523.65,
+      "text": "How-- what you need to do, what's stopping you from doing it, and how to get through, all the way through."
+    },
+    {
+      "start": 524.11,
+      "end": 525.47,
+      "text": "So it's free, my gift to you."
+    },
+    {
+      "start": 525.65,
+      "end": 525.93,
+      "text": "Enjoy."
+    },
+    {
+      "start": 526.19,
+      "end": 526.79,
+      "text": "Now let's get back to it."
+    },
+    {
+      "start": 527.33,
+      "end": 538.13,
+      "text": "And so the reason I talk about selling to these, the top 1%, is that one of the most effective ways to build a business is from the top down."
+    },
+    {
+      "start": 538.85,
+      "end": 539.73,
+      "text": "So what do I mean by that?"
+    },
+    {
+      "start": 539.77,
+      "end": 540.99,
+      "text": "Like, think about like Tesla, right?"
+    },
+    {
+      "start": 541.07,
+      "end": 547.15,
+      "text": "We started with a 250,000 dollar Roadster, and he had a very limited production, very few people, more profitability per."
+    },
+    {
+      "start": 547.75,
+      "end": 548.45,
+      "text": "What then happens?"
+    },
+    {
+      "start": 548.69,
+      "end": 555.03,
+      "text": "Well, then he was able to make the, you know, Model S, and that was the next car, and then he made the Model 3 or Model Y, whatever."
+    },
+    {
+      "start": 555.27,
+      "end": 556.45,
+      "text": "So he kept working his way down."
+    },
+    {
+      "start": 556.85,
+      "end": 561.05,
+      "text": "But what's interesting about this is that when you anchor high, it makes sense."
+    },
+    {
+      "start": 561.09,
+      "end": 562.79,
+      "text": "Think about it from a branding narrative perspective."
+    },
+    {
+      "start": 562.83,
+      "end": 564.49,
+      "text": "If I say, \"Hey, I've got this really expensive car."
+    },
+    {
+      "start": 564.55,
+      "end": 564.97,
+      "text": "It's amazing."
+    },
+    {
+      "start": 565.01,
+      "end": 565.51,
+      "text": "It's super fast.\""
+    },
+    {
+      "start": 565.79,
+      "end": 571.15,
+      "text": "And then I say, \"Hey, guys, many of you couldn't afford this, so I made another car that's similar but more affordable for you.\""
+    },
+    {
+      "start": 571.81,
+      "end": 574.37,
+      "text": "That, that brand narrative works because you anchored high."
+    },
+    {
+      "start": 574.51,
+      "end": 575.37,
+      "text": "Now think about the reverse."
+    },
+    {
+      "start": 575.67,
+      "end": 580.15,
+      "text": "\"Hey, I'm a, I'm a budget discounter, and I'm gonna now sell a really expensive car.\""
+    },
+    {
+      "start": 580.73,
+      "end": 582.81,
+      "text": "It doesn't, it doesn't hit the same, right?"
+    },
+    {
+      "start": 583.01,
+      "end": 597.95,
+      "text": "And so I love the top-down approach because you have a brand reinforcer, but also from an operational perspective, being able to ship the amount of cars he has to ship for the, the Model 3 compared to the amount that he had to do for the Roadster, it made more sense to start here because you can handle the volume, right?"
+    },
+    {
+      "start": 597.99,
+      "end": 602.05,
+      "text": "You might not have the operations to handle the amount of work that it requires to serve the masses."
+    },
+    {
+      "start": 602.35,
+      "end": 605.29,
+      "text": "Like, for sure, there is money, right, at the bottom."
+    },
+    {
+      "start": 605.39,
+      "end": 605.83,
+      "text": "There is."
+    },
+    {
+      "start": 606.17,
+      "end": 610.37,
+      "text": "But you have to be doing it at very small razor-thin margins with extraordinary volume."
+    },
+    {
+      "start": 610.69,
+      "end": 620.33,
+      "text": "And unless you have the capital to create something that truly scales to that mass, you will probably just end up trying to squeeze the 2 dollars for more than what, what they're worth, all right?"
+    },
+    {
+      "start": 620.91,
+      "end": 625.25,
+      "text": "And so how do we actually translate this into pricing our products and services?"
+    },
+    {
+      "start": 625.51,
+      "end": 626.61,
+      "text": "This is super important."
+    },
+    {
+      "start": 627.19,
+      "end": 635.65,
+      "text": "So here's my rule of thumb for upsells, taking into account that 20% of customers have far more spending power than the ones below."
+    },
+    {
+      "start": 635.73,
+      "end": 638.69,
+      "text": "Now remember, we had 2 dollars here, and the next level had 28."
+    },
+    {
+      "start": 638.77,
+      "end": 642.87,
+      "text": "So it's 14 times more wealth between just the bottom 50 and the next 40."
+    },
+    {
+      "start": 643.43,
+      "end": 651.29,
+      "text": "But just using the Pareto principle in terms of how we can apply this to pricing, like, you not understanding this is why your business is not making as pro- much profit as you want, all right?"
+    },
+    {
+      "start": 651.99,
+      "end": 657.83,
+      "text": "So my rule of thumb is that for every new tier, is that you want to 5 to 10X your price"
+    },
+    {
+      "start": 659.99,
+      "end": 662.89,
+      "text": "and expect 20% of people to take it."
+    },
+    {
+      "start": 663.41,
+      "end": 664.21,
+      "text": "So here's how it works."
+    },
+    {
+      "start": 664.43,
+      "end": 666.33,
+      "text": "So let's say that you sell 10 customers."
+    },
+    {
+      "start": 666.53,
+      "end": 667.73,
+      "text": "Okay, so you sell 10 customers."
+    },
+    {
+      "start": 667.81,
+      "end": 668.31,
+      "text": "Do, do, do."
+    },
+    {
+      "start": 668.67,
+      "end": 669.29,
+      "text": "Let's do it again."
+    },
+    {
+      "start": 670.35,
+      "end": 675.07,
+      "text": "Now, if you have 8 of these customers at 10 dollars per month,"
+    },
+    {
+      "start": 678.05,
+      "end": 681.11,
+      "text": "and you've got 2 of them at 50 dollars per month,"
+    },
+    {
+      "start": 682.83,
+      "end": 684.23,
+      "text": "how much am I making on these guys?"
+    },
+    {
+      "start": 684.47,
+      "end": 694.81,
+      "text": "I'm making 80 dollars per month in total on the bottom 80, and then I'm making 100 dollars per month on my top 20%, or my top 2."
+    },
+    {
+      "start": 695.39,
+      "end": 702.73,
+      "text": "And so by serving these 2 customers differently, we doubled the revenue of the business, which by the way, again, is my rule of thumb."
+    },
+    {
+      "start": 703.19,
+      "end": 704.27,
+      "text": "I want each tier"
+    },
+    {
+      "start": 706.13,
+      "end": 709.59,
+      "text": "to be-- to bring me another double, like another full amount of revenue."
+    },
+    {
+      "start": 709.81,
+      "end": 714.71,
+      "text": "Otherwise, I'm like, I don't know if it's worth creating the actual extra constraint of operations, right?"
+    },
+    {
+      "start": 715.31,
+      "end": 716.67,
+      "text": "But here's where it gets even nastier."
+    },
+    {
+      "start": 717.31,
+      "end": 720.11,
+      "text": "Let's say that this covers the majority of our overhead."
+    },
+    {
+      "start": 720.87,
+      "end": 726.93,
+      "text": "That means that this extra 100 dollars might contribute 10 to 1 compared to this to our bottom line."
+    },
+    {
+      "start": 727.39,
+      "end": 736.55,
+      "text": "And so sometimes when you make a move like this, if you were here and you had 80 dollars and you were living your life on this 80, right, it's like, well, maybe your, your, your cost is 70, and you're taking 10 home."
+    },
+    {
+      "start": 737.11,
+      "end": 743.57,
+      "text": "If you add this 100 dollars in, and maybe the cost on this is 20, you've got 80 left over, we 5X the profit."
+    },
+    {
+      "start": 743.63,
+      "end": 745.59,
+      "text": "So let's say our profit before this was 10 a month."
+    },
+    {
+      "start": 747.39,
+      "end": 751.93,
+      "text": "And then we add this in, and we get 80 dollars a month in profit from this 100, right?"
+    },
+    {
+      "start": 752.63,
+      "end": 754.77,
+      "text": "Look at the difference in profit."
+    },
+    {
+      "start": 754.95,
+      "end": 757.73,
+      "text": "We go from 10 to 90"
+    },
+    {
+      "start": 759.51,
+      "end": 761.13,
+      "text": "just by adding this tier."
+    },
+    {
+      "start": 761.71,
+      "end": 770.73,
+      "text": "And so the reason your business is not making you this money, and you're not making as much money as you want, is because you're not priced appropriately for the people who actually have the money to give you."
+    },
+    {
+      "start": 771.21,
+      "end": 772.51,
+      "text": "And so this is what everyone messes up."
+    },
+    {
+      "start": 772.55,
+      "end": 775.53,
+      "text": "They say, \"Hey, this is going to be my three pricing tiers,\" right?"
+    },
+    {
+      "start": 775.83,
+      "end": 785.39,
+      "text": "\"I'm going to have a 100 dollar a month thing, and I'm going to have a 129 dollar a month thing, and I'm going to have a 100 and, you know, 39 dollar a month thing.\""
+    },
+    {
+      "start": 786.23,
+      "end": 786.91,
+      "text": "Okay, great."
+    },
+    {
+      "start": 787.91,
+      "end": 789.41,
+      "text": "This is all the same price."
+    },
+    {
+      "start": 790.31,
+      "end": 794.23,
+      "text": "It's a lot for a normie, and just not a lot for everyone in the top 10%."
+    },
+    {
+      "start": 795.17,
+      "end": 799.51,
+      "text": "And so to maximize revenue, you can think of it with four tiers of pricing."
+    },
+    {
+      "start": 799.55,
+      "end": 804.47,
+      "text": "And to be clear, you don't need to serve everyone, and the first product you have may not be your base tier."
+    },
+    {
+      "start": 804.95,
+      "end": 805.05,
+      "text": "All right?"
+    },
+    {
+      "start": 805.11,
+      "end": 806.01,
+      "text": "So you might start here."
+    },
+    {
+      "start": 806.21,
+      "end": 806.71,
+      "text": "I don't know yet."
+    },
+    {
+      "start": 806.77,
+      "end": 807.47,
+      "text": "I don't know your business."
+    },
+    {
+      "start": 807.89,
+      "end": 812.91,
+      "text": "But this is what you can walk through in terms of thinking through the pricing for your products and services."
+    },
+    {
+      "start": 813.45,
+      "end": 815.75,
+      "text": "So let's assume that we have a thousand customers, all right?"
+    },
+    {
+      "start": 816.35,
+      "end": 819.23,
+      "text": "10 dollars per month, and let's say we've got 800 customers at this level."
+    },
+    {
+      "start": 819.61,
+      "end": 819.85,
+      "text": "Okay?"
+    },
+    {
+      "start": 820.59,
+      "end": 826.81,
+      "text": "Now, our second tier, we might have it 100 dollars per month, so 10 times that price, with 20% taking it."
+    },
+    {
+      "start": 827.19,
+      "end": 827.33,
+      "text": "All right?"
+    },
+    {
+      "start": 827.57,
+      "end": 832.99,
+      "text": "So that means we're going to get somewhere in the neighborhood of 200-ish people who would qualify for this tier."
+    },
+    {
+      "start": 833.51,
+      "end": 833.85,
+      "text": "Okay."
+    },
+    {
+      "start": 834.35,
+      "end": 837.93,
+      "text": "And the next tier, we still have to follow our rule, 5 to 10X."
+    },
+    {
+      "start": 837.99,
+      "end": 841.35,
+      "text": "That means we're going to be at 500 to 1,000 a month for this next tier."
+    },
+    {
+      "start": 841.51,
+      "end": 844.85,
+      "text": "Just to keep it simple, I'm going to just do 10X because it's nice and clean."
+    },
+    {
+      "start": 845.45,
+      "end": 845.63,
+      "text": "All right?"
+    },
+    {
+      "start": 845.97,
+      "end": 849.73,
+      "text": "And so here, we're going to have maybe around 40."
+    },
+    {
+      "start": 849.81,
+      "end": 851.25,
+      "text": "Now you're like, \"Wait, I thought we had a thousand customers.\""
+    },
+    {
+      "start": 851.43,
+      "end": 852.27,
+      "text": "This would be 160."
+    },
+    {
+      "start": 852.39,
+      "end": 853.77,
+      "text": "I'll redo the math at the end so you can see it."
+    },
+    {
+      "start": 854.19,
+      "end": 854.35,
+      "text": "All right?"
+    },
+    {
+      "start": 854.65,
+      "end": 861.97,
+      "text": "Now, our next tier might be, again, 5 to 10 times this, and so we might be somewhere in this 5 to 10,000 dollars a month."
+    },
+    {
+      "start": 862.35,
+      "end": 862.51,
+      "text": "All right?"
+    },
+    {
+      "start": 862.91,
+      "end": 864.75,
+      "text": "And so we'll keep this nice and..."
+    },
+    {
+      "start": 868.95,
+      "end": 870.45,
+      "text": "times around 8 people."
+    },
+    {
+      "start": 870.99,
+      "end": 871.23,
+      "text": "Okay?"
+    },
+    {
+      "start": 871.99,
+      "end": 877.59,
+      "text": "And so if you're looking at this, you're like, \"Holy cow, that's, uh, those are very big differences in price.\""
+    },
+    {
+      "start": 878.09,
+      "end": 878.45,
+      "text": "Yes."
+    },
+    {
+      "start": 878.73,
+      "end": 883.25,
+      "text": "They, they reflect how different the spending power that exists within customers is."
+    },
+    {
+      "start": 883.87,
+      "end": 883.99,
+      "text": "All right?"
+    },
+    {
+      "start": 884.03,
+      "end": 891.65,
+      "text": "And so the main takeaway from this and-- is that if you're going to have an upsell, a very small percentage of people are going to take it, and so you have to make it worth it."
+    },
+    {
+      "start": 892.05,
+      "end": 894.89,
+      "text": "And so people will have these, I'll go 100 and 129."
+    },
+    {
+      "start": 894.93,
+      "end": 897.21,
+      "text": "It's like, it's the same pitch, it's the same price."
+    },
+    {
+      "start": 897.47,
+      "end": 899.71,
+      "text": "The willingness to pay for that customer is the same."
+    },
+    {
+      "start": 900.11,
+      "end": 904.25,
+      "text": "And so let me show you how I've actually translated this into my own business."
+    },
+    {
+      "start": 904.73,
+      "end": 908.57,
+      "text": "This, and you can ignore the actual numbers of customers, but what do we have here?"
+    },
+    {
+      "start": 909.31,
+      "end": 911.55,
+      "text": "Ah, we have school."
+    },
+    {
+      "start": 912.17,
+      "end": 913.91,
+      "text": "And then at 100 dollars a month, what else do we have?"
+    },
+    {
+      "start": 914.33,
+      "end": 914.97,
+      "text": "We have school."
+    },
+    {
+      "start": 915.03,
+      "end": 916.01,
+      "text": "This is our hobby plan."
+    },
+    {
+      "start": 916.69,
+      "end": 917.63,
+      "text": "This is our pro plan."
+    },
+    {
+      "start": 918.45,
+      "end": 919.79,
+      "text": "And so for me, the next number"
+    },
+    {
+      "start": 921.51,
+      "end": 922.69,
+      "text": "is 5,000 dollars,"
+    },
+    {
+      "start": 925.41,
+      "end": 926.39,
+      "text": "which is L1."
+    },
+    {
+      "start": 927.13,
+      "end": 928.39,
+      "text": "And what's the next number after that?"
+    },
+    {
+      "start": 929.75,
+      "end": 930.85,
+      "text": "35,000 dollars."
+    },
+    {
+      "start": 931.37,
+      "end": 931.59,
+      "text": "Huh."
+    },
+    {
+      "start": 932.15,
+      "end": 935.93,
+      "text": "Almost like it's between 5 to 10 times the price, which is L2."
+    },
+    {
+      "start": 936.65,
+      "end": 938.05,
+      "text": "And then what do we have after that?"
+    },
+    {
+      "start": 938.49,
+      "end": 940.49,
+      "text": "We have something that's 135,000 dollars."
+    },
+    {
+      "start": 941.79,
+      "end": 943.55,
+      "text": "So that's four times the price, right?"
+    },
+    {
+      "start": 943.59,
+      "end": 944.49,
+      "text": "And this is L3."
+    },
+    {
+      "start": 945.13,
+      "end": 946.25,
+      "text": "And what do I have underneath of that?"
+    },
+    {
+      "start": 947.03,
+      "end": 948.47,
+      "text": "No money because it's a portfolio company."
+    },
+    {
+      "start": 950.25,
+      "end": 954.47,
+      "text": "And so the thing is, is it may take some time to build out this entire thing."
+    },
+    {
+      "start": 954.55,
+      "end": 956.05,
+      "text": "I didn't start with school."
+    },
+    {
+      "start": 956.19,
+      "end": 958.27,
+      "text": "I started building, you know, uh, you know, our brand."
+    },
+    {
+      "start": 958.61,
+      "end": 963.15,
+      "text": "Uh, this is, to be clear, just our advisory practice, um, that we have at acquisition.com."
+    },
+    {
+      "start": 963.89,
+      "end": 967.25,
+      "text": "And so I'm just saying, like, knowing this doesn't mean you need to do all of this at once."
+    },
+    {
+      "start": 967.29,
+      "end": 970.25,
+      "text": "It takes years, and it does take operational chops to pull this off, right?"
+    },
+    {
+      "start": 971.01,
+      "end": 972.43,
+      "text": "You want to add tiers one at a time."
+    },
+    {
+      "start": 973.31,
+      "end": 978.43,
+      "text": "My tip, though, is to start as high up as you can on this ladder for a few reasons, right?"
+    },
+    {
+      "start": 978.51,
+      "end": 982.87,
+      "text": "So the Tesla example I gave earlier, the branding from top down versus bottom up is much stronger."
+    },
+    {
+      "start": 982.91,
+      "end": 987.23,
+      "text": "Like, Honda making a better car is tough versus Rolls-Royce making a Rolls-Royce Lite."
+    },
+    {
+      "start": 987.47,
+      "end": 989.45,
+      "text": "It would be easier play for them from brand position."
+    },
+    {
+      "start": 990.09,
+      "end": 992.65,
+      "text": "The next reason is that I prefer to start with the unscalable."
+    },
+    {
+      "start": 992.85,
+      "end": 993.13,
+      "text": "Why?"
+    },
+    {
+      "start": 993.45,
+      "end": 1003.29,
+      "text": "Because it's easier to operationalize it serving these people, because one, they actually, believe it or not, as a percentage of net worth, this is actually lower than what this is for somebody who's poor, right?"
+    },
+    {
+      "start": 1003.55,
+      "end": 1009.99,
+      "text": "If you have, uh, 10 million dollars, uh, 100 grand is 1% of what you've got."
+    },
+    {
+      "start": 1010.55,
+      "end": 1015.51,
+      "text": "If you've got 1,000 dollars, 100 bucks is 10% of what you got."
+    },
+    {
+      "start": 1015.83,
+      "end": 1023.31,
+      "text": "And so for you, you will actually be more demanding for that 10, that 10% or that 100 dollars, reasonably so, than somebody who's giving 1%."
+    },
+    {
+      "start": 1023.67,
+      "end": 1028.61,
+      "text": "But from a business perspective, the 100 bucks versus the 100 grand, it's a gigantic difference."
+    },
+    {
+      "start": 1028.65,
+      "end": 1037.15,
+      "text": "So you have an easier customer to deal with that has lower demandingness, but it requires, and to be clear, to get that 100 dollars to equal 100,000, is you got to get a thousand of those people."
+    },
+    {
+      "start": 1037.51,
+      "end": 1041.89,
+      "text": "So is serving the one customer for 100,000 easier than serving a thousand at 100?"
+    },
+    {
+      "start": 1042.27,
+      "end": 1045.37,
+      "text": "As somebody who used to sell 100 dollar gym memberships, for sure."
+    },
+    {
+      "start": 1045.97,
+      "end": 1052.59,
+      "text": "And if we were to look at this from a profit contribution perspective, like what is actually dropping to the bottom line, it would look like this."
+    },
+    {
+      "start": 1055.87,
+      "end": 1059.77,
+      "text": "All the profit is here, just like all the wealth is at the top."
+    },
+    {
+      "start": 1061.39,
+      "end": 1065.93,
+      "text": "So you have to do more and charge more for it to people who can afford it."
+    },
+    {
+      "start": 1066.35,
+      "end": 1072.53,
+      "text": "And the amount you do for a few people is almost always worth it for the far greater price for those people who are willing to pay it."
+    },
+    {
+      "start": 1073.33,
+      "end": 1074.59,
+      "text": "Now, you might ask, \"Well, wait a second."
+    },
+    {
+      "start": 1074.77,
+      "end": 1075.79,
+      "text": "I thought you said sell the rich."
+    },
+    {
+      "start": 1075.87,
+      "end": 1078.17,
+      "text": "Like, why do you have this 10 dollar and this 100 dollar a month thing?\""
+    },
+    {
+      "start": 1078.93,
+      "end": 1081.51,
+      "text": "The only way to serve the poor masses, right?"
+    },
+    {
+      "start": 1081.63,
+      "end": 1093.15,
+      "text": "And I say this to be a little bit more, like, you know, jarring, but to, to serve people with lower budgets is to have tons of money and then find a way to serve them in an automated manner at a low price."
+    },
+    {
+      "start": 1093.51,
+      "end": 1096.91,
+      "text": "And if you do that, you can also make a lot of money, but via volume."
+    },
+    {
+      "start": 1097.93,
+      "end": 1099.53,
+      "text": "But it takes a lot of money, it takes a lot of time."
+    },
+    {
+      "start": 1099.97,
+      "end": 1103.79,
+      "text": "And the reason that Tesla has almost gone bankrupt multiple times is because it's incredibly hard."
+    },
+    {
+      "start": 1104.09,
+      "end": 1114.63,
+      "text": "The reason most software companies like Netflix and Spotify and some of these big consumer, you know, companies, uh, you know, who, who charge 13 dollars to give you hun-- Think about how hard that is."
+    },
+    {
+      "start": 1114.69,
+      "end": 1115.79,
+      "text": "Think about how hard that business is."
+    },
+    {
+      "start": 1116.27,
+      "end": 1124.45,
+      "text": "You-- They have to make- World-class entertainment for all the different genres that someone might like, just to earn their 13 dollars, right?"
+    },
+    {
+      "start": 1124.91,
+      "end": 1127.03,
+      "text": "Just to earn the equivalent of like a Chipotle bowl."
+    },
+    {
+      "start": 1127.61,
+      "end": 1131.05,
+      "text": "I, I-- again, I bring this up because some people come in saying, \"Oh, I'm going to do that.\""
+    },
+    {
+      "start": 1131.07,
+      "end": 1132.59,
+      "text": "It's like, you're going to do that bootstrapped?"
+    },
+    {
+      "start": 1133.11,
+      "end": 1142.25,
+      "text": "No, these companies that you're looking to model literally got artificially inflated with outside capital to prop the business up until it would get to the point where it actually could make money."
+    },
+    {
+      "start": 1142.61,
+      "end": 1145.43,
+      "text": "So to do something like this costs a fortune."
+    },
+    {
+      "start": 1145.87,
+      "end": 1152.55,
+      "text": "And so the, the way that I'm trying to walk you through this is that 80% of businesses in the US, or 78, are service-based businesses."
+    },
+    {
+      "start": 1152.89,
+      "end": 1155.65,
+      "text": "And so you don't have an automated way to serve these masses."
+    },
+    {
+      "start": 1155.91,
+      "end": 1156.65,
+      "text": "You likely don't."
+    },
+    {
+      "start": 1157.03,
+      "end": 1164.07,
+      "text": "And so if you don't have an automated way, then you want to go in the complete other direction, which is, I want to serve the best customer at the highest possible price."
+    },
+    {
+      "start": 1164.39,
+      "end": 1166.51,
+      "text": "But people misprice their products and services."
+    },
+    {
+      "start": 1166.87,
+      "end": 1169.67,
+      "text": "They say, \"Okay, I'm-- you know, my current core thing is a thousand dollars."
+    },
+    {
+      "start": 1169.73,
+      "end": 1171.01,
+      "text": "I'll make the next thing 1,500.\""
+    },
+    {
+      "start": 1171.05,
+      "end": 1171.83,
+      "text": "It doesn't work that way."
+    },
+    {
+      "start": 1171.87,
+      "end": 1173.11,
+      "text": "That's not how the buyer works."
+    },
+    {
+      "start": 1173.45,
+      "end": 1176.73,
+      "text": "The buyer is at 5K, 10K from the 1K thing."
+    },
+    {
+      "start": 1176.95,
+      "end": 1178.11,
+      "text": "That's the next tier."
+    },
+    {
+      "start": 1178.17,
+      "end": 1179.67,
+      "text": "That's the next rung on the ladder."
+    },
+    {
+      "start": 1180.15,
+      "end": 1180.35,
+      "text": "All right?"
+    },
+    {
+      "start": 1180.71,
+      "end": 1185.29,
+      "text": "And so this hopefully should shift your perspective in terms of how pricing really works."
+    },
+    {
+      "start": 1185.77,
+      "end": 1187.31,
+      "text": "A disproportionate amount of profit is here."
+    },
+    {
+      "start": 1187.61,
+      "end": 1197.11,
+      "text": "We have to make gigantic jumps with the assumption that very small percentages are going to take it, but still be okay with it, because even a small number of people at a gigantic price is still a lot of money."
+    },
+    {
+      "start": 1198.69,
+      "end": 1200.83,
+      "text": "So how do you actually translate this and put this into practice?"
+    },
+    {
+      "start": 1201.37,
+      "end": 1208.35,
+      "text": "Number one, stop selling from your own wallet, especially if you're one of the people who, you know, you're in that, in that 2 dollar category, right?"
+    },
+    {
+      "start": 1208.39,
+      "end": 1209.83,
+      "text": "You're that bottom 50% right now."
+    },
+    {
+      "start": 1209.95,
+      "end": 1210.27,
+      "text": "I get it."
+    },
+    {
+      "start": 1210.33,
+      "end": 1210.77,
+      "text": "I've been there."
+    },
+    {
+      "start": 1211.45,
+      "end": 1215.99,
+      "text": "You have to forever imagine, this is a gift, forever imagine that everyone is rich."
+    },
+    {
+      "start": 1216.49,
+      "end": 1217.99,
+      "text": "So here's the reality that will shock you."
+    },
+    {
+      "start": 1218.43,
+      "end": 1223.13,
+      "text": "That top 10%, top 10% of Americans have a million-dollar-plus net worth."
+    },
+    {
+      "start": 1223.25,
+      "end": 1226.43,
+      "text": "One in 10 people, one in 10 people, million-dollar net worth."
+    },
+    {
+      "start": 1227.27,
+      "end": 1228.23,
+      "text": "They've got the money."
+    },
+    {
+      "start": 1228.99,
+      "end": 1231.51,
+      "text": "You just aren't selling them something that they want."
+    },
+    {
+      "start": 1232.15,
+      "end": 1237.49,
+      "text": "And you might even be, and this happens a lot, especially for newer business owners, you might even be too cheap for them to even believe that you're good."
+    },
+    {
+      "start": 1237.89,
+      "end": 1250.45,
+      "text": "Like, we had a company that, uh, that was in the health space a while back, and looking at all the research, it was a doctor and all this stuff, and I just fundamentally believed that they were mispriced."
+    },
+    {
+      "start": 1250.97,
+      "end": 1254.21,
+      "text": "And so what I did was I raised-- I wanted to raise the price by double."
+    },
+    {
+      "start": 1254.41,
+      "end": 1258.37,
+      "text": "He fought me back and forth forever, and I, I was able to finally get a 50% price raise through."
+    },
+    {
+      "start": 1258.79,
+      "end": 1259.65,
+      "text": "But guess what happened?"
+    },
+    {
+      "start": 1260.09,
+      "end": 1261.77,
+      "text": "We raised the price by 50%."
+    },
+    {
+      "start": 1262.03,
+      "end": 1262.67,
+      "text": "That's a lot."
+    },
+    {
+      "start": 1263.21,
+      "end": 1264.61,
+      "text": "What do you think it did to the close rates?"
+    },
+    {
+      "start": 1265.69,
+      "end": 1266.53,
+      "text": "They went up."
+    },
+    {
+      "start": 1267.11,
+      "end": 1273.85,
+      "text": "They were so cheap compared to the promise and what they were delivering that people didn't even believe that it worked."
+    },
+    {
+      "start": 1274.31,
+      "end": 1277.07,
+      "text": "And so some of you guys are so cheap because you're selling out of your own wallet."
+    },
+    {
+      "start": 1277.11,
+      "end": 1284.13,
+      "text": "You're selling based on what your friends and family who might also be in that 2 dollar bottom 50%, uh, are telling you."
+    },
+    {
+      "start": 1284.53,
+      "end": 1287.11,
+      "text": "But th-- why would you listen to the people who don't have money on how to get money?"
+    },
+    {
+      "start": 1287.77,
+      "end": 1288.45,
+      "text": "They don't know where it is."
+    },
+    {
+      "start": 1288.95,
+      "end": 1289.67,
+      "text": "They don't know how to get it."
+    },
+    {
+      "start": 1289.99,
+      "end": 1292.63,
+      "text": "And more specifically, they don't know how to serve the people who've got it."
+    },
+    {
+      "start": 1294.01,
+      "end": 1294.69,
+      "text": "So that's the first thing."
+    },
+    {
+      "start": 1295.65,
+      "end": 1300.13,
+      "text": "The second thing is that if you're going to do this, listen to me on this."
+    },
+    {
+      "start": 1300.79,
+      "end": 1308.35,
+      "text": "Whatever your upsell is, 5 to 10X the price, and then just make sure it's something that you'd be happy to deliver for 5 to 10 times the price."
+    },
+    {
+      "start": 1308.79,
+      "end": 1313.49,
+      "text": "Sometimes I'll get pushback from people who are like, \"Oh, that would, that would be so much work.\""
+    },
+    {
+      "start": 1313.51,
+      "end": 1314.35,
+      "text": "And I'm like, \"Cool."
+    },
+    {
+      "start": 1314.77,
+      "end": 1316.35,
+      "text": "We have value, and we have price."
+    },
+    {
+      "start": 1316.83,
+      "end": 1317.69,
+      "text": "Move one of them."
+    },
+    {
+      "start": 1318.09,
+      "end": 1319.69,
+      "text": "Either do less or charge more.\""
+    },
+    {
+      "start": 1319.89,
+      "end": 1322.07,
+      "text": "I would encourage you to just charge more, right?"
+    },
+    {
+      "start": 1322.11,
+      "end": 1329.09,
+      "text": "And so if I were to say, \"Hey, I want you to 10 times the current price of your upsell,\" what would you do that would absolutely blow people away?"
+    },
+    {
+      "start": 1329.61,
+      "end": 1331.25,
+      "text": "How much does that actually cost you?"
+    },
+    {
+      "start": 1331.57,
+      "end": 1340.05,
+      "text": "When you look at the cost compared to that 10 times bigger price with a zero on the end of whatever your core offer is, you might find it's like, actually, it's only like, you know, 5% of that price."
+    },
+    {
+      "start": 1340.11,
+      "end": 1342.15,
+      "text": "It's like, right, really high margin."
+    },
+    {
+      "start": 1343.09,
+      "end": 1348.01,
+      "text": "So as long as you're happy making more money, serving fewer people, go do that."
+    },
+    {
+      "start": 1348.55,
+      "end": 1352.69,
+      "text": "The third one is that you should expect only 1 in 5 or 1 in 10 people to say yes."
+    },
+    {
+      "start": 1353.05,
+      "end": 1354.37,
+      "text": "Expect more nos."
+    },
+    {
+      "start": 1354.91,
+      "end": 1357.65,
+      "text": "And this is the sweet spot of making money, right?"
+    },
+    {
+      "start": 1357.67,
+      "end": 1363.51,
+      "text": "The sweet spot isn't the most yeses, it's the most money, and that is never with the most yeses."
+    },
+    {
+      "start": 1363.91,
+      "end": 1373.01,
+      "text": "So if you pitch your 10 times bigger price to this bottom 50%, none of them are going to say yes, and you're going to mistakenly believe that this is a bad idea."
+    },
+    {
+      "start": 1373.53,
+      "end": 1376.05,
+      "text": "But the reality is that you're just not talking to the people who have the money."
+    },
+    {
+      "start": 1376.51,
+      "end": 1385.57,
+      "text": "And so you should expect that if you have a representative amount of people that you speak with, 1 in 10, maybe even 1 in 100 is the, is the person who is the correct avatar."
+    },
+    {
+      "start": 1385.93,
+      "end": 1388.61,
+      "text": "And for that person, you might also find they'll just say like, \"Yeah, that sounds good.\""
+    },
+    {
+      "start": 1388.65,
+      "end": 1389.71,
+      "text": "And you'll be like, \"Oh my God.\""
+    },
+    {
+      "start": 1389.75,
+      "end": 1393.71,
+      "text": "And I only say this as somebody who's had it happen for the first time, you're like, \"I can't even believe this is possible."
+    },
+    {
+      "start": 1393.75,
+      "end": 1395.15,
+      "text": "I can't believe this person would give me this much money.\""
+    },
+    {
+      "start": 1395.55,
+      "end": 1397.33,
+      "text": "It's because to them, it's not that much money."
+    },
+    {
+      "start": 1397.37,
+      "end": 1399.71,
+      "text": "It's only that much money to you because you still live here."
+    },
+    {
+      "start": 1400.93,
+      "end": 1403.11,
+      "text": "If you sell to rich people long enough, they will make you one of them."
+    },
+    {
+      "start": 1403.59,
+      "end": 1405.91,
+      "text": "And so with your upsell, make it crazy."
+    },
+    {
+      "start": 1406.59,
+      "end": 1408.45,
+      "text": "And this is called an anchor for a reason, right?"
+    },
+    {
+      "start": 1408.49,
+      "end": 1410.47,
+      "text": "If no one buys it, no big deal."
+    },
+    {
+      "start": 1410.91,
+      "end": 1412.61,
+      "text": "Or most don't, no big deal."
+    },
+    {
+      "start": 1412.89,
+      "end": 1421.57,
+      "text": "But the good news is that it'll still help you sell the rest of everyone else at a higher percentage and even at a higher rate because it'll look like a good deal in comparison."
+    },
+    {
+      "start": 1423.61,
+      "end": 1425.33,
+      "text": "And I said this before, but I'll say this again."
+    },
+    {
+      "start": 1426.99,
+      "end": 1433.05,
+      "text": "The next reason is the only thing worse than selling a 1,000 dollar thing to a 100 dollar buyer is selling a 100 dollar thing to a 1,000 dollar buyer."
+    },
+    {
+      "start": 1433.33,
+      "end": 1434.71,
+      "text": "In the first, you lose 100 bucks."
+    },
+    {
+      "start": 1434.81,
+      "end": 1436.09,
+      "text": "In the second, you lose 900."
+    },
+    {
+      "start": 1436.43,
+      "end": 1439.11,
+      "text": "And not only that, that 900 is probably disproportionately profit."
+    },
+    {
+      "start": 1439.41,
+      "end": 1440.65,
+      "text": "And this is what no one understands."
+    },
+    {
+      "start": 1440.83,
+      "end": 1443.17,
+      "text": "This is why most businesses don't make money."
+    },
+    {
+      "start": 1443.91,
+      "end": 1446.65,
+      "text": "They just try and sell to these people who are the biggest pain in the butt."
+    },
+    {
+      "start": 1446.69,
+      "end": 1449.99,
+      "text": "And the thing is, is you see so many of them that you're like, \"Oh, this must be how it works.\""
+    },
+    {
+      "start": 1450.27,
+      "end": 1451.63,
+      "text": "No, it's not how it works."
+    },
+    {
+      "start": 1451.69,
+      "end": 1452.99,
+      "text": "It's just how you're working."
+    },
+    {
+      "start": 1453.03,
+      "end": 1455.71,
+      "text": "This is how the average business works, which is why the average business doesn't make money."
+    },
+    {
+      "start": 1456.93,
+      "end": 1458.25,
+      "text": "They don't go to where the money's at."
+    },
+    {
+      "start": 1458.53,
+      "end": 1463.97,
+      "text": "The next reason is you have to think about absolute profit rather than relative profit, and you'll be blown away."
+    },
+    {
+      "start": 1464.43,
+      "end": 1470.89,
+      "text": "A single person paying 10,000 dollars for something that costs 2,000 dollars, a single person, right?"
+    },
+    {
+      "start": 1471.43,
+      "end": 1472.37,
+      "text": "One, right?"
+    },
+    {
+      "start": 1473.47,
+      "end": 1478.91,
+      "text": "Buying a 10,000 dollar thing that costs 2,000 dollars is the same-"
+    },
+    {
+      "start": 1480.43,
+      "end": 1488.11,
+      "text": "As 400 people buying a 50 dollar thing that costs 25 dollars."
+    },
+    {
+      "start": 1490.23,
+      "end": 1491.59,
+      "text": "These are the same."
+    },
+    {
+      "start": 1493.73,
+      "end": 1497.91,
+      "text": "So do not underestimate the power of large prices in small quantities."
+    },
+    {
+      "start": 1498.45,
+      "end": 1507.77,
+      "text": "And so the reason that entrepreneurship is such almost like a spiritual journey is that you, you earn the right to charge more because you no longer think the smaller amount of money is worth your time."
+    },
+    {
+      "start": 1508.15,
+      "end": 1516.81,
+      "text": "The reason that rich people get richer is less because there's some magic behind anything, but there's only two real forces, in my opinion, that make the rich get richer."
+    },
+    {
+      "start": 1516.85,
+      "end": 1519.73,
+      "text": "The first is math, which is that compounding is a thing."
+    },
+    {
+      "start": 1520.09,
+      "end": 1523.67,
+      "text": "When you have a billion dollars, next year it's 1.1 billion if you do nothing."
+    },
+    {
+      "start": 1524.13,
+      "end": 1526.67,
+      "text": "A hundred million dollars is made because the assets went up."
+    },
+    {
+      "start": 1527.09,
+      "end": 1529.85,
+      "text": "Very difficult to outwork compounding over a longer period of time."
+    },
+    {
+      "start": 1530.19,
+      "end": 1530.95,
+      "text": "That's a reality."
+    },
+    {
+      "start": 1530.97,
+      "end": 1540.31,
+      "text": "And as that capital aggregates, which it does in capitalism, which is a system for allocating capital, that's the point of capitalism, is that it will always shift to the people who are the best at allocating it."
+    },
+    {
+      "start": 1540.79,
+      "end": 1546.59,
+      "text": "And so in time, if everybody starts at e- at even, on enough generations, eventually the capital pools."
+    },
+    {
+      "start": 1546.67,
+      "end": 1549.39,
+      "text": "It's how all capitalism has worked out since the dawn of time."
+    },
+    {
+      "start": 1549.93,
+      "end": 1552.61,
+      "text": "And so that's what creates this great divide."
+    },
+    {
+      "start": 1553.23,
+      "end": 1566.11,
+      "text": "The second thing, which you can do something about, which is why I'm making videos like this, is that there are beliefs that people who have money have, which translate to behaviors that poor people don't have and translate to different behaviors."
+    },
+    {
+      "start": 1566.43,
+      "end": 1567.15,
+      "text": "So what does that mean?"
+    },
+    {
+      "start": 1567.95,
+      "end": 1576.41,
+      "text": "A rich kid will choose not to pursue a lower leverage opportunity because it's not worth their time, because they were taught it wasn't worth their time."
+    },
+    {
+      "start": 1576.87,
+      "end": 1583.13,
+      "text": "The career paths that they'll have to choose from will be significantly skewed towards things where they'll get disproportionate returns."
+    },
+    {
+      "start": 1583.53,
+      "end": 1586.69,
+      "text": "And a lot of that is just knowledge about it, not even knowledge how to do it."
+    },
+    {
+      "start": 1587.29,
+      "end": 1599.11,
+      "text": "I remember when I first found out, I'd never heard of management consulting, I'd never heard of private equity, I'd never heard of investment banking, I'd never heard of any of this stuff when I went to college, because where I was from in Baltimore, a rich person was a doctor."
+    },
+    {
+      "start": 1599.63,
+      "end": 1600.61,
+      "text": "That was a rich person."
+    },
+    {
+      "start": 1601.03,
+      "end": 1605.27,
+      "text": "And so-- And to be fair, my dad's a doctor, so I felt f-- I was like, \"Okay, cool.\""
+    },
+    {
+      "start": 1605.59,
+      "end": 1612.09,
+      "text": "When I went to Vanderbilt, I felt like one of the poorest people there because I'd never seen what New York money was."
+    },
+    {
+      "start": 1612.25,
+      "end": 1614.05,
+      "text": "I'd never seen what California money was."
+    },
+    {
+      "start": 1614.43,
+      "end": 1620.59,
+      "text": "I'd seen what Baltimore rich was, which is that you have-- You know, my dad has a business with two secretaries and, you know, we always had food."
+    },
+    {
+      "start": 1620.65,
+      "end": 1621.43,
+      "text": "I never had to worry about it."
+    },
+    {
+      "start": 1621.53,
+      "end": 1629.79,
+      "text": "I still have the immigrant mentality of like, we don't use, you know, paper towels because they're expensive, but like, that's just because he came here with a thousand bucks and I s-- that still got transmitted, right?"
+    },
+    {
+      "start": 1630.51,
+      "end": 1636.59,
+      "text": "But the point is, you almost have to bat above-- you have to hit above your weight class, right?"
+    },
+    {
+      "start": 1637.11,
+      "end": 1648.75,
+      "text": "Which is, even though it sounds un-- And the story of when I actually made my first high ticket sale in my life was when I, I actually said a number that I wanted the person to say no to, and then they said yes."
+    },
+    {
+      "start": 1649.31,
+      "end": 1651.37,
+      "text": "That was how that actually, that belief was broken for me."
+    },
+    {
+      "start": 1651.73,
+      "end": 1654.01,
+      "text": "So as much as I want to say like, \"This is what you have to do."
+    },
+    {
+      "start": 1654.13,
+      "end": 1659.69,
+      "text": "I'm this guy, you know, guy on YouTube that you just saw,\" or whatever, like I-- I'll tell you the story really quickly."
+    },
+    {
+      "start": 1660.23,
+      "end": 1663.43,
+      "text": "Layla and I were selling, uh, we, we started doing these gym launches."
+    },
+    {
+      "start": 1663.65,
+      "end": 1667.87,
+      "text": "We would sell memberships through gyms, we would collect the money, um, and that was the model."
+    },
+    {
+      "start": 1667.93,
+      "end": 1669.15,
+      "text": "We'd fly around the country, that's what we did."
+    },
+    {
+      "start": 1669.37,
+      "end": 1671.51,
+      "text": "There were some issues with that model, which I've talked about in other videos."
+    },
+    {
+      "start": 1671.93,
+      "end": 1677.11,
+      "text": "And so then all of a sudden, uh, Layla started selling weight loss directly, made a little brand for her called Queen Transformation."
+    },
+    {
+      "start": 1677.47,
+      "end": 1682.21,
+      "text": "We started selling these 500 dollar online training packages, um, over the phone, and that started working."
+    },
+    {
+      "start": 1682.71,
+      "end": 1687.89,
+      "text": "And so I had these gyms that I was supposed to do these launches at, that I had decided I wasn't going to do them anymore."
+    },
+    {
+      "start": 1687.93,
+      "end": 1690.87,
+      "text": "And so I had eight gyms I was supposed to call up and like basically cancel on them."
+    },
+    {
+      "start": 1691.47,
+      "end": 1696.29,
+      "text": "And so, um, on the first phone call, the guy was actually a referral and he was like, \"Dude, you saved my, my friend's gym."
+    },
+    {
+      "start": 1696.33,
+      "end": 1697.27,
+      "text": "Like, I know you can do this.\""
+    },
+    {
+      "start": 1697.71,
+      "end": 1699.25,
+      "text": "And I, I was so beat down at this point."
+    },
+    {
+      "start": 1699.29,
+      "end": 1701.55,
+      "text": "I was like, \"Dude, I'm not fly-- Like, I-- I'm not doing it.\""
+    },
+    {
+      "start": 1702.11,
+      "end": 1705.05,
+      "text": "Um, and he kept asking for it, and then finally I was like, \"All right, dude."
+    },
+    {
+      "start": 1705.09,
+      "end": 1709.11,
+      "text": "Like, I'll show you what I do, but I'm not flying out there to help you if you can't close.\""
+    },
+    {
+      "start": 1709.13,
+      "end": 1711.93,
+      "text": "And mind you, I come from the done-for-you world of like, I literally did everything."
+    },
+    {
+      "start": 1711.99,
+      "end": 1718.97,
+      "text": "I fronted the money, I fronted the cash, I built-- you know, I'd literally buy the tables, I'd print the, the contracts out, I'd run the ads, we'd work the leads, and we'd sell them straight at the gyms."
+    },
+    {
+      "start": 1719.03,
+      "end": 1719.63,
+      "text": "I did everything."
+    },
+    {
+      "start": 1719.99,
+      "end": 1722.57,
+      "text": "So me saying that was just a hope that he would just like say, \"Screw off.\""
+    },
+    {
+      "start": 1722.61,
+      "end": 1724.13,
+      "text": "And he was like, \"No, I get it, I get it.\""
+    },
+    {
+      "start": 1724.65,
+      "end": 1725.53,
+      "text": "And he was like, \"Well, how much?\""
+    },
+    {
+      "start": 1725.59,
+      "end": 1733.43,
+      "text": "And so I said-- And remember, I'm used to selling 500 dollar 16-week training packages where you have to show up like every, you know, three times a week to do stuff."
+    },
+    {
+      "start": 1734.65,
+      "end": 1735.87,
+      "text": "I said 6,000 dollars."
+    },
+    {
+      "start": 1736.2,
+      "end": 1739.73,
+      "text": "So for me, it was a 12X compared to the price that I was used to selling at."
+    },
+    {
+      "start": 1740.25,
+      "end": 1744.61,
+      "text": "And I just said it, so I was like, he's just going to say, \"Nope,\" and then I can just hang up and just move on to my next call."
+    },
+    {
+      "start": 1745.07,
+      "end": 1746.17,
+      "text": "And he said, \"6K?\""
+    },
+    {
+      "start": 1746.55,
+      "end": 1749.55,
+      "text": "And I was like, \"Yeah, 6,000 dollars.\""
+    },
+    {
+      "start": 1750.27,
+      "end": 1751.69,
+      "text": "And he was like, \"Done.\""
+    },
+    {
+      "start": 1752.91,
+      "end": 1759.03,
+      "text": "And I, I remember like floating out of my body in this moment being like, \"Holy shit."
+    },
+    {
+      "start": 1759.75,
+      "end": 1763.71,
+      "text": "Six grand from one call.\""
+    },
+    {
+      "start": 1764.97,
+      "end": 1766.53,
+      "text": "And I didn't, I didn't even have the thing."
+    },
+    {
+      "start": 1766.75,
+      "end": 1769.65,
+      "text": "I didn't even have the thing that I had sold him yet because I just didn't think he was going to say yes."
+    },
+    {
+      "start": 1769.73,
+      "end": 1770.99,
+      "text": "I didn't think to have to build it, right?"
+    },
+    {
+      "start": 1771.71,
+      "end": 1773.45,
+      "text": "And so I was like, \"Holy shit.\""
+    },
+    {
+      "start": 1773.73,
+      "end": 1775.55,
+      "text": "And so then the next-- So I had seven more calls."
+    },
+    {
+      "start": 1775.63,
+      "end": 1777.27,
+      "text": "I called the next guy, same conversation."
+    },
+    {
+      "start": 1777.33,
+      "end": 1778.53,
+      "text": "Well, I was like, \"Now I gotta build this thing.\""
+    },
+    {
+      "start": 1778.91,
+      "end": 1781.77,
+      "text": "But it went really smooth and I was like, uh, he was like, \"How much?\""
+    },
+    {
+      "start": 1781.83,
+      "end": 1782.85,
+      "text": "I was like, \"Eight grand.\""
+    },
+    {
+      "start": 1782.89,
+      "end": 1784.35,
+      "text": "He was like, \"Yeah, done.\""
+    },
+    {
+      "start": 1784.89,
+      "end": 1786.81,
+      "text": "And I was like, \"Eight grand.\""
+    },
+    {
+      "start": 1787.09,
+      "end": 1791.15,
+      "text": "I was like, \"I'm up 14,000 dollars in a-- I'm not even in a day, it's in a morning.\""
+    },
+    {
+      "start": 1791.63,
+      "end": 1795.27,
+      "text": "So then I had six more calls and by the end of the-- You know, the next call, same thing, \"How much?\""
+    },
+    {
+      "start": 1795.35,
+      "end": 1795.77,
+      "text": "\"10K.\""
+    },
+    {
+      "start": 1796.15,
+      "end": 1801.89,
+      "text": "Next call, and by the end of the day, I'd done 60,000 dollars in, in collected."
+    },
+    {
+      "start": 1801.95,
+      "end": 1806.51,
+      "text": "And I was like, \"What the fuck just happened?\""
+    },
+    {
+      "start": 1807.23,
+      "end": 1809.17,
+      "text": "I had no idea what was going on."
+    },
+    {
+      "start": 1809.91,
+      "end": 1816.67,
+      "text": "Uh, and so Layla came back after she was selling the 500 dollar memberships, and I was like, \"Babe,\" I was like, \"I just made 60 grand.\""
+    },
+    {
+      "start": 1816.79,
+      "end": 1818.23,
+      "text": "And she was like, \"What?\""
+    },
+    {
+      "start": 1819.47,
+      "end": 1821.41,
+      "text": "She was like, I-- She was like, \"I thought we were doing the weight loss thing.\""
+    },
+    {
+      "start": 1821.45,
+      "end": 1823.17,
+      "text": "I was like, \"No, I think we're still doing the gym thing."
+    },
+    {
+      "start": 1823.23,
+      "end": 1824.21,
+      "text": "I think we were just doing it wrong.\""
+    },
+    {
+      "start": 1824.93,
+      "end": 1832.43,
+      "text": "And this is why I'm telling you this, because like that moment, of all the moments in my entire career, that was the moment where I elevated."
+    },
+    {
+      "start": 1833.15,
+      "end": 1835.09,
+      "text": "That was the moment where my life really changed."
+    },
+    {
+      "start": 1835.97,
+      "end": 1840.41,
+      "text": "And so I bring this up because you might be like, \"Well, what-- at what price point should I start?\""
+    },
+    {
+      "start": 1840.53,
+      "end": 1840.63,
+      "text": "Right?"
+    },
+    {
+      "start": 1840.73,
+      "end": 1843.39,
+      "text": "It's going to be relative whether you're selling to consumers or you're selling to businesses."
+    },
+    {
+      "start": 1843.61,
+      "end": 1847.39,
+      "text": "And I'll-- These are just a couple rules of thumb that I'll just tell you that I've kind of worked around."
+    },
+    {
+      "start": 1848.05,
+      "end": 1849.29,
+      "text": "I'd say that for, um..."
+    },
+    {
+      "start": 1849.76,
+      "end": 1852.6,
+      "text": "For a consumer, an impulse purchase is 5 or 600 dollars."
+    },
+    {
+      "start": 1852.72,
+      "end": 1857.06,
+      "text": "A higher ticket purchase is usually going to be somewhere between 3 and 10,000 dollars, right?"
+    },
+    {
+      "start": 1857.4,
+      "end": 1857.86,
+      "text": "Typically."
+    },
+    {
+      "start": 1857.9,
+      "end": 1859.08,
+      "text": "And that's again for services."
+    },
+    {
+      "start": 1859.62,
+      "end": 1861.48,
+      "text": "If you're looking at like assets, it's a different game."
+    },
+    {
+      "start": 1861.52,
+      "end": 1863.1,
+      "text": "You're buying houses and cars, it's a different game, right?"
+    },
+    {
+      "start": 1863.16,
+      "end": 1869.24,
+      "text": "But if you're selling just like pure, I'm going to help you do some stuff, uh, I'm going to help fix some stuff, that's usually a price point that's called higher ticket."
+    },
+    {
+      "start": 1869.72,
+      "end": 1871.38,
+      "text": "Business, it really depends on the size of business."
+    },
+    {
+      "start": 1871.42,
+      "end": 1873.48,
+      "text": "If you're selling to Disney, you can sell a billion-dollar thing, right?"
+    },
+    {
+      "start": 1873.88,
+      "end": 1879.32,
+      "text": "If you're selling to just small business owner on Main Street, remember, some of them are poor too, right?"
+    },
+    {
+      "start": 1879.42,
+      "end": 1887.56,
+      "text": "And so for them though, um, a, you know, a more normal price for something will probably be somewhere in the neighborhood of like, I'd say like a mid-tier is probably, you know, 2 to 3,000 dollars a month."
+    },
+    {
+      "start": 1888.02,
+      "end": 1892.58,
+      "text": "A cheaper price for a business owner would be somewhere in the neighborhood of like 400 to 800 a month."
+    },
+    {
+      "start": 1893.02,
+      "end": 1899.12,
+      "text": "Um, maybe, maybe just call, call it closer to 500 bucks a month, um, as like a, a cheaper number for a business."
+    },
+    {
+      "start": 1899.16,
+      "end": 1901.4,
+      "text": "And you're like, \"500 dollars a month is cheap for a business?\""
+    },
+    {
+      "start": 1901.42,
+      "end": 1904.76,
+      "text": "It's like, yeah, it's super expensive for a consumer, pretty cheap for a business, right?"
+    },
+    {
+      "start": 1905.42,
+      "end": 1907.74,
+      "text": "Um, and so if you're like, \"Well, where, where do I start?\""
+    },
+    {
+      "start": 1907.88,
+      "end": 1911.42,
+      "text": "Well, if you're currently not making money, add a zero and then think, \"What would I deliver for that?\""
+    },
+    {
+      "start": 1911.6,
+      "end": 1912.72,
+      "text": "That's a great place to start."
+    },
+    {
+      "start": 1913.24,
+      "end": 1913.48,
+      "text": "All right?"
+    },
+    {
+      "start": 1913.52,
+      "end": 1915.98,
+      "text": "And the thing is, is I know that part of you is fighting this."
+    },
+    {
+      "start": 1916.04,
+      "end": 1918.4,
+      "text": "Like in your head, you're like, \"There's no fucking way anyone's going to buy that.\""
+    },
+    {
+      "start": 1918.86,
+      "end": 1922.1,
+      "text": "No, there's no way the 50 poorest people you know could buy it."
+    },
+    {
+      "start": 1922.62,
+      "end": 1925.26,
+      "text": "But for sure, the people above that line can."
+    },
+    {
+      "start": 1925.72,
+      "end": 1929.82,
+      "text": "And part of the reason that you never close 100% of prospects is because you're going to talk to some of these people."
+    },
+    {
+      "start": 1930.22,
+      "end": 1940.86,
+      "text": "And the price point that you have to get an 80% close rate on, for example, is a price point that this person can spend 5 to 10 times more than the, than the bottom 50."
+    },
+    {
+      "start": 1941.32,
+      "end": 1951.82,
+      "text": "That is why the tiered pricing is so important, is that-- And then you might find that you might just not want to sell to the bottom 50% until you have enough capital to actually build infrastructure so you can do it in an automated fashion."
+    },
+    {
+      "start": 1952.86,
+      "end": 1966.8,
+      "text": "One of the, one of the big issues I would say that poor people think about compared to rich people is that poor people will think in terms of cost, and I would say rich people will think in terms of the ratio, the return, cost versus value."
+    },
+    {
+      "start": 1967.28,
+      "end": 1970.26,
+      "text": "So if I were to say, \"Hey, I've got this thing that's...\""
+    },
+    {
+      "start": 1970.94,
+      "end": 1973.04,
+      "text": "Let's say it's, let's say it's 20,000 dollars."
+    },
+    {
+      "start": 1973.7,
+      "end": 1978.0,
+      "text": "A poor person just hearing the price would say, \"That's expensive.\""
+    },
+    {
+      "start": 1978.76,
+      "end": 1984.06,
+      "text": "But if I said-- A rich person, if I said, \"Hey, my thing is 20,000 dollars,\" they wouldn't then say, \"That's expensive.\""
+    },
+    {
+      "start": 1984.1,
+      "end": 1985.4,
+      "text": "They'd say, \"For what?\""
+    },
+    {
+      "start": 1986.4,
+      "end": 1987.86,
+      "text": "And if I said, \"Uh,"
+    },
+    {
+      "start": 1989.4,
+      "end": 1998.4,
+      "text": "share, a class A share of Berkshire Hathaway, which is an 800,000 dollars stock for 20,000 dollars,\" that would be the deal of the century, right?"
+    },
+    {
+      "start": 1998.46,
+      "end": 2002.62,
+      "text": "If I said it was 20,000 dollars for a brand new Lamborghini, they would say, \"That's a great deal.\""
+    },
+    {
+      "start": 2003.16,
+      "end": 2006.7,
+      "text": "So even though it costs a lot of money, it's great value."
+    },
+    {
+      "start": 2007.04,
+      "end": 2013.4,
+      "text": "And this is what I did-- I struggled for such a long time to understand because it was like I almost had this emotional reaction to zeros."
+    },
+    {
+      "start": 2013.46,
+      "end": 2016.14,
+      "text": "It's like if I saw zeros, I was like, \"Oh my God, so much.\""
+    },
+    {
+      "start": 2016.52,
+      "end": 2016.64,
+      "text": "Right?"
+    },
+    {
+      "start": 2017.58,
+      "end": 2021.62,
+      "text": "And, and so I know where you're coming from because you almost want to-- you almost choke on the price."
+    },
+    {
+      "start": 2021.64,
+      "end": 2023.8,
+      "text": "So I'll give you a couple little tactics for this to like get around it."
+    },
+    {
+      "start": 2024.26,
+      "end": 2033.38,
+      "text": "So one is if you're in person, you can write down the price and then turn it and slide it to them, uh, or you can use a calculator and turn it to them if you like literally choke on the price, because some people do do that."
+    },
+    {
+      "start": 2033.92,
+      "end": 2044.04,
+      "text": "Um, the second thing that you can do, and this is a really good little, little pricing hack for, for selling, is before you say the price, you say, \"Hey, before I tell you the price, it's super expensive.\""
+    },
+    {
+      "start": 2045.14,
+      "end": 2052.94,
+      "text": "And so what's beautiful about telling someone it's expensive before you tell them the price is that if someone's rich, they're going to immediately think what's expensive for them."
+    },
+    {
+      "start": 2053.86,
+      "end": 2059.28,
+      "text": "And so they're going to think a number, and then you're going to say the number, and they're going to, they're going to literally be like, \"Oh, fine.\""
+    },
+    {
+      "start": 2059.8,
+      "end": 2066.52,
+      "text": "If they're poor and you say it's expensive, they're going to brace themselves for a number that's big, and then when you give them that number, they were at least braced for it."
+    },
+    {
+      "start": 2067.22,
+      "end": 2074.82,
+      "text": "And so in either way, you actually create what I would consider an emotional anchor that's perfectly accommodating to the buying power of the prospect."
+    },
+    {
+      "start": 2075.24,
+      "end": 2077.64,
+      "text": "And most salespeople get choked up right at that point."
+    },
+    {
+      "start": 2077.7,
+      "end": 2079.1,
+      "text": "So it's like, give yourself a breather."
+    },
+    {
+      "start": 2079.42,
+      "end": 2080.44,
+      "text": "It's going to be expensive."
+    },
+    {
+      "start": 2080.7,
+      "end": 2083.38,
+      "text": "You take a breath, they take a breath, then you deliver, right?"
+    },
+    {
+      "start": 2083.68,
+      "end": 2086.92,
+      "text": "So just a little tactic that works and also can help, uh, increase sales."
+    },
+    {
+      "start": 2087.34,
+      "end": 2091.66,
+      "text": "Now, a good way to know if you're actually underpriced is to actually look at your close rates."
+    },
+    {
+      "start": 2092.16,
+      "end": 2092.34,
+      "text": "All right?"
+    },
+    {
+      "start": 2092.7,
+      "end": 2099.34,
+      "text": "And so if your close rates are 80% or let's say 60 to 80, I'll put this in tiers for you."
+    },
+    {
+      "start": 2100.04,
+      "end": 2102.38,
+      "text": "Um, 50 to 60,"
+    },
+    {
+      "start": 2104.36,
+      "end": 2109.64,
+      "text": "40 to 50, and then 30 to 40, and then 30."
+    },
+    {
+      "start": 2110.88,
+      "end": 2112.22,
+      "text": "So let's say these are your close rates."
+    },
+    {
+      "start": 2112.88,
+      "end": 2116.24,
+      "text": "So that means if you talk to 10 people, here you close 8, right?"
+    },
+    {
+      "start": 2116.76,
+      "end": 2122.16,
+      "text": "If you're closing 80%, you probably right now, a 3 to 4X in pricing just sitting there."
+    },
+    {
+      "start": 2122.46,
+      "end": 2124.74,
+      "text": "I know that sounds absurd, but think about it."
+    },
+    {
+      "start": 2125.34,
+      "end": 2127.74,
+      "text": "You're going to get-- The 80% are not going to say yes anymore."
+    },
+    {
+      "start": 2127.8,
+      "end": 2128.5,
+      "text": "I want to be very clear."
+    },
+    {
+      "start": 2128.92,
+      "end": 2137.96,
+      "text": "You might drop to like 35%, but if 35% of people are paying 4 times more, you're making 120% of the revenue that you were making before."
+    },
+    {
+      "start": 2138.54,
+      "end": 2138.72,
+      "text": "All right?"
+    },
+    {
+      "start": 2138.82,
+      "end": 2140.46,
+      "text": "And so like you're making way more money."
+    },
+    {
+      "start": 2141.84,
+      "end": 2146.48,
+      "text": "Now, at 60 to 80, you probably have a 2 to 3X that you have sitting there in price."
+    },
+    {
+      "start": 2147.02,
+      "end": 2150.94,
+      "text": "If you're between 50 and 60, you probably have a 1.5X to 2X sitting there."
+    },
+    {
+      "start": 2151.38,
+      "end": 2155.5,
+      "text": "If you're at 40 to 50%, you're probably at 1.25 to 1.5X."
+    },
+    {
+      "start": 2155.98,
+      "end": 2156.12,
+      "text": "All right?"
+    },
+    {
+      "start": 2156.32,
+      "end": 2158.64,
+      "text": "If you're here, I consider this to be appropriately priced."
+    },
+    {
+      "start": 2158.68,
+      "end": 2160.96,
+      "text": "If you're closing 30 to 40%, you're priced about right."
+    },
+    {
+      "start": 2161.36,
+      "end": 2163.76,
+      "text": "If you're below 30, I would say get better at selling,"
+    },
+    {
+      "start": 2166.04,
+      "end": 2171.02,
+      "text": "which part of getting better at selling could be make the offer better or talk to better customers."
+    },
+    {
+      "start": 2171.48,
+      "end": 2171.64,
+      "text": "All right?"
+    },
+    {
+      "start": 2171.72,
+      "end": 2178.6,
+      "text": "And so sometimes you will try and pitch a high ticket thing but not have your core offer, which might be lower, so you have an anchor offer."
+    },
+    {
+      "start": 2179.26,
+      "end": 2183.68,
+      "text": "Um, but the people that you're speaking with, you didn't qualify them."
+    },
+    {
+      "start": 2184.22,
+      "end": 2190.34,
+      "text": "So if I want to say, \"Hey, I'm talking to million-dollar-plus business owners,\" I will have a significantly higher close rate if I'm only talking to them."
+    },
+    {
+      "start": 2190.76,
+      "end": 2197.76,
+      "text": "And so most times you will dramatically change the feeling of your life if you just say, \"We only deal with customers above this.\""
+    },
+    {
+      "start": 2198.06,
+      "end": 2204.6,
+      "text": "So if you're looking at figuring out who you want to serve, look at this, look at these people."
+    },
+    {
+      "start": 2205.78,
+      "end": 2207.3,
+      "text": "Where do you think you draw your line?"
+    },
+    {
+      "start": 2207.76,
+      "end": 2212.12,
+      "text": "If you say, \"I would like to make money,\" do you want to talk to these people all day?"
+    },
+    {
+      "start": 2213.04,
+      "end": 2215.08,
+      "text": "Do you want to talk to these people all day?"
+    },
+    {
+      "start": 2215.7,
+      "end": 2217.32,
+      "text": "Or do you want to talk to these people all day?"
+    },
+    {
+      "start": 2218.39,
+      "end": 2221.17,
+      "text": "If you want to make money, go where the money is."
+    },
+    {
+      "start": 2223.61,
+      "end": 2227.85,
+      "text": "And these people speak differently than these people."
+    },
+    {
+      "start": 2228.57,
+      "end": 2235.75,
+      "text": "And so part of what many of y'all's marketing is, and your price point, actually tell these people, \"This isn't for us.\""
+    },
+    {
+      "start": 2237.97,
+      "end": 2241.41,
+      "text": "So I, as somebody who is one of these people,"
+    },
+    {
+      "start": 2243.11,
+      "end": 2247.13,
+      "text": "now, so I feel like I'm like calling back and telling you what it's like on the other side, right?"
+    },
+    {
+      "start": 2247.83,
+      "end": 2255.97,
+      "text": "Is that if I see somebody who sells B2B services and they sell something that's 1500 dollars a month, I know it's not for me."
+    },
+    {
+      "start": 2256.63,
+      "end": 2262.63,
+      "text": "I don't need, I don't need to know anything else, because I know they're not advanced enough as a business to know how to cater to a company of my size."
+    },
+    {
+      "start": 2263.03,
+      "end": 2263.77,
+      "text": "They just can't handle it."
+    },
+    {
+      "start": 2264.47,
+      "end": 2276.49,
+      "text": "And so I have to deal with an entrepreneur who's got a 20,000 dollar a month, 50,000 dollar a month, you know, subscription for whatever their, their services are, because I would believe that they could actually deliver, right?"
+    },
+    {
+      "start": 2277.25,
+      "end": 2282.29,
+      "text": "If you've got 69 dollars here, 28 here, and 2 here, and think about the amount of conversations you got to have here."
+    },
+    {
+      "start": 2282.33,
+      "end": 2290.07,
+      "text": "You got to have 10 conversations to have access to 69 dollars, or you have to have 90 conversations to have access to 28 plus 2, 30 bucks."
+    },
+    {
+      "start": 2290.93,
+      "end": 2295.21,
+      "text": "Your price will signal to rich people that this is for them."
+    },
+    {
+      "start": 2296.55,
+      "end": 2304.59,
+      "text": "And your marketing, if you're running, you know, flash sales and discounts and all of that kind of stuff, you're telling these people who have money, \"This isn't for you."
+    },
+    {
+      "start": 2304.81,
+      "end": 2305.63,
+      "text": "I'm inexperienced."
+    },
+    {
+      "start": 2305.77,
+      "end": 2312.83,
+      "text": "I'm a low-level business owner,\" or, \"I'm a business that purposely, I might be a higher level business owner, but I've purely made this to cater to the masses.\""
+    },
+    {
+      "start": 2314.31,
+      "end": 2318.49,
+      "text": "So all of what I described is something called lead scoring or lead qualification."
+    },
+    {
+      "start": 2319.21,
+      "end": 2323.67,
+      "text": "And so what that means is that there's a certain type of customer that's more likely to buy your thing, right?"
+    },
+    {
+      "start": 2324.15,
+      "end": 2327.23,
+      "text": "Somebody who has more money is more likely to, to buy your more expensive thing."
+    },
+    {
+      "start": 2327.75,
+      "end": 2335.85,
+      "text": "And so if we know that the people who have the money are the ones that buy our expensive thing, then we should try and just tell every-- tell the world, \"We only cater to these people.\""
+    },
+    {
+      "start": 2336.51,
+      "end": 2340.31,
+      "text": "So what'll happen is, your marketing, the volume will go down."
+    },
+    {
+      "start": 2340.91,
+      "end": 2345.87,
+      "text": "The cost per call, the cost per lead will go down, but the amount you make will go way up."
+    },
+    {
+      "start": 2346.36,
+      "end": 2349.13,
+      "text": "And so let me give you a real-life scenario."
+    },
+    {
+      "start": 2349.97,
+      "end": 2357.55,
+      "text": "When we optimized for leads for my book launch, we paid about 5 bucks a lead when we optimized just for leads, which is volume, all right?"
+    },
+    {
+      "start": 2358.39,
+      "end": 2365.05,
+      "text": "And we had another campaign that optimized for purchases, and those leads cost 17 dollars."
+    },
+    {
+      "start": 2366.99,
+      "end": 2369.77,
+      "text": "The question is, which one would you go with?"
+    },
+    {
+      "start": 2369.91,
+      "end": 2373.77,
+      "text": "Now, the poor business owner would say, \"Well, 5 dollar leads are better than 17 dollar leads.\""
+    },
+    {
+      "start": 2374.13,
+      "end": 2376.57,
+      "text": "The rich business owner would say, \"Well, what kind of leads do I get?\""
+    },
+    {
+      "start": 2377.57,
+      "end": 2381.93,
+      "text": "And so these 5 dollar leads, after we finished the campaign, were worth 20 dollars."
+    },
+    {
+      "start": 2382.71,
+      "end": 2384.87,
+      "text": "Okay, 4X return, there's something there."
+    },
+    {
+      "start": 2385.45,
+      "end": 2386.91,
+      "text": "The 17 dollar leads"
+    },
+    {
+      "start": 2388.67,
+      "end": 2390.99,
+      "text": "were worth 189 dollars."
+    },
+    {
+      "start": 2392.83,
+      "end": 2396.73,
+      "text": "I don't know about you, I'd rather spend 17 to make 189 than 5 to make 20."
+    },
+    {
+      "start": 2397.71,
+      "end": 2404.41,
+      "text": "And so one of the things that will change when you start serving the upper class, if you will, is that your cost per unit will go up."
+    },
+    {
+      "start": 2404.47,
+      "end": 2409.83,
+      "text": "Your cost to deliver, your cost per sale will go up, but not proportional to the amount of money you will make."
+    },
+    {
+      "start": 2410.29,
+      "end": 2416.19,
+      "text": "So I had to pay three and a half times more for something that was worth nine and a half times the value."
+    },
+    {
+      "start": 2416.69,
+      "end": 2417.75,
+      "text": "Which one's the better deal?"
+    },
+    {
+      "start": 2418.15,
+      "end": 2420.57,
+      "text": "This is an 11X, this is a 4X."
+    },
+    {
+      "start": 2421.09,
+      "end": 2428.33,
+      "text": "This is what the lesser affluent do not understand, and this is why their businesses do not make more money."
+    },
+    {
+      "start": 2429.17,
+      "end": 2440.81,
+      "text": "Now, the next thing that will come up is people will say, \"Hey, um, I would sell for a really expensive thing, but no one will buy it, because there's guys down the street who will sell it for less, because they're brokies selling to brokies.\""
+    },
+    {
+      "start": 2441.15,
+      "end": 2441.61,
+      "text": "You're right."
+    },
+    {
+      "start": 2442.49,
+      "end": 2451.13,
+      "text": "And that's because you can't sell the same thing, you got to sell something different, which is why I wrote my first book on this, which is the first chapter is you're selling a commodity."
+    },
+    {
+      "start": 2451.65,
+      "end": 2458.71,
+      "text": "You're selling something that someone could reasonably hold your thing and their thing up and say, \"These two things are the same, so I'll chip-- pick the cheaper one.\""
+    },
+    {
+      "start": 2459.13,
+      "end": 2460.39,
+      "text": "And that's reasonable for them to do it."
+    },
+    {
+      "start": 2460.81,
+      "end": 2467.01,
+      "text": "The idea is that we want to price our things so high and be in such a clearly different category that people say, \"These two things must be different."
+    },
+    {
+      "start": 2467.37,
+      "end": 2468.67,
+      "text": "I have to analyze these independently.\""
+    },
+    {
+      "start": 2469.19,
+      "end": 2472.01,
+      "text": "And so within the context of, \"What do I get for my money?\""
+    },
+    {
+      "start": 2472.35,
+      "end": 2473.83,
+      "text": "The rich person wants three things."
+    },
+    {
+      "start": 2474.23,
+      "end": 2477.47,
+      "text": "They want it to be fast, they want it to be easy, they want it to be guaranteed."
+    },
+    {
+      "start": 2478.89,
+      "end": 2485.49,
+      "text": "And so everything that you do that is more difficult for these people, you have to make easier, and these people will be willing to pay for it."
+    },
+    {
+      "start": 2485.91,
+      "end": 2488.05,
+      "text": "And so you pre-do some of that work for them."
+    },
+    {
+      "start": 2488.11,
+      "end": 2494.13,
+      "text": "You pre-choose some of the food, you go ahead of time, you drive ahead, you scout the location, you drive it to the door, whatever it is."
+    },
+    {
+      "start": 2494.43,
+      "end": 2496.73,
+      "text": "But when you look at, \"Well, what does it cost for me to drive this thing to the door?\""
+    },
+    {
+      "start": 2496.77,
+      "end": 2499.03,
+      "text": "It costs me 10 bucks, but they're willing to pay 100 for it."
+    },
+    {
+      "start": 2499.77,
+      "end": 2502.03,
+      "text": "Whereas this person's nagging me on the last 5 bucks."
+    },
+    {
+      "start": 2503.19,
+      "end": 2505.71,
+      "text": "It's a different game, but this is where all the money's at."
+    },
+    {
+      "start": 2506.47,
+      "end": 2513.73,
+      "text": "And as you get further and further in business, you'll find out that it might be 40-year-old moms with at least two kids, you know, that live in these neighborhoods or these zip codes."
+    },
+    {
+      "start": 2513.89,
+      "end": 2516.47,
+      "text": "That's the ones that are the best customers for your B2C, you know, thing."
+    },
+    {
+      "start": 2516.77,
+      "end": 2528.17,
+      "text": "It might be if you're in home services, we only deal with homes, homes over a million dollar value, which you can check, you know, their address and pull it up on, on Zillow or any other website before you even talk to the leads, so you know what kind of house value you're getting into."
+    },
+    {
+      "start": 2528.21,
+      "end": 2538.37,
+      "text": "Like, you can score leads pretty easily, and all you have to do, and this is why it's so important, is that you have to have ways for people to give you more money, because the people who have more money will give it to you, because they want an easier life, they want it risk-free, and they want it faster."
+    },
+    {
+      "start": 2538.79,
+      "end": 2545.41,
+      "text": "And so having those options available will show you in your CRM or whatever way you track data that some customers spend more."
+    },
+    {
+      "start": 2545.89,
+      "end": 2551.29,
+      "text": "Then you want to take all that time and effort and look at those customers and say, \"What makes these people different from everyone else?\""
+    },
+    {
+      "start": 2551.87,
+      "end": 2553.43,
+      "text": "And then that becomes your front-end marketing."
+    },
+    {
+      "start": 2554.11,
+      "end": 2560.51,
+      "text": "And also talking to those customers and saying, \"Hey, what about my thing attracted you to my ser-- you know, attracted you to my service or my product?\""
+    },
+    {
+      "start": 2561.03,
+      "end": 2564.67,
+      "text": "They will tell you the things that these people value, which will be different than what these people value."
+    },
+    {
+      "start": 2564.97,
+      "end": 2569.09,
+      "text": "And these people almost exclusively value price, as in they want the cheapest thing."
+    },
+    {
+      "start": 2569.39,
+      "end": 2574.15,
+      "text": "They don't even want to hear because the same reason, they get-- they're traumatized by zeros, right?"
+    },
+    {
+      "start": 2574.29,
+      "end": 2578.71,
+      "text": "And so you can't, you can't judge whether you're priced appropriately by people who can never pay to begin with."
+    },
+    {
+      "start": 2579.46,
+      "end": 2583.46,
+      "text": "So in past videos, I've also talked about how, like, when you start, you should start for free."
+    },
+    {
+      "start": 2584.08,
+      "end": 2592.46,
+      "text": "I have a Chick-fil-A approach to pricing, which is I want you to start, it's like, it's either free or it's full price, right?"
+    },
+    {
+      "start": 2592.94,
+      "end": 2599.6,
+      "text": "Now, I want to keep doing free until I feel a thousand percent confident that I can deliver, and then I go full price."
+    },
+    {
+      "start": 2599.96,
+      "end": 2607.64,
+      "text": "Now, within my Leads book, which by the way, you can grab all three of the books for free, hardback, uh, I think five or six bucks each, just cover the shipping."
+    },
+    {
+      "start": 2608.22,
+      "end": 2609.24,
+      "text": "Um, you can get all three."
+    },
+    {
+      "start": 2609.3,
+      "end": 2610.16,
+      "text": "It's a special we have right now."
+    },
+    {
+      "start": 2610.18,
+      "end": 2612.84,
+      "text": "If it runs out, apologies, because last time I did it ran out a couple weeks."
+    },
+    {
+      "start": 2613.4,
+      "end": 2617.34,
+      "text": "I break down how to go from zero to hero in terms of pricing inside of this book."
+    },
+    {
+      "start": 2617.72,
+      "end": 2623.06,
+      "text": "Now, part of that is me having to deal with the psychology of people who are beginners, right?"
+    },
+    {
+      "start": 2623.1,
+      "end": 2628.58,
+      "text": "And so my preference is to have kind of an algorithmic approach to somebody who, like, I'm telling you this so that you can jump the line."
+    },
+    {
+      "start": 2629.02,
+      "end": 2636.3,
+      "text": "If you just cannot wrap your head around it, start for free, and then whatever your price is going to be, charge 20% of that, right?"
+    },
+    {
+      "start": 2636.76,
+      "end": 2637.34,
+      "text": "And you're like, \"Great.\""
+    },
+    {
+      "start": 2637.88,
+      "end": 2644.6,
+      "text": "And then do that for the next five customers, and then after that, bump it by 20%, and then bump it by 20%, and then bump it by 20%."
+    },
+    {
+      "start": 2644.7,
+      "end": 2648.78,
+      "text": "Five and 20, five and 20, five and 20, until eventually you're closing one out of three people."
+    },
+    {
+      "start": 2649.44,
+      "end": 2651.76,
+      "text": "When you're at one out of three people, you're priced appropriately."
+    },
+    {
+      "start": 2652.14,
+      "end": 2653.5,
+      "text": "And at that point, what do we do?"
+    },
+    {
+      "start": 2654.14,
+      "end": 2655.74,
+      "text": "We want to keep raising price over time."
+    },
+    {
+      "start": 2656.16,
+      "end": 2662.08,
+      "text": "Because the reality of how services work is that you can tell how advanced a service business owner is by how expensive their product is."
+    },
+    {
+      "start": 2662.62,
+      "end": 2665.52,
+      "text": "Because if you're actually good, you have more demand than you have supply."
+    },
+    {
+      "start": 2665.64,
+      "end": 2667.74,
+      "text": "If you have more demand than you have supply, what should you do?"
+    },
+    {
+      "start": 2668.14,
+      "end": 2668.74,
+      "text": "Raise price."
+    },
+    {
+      "start": 2668.94,
+      "end": 2670.3,
+      "text": "That's how the supply-demand curve works."
+    },
+    {
+      "start": 2670.72,
+      "end": 2676.08,
+      "text": "And so you continue to raise your price until you're at a point where you're at equilibrium, where like you can handle the amount of demand that you have."
+    },
+    {
+      "start": 2676.42,
+      "end": 2684.38,
+      "text": "If you're still good, you still get more demand because word of mouth continues, and you keep going up, and that becomes the virtuous cycle of price and services."
+    },
+    {
+      "start": 2684.78,
+      "end": 2687.08,
+      "text": "Because when you have a higher price, you have higher gross margins."
+    },
+    {
+      "start": 2687.1,
+      "end": 2688.7,
+      "text": "When you have higher gross margins, you can hire better talent."
+    },
+    {
+      "start": 2688.74,
+      "end": 2690.7,
+      "text": "When you have better talent, you can deliver better services."
+    },
+    {
+      "start": 2690.74,
+      "end": 2692.14,
+      "text": "When you have better service, you get better reputation."
+    },
+    {
+      "start": 2692.42,
+      "end": 2693.54,
+      "text": "When you have better reputation, what does that do?"
+    },
+    {
+      "start": 2693.62,
+      "end": 2696.78,
+      "text": "It drives demand, which then drives price."
+    },
+    {
+      "start": 2697.74,
+      "end": 2700.36,
+      "text": "And so this is the cycle that every business has to go through."
+    },
+    {
+      "start": 2700.64,
+      "end": 2703.46,
+      "text": "And you signal to the marketplace, you communicate to the marketplace."
+    },
+    {
+      "start": 2703.56,
+      "end": 2705.42,
+      "text": "Pricing is a two-way communication."
+    },
+    {
+      "start": 2705.7,
+      "end": 2709.82,
+      "text": "You tell them what you're about, and then they will self-select as the correct customers for you."
+    },
+    {
+      "start": 2710.44,
+      "end": 2716.26,
+      "text": "And so you can see where someone's at in their business journey by how high they are priced compared to people who sell comparable services."
+    },
+    {
+      "start": 2716.84,
+      "end": 2720.32,
+      "text": "Because people will very much take price as an indication of value."
+    },
+    {
+      "start": 2721.92,
+      "end": 2722.38,
+      "text": "They just do."
+    },
+    {
+      "start": 2722.72,
+      "end": 2724.92,
+      "text": "Because in general, things that are priced higher are better."
+    },
+    {
+      "start": 2725.56,
+      "end": 2727.04,
+      "text": "Not always, but often."
+    },
+    {
+      "start": 2727.34,
+      "end": 2729.68,
+      "text": "It's a good enough rule of thumb that people in general will do that."
+    },
+    {
+      "start": 2729.8,
+      "end": 2734.16,
+      "text": "You've-- Like, this might blow your mind if you've, like, not met people with money."
+    },
+    {
+      "start": 2735.4,
+      "end": 2738.24,
+      "text": "When they go to shop at a store, they price from high to low."
+    },
+    {
+      "start": 2739.4,
+      "end": 2743.46,
+      "text": "They literally look at the most expensive stuff first, because that's probably the stuff that's for them."
+    },
+    {
+      "start": 2744.18,
+      "end": 2745.8,
+      "text": "They don't want to save money anymore."
+    },
+    {
+      "start": 2745.86,
+      "end": 2747.1,
+      "text": "They want to get better value."
+    },
+    {
+      "start": 2747.52,
+      "end": 2748.38,
+      "text": "They want better stuff."
+    },
+    {
+      "start": 2748.72,
+      "end": 2750.06,
+      "text": "They want to skip the line."
+    },
+    {
+      "start": 2750.36,
+      "end": 2751.38,
+      "text": "They want to get it faster."
+    },
+    {
+      "start": 2751.74,
+      "end": 2752.56,
+      "text": "They want it better."
+    },
+    {
+      "start": 2752.6,
+      "end": 2755.56,
+      "text": "They want it to be a higher quality, you know, higher quality ingredients."
+    },
+    {
+      "start": 2755.96,
+      "end": 2759.92,
+      "text": "They want it to be more made by somebody who's more noteworthy, all of these things."
+    },
+    {
+      "start": 2761.18,
+      "end": 2765.34,
+      "text": "And fundamentally, that is what this book goes into tremendous detail talking about, which is the Offers book."
+    },
+    {
+      "start": 2765.86,
+      "end": 2766.08,
+      "text": "All right."
+    },
+    {
+      "start": 2767.28,
+      "end": 2769.72,
+      "text": "So with that being said, sell to the rich."
+    },
+    {
+      "start": 2769.76,
+      "end": 2770.42,
+      "text": "They pay better."
+    },
+    {
+      "start": 2771.24,
+      "end": 2776.12,
+      "text": "It's better to sell fewer expensive customers than many broke customers."
+    },
+    {
+      "start": 2777.04,
+      "end": 2780.62,
+      "text": "And if you sell to rich people for long enough, they will make you one of them."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "35f4af8f603ec1de41c6f400c076257154ca294fb9f318d59556ae23daccd35a",
+  "audio_duration_sec": 2796.90449,
+  "elapsed_sec": 31.2,
+  "created": "2026-11-16T16:27:51+00:00"
+}

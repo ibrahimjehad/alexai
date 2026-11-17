@@ -1,0 +1,852 @@
+{
+  "source_id": "hormozi-100m-money-models-p09",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 1.52,
+      "text": "Ten years and ten minutes."
+    },
+    {
+      "start": 1.86,
+      "end": 4.58,
+      "text": "The best thing a human can do is help another human being know more."
+    },
+    {
+      "start": 4.9,
+      "end": 5.36,
+      "text": "Charlie Munger."
+    },
+    {
+      "start": 7.58,
+      "end": 9.36,
+      "text": "Where money model fits in the grand scheme of things."
+    },
+    {
+      "start": 10.62,
+      "end": 13.82,
+      "text": "My first book, 100 Million Dollar Offers, answered the question, \"What should I sell?\""
+    },
+    {
+      "start": 14.32,
+      "end": 16.7,
+      "text": "Answer: An offer so good people feel stupid saying no."
+    },
+    {
+      "start": 17.36,
+      "end": 21.4,
+      "text": "My second book, 100 Million Dollar Leads, answered the next natural question, \"How do I find these people?\""
+    },
+    {
+      "start": 21.72,
+      "end": 22.76,
+      "text": "Answer: You advertise."
+    },
+    {
+      "start": 23.42,
+      "end": 27.7,
+      "text": "This book, 100 Million Dollar Money Models, answers the next natural question, \"How do I get them to buy it?\""
+    },
+    {
+      "start": 28.2,
+      "end": 29.5,
+      "text": "Answer: A money model."
+    },
+    {
+      "start": 30.58,
+      "end": 31.06,
+      "text": "What we covered."
+    },
+    {
+      "start": 31.96,
+      "end": 35.62,
+      "text": "We covered a lot, and I think organizing what we learned into one place helps it sink in."
+    },
+    {
+      "start": 36.2,
+      "end": 39.52,
+      "text": "So, I make this the back-of-napkin list of what we covered and why."
+    },
+    {
+      "start": 40.56,
+      "end": 46.42,
+      "text": "Number one: A money bottle is a series of offers designed to increase how many customers you get, how much they pay, and how fast they pay it."
+    },
+    {
+      "start": 47.14,
+      "end": 52.38,
+      "text": "Two: A good money model makes more profit from a customer than it costs to get and service them in the first 30 days."
+    },
+    {
+      "start": 52.68,
+      "end": 53.42,
+      "text": "That's the bare minimum."
+    },
+    {
+      "start": 54.22,
+      "end": 62.38,
+      "text": "Three: A 100 million dollar money model makes more profit from one customer than it costs to get and service many customers in the first 30 days, which removes cash as a limiter to scaling your business."
+    },
+    {
+      "start": 63.4,
+      "end": 68.86,
+      "text": "Four: Money models have four types of offers: attraction offers, upsell offers, downsell offers, and continuity offers."
+    },
+    {
+      "start": 69.72,
+      "end": 73.22,
+      "text": "Five: Attraction offers get customers by offering something free or at a discount."
+    },
+    {
+      "start": 73.66,
+      "end": 76.7,
+      "text": "Often, they also make money by offering a better deal at a higher price."
+    },
+    {
+      "start": 77.52,
+      "end": 78.22,
+      "text": "We covered five."
+    },
+    {
+      "start": 79.12,
+      "end": 80.08,
+      "text": "A: Win your money back."
+    },
+    {
+      "start": 80.68,
+      "end": 83.18,
+      "text": "You set a goal for the customer and tell them how to reach it."
+    },
+    {
+      "start": 83.62,
+      "end": 87.26,
+      "text": "If they reach it, then they qualify to get their money back or get it back as store credit."
+    },
+    {
+      "start": 88.12,
+      "end": 89.08,
+      "text": "B: Giveaways."
+    },
+    {
+      "start": 89.66,
+      "end": 93.48,
+      "text": "You advertise a chance to win a big prize in exchange for contact information and anything else you want."
+    },
+    {
+      "start": 94.04,
+      "end": 97.56,
+      "text": "After picking a winner, you offer everyone else the big prize at a discounted price."
+    },
+    {
+      "start": 98.56,
+      "end": 99.8,
+      "text": "C: Decoy offers."
+    },
+    {
+      "start": 100.22,
+      "end": 101.88,
+      "text": "You advertise a free or discounted offer."
+    },
+    {
+      "start": 102.12,
+      "end": 105.3,
+      "text": "When the lead asks to learn more, you also present a more valuable premium offer."
+    },
+    {
+      "start": 105.68,
+      "end": 108.86,
+      "text": "The premium offer includes more features, benefits, bonuses, guarantees, and so on."
+    },
+    {
+      "start": 110.16,
+      "end": 111.64,
+      "text": "D: Buy X, get Y free."
+    },
+    {
+      "start": 112.24,
+      "end": 115.1,
+      "text": "You offer customers free stuff in exchange for buying other stuff for money."
+    },
+    {
+      "start": 115.6,
+      "end": 117.92,
+      "text": "The more free stuff and the higher its value, the more people buy."
+    },
+    {
+      "start": 118.86,
+      "end": 120.54,
+      "text": "E: Pay less now or pay more later."
+    },
+    {
+      "start": 121.3,
+      "end": 126.14,
+      "text": "You give people a choice to pay full price later or pay a discounted price now and get additional bonuses."
+    },
+    {
+      "start": 128.66,
+      "end": 131.0,
+      "text": "Upsell offers are whatever you offer next."
+    },
+    {
+      "start": 131.52,
+      "end": 134.32,
+      "text": "Typically, more, better, or newer versions of what they just bought."
+    },
+    {
+      "start": 134.96,
+      "end": 136.32,
+      "text": "These get you more cash fast."
+    },
+    {
+      "start": 136.6,
+      "end": 137.26,
+      "text": "We covered four."
+    },
+    {
+      "start": 137.92,
+      "end": 139.08,
+      "text": "A: The classic upsell."
+    },
+    {
+      "start": 139.8,
+      "end": 142.8,
+      "text": "You offer a solution to the customer's next problem the moment they become aware of it."
+    },
+    {
+      "start": 143.18,
+      "end": 144.32,
+      "text": "You can't have X without Y."
+    },
+    {
+      "start": 145.22,
+      "end": 146.36,
+      "text": "B: Menu upsells."
+    },
+    {
+      "start": 146.56,
+      "end": 151.42,
+      "text": "You tell customers which options they don't need, then tell them which they do and how to get their value from it."
+    },
+    {
+      "start": 151.9,
+      "end": 153.06,
+      "text": "You don't need that, you need this."
+    },
+    {
+      "start": 153.92,
+      "end": 155.2,
+      "text": "C: Anchor upsells."
+    },
+    {
+      "start": 155.68,
+      "end": 157.2,
+      "text": "You offer your most expensive thing first."
+    },
+    {
+      "start": 157.38,
+      "end": 160.58,
+      "text": "If the customer balks, you offer a much cheaper and still acceptable alternative."
+    },
+    {
+      "start": 160.98,
+      "end": 163.64,
+      "text": "No worries, if you don't care about X, this may be a better fit for you."
+    },
+    {
+      "start": 164.58,
+      "end": 165.8,
+      "text": "D: Rollover upsells."
+    },
+    {
+      "start": 166.28,
+      "end": 169.3,
+      "text": "You credit some or all of the customer's previous purchases towards your next offer."
+    },
+    {
+      "start": 169.68,
+      "end": 172.62,
+      "text": "Since you already spent 500 dollars, I'll just credit that towards staying for a full year."
+    },
+    {
+      "start": 174.32,
+      "end": 178.46,
+      "text": "Seven: Downsell offers are whatever you offer after someone says no."
+    },
+    {
+      "start": 178.94,
+      "end": 181.08,
+      "text": "And by turning nos into yeses, you make more money."
+    },
+    {
+      "start": 181.38,
+      "end": 182.12,
+      "text": "We covered three."
+    },
+    {
+      "start": 183.1,
+      "end": 184.5,
+      "text": "A: Payment plan downsells."
+    },
+    {
+      "start": 184.92,
+      "end": 188.46,
+      "text": "You offer the same product at the same price, but they pay some now and the rest over time."
+    },
+    {
+      "start": 189.66,
+      "end": 190.32,
+      "text": "When do you get paid?"
+    },
+    {
+      "start": 190.64,
+      "end": 191.86,
+      "text": "Let's do half now and half then."
+    },
+    {
+      "start": 193.3,
+      "end": 194.74,
+      "text": "B: Trial with penalty."
+    },
+    {
+      "start": 195.4,
+      "end": 198.74,
+      "text": "You let customers try your product or service for free, so long as they meet your terms."
+    },
+    {
+      "start": 199.32,
+      "end": 201.68,
+      "text": "If they do, they have a better chance of becoming paying customers."
+    },
+    {
+      "start": 201.84,
+      "end": 203.06,
+      "text": "If they don't, they pay."
+    },
+    {
+      "start": 203.5,
+      "end": 205.8,
+      "text": "If you do X, Y, and Z, I'll let you start for free."
+    },
+    {
+      "start": 206.74,
+      "end": 208.04,
+      "text": "C: Feed your downsells."
+    },
+    {
+      "start": 208.5,
+      "end": 210.6,
+      "text": "You lower prices by changing what the customer gets."
+    },
+    {
+      "start": 211.46,
+      "end": 215.96,
+      "text": "I offer lower quantity, lower quality, lower price alternatives, or cut optional components entirely."
+    },
+    {
+      "start": 216.48,
+      "end": 218.82,
+      "text": "If you're okay without a guarantee, I can knock off 400 bucks."
+    },
+    {
+      "start": 219.78,
+      "end": 224.58,
+      "text": "Eight: Continuity offers provide ongoing value that customers make ongoing payments for until they cancel."
+    },
+    {
+      "start": 225.26,
+      "end": 227.92,
+      "text": "These boost the profit of every customer and give you one last thing to sell."
+    },
+    {
+      "start": 228.18,
+      "end": 228.84,
+      "text": "We covered three."
+    },
+    {
+      "start": 229.6,
+      "end": 231.02,
+      "text": "A: Continuity bonus offers."
+    },
+    {
+      "start": 231.64,
+      "end": 233.74,
+      "text": "You give the customer an awesome thing if they sign up today."
+    },
+    {
+      "start": 234.24,
+      "end": 236.96,
+      "text": "Typically, the bonus itself has more value than the first continuity payment."
+    },
+    {
+      "start": 237.54,
+      "end": 240.1,
+      "text": "If you sign up today, you also get XYZ valuable thing."
+    },
+    {
+      "start": 241.54,
+      "end": 243.1,
+      "text": "B: Continuity discount offers."
+    },
+    {
+      "start": 243.62,
+      "end": 246.68,
+      "text": "You give the customer free time, now or later, if they sign up today."
+    },
+    {
+      "start": 247.64,
+      "end": 249.14,
+      "text": "C: Waived fee offers."
+    },
+    {
+      "start": 249.46,
+      "end": 252.78,
+      "text": "First, you ask the customer to pay a starter fee as part of joining a month-to-month program."
+    },
+    {
+      "start": 253.14,
+      "end": 255.96,
+      "text": "Then you offer to discount the entire fee if they commit to longer term."
+    },
+    {
+      "start": 256.7,
+      "end": 259.06,
+      "text": "If they cancel inside the term, they pay the fee."
+    },
+    {
+      "start": 259.76,
+      "end": 262.48,
+      "text": "Nine: You build money models one stage at a time."
+    },
+    {
+      "start": 263.32,
+      "end": 271.82,
+      "text": "Once I get customers reliably, then I make sure they pay for themselves reliably, then I make sure they pay for other customers reliably, then I start maximizing each customer's long-term value."
+    },
+    {
+      "start": 272.18,
+      "end": 273.8,
+      "text": "Then I print as much money as I can."
+    },
+    {
+      "start": 274.58,
+      "end": 280.32,
+      "text": "Bottom line: The knowledge in these bullets brought me more free and profitable customers than I've known what to do with."
+    },
+    {
+      "start": 281.04,
+      "end": 282.78,
+      "text": "If executed, they will do the same for you."
+    },
+    {
+      "start": 283.3,
+      "end": 285.92,
+      "text": "And with that, cash will no longer constrain your business."
+    },
+    {
+      "start": 286.56,
+      "end": 289.16,
+      "text": "I hope this book helps you grow your dream as big as you darn well please."
+    },
+    {
+      "start": 289.82,
+      "end": 295.92,
+      "text": "Also, since you are one of the few who actually finish what you start, I want to leave you with a parting gift, some closing remarks that got me through hard times."
+    },
+    {
+      "start": 297.52,
+      "end": 298.08,
+      "text": "Final thoughts."
+    },
+    {
+      "start": 298.84,
+      "end": 300.94,
+      "text": "You don't become confident by shouting affirmations in the mirror."
+    },
+    {
+      "start": 301.38,
+      "end": 305.24,
+      "text": "You become confident by giving yourself a stack of undeniable proof that you are who you say you are."
+    },
+    {
+      "start": 305.8,
+      "end": 306.7,
+      "text": "Outwork your self-doubt."
+    },
+    {
+      "start": 309.02,
+      "end": 312.94,
+      "text": "This was an actual post I made on July 25th, 2020, before I made my life public."
+    },
+    {
+      "start": 313.56,
+      "end": 318.56,
+      "text": "The image contrasts where I used to sleep on the floor seven years earlier with me on a private jet."
+    },
+    {
+      "start": 319.8,
+      "end": 323.36,
+      "text": "Layla snapped this when I wasn't looking, and I was like, \"Damn, I look super pensive.\""
+    },
+    {
+      "start": 324.06,
+      "end": 327.44,
+      "text": "Anyways, this is the second time we've taken a private jet, and it was dope."
+    },
+    {
+      "start": 327.98,
+      "end": 330.76,
+      "text": "They figure if you go down with a ship, your seatbelt won't save you."
+    },
+    {
+      "start": 331.04,
+      "end": 341.3,
+      "text": "Regardless, to every hard mother ever who is disappointing their parents, wives, husband, fake friends, and everyone else who doubts you, number one, I'm your biggest fan."
+    },
+    {
+      "start": 341.58,
+      "end": 344.54,
+      "text": "Number two, it's about to get real, so get hard fast."
+    },
+    {
+      "start": 345.28,
+      "end": 347.56,
+      "text": "Number three, you cannot lose if you do not quit."
+    },
+    {
+      "start": 348.8,
+      "end": 351.74,
+      "text": "I used to repeat that to myself over and over again when I didn't want to keep doing it."
+    },
+    {
+      "start": 352.4,
+      "end": 354.58,
+      "text": "If you feel hopeless, welcome to entrepreneurship."
+    },
+    {
+      "start": 355.2,
+      "end": 357.58,
+      "text": "If you feel like you'll never make it, you're on the right path."
+    },
+    {
+      "start": 358.18,
+      "end": 364.14,
+      "text": "If you feel like you're a disappointment to everyone who you know, keep moving, because the end of the rainbow isn't a pot of gold."
+    },
+    {
+      "start": 364.5,
+      "end": 365.7,
+      "text": "It's you, the real you."
+    },
+    {
+      "start": 366.32,
+      "end": 370.92,
+      "text": "That's been underneath all along, whispering in your ear, \"Just one more step, one more call, one more sale.\""
+    },
+    {
+      "start": 371.68,
+      "end": 380.84,
+      "text": "When I say I'm your biggest fan, it's because I was there, and I know you because I know exactly what it feels like having both 100% confidence and 1,000% doubt at the same time."
+    },
+    {
+      "start": 381.36,
+      "end": 382.24,
+      "text": "Here's all you gotta do."
+    },
+    {
+      "start": 382.84,
+      "end": 385.36,
+      "text": "Just keep moving, keep fighting, keep improving."
+    },
+    {
+      "start": 385.64,
+      "end": 386.38,
+      "text": "Your time will come."
+    },
+    {
+      "start": 386.72,
+      "end": 387.8,
+      "text": "Success is the only revenge."
+    },
+    {
+      "start": 388.78,
+      "end": 395.26,
+      "text": "So right now, you might be back where I was when I started, working in a concrete coffin under blinding fluorescent lights, wanting to escape."
+    },
+    {
+      "start": 395.94,
+      "end": 398.14,
+      "text": "You might be overwhelmed by all the stuff you have to do to succeed."
+    },
+    {
+      "start": 398.62,
+      "end": 402.42,
+      "text": "But with that uncertainty, know that every entrepreneur past and present shoulders that burden with you."
+    },
+    {
+      "start": 403.0,
+      "end": 403.48,
+      "text": "I've been there."
+    },
+    {
+      "start": 404.18,
+      "end": 404.68,
+      "text": "They've been there."
+    },
+    {
+      "start": 405.0,
+      "end": 405.66,
+      "text": "You're not alone."
+    },
+    {
+      "start": 406.38,
+      "end": 409.68,
+      "text": "I share these stories as I experience them so you can benefit from them as I have."
+    },
+    {
+      "start": 410.22,
+      "end": 411.06,
+      "text": "So here's my promise."
+    },
+    {
+      "start": 411.6,
+      "end": 413.28,
+      "text": "Follow the lessons, the money will come."
+    },
+    {
+      "start": 413.7,
+      "end": 414.34,
+      "text": "Be one of zero."
+    },
+    {
+      "start": 415.28,
+      "end": 417.4,
+      "text": "Alex Hormozi, founder, acquisition.com."
+    },
+    {
+      "start": 418.1,
+      "end": 418.4,
+      "text": "P.S."
+    },
+    {
+      "start": 418.98,
+      "end": 421.12,
+      "text": "I've got some free goodies for you for finishing what you started."
+    },
+    {
+      "start": 421.56,
+      "end": 422.1,
+      "text": "Free goodies."
+    },
+    {
+      "start": 422.5,
+      "end": 423.3,
+      "text": "Nom, nom, nom."
+    },
+    {
+      "start": 423.86,
+      "end": 427.64,
+      "text": "Kind of like the previews after the credits finish, if you're still with me, I want to give you a bunch of goodies."
+    },
+    {
+      "start": 428.26,
+      "end": 432.82,
+      "text": "Number one, if you're struggling to figure out who to sell to, I released a chapter called Your First Avatar."
+    },
+    {
+      "start": 433.04,
+      "end": 435.46,
+      "text": "You can get it for free at acquisition.com/avatar."
+    },
+    {
+      "start": 435.88,
+      "end": 437.18,
+      "text": "Just pop in your email, and we'll send it over."
+    },
+    {
+      "start": 438.18,
+      "end": 444.36,
+      "text": "Two, if you're struggling to figure out what to sell, you can go to Amazon or wherever you buy books and search Alex Hormozi and 100 Million Dollar Offers."
+    },
+    {
+      "start": 444.52,
+      "end": 445.4,
+      "text": "It should get you on the right path."
+    },
+    {
+      "start": 446.3,
+      "end": 453.3,
+      "text": "Three, if you're struggling to get people interested in what you sell, you can go to Amazon or wherever you buy books and search Alex Hormozi and get 100 Million Dollar Leads."
+    },
+    {
+      "start": 453.5,
+      "end": 454.62,
+      "text": "It should also put you on the right path."
+    },
+    {
+      "start": 455.4,
+      "end": 459.16,
+      "text": "Four, if your company's doing over a million dollars in EBITDA, AKA profit, we'd love to help you scale."
+    },
+    {
+      "start": 459.54,
+      "end": 465.12,
+      "text": "It brings us so much pleasure to know companies have grown much and bigger and faster than mine because they avoided many of the mistakes that I did."
+    },
+    {
+      "start": 465.68,
+      "end": 469.4,
+      "text": "If you want us to look under the hood and see if we can help you, go to acquisition.com."
+    },
+    {
+      "start": 470.48,
+      "end": 475.76,
+      "text": "Number five, if you want a job at acquisition.com or in one of our portfolio companies, we love hiring from Hormozi Nation."
+    },
+    {
+      "start": 476.52,
+      "end": 478.48,
+      "text": "Our best returns come from investing in great people."
+    },
+    {
+      "start": 478.76,
+      "end": 483.44,
+      "text": "Go to acquisition.com/careers/openjobs, and you can see all available openings."
+    },
+    {
+      "start": 484.3,
+      "end": 490.3,
+      "text": "Six, to get the free book downloads and video trainings that come with this book, go to acquisition.com/training/money."
+    },
+    {
+      "start": 491.06,
+      "end": 498.64,
+      "text": "Seven, if you like listening to podcasts and want to hear more, my podcast at the time of this writing is top five in entrepreneurship and top 15 in business in the US."
+    },
+    {
+      "start": 499.36,
+      "end": 503.94,
+      "text": "You can get there by searching Alex Hormozi wherever you listen or by going to acquisition.com/podcast."
+    },
+    {
+      "start": 504.16,
+      "end": 508.7,
+      "text": "I share useful and interesting stories, valuable lessons, and the essential mental models I rely on every day to make more money."
+    },
+    {
+      "start": 509.64,
+      "end": 515.04,
+      "text": "Number eight, if you like to watch videos, we put a lot of resources into our free training available for everyone."
+    },
+    {
+      "start": 515.68,
+      "end": 519.42,
+      "text": "We intend on making it better than any paid stuff out there and let you decide if we succeeded."
+    },
+    {
+      "start": 520.1,
+      "end": 523.82,
+      "text": "You can find our videos on YouTube or wherever you watch videos by searching Alex Hormozi."
+    },
+    {
+      "start": 524.5,
+      "end": 529.36,
+      "text": "And if you like short-form videos, check out the bite-sized content we pump out daily at acquisition.com/media."
+    },
+    {
+      "start": 529.72,
+      "end": 532.2,
+      "text": "You'll see all the places we post, and you can pick the ones you like most."
+    },
+    {
+      "start": 533.52,
+      "end": 534.78,
+      "text": "And last, thank you again."
+    },
+    {
+      "start": 535.32,
+      "end": 538.56,
+      "text": "Please be one of those givers and share this with entrepreneurs by leaving a review."
+    },
+    {
+      "start": 538.84,
+      "end": 539.66,
+      "text": "It would mean the world to me."
+    },
+    {
+      "start": 540.56,
+      "end": 542.32,
+      "text": "I'm sending you business-building vibes from my desk."
+    },
+    {
+      "start": 542.72,
+      "end": 544.64,
+      "text": "I spend a lot of time there, so it's a lot of vibes."
+    },
+    {
+      "start": 545.18,
+      "end": 546.6,
+      "text": "May your desire be greater than your obstacles."
+    },
+    {
+      "start": 548.66,
+      "end": 554.6,
+      "text": "Real quick, guys, I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 555.26,
+      "end": 560.58,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 560.68,
+      "end": 566.22,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 566.28,
+      "end": 572.38,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 572.72,
+      "end": 576.74,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 576.88,
+      "end": 580.3,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 580.4,
+      "end": 582.84,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 582.98,
+      "end": 587.96,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 588.0,
+      "end": 594.18,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 594.82,
+      "end": 598.92,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap."
+    },
+    {
+      "start": 599.36,
+      "end": 601.2,
+      "text": "R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "087e01442a2c1940f3b5d8ef4c96f99980bbfcd01c91bb9dc03528635fcc70b8",
+  "audio_duration_sec": 604.316735,
+  "elapsed_sec": 8.6,
+  "created": "2026-11-16T03:32:32+00:00"
+}

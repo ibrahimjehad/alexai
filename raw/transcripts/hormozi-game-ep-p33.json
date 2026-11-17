@@ -1,0 +1,532 @@
+{
+  "source_id": "hormozi-game-ep-p33",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.44,
+      "end": 1.22,
+      "text": "What's going on, guys?"
+    },
+    {
+      "start": 1.24,
+      "end": 3.04,
+      "text": "Hope you guys have an amazing, amazing day."
+    },
+    {
+      "start": 3.44,
+      "end": 7.46,
+      "text": "So, what is one of the hardest obstacles to overcome in all of selling?"
+    },
+    {
+      "start": 8.1,
+      "end": 8.44,
+      "text": "Price."
+    },
+    {
+      "start": 8.66,
+      "end": 9.52,
+      "text": "I don't have the money, right?"
+    },
+    {
+      "start": 9.7,
+      "end": 10.36,
+      "text": "You hear it all the time."
+    },
+    {
+      "start": 10.76,
+      "end": 20.22,
+      "text": "And sometimes, and most-- a lot of times it's because, um, the pre-sale and during the, the conversation leading up to the actual price, not enough pain was engaged."
+    },
+    {
+      "start": 20.32,
+      "end": 24.36,
+      "text": "We didn't go in-- like, we didn't really establish enough of a need before offering a price or offering a solution, right?"
+    },
+    {
+      "start": 24.4,
+      "end": 26.64,
+      "text": "We're offering a solution to a problem that we didn't create, right?"
+    },
+    {
+      "start": 27.06,
+      "end": 29.2,
+      "text": "And so someone's going to be like, \"Ah, you know, it's not really worth it,\" right?"
+    },
+    {
+      "start": 29.26,
+      "end": 31.12,
+      "text": "Because that's really what they're saying is it's not worth it."
+    },
+    {
+      "start": 31.12,
+      "end": 35.48,
+      "text": "It's not they don't have the money, it's just their money isn't worth that solution, right?"
+    },
+    {
+      "start": 36.44,
+      "end": 50.86,
+      "text": "And so, um, I was talking to, uh, my friend Nick Sonecki, who runs the sales team at, uh, LadyBoss Weight Loss, and before that was the number one sales rep at Six Pack Shortcuts, 75-man sales floor doing a million plus a month, um, in sales."
+    },
+    {
+      "start": 51.04,
+      "end": 57.62,
+      "text": "And he was doing all phone sales and, um, we were, you know, he and I just always, we'll, we'll spitball, talk back and forth about different obstacles and stuff."
+    },
+    {
+      "start": 57.64,
+      "end": 60.46,
+      "text": "And he's like, \"Hey man, how do you-- what's your, what's your best to overcome for this?\""
+    },
+    {
+      "start": 60.56,
+      "end": 60.7,
+      "text": "Right?"
+    },
+    {
+      "start": 61.02,
+      "end": 62.26,
+      "text": "And he's like, \"I'm talking to our team.\""
+    },
+    {
+      "start": 62.94,
+      "end": 66.56,
+      "text": "And, uh, we were role-playing back and forth, and so I was kind of just in sales mode."
+    },
+    {
+      "start": 67.24,
+      "end": 74.02,
+      "text": "And, um, I remembered in sales mode, like, what I would actually say to that."
+    },
+    {
+      "start": 74.54,
+      "end": 77.44,
+      "text": "Um, I don't have the price, you know, I don't have the money right now, whatever it is, right?"
+    },
+    {
+      "start": 78.26,
+      "end": 83.18,
+      "text": "And so, um, I call this, um, we vote with our dollars, okay?"
+    },
+    {
+      "start": 83.4,
+      "end": 85.94,
+      "text": "It's the easiest way you can, you can at least remember it."
+    },
+    {
+      "start": 86.7,
+      "end": 87.38,
+      "text": "And so it goes like this."
+    },
+    {
+      "start": 88.1,
+      "end": 89.58,
+      "text": "Um, \"I totally understand, man.\""
+    },
+    {
+      "start": 89.66,
+      "end": 90.82,
+      "text": "First, you always agree, right?"
+    },
+    {
+      "start": 90.9,
+      "end": 91.98,
+      "text": "Whenever they say like, \"Hey, I can...\""
+    },
+    {
+      "start": 92.14,
+      "end": 93.02,
+      "text": "Like, \"Totally understand.\""
+    },
+    {
+      "start": 93.62,
+      "end": 96.92,
+      "text": "Um, \"You know, one of the things that we found,\" right?"
+    },
+    {
+      "start": 97.02,
+      "end": 98.12,
+      "text": "Because now you're talking past it."
+    },
+    {
+      "start": 98.16,
+      "end": 101.92,
+      "text": "Whenever you want to talk to someone about their circumstances, you never talk to them."
+    },
+    {
+      "start": 102.5,
+      "end": 106.3,
+      "text": "You talk about someone who's just like them in an identical circumstance yesterday, right?"
+    },
+    {
+      "start": 106.7,
+      "end": 110.44,
+      "text": "\"So I had a girl who was just like you, same job, everything, and she came in yesterday and we talked about...\""
+    },
+    {
+      "start": 110.7,
+      "end": 115.24,
+      "text": "And like, and, and she actually came up to the same conclusion, which was that she didn't have the money to do the program."
+    },
+    {
+      "start": 115.68,
+      "end": 130.66,
+      "text": "And so I told her a story that, that made a lot of sense to me, and it was something that really helped me when I started my fitness journey, um, kind of, I guess, make sense of the time, the time investment, the money investment, all that kind of stuff, and the return on it."
+    },
+    {
+      "start": 131.02,
+      "end": 131.2,
+      "text": "All right?"
+    },
+    {
+      "start": 131.78,
+      "end": 132.44,
+      "text": "Mind if I share it with you?"
+    },
+    {
+      "start": 132.78,
+      "end": 133.22,
+      "text": "Yeah, sure."
+    },
+    {
+      "start": 133.28,
+      "end": 133.74,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 134.12,
+      "end": 138.12,
+      "text": "So we tend to vote with our dollars about the things that we care about, right?"
+    },
+    {
+      "start": 139.1,
+      "end": 145.14,
+      "text": "Because I mean, like, we can say that we care about X, Y, and Z, but what really matters is where we spend our money, because that's what we really care about."
+    },
+    {
+      "start": 145.42,
+      "end": 148.68,
+      "text": "Everything else is just things that we would like to care about, but we don't actually care about them."
+    },
+    {
+      "start": 148.72,
+      "end": 150.98,
+      "text": "The things we really care about, we spend our dollars on, right?"
+    },
+    {
+      "start": 151.84,
+      "end": 155.54,
+      "text": "And so if we want to change the things that we care about, we have to change the way we vote with our dollars."
+    },
+    {
+      "start": 155.88,
+      "end": 162.56,
+      "text": "And so there was an interesting story that I, um, was actually, I was with my wife, and we were at Sephora or MAC or one of the makeup stores."
+    },
+    {
+      "start": 163.36,
+      "end": 164.66,
+      "text": "And this little girl walked in front of us."
+    },
+    {
+      "start": 164.7,
+      "end": 166.96,
+      "text": "She was, um, she must have been 14 years old."
+    },
+    {
+      "start": 167.96,
+      "end": 176.72,
+      "text": "And she was there with her friend and, um, you know, the, the, the makeup lady was like, \"You need one of these pencils and one of these other pencils and some glue,\" and whatever."
+    },
+    {
+      "start": 176.76,
+      "end": 183.12,
+      "text": "You know, like, I, I don't pretend to know what, what it was that she was buying, but it was like basically your, your makeup starter kit."
+    },
+    {
+      "start": 184.08,
+      "end": 192.96,
+      "text": "And, and she's like, \"Okay, now I want you guys to understand that every month you need to start budgeting for this because this is something that, like, you're going to be spending money on regularly now, okay?\""
+    },
+    {
+      "start": 193.86,
+      "end": 200.46,
+      "text": "And I thought that was so interesting because what happened was that expenditure, right?"
+    },
+    {
+      "start": 201.66,
+      "end": 203.96,
+      "text": "And the, and the girl was super excited about it, and she was like, \"Yes.\""
+    },
+    {
+      "start": 204.0,
+      "end": 205.3,
+      "text": "And she's like, \"Yeah, I'll totally budget.\""
+    },
+    {
+      "start": 205.34,
+      "end": 206.74,
+      "text": "Like, I'll, like, and she was all in."
+    },
+    {
+      "start": 207.14,
+      "end": 215.54,
+      "text": "And it was because what that did was that purchase marked the transition from her going from a girl to accepting the, accepting the new identity of a woman, right?"
+    },
+    {
+      "start": 216.0,
+      "end": 219.92,
+      "text": "And so with that new identity came new priorities, right?"
+    },
+    {
+      "start": 220.38,
+      "end": 230.98,
+      "text": "And so right now what we're talking about isn't going from a girl to a woman, it's going from a woman that's unsatisfied with how she looks and her habits to someone who is satisfied with how she looks and her habits and how she feels, right?"
+    },
+    {
+      "start": 231.02,
+      "end": 232.68,
+      "text": "You want to have that fit identity."
+    },
+    {
+      "start": 233.14,
+      "end": 237.38,
+      "text": "And so part of that identity comes with the priorities of where we spend our money, right?"
+    },
+    {
+      "start": 237.7,
+      "end": 242.2,
+      "text": "And so if we really break it down, like, we're talking about 10 bucks a day, right?"
+    },
+    {
+      "start": 245.36,
+      "end": 247.48,
+      "text": "Hey guys, love that you're listening to the podcast."
+    },
+    {
+      "start": 247.76,
+      "end": 257.56,
+      "text": "If you ever want to have the video version of this, which usually has more effects, more visuals, more graphs, you know, drawn out stuff, sometimes it can help hit the brain centers in different ways."
+    },
+    {
+      "start": 257.62,
+      "end": 258.6,
+      "text": "You can check out my YouTube channel."
+    },
+    {
+      "start": 258.62,
+      "end": 259.36,
+      "text": "It's absolutely free."
+    },
+    {
+      "start": 259.84,
+      "end": 263.06,
+      "text": "Go check that out if that's what you are into, and if not, keep enjoying the show."
+    },
+    {
+      "start": 266.72,
+      "end": 267.64,
+      "text": "What can we do?"
+    },
+    {
+      "start": 267.88,
+      "end": 270.42,
+      "text": "Because, like, that new identity is also going to come with other savings."
+    },
+    {
+      "start": 270.52,
+      "end": 272.3,
+      "text": "You're not going to go out to drink as much."
+    },
+    {
+      "start": 272.36,
+      "end": 273.94,
+      "text": "You're not going to spend as much money on junk food."
+    },
+    {
+      "start": 274.24,
+      "end": 276.04,
+      "text": "You're not going to spend as much money on doctor visits."
+    },
+    {
+      "start": 276.1,
+      "end": 279.0,
+      "text": "Like, there's, there's a lot of other things that are going to go along with it, right?"
+    },
+    {
+      "start": 279.9,
+      "end": 282.08,
+      "text": "Um, that will save you money, I promise you."
+    },
+    {
+      "start": 282.14,
+      "end": 284.32,
+      "text": "Eating chicken and rice is cheap, right?"
+    },
+    {
+      "start": 284.94,
+      "end": 289.9,
+      "text": "Um, and, and so what we need to do is basically break down that it's really just a priorities issue."
+    },
+    {
+      "start": 290.5,
+      "end": 296.06,
+      "text": "And so once you give them that epiphany bridge, then you can break it down to, you know, dollars per day, et cetera."
+    },
+    {
+      "start": 296.7,
+      "end": 301.74,
+      "text": "Um, but that bridge is what shows that it's really the, we vote with our dollars about the things that we care about."
+    },
+    {
+      "start": 302.18,
+      "end": 306.92,
+      "text": "And ultimately, it's not, um, a lot of times it's not a budget issue, it's a priorities issue."
+    },
+    {
+      "start": 307.1,
+      "end": 307.76,
+      "text": "You can say those words."
+    },
+    {
+      "start": 307.76,
+      "end": 309.54,
+      "text": "It's not a budget issue, it's usually a priorities issue."
+    },
+    {
+      "start": 309.54,
+      "end": 316.44,
+      "text": "And we had this story with a little girl, and what happened is you shifted her identity, and with that new identity came new priorities, right?"
+    },
+    {
+      "start": 316.48,
+      "end": 326.88,
+      "text": "And so what we need to do for you is bring, bring these new priorities along with you so that we can solidify that identity shift, so that we can get what you're looking for."
+    },
+    {
+      "start": 326.9,
+      "end": 328.24,
+      "text": "You're not just trying to lose weight, right?"
+    },
+    {
+      "start": 328.38,
+      "end": 331.14,
+      "text": "You're trying to become a fitter, better person, right?"
+    },
+    {
+      "start": 331.2,
+      "end": 335.36,
+      "text": "And that person spends money on health, spends money on coaching, right?"
+    },
+    {
+      "start": 335.88,
+      "end": 337.18,
+      "text": "So that you can be the best version of you."
+    },
+    {
+      "start": 337.48,
+      "end": 345.4,
+      "text": "So, for any of you guys who struggle with the price to overcome, um, or like, it's not worth it, or, uh, you know, that's, that's really expensive."
+    },
+    {
+      "start": 345.44,
+      "end": 347.7,
+      "text": "It, it's, it's especially effective on recurring stuff."
+    },
+    {
+      "start": 347.74,
+      "end": 353.88,
+      "text": "Front-end offers are easy to sell emotionally no matter what, but like, um, even high-ticket front-end offers, but it's the recurring."
+    },
+    {
+      "start": 354.36,
+      "end": 358.88,
+      "text": "That's the one, especially if you're selling EFT, selling memberships, because what you're doing is you're selling a permanent fix."
+    },
+    {
+      "start": 359.22,
+      "end": 361.2,
+      "text": "And so with a permanent fix comes a permanent cost."
+    },
+    {
+      "start": 361.56,
+      "end": 362.8,
+      "text": "And so a lot of people don't like confronting that."
+    },
+    {
+      "start": 362.82,
+      "end": 367.96,
+      "text": "They'd rather spend 2,000 dollars for 12 weeks than to spend 150 a month for the next year, right?"
+    },
+    {
+      "start": 368.86,
+      "end": 371.28,
+      "text": "Which is why I think you should price things differently, but I'll get into that another time."
+    },
+    {
+      "start": 371.82,
+      "end": 380.7,
+      "text": "But the whole point is that if you have a permanent cost that's going to be introduced, then we need to introduce that with an identity shift and aligned priorities, um, with that new identity, with the new cost."
+    },
+    {
+      "start": 380.76,
+      "end": 381.9,
+      "text": "So, hope that makes sense for you guys."
+    },
+    {
+      "start": 382.0,
+      "end": 383.02,
+      "text": "Hope you guys have an amazing day."
+    },
+    {
+      "start": 383.4,
+      "end": 384.56,
+      "text": "Um, use that."
+    },
+    {
+      "start": 384.62,
+      "end": 389.48,
+      "text": "Uh, we've already had a bunch of guys who are in our Launch and Legacy program using it to some phenomenal success."
+    },
+    {
+      "start": 389.56,
+      "end": 392.46,
+      "text": "Just remember, like, we vote with our dollars about the things that we care about."
+    },
+    {
+      "start": 392.9,
+      "end": 399.16,
+      "text": "And so honestly, like, I had this same conversation yesterday with a woman who decided to sign up because what we realized, what we realized, not her, right?"
+    },
+    {
+      "start": 399.5,
+      "end": 400.04,
+      "text": "Not you."
+    },
+    {
+      "start": 400.06,
+      "end": 405.86,
+      "text": "What we realized was that for her, it wasn't a budget issue, it was just a priorities issue."
+    },
+    {
+      "start": 406.26,
+      "end": 408.2,
+      "text": "And so here's a story to illustrate that, right?"
+    },
+    {
+      "start": 408.24,
+      "end": 413.14,
+      "text": "And so you kind of walk through it in that way, and it's an easier way of, of getting to the main point."
+    },
+    {
+      "start": 415.22,
+      "end": 415.82,
+      "text": "Close, close, close."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "9ce07f77d633f6eb9b062b9650af2410ab93a696e87872615a1ed87b228f5d56",
+  "audio_duration_sec": 424.202449,
+  "elapsed_sec": 11.4,
+  "created": "2026-11-16T15:35:49+00:00"
+}

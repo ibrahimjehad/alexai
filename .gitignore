@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.env
+*.part
+brain/manifest.lock
+# model caches (embedding models under models/, note vectors under .cache/vectors/)
+models/
+.cache/
+huggingface/
+*.safetensors
+*.npz
+.DS_Store
+
+# business projects stay local, never pushed (each has its own local git)
+/projects/

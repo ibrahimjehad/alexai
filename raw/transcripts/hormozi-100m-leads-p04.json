@@ -1,0 +1,4477 @@
+{
+  "source_id": "hormozi-100m-leads-p04",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.76,
+      "end": 18.28,
+      "text": "On today's 100 Million Leads collab podcast, I've got post-free content, the cornerstone of how we built all of the free personal branding stuff that we do across LinkedIn, Twitter, TikTok, uh, Instagram, this podcast itself, YouTube, and my email list."
+    },
+    {
+      "start": 18.72,
+      "end": 22.2,
+      "text": "All of those come from the core concepts that I explain in the next 47 minutes."
+    },
+    {
+      "start": 22.7,
+      "end": 23.66,
+      "text": "Uh, this one is a heater."
+    },
+    {
+      "start": 23.78,
+      "end": 32.8,
+      "text": "This is how we built a 5 million person audience in 24 months, um, on a budget, only working or only recording two days per month and doing our real job, acquisition.com in the meantime."
+    },
+    {
+      "start": 33.34,
+      "end": 36.06,
+      "text": "Um, you're not going to want to miss this one, so enjoy this."
+    },
+    {
+      "start": 38.36,
+      "end": 40.06,
+      "text": "Post-free content, part one."
+    },
+    {
+      "start": 40.62,
+      "end": 42.48,
+      "text": "How to build an audience to get engaged leads."
+    },
+    {
+      "start": 43.42,
+      "end": 45.5,
+      "text": "No one's ever complained about getting too much value."
+    },
+    {
+      "start": 46.7,
+      "end": 47.58,
+      "text": "January 2020."
+    },
+    {
+      "start": 47.58,
+      "end": 49.88,
+      "text": "\"Did you ever hear about Kylie Jenner?\""
+    },
+    {
+      "start": 50.16,
+      "end": 50.64,
+      "text": "Layla asked."
+    },
+    {
+      "start": 50.92,
+      "end": 51.36,
+      "text": "\"No, why?\""
+    },
+    {
+      "start": 52.28,
+      "end": 52.68,
+      "text": "I replied."
+    },
+    {
+      "start": 52.68,
+      "end": 55.34,
+      "text": "\"She's now the youngest female self-made billionaire.\""
+    },
+    {
+      "start": 55.82,
+      "end": 56.28,
+      "text": "\"Wait, what?\""
+    },
+    {
+      "start": 56.3,
+      "end": 57.54,
+      "text": "\"Yeah, she's 20."
+    },
+    {
+      "start": 57.74,
+      "end": 58.74,
+      "text": "Forbes just put her on the cover.\""
+    },
+    {
+      "start": 59.52,
+      "end": 61.74,
+      "text": "I was 10 years older than her and not a billionaire."
+    },
+    {
+      "start": 62.24,
+      "end": 63.2,
+      "text": "Why do I suck so much?"
+    },
+    {
+      "start": 63.76,
+      "end": 65.02,
+      "text": "How could she make so much more than me?"
+    },
+    {
+      "start": 65.4,
+      "end": 66.48,
+      "text": "I thought I was pretty good at business."
+    },
+    {
+      "start": 66.58,
+      "end": 72.82,
+      "text": "We took home 13 million in personal income the year before, but I was clearly missing something, and I felt horrible about it."
+    },
+    {
+      "start": 73.5,
+      "end": 74.36,
+      "text": "My ego protected me."
+    },
+    {
+      "start": 74.56,
+      "end": 77.08,
+      "text": "Well, Kris Jenner was her mother, and she must have organized all this."
+    },
+    {
+      "start": 77.28,
+      "end": 79.14,
+      "text": "I wrote it off as rich parents and moved on."
+    },
+    {
+      "start": 80.68,
+      "end": 83.42,
+      "text": "A few months later, Layla looked up from her computer."
+    },
+    {
+      "start": 83.82,
+      "end": 87.66,
+      "text": "\"Dude, Huda just sold a minority stake in her company at a 600 million dollar valuation.\""
+    },
+    {
+      "start": 87.66,
+      "end": 89.08,
+      "text": "\"Huda the makeup girl?\""
+    },
+    {
+      "start": 89.28,
+      "end": 89.7,
+      "text": "I replied."
+    },
+    {
+      "start": 89.7,
+      "end": 90.46,
+      "text": "\"Yeah.\""
+    },
+    {
+      "start": 91.16,
+      "end": 91.78,
+      "text": "Holy cow."
+    },
+    {
+      "start": 92.36,
+      "end": 94.5,
+      "text": "Again, how could I have been screwing up so bad?"
+    },
+    {
+      "start": 94.82,
+      "end": 96.72,
+      "text": "How was someone so young making so much more than me?"
+    },
+    {
+      "start": 97.0,
+      "end": 97.76,
+      "text": "\"She's in beauty."
+    },
+    {
+      "start": 97.92,
+      "end": 98.56,
+      "text": "She can do that."
+    },
+    {
+      "start": 98.78,
+      "end": 100.74,
+      "text": "I can't,\" I told myself, then carried on."
+    },
+    {
+      "start": 101.48,
+      "end": 103.5,
+      "text": "A few months later, a headline caught my eye."
+    },
+    {
+      "start": 104.44,
+      "end": 108.94,
+      "text": "Conor McGregor's Proper 12 whiskey hits a 600 million dollar valuation within 12 months of launching."
+    },
+    {
+      "start": 109.16,
+      "end": 109.6,
+      "text": "Seriously?"
+    },
+    {
+      "start": 110.06,
+      "end": 112.52,
+      "text": "Another person making gobs of money in what felt like seconds?"
+    },
+    {
+      "start": 113.24,
+      "end": 115.24,
+      "text": "A few months later, I saw another headline."
+    },
+    {
+      "start": 115.52,
+      "end": 121.88,
+      "text": "With an insane 3.5 billion worth, Dwayne Johnson's Teremana sweeps the floor with Conor McGregor's Proper 12."
+    },
+    {
+      "start": 122.54,
+      "end": 126.84,
+      "text": "Dwayne \"The Rock\" Johnson is now a multi-billionaire, and he never even talked about business."
+    },
+    {
+      "start": 127.06,
+      "end": 127.96,
+      "text": "What am I doing wrong?"
+    },
+    {
+      "start": 128.94,
+      "end": 132.1,
+      "text": "If someone makes more money than you, they are better at the game of business in some way."
+    },
+    {
+      "start": 132.42,
+      "end": 134.32,
+      "text": "Quiet the ego, look for the lesson."
+    },
+    {
+      "start": 135.48,
+      "end": 137.7,
+      "text": "A few months later, at a famous friend's house."
+    },
+    {
+      "start": 138.92,
+      "end": 141.06,
+      "text": "Up to this point, I stayed behind the scenes for the most part."
+    },
+    {
+      "start": 141.54,
+      "end": 142.54,
+      "text": "I didn't want to become famous."
+    },
+    {
+      "start": 142.9,
+      "end": 145.06,
+      "text": "I wanted to be rich, and I succeeded at that."
+    },
+    {
+      "start": 145.54,
+      "end": 147.9,
+      "text": "But seeing these successes chipped away at my beliefs."
+    },
+    {
+      "start": 148.44,
+      "end": 150.34,
+      "text": "Could building a personal brand be that powerful?"
+    },
+    {
+      "start": 150.78,
+      "end": 152.02,
+      "text": "Simple answer, yes."
+    },
+    {
+      "start": 152.68,
+      "end": 153.64,
+      "text": "But I wanted my privacy."
+    },
+    {
+      "start": 154.4,
+      "end": 158.62,
+      "text": "We sat around his kitchen table, and I asked him, \"You get all these weird messages from strangers."
+    },
+    {
+      "start": 158.82,
+      "end": 159.82,
+      "text": "People threaten your family."
+    },
+    {
+      "start": 160.22,
+      "end": 161.54,
+      "text": "Are you still happy you became famous?\""
+    },
+    {
+      "start": 162.06,
+      "end": 163.76,
+      "text": "He replied with something that changed my life forever."
+    },
+    {
+      "start": 163.76,
+      "end": 171.52,
+      "text": "\"If getting weird messages and hate from people I don't know is the price I have to pay to make the impact I want to have, I'd pay that price any day of the week.\""
+    },
+    {
+      "start": 172.74,
+      "end": 173.46,
+      "text": "I felt exposed."
+    },
+    {
+      "start": 173.86,
+      "end": 174.7,
+      "text": "I was being a pansy."
+    },
+    {
+      "start": 175.18,
+      "end": 178.0,
+      "text": "I claimed I wanted to make an impact but wasn't willing to pay the price for it."
+    },
+    {
+      "start": 178.66,
+      "end": 181.6,
+      "text": "After that conversation, Layla and I went all in on building personal brands."
+    },
+    {
+      "start": 182.66,
+      "end": 184.38,
+      "text": "I have a core belief I'd like to transfer to you."
+    },
+    {
+      "start": 185.06,
+      "end": 188.3,
+      "text": "If someone is making more money than you, they are better at the game of business in some way."
+    },
+    {
+      "start": 188.88,
+      "end": 189.66,
+      "text": "Take it as good news."
+    },
+    {
+      "start": 189.82,
+      "end": 190.76,
+      "text": "It means you can learn from them."
+    },
+    {
+      "start": 191.38,
+      "end": 192.36,
+      "text": "Don't think they had it easy."
+    },
+    {
+      "start": 192.62,
+      "end": 193.62,
+      "text": "Don't think they had a shortcut."
+    },
+    {
+      "start": 193.94,
+      "end": 195.54,
+      "text": "Don't tell yourself they broke some moral code."
+    },
+    {
+      "start": 195.78,
+      "end": 198.04,
+      "text": "Even if it's true, none of those beliefs serve you."
+    },
+    {
+      "start": 198.56,
+      "end": 200.02,
+      "text": "None of those beliefs make you better."
+    },
+    {
+      "start": 201.34,
+      "end": 203.44,
+      "text": "Years ago, I was vocal about making content."
+    },
+    {
+      "start": 203.82,
+      "end": 204.54,
+      "text": "I didn't see the point."
+    },
+    {
+      "start": 204.92,
+      "end": 207.48,
+      "text": "Why would I waste my time making something that would disappear in a few days?"
+    },
+    {
+      "start": 208.02,
+      "end": 210.02,
+      "text": "I thought it was a stupid waste of time and let everyone know."
+    },
+    {
+      "start": 210.42,
+      "end": 210.94,
+      "text": "I was wrong."
+    },
+    {
+      "start": 211.48,
+      "end": 213.0,
+      "text": "It really wasn't about the content at all."
+    },
+    {
+      "start": 213.3,
+      "end": 214.22,
+      "text": "It was about the audience."
+    },
+    {
+      "start": 214.6,
+      "end": 219.06,
+      "text": "What I didn't understand was the content you create isn't the compounding asset, the audience is."
+    },
+    {
+      "start": 219.48,
+      "end": 222.86,
+      "text": "So even though the content may disappear in time, your audience keeps growing."
+    },
+    {
+      "start": 223.42,
+      "end": 225.94,
+      "text": "This was a lesson my ego prevented me from learning for too long."
+    },
+    {
+      "start": 226.46,
+      "end": 230.28,
+      "text": "It took an entire year of getting hit in the face with solid evidence before I changed my ways."
+    },
+    {
+      "start": 230.8,
+      "end": 232.98,
+      "text": "Building an audience is the most valuable thing I've ever done."
+    },
+    {
+      "start": 233.94,
+      "end": 237.7,
+      "text": "I saw Kylie Jenner, Huda Kattan, Conor McGregor, and The Rock become billionaires overnight."
+    },
+    {
+      "start": 238.2,
+      "end": 240.96,
+      "text": "My famous friend said a massive audience was crucial to his success."
+    },
+    {
+      "start": 241.4,
+      "end": 243.8,
+      "text": "The overwhelming evidence broke my beliefs, so I rewrote them."
+    },
+    {
+      "start": 244.24,
+      "end": 247.26,
+      "text": "I now saw the power of having an audience, but I didn't know where to start."
+    },
+    {
+      "start": 247.74,
+      "end": 248.68,
+      "text": "So I did what I always do."
+    },
+    {
+      "start": 248.88,
+      "end": 249.6,
+      "text": "I paid for knowledge."
+    },
+    {
+      "start": 249.78,
+      "end": 253.26,
+      "text": "Buying someone else's experience saves the time it would take to figure everything out yourself."
+    },
+    {
+      "start": 253.92,
+      "end": 257.46,
+      "text": "Layla bought me four calls with a big influencer who had the type of audience I wanted to build."
+    },
+    {
+      "start": 257.84,
+      "end": 258.88,
+      "text": "She paid 120 grand."
+    },
+    {
+      "start": 259.62,
+      "end": 263.54,
+      "text": "On my first call, he told me to post regularly on every platform, so that's what I did."
+    },
+    {
+      "start": 263.96,
+      "end": 266.9,
+      "text": "12 months later, my audience grew by more than 200,000 people."
+    },
+    {
+      "start": 267.54,
+      "end": 270.1,
+      "text": "On my second call, he noted the progress, but I wanted more."
+    },
+    {
+      "start": 270.76,
+      "end": 272.34,
+      "text": "\"Do you have a blueprint for your personal branding?"
+    },
+    {
+      "start": 272.64,
+      "end": 273.66,
+      "text": "How do you put out all that content?\""
+    },
+    {
+      "start": 274.22,
+      "end": 277.34,
+      "text": "He said, \"Bro, anyone telling you there's some secret is trying to sell you something."
+    },
+    {
+      "start": 277.82,
+      "end": 279.32,
+      "text": "We just put out as much as we possibly can."
+    },
+    {
+      "start": 279.48,
+      "end": 280.98,
+      "text": "Pull up your Instagram and pull up my Instagram."
+    },
+    {
+      "start": 281.1,
+      "end": 282.78,
+      "text": "Look, you posted only once today."
+    },
+    {
+      "start": 282.96,
+      "end": 283.84,
+      "text": "I posted three times."
+    },
+    {
+      "start": 284.46,
+      "end": 285.14,
+      "text": "Pull up your LinkedIn."
+    },
+    {
+      "start": 285.24,
+      "end": 286.52,
+      "text": "Look, you posted once this week."
+    },
+    {
+      "start": 286.62,
+      "end": 287.84,
+      "text": "I posted five times today.\""
+    },
+    {
+      "start": 288.32,
+      "end": 289.56,
+      "text": "He went platform by platform."
+    },
+    {
+      "start": 289.84,
+      "end": 291.42,
+      "text": "I grew more embarrassed with each comparison."
+    },
+    {
+      "start": 291.42,
+      "end": 293.08,
+      "text": "\"You just got to do more, bro.\""
+    },
+    {
+      "start": 294.02,
+      "end": 295.12,
+      "text": "Simple, not easy."
+    },
+    {
+      "start": 295.76,
+      "end": 301.24,
+      "text": "Over the next six months, I put out 10 times the content, and over the next six months, I added 1.2 million people to my audience."
+    },
+    {
+      "start": 301.84,
+      "end": 306.48,
+      "text": "Also, when I put out 10 times the content, my audience grew 10 times as fast."
+    },
+    {
+      "start": 307.06,
+      "end": 307.82,
+      "text": "Volume works."
+    },
+    {
+      "start": 308.14,
+      "end": 308.86,
+      "text": "Content works."
+    },
+    {
+      "start": 309.32,
+      "end": 310.74,
+      "text": "A growing audience is the result."
+    },
+    {
+      "start": 311.06,
+      "end": 313.76,
+      "text": "And in this chapter, I'll break down how I did it so you can do it too."
+    },
+    {
+      "start": 314.8,
+      "end": 316.22,
+      "text": "How building an audience works."
+    },
+    {
+      "start": 316.68,
+      "end": 318.52,
+      "text": "You post great free content."
+    },
+    {
+      "start": 319.74,
+      "end": 322.54,
+      "text": "Warm reach-outs don't get a lot of engaged leads for the time we invest."
+    },
+    {
+      "start": 323.02,
+      "end": 325.58,
+      "text": "If we want to reach 10 people, we have to repeat ourselves 10 times."
+    },
+    {
+      "start": 325.76,
+      "end": 326.38,
+      "text": "Lots of effort."
+    },
+    {
+      "start": 326.72,
+      "end": 329.6,
+      "text": "By posting free content, we can say it once and reach all 10."
+    },
+    {
+      "start": 330.06,
+      "end": 333.18,
+      "text": "So, posting content gets us a lot more engaged leads for the time we invest."
+    },
+    {
+      "start": 333.38,
+      "end": 333.7,
+      "text": "Hooray."
+    },
+    {
+      "start": 334.32,
+      "end": 336.7,
+      "text": "The people who think it's valuable become a part of your warm audience."
+    },
+    {
+      "start": 336.88,
+      "end": 339.0,
+      "text": "If they think other people will find it valuable, they share it."
+    },
+    {
+      "start": 339.16,
+      "end": 342.96,
+      "text": "And if the people they share it with like it, they become a part of your warm audience too."
+    },
+    {
+      "start": 343.58,
+      "end": 344.5,
+      "text": "Rinse and repeat."
+    },
+    {
+      "start": 344.88,
+      "end": 346.38,
+      "text": "The sharing can go on indefinitely."
+    },
+    {
+      "start": 346.94,
+      "end": 349.62,
+      "text": "The more they share your stuff, the larger your warm audience gets."
+    },
+    {
+      "start": 349.72,
+      "end": 351.78,
+      "text": "And once in a while, you'll make them an offer."
+    },
+    {
+      "start": 352.3,
+      "end": 354.26,
+      "text": "If your offer has enough value, they'll take it."
+    },
+    {
+      "start": 354.3,
+      "end": 355.74,
+      "text": "When they do, you make money."
+    },
+    {
+      "start": 356.3,
+      "end": 358.64,
+      "text": "And the bigger your audience, the more money you make."
+    },
+    {
+      "start": 359.32,
+      "end": 360.02,
+      "text": "Look at it this way."
+    },
+    {
+      "start": 360.77,
+      "end": 362.51,
+      "text": "Posting free content grows your audience."
+    },
+    {
+      "start": 362.75,
+      "end": 367.59,
+      "text": "So constantly posting free content means you'll have a constantly growing audience of people more likely to buy your stuff."
+    },
+    {
+      "start": 368.29,
+      "end": 370.95,
+      "text": "Free content makes all other advertising more effective."
+    },
+    {
+      "start": 371.37,
+      "end": 375.73,
+      "text": "If you reach out to someone and they can't find content related to your services, they're less likely to buy."
+    },
+    {
+      "start": 376.13,
+      "end": 379.77,
+      "text": "On the other hand, if they find lots of valuable content, they are more likely to buy."
+    },
+    {
+      "start": 380.33,
+      "end": 382.13,
+      "text": "This is what my ego prevented me from learning."
+    },
+    {
+      "start": 382.75,
+      "end": 386.35,
+      "text": "Now the headlines with Jenner, Huda, McGregor, and The Rock all made perfect sense."
+    },
+    {
+      "start": 386.97,
+      "end": 389.53,
+      "text": "But posting free content isn't all sunshine and rainbows."
+    },
+    {
+      "start": 389.91,
+      "end": 390.75,
+      "text": "It has trade-offs."
+    },
+    {
+      "start": 391.29,
+      "end": 395.15,
+      "text": "First, it's more difficult to personalize your message, so fewer people respond."
+    },
+    {
+      "start": 395.69,
+      "end": 397.97,
+      "text": "Second, you compete with everyone else posting free content."
+    },
+    {
+      "start": 398.39,
+      "end": 399.71,
+      "text": "This makes it harder to stand out."
+    },
+    {
+      "start": 400.23,
+      "end": 402.69,
+      "text": "Third, if you do stand out, people will copy you."
+    },
+    {
+      "start": 402.97,
+      "end": 404.49,
+      "text": "This means you need to constantly innovate."
+    },
+    {
+      "start": 404.95,
+      "end": 407.75,
+      "text": "That being said, a bigger audience means more engaged leads."
+    },
+    {
+      "start": 408.13,
+      "end": 409.59,
+      "text": "More engaged leads means more money."
+    },
+    {
+      "start": 410.07,
+      "end": 411.85,
+      "text": "More money means you more happy."
+    },
+    {
+      "start": 412.07,
+      "end": 415.89,
+      "text": "Just kidding, it won't do that, but it'll give you all the resources to remove the stuff you hate."
+    },
+    {
+      "start": 416.29,
+      "end": 419.13,
+      "text": "Anyways, this chapter covers only two topics."
+    },
+    {
+      "start": 419.43,
+      "end": 423.79,
+      "text": "First, we demystify audience-growing content by showing it's all made of the same basic units."
+    },
+    {
+      "start": 424.35,
+      "end": 427.43,
+      "text": "A content unit has three components: hook, retain, reward."
+    },
+    {
+      "start": 427.95,
+      "end": 433.83,
+      "text": "Second, how linking basic units together will make audience-growing content for any platform or media type."
+    },
+    {
+      "start": 434.65,
+      "end": 439.63,
+      "text": "The next chapter, Post Free Content Part 2, shows you how to weaponize this content to make money."
+    },
+    {
+      "start": 440.01,
+      "end": 443.07,
+      "text": "But for now, you can't monetize content until you know how to make it."
+    },
+    {
+      "start": 443.59,
+      "end": 445.55,
+      "text": "The content unit, three components."
+    },
+    {
+      "start": 446.67,
+      "end": 450.33,
+      "text": "All audience-growing content does one thing, it rewards people for consuming it."
+    },
+    {
+      "start": 450.95,
+      "end": 459.03,
+      "text": "And a person can only get rewarded by the content if they, one, have a reason to consume it, two, pay attention long enough to, three, get that reason satisfied."
+    },
+    {
+      "start": 459.69,
+      "end": 464.51,
+      "text": "Thankfully, we can reverse those three outcomes into the three things we have to do to make audience-growing content."
+    },
+    {
+      "start": 464.89,
+      "end": 475.75,
+      "text": "This means we have to, A, hook attention, get them to notice your content, B, retain attention, get them to consume it, C, reward attention, satisfy the reason they consumed it to begin with."
+    },
+    {
+      "start": 476.13,
+      "end": 480.65,
+      "text": "The smallest amount of material it takes to hook, retain, and reward attention is a content unit."
+    },
+    {
+      "start": 481.11,
+      "end": 487.21,
+      "text": "It can be as little as an image, a meme, or a sentence, meaning you can hook, retain, and reward at the same time."
+    },
+    {
+      "start": 487.79,
+      "end": 491.47,
+      "text": "This is how short tweets, meme images, or even a jingle can go viral."
+    },
+    {
+      "start": 491.81,
+      "end": 492.67,
+      "text": "They do all three."
+    },
+    {
+      "start": 492.99,
+      "end": 496.71,
+      "text": "I separate them so we can discuss them more clearly, but they all happen at once."
+    },
+    {
+      "start": 497.33,
+      "end": 500.03,
+      "text": "Let's dive into each of the things we do to create a content unit."
+    },
+    {
+      "start": 500.47,
+      "end": 503.27,
+      "text": "This way, you can create effective content units that grow your audience."
+    },
+    {
+      "start": 504.11,
+      "end": 505.07,
+      "text": "One, hook."
+    },
+    {
+      "start": 505.55,
+      "end": 508.39,
+      "text": "They cannot be rewarded unless we first get their attention."
+    },
+    {
+      "start": 509.09,
+      "end": 513.71,
+      "text": "The objective, we give them a reason to redirect their attention from whatever they're doing towards us."
+    },
+    {
+      "start": 514.09,
+      "end": 515.63,
+      "text": "If we do that, we've hooked them."
+    },
+    {
+      "start": 515.85,
+      "end": 519.89,
+      "text": "The effectiveness of your hook is measured by the percentage of people who start consuming your content."
+    },
+    {
+      "start": 520.41,
+      "end": 523.97,
+      "text": "So if you hook attention well, many people will have a reason to consume your content."
+    },
+    {
+      "start": 524.33,
+      "end": 527.77,
+      "text": "If you do a poor job, few people will have a reason to consume your content."
+    },
+    {
+      "start": 528.11,
+      "end": 530.15,
+      "text": "Remember, this is a competition for attention."
+    },
+    {
+      "start": 530.45,
+      "end": 533.29,
+      "text": "We have to beat every alternative they have to win theirs."
+    },
+    {
+      "start": 533.73,
+      "end": 535.03,
+      "text": "Make yourself the best option."
+    },
+    {
+      "start": 535.67,
+      "end": 544.33,
+      "text": "We increase the percentage of people who pick our content by picking topics they find interesting, headlines that give them a reason, and matching the format of other stuff they like."
+    },
+    {
+      "start": 544.69,
+      "end": 545.59,
+      "text": "Let's dive into each."
+    },
+    {
+      "start": 546.45,
+      "end": 546.93,
+      "text": "Topics."
+    },
+    {
+      "start": 547.33,
+      "end": 549.21,
+      "text": "Topics are the things you make your content about."
+    },
+    {
+      "start": 549.71,
+      "end": 551.25,
+      "text": "I prefer to use personal experiences."
+    },
+    {
+      "start": 551.45,
+      "end": 552.01,
+      "text": "Here's why."
+    },
+    {
+      "start": 552.27,
+      "end": 553.17,
+      "text": "There's only one of you."
+    },
+    {
+      "start": 553.65,
+      "end": 558.47,
+      "text": "The easiest way to differentiate is to say something no one else can say, and no one else has lived your life but you."
+    },
+    {
+      "start": 559.03,
+      "end": 564.07,
+      "text": "I divide topics into five categories: far past, recent past, present, trending, manufactured."
+    },
+    {
+      "start": 564.59,
+      "end": 567.61,
+      "text": "Far past, the important past lessons of your life."
+    },
+    {
+      "start": 567.97,
+      "end": 572.01,
+      "text": "Connect that wisdom to your product or service to provide huge value to your audience."
+    },
+    {
+      "start": 572.45,
+      "end": 574.07,
+      "text": "Give them the story without the scar."
+    },
+    {
+      "start": 574.29,
+      "end": 575.57,
+      "text": "It's why I write these books."
+    },
+    {
+      "start": 576.13,
+      "end": 580.11,
+      "text": "Example, a personal lesson where I broke my belief that I don't have enough time."
+    },
+    {
+      "start": 580.71,
+      "end": 584.97,
+      "text": "Hook, I complained to a friend that I didn't have enough time to do something while glued to my phone."
+    },
+    {
+      "start": 585.43,
+      "end": 588.37,
+      "text": "Retain, they yanked it out of my hands and looked at its usage."
+    },
+    {
+      "start": 588.73,
+      "end": 590.71,
+      "text": "It showed I spent three hours per day on social media."
+    },
+    {
+      "start": 590.97,
+      "end": 594.57,
+      "text": "Reward, they looked back to me and said, \"Hey, I found you some time.\""
+    },
+    {
+      "start": 595.09,
+      "end": 596.91,
+      "text": "It's a simple story other people can relate to."
+    },
+    {
+      "start": 597.31,
+      "end": 603.91,
+      "text": "This makes it an interesting topic to more people, and it connects what I do, growing businesses, to a struggle many people experience, not having enough time."
+    },
+    {
+      "start": 604.35,
+      "end": 609.47,
+      "text": "The epiphany I give away makes this lesson valuable for my audience, people starting, growing, and selling their businesses."
+    },
+    {
+      "start": 609.93,
+      "end": 610.67,
+      "text": "Recent past."
+    },
+    {
+      "start": 611.31,
+      "end": 614.25,
+      "text": "Do stuff, then talk about what you did or what happened."
+    },
+    {
+      "start": 615.01,
+      "end": 618.17,
+      "text": "Anytime you speak with somebody, there's a chance your audience could get value from it."
+    },
+    {
+      "start": 618.71,
+      "end": 620.25,
+      "text": "Look at your calendar for the last week."
+    },
+    {
+      "start": 620.57,
+      "end": 625.27,
+      "text": "Look at all your meetings, look at all your social interactions, look at all your conversations with warm reach-outs."
+    },
+    {
+      "start": 625.59,
+      "end": 627.25,
+      "text": "There's gold in these conversations."
+    },
+    {
+      "start": 627.85,
+      "end": 630.39,
+      "text": "Tell stories from them that would serve your audience."
+    },
+    {
+      "start": 630.69,
+      "end": 636.03,
+      "text": "For example, this is me reading a tweet, \"As a marketing rule of thumb, if everyone else is doing it, don't do it.\""
+    },
+    {
+      "start": 636.27,
+      "end": 643.59,
+      "text": "This tweet came from a meeting I had with a portfolio CEO that was just copying the same offer everyone else in his market was making and was getting subpar results."
+    },
+    {
+      "start": 644.23,
+      "end": 652.71,
+      "text": "This means taking notes, recordings, and other records to make that stuff easy to access, but it also means a free, easy, and valuable stash of content."
+    },
+    {
+      "start": 653.29,
+      "end": 655.41,
+      "text": "Testimonials and case studies fall in this category."
+    },
+    {
+      "start": 655.93,
+      "end": 661.97,
+      "text": "If you can tell a cool client story in a way that provides value to your audience, you'll both promote your services and provide value."
+    },
+    {
+      "start": 662.39,
+      "end": 662.89,
+      "text": "Win-win."
+    },
+    {
+      "start": 663.35,
+      "end": 663.79,
+      "text": "Present."
+    },
+    {
+      "start": 664.43,
+      "end": 666.51,
+      "text": "Write down ideas at the exact time they come to you."
+    },
+    {
+      "start": 667.13,
+      "end": 669.63,
+      "text": "Always have a way to record your ideas in arm's reach."
+    },
+    {
+      "start": 669.99,
+      "end": 673.43,
+      "text": "I'll even pause meetings to make a note of, text, or email ideas to myself."
+    },
+    {
+      "start": 674.03,
+      "end": 676.47,
+      "text": "People don't mind when you ask to take notes anyway, so it's not weird."
+    },
+    {
+      "start": 676.95,
+      "end": 679.93,
+      "text": "Then when you make content, you have a bucket of fresh stories to work with."
+    },
+    {
+      "start": 680.43,
+      "end": 681.53,
+      "text": "I note my ideas publicly."
+    },
+    {
+      "start": 681.95,
+      "end": 683.27,
+      "text": "I used to keep ideas to myself."
+    },
+    {
+      "start": 683.45,
+      "end": 684.97,
+      "text": "Now I tweet them publicly as they happen."
+    },
+    {
+      "start": 685.39,
+      "end": 688.39,
+      "text": "If a post does better than normal, I know it's something people find interesting."
+    },
+    {
+      "start": 688.55,
+      "end": 690.07,
+      "text": "Then I make more stuff on that topic."
+    },
+    {
+      "start": 690.45,
+      "end": 690.85,
+      "text": "Trending."
+    },
+    {
+      "start": 691.51,
+      "end": 692.51,
+      "text": "Go where the attention is."
+    },
+    {
+      "start": 693.09,
+      "end": 695.17,
+      "text": "Look at what's trending right now and make stuff about it."
+    },
+    {
+      "start": 695.55,
+      "end": 697.01,
+      "text": "Apply your own experiences to it."
+    },
+    {
+      "start": 697.45,
+      "end": 701.17,
+      "text": "If you have relevant commentary or it touches your expertise in some way, talk about it."
+    },
+    {
+      "start": 701.59,
+      "end": 705.09,
+      "text": "Talking about trendy stuff is very effective for gaining the attention of a broader audience."
+    },
+    {
+      "start": 706.23,
+      "end": 706.91,
+      "text": "Manufactured."
+    },
+    {
+      "start": 707.61,
+      "end": 708.97,
+      "text": "Turn your ideas into reality."
+    },
+    {
+      "start": 709.25,
+      "end": 713.37,
+      "text": "Pick a topic people find interesting, then learn more about it, make it, or do it."
+    },
+    {
+      "start": 713.83,
+      "end": 714.87,
+      "text": "Then show it to the world."
+    },
+    {
+      "start": 715.31,
+      "end": 721.27,
+      "text": "This costs the most time and effort since you have to create the experience versus talking about the one you already had, but it can have the biggest payouts."
+    },
+    {
+      "start": 722.0,
+      "end": 725.26,
+      "text": "Example manufactured experience: I lived on a hundred dollars for a month."
+    },
+    {
+      "start": 725.58,
+      "end": 726.08,
+      "text": "Here's how."
+    },
+    {
+      "start": 726.7,
+      "end": 730.46,
+      "text": "Now, I don't live that way, but I could manufacture that experience, then make content about it."
+    },
+    {
+      "start": 731.08,
+      "end": 733.72,
+      "text": "Author note: Manufactured versus documenting."
+    },
+    {
+      "start": 734.9,
+      "end": 739.24,
+      "text": "Manufactured content has the most potential to grow and monetize an audience by far."
+    },
+    {
+      "start": 739.78,
+      "end": 743.9,
+      "text": "This is because skilled content creators can engineer the maximum reward for every content unit."
+    },
+    {
+      "start": 744.42,
+      "end": 752.34,
+      "text": "To give you an idea, as of this writing, the top 10 videos on the most popular video platform are all music videos, and they've racked up about 60 billion views."
+    },
+    {
+      "start": 752.88,
+      "end": 755.44,
+      "text": "Watching or listening, that's a lot of attention."
+    },
+    {
+      "start": 755.7,
+      "end": 765.0,
+      "text": "But for us mortals, the lower cost of documenting our experiences versus manufacturing them lets us keep the volume high, and I believe it's more sustainable over a lifetime."
+    },
+    {
+      "start": 765.5,
+      "end": 770.48,
+      "text": "A quote I heard from a famous content creator: \"I don't want to be filling my living room with sand when I'm 50.\""
+    },
+    {
+      "start": 770.98,
+      "end": 775.26,
+      "text": "And personally, I'd rather see entrepreneurs put out more content more often and in more places."
+    },
+    {
+      "start": 775.38,
+      "end": 776.46,
+      "text": "Just one man's two cents."
+    },
+    {
+      "start": 777.62,
+      "end": 780.86,
+      "text": "Action step: Life happens, profit by sharing yours."
+    },
+    {
+      "start": 781.54,
+      "end": 781.98,
+      "text": "Headlines."
+    },
+    {
+      "start": 782.72,
+      "end": 785.98,
+      "text": "A headline is a short phrase or sentence used to grab the audience's attention."
+    },
+    {
+      "start": 786.58,
+      "end": 788.92,
+      "text": "It communicates the reason they should consume the content."
+    },
+    {
+      "start": 789.54,
+      "end": 793.64,
+      "text": "They use it to weigh the likelihood they will get a reward for consuming your content versus another."
+    },
+    {
+      "start": 794.32,
+      "end": 801.9,
+      "text": "Rather than give you a bunch of templates, I'd rather give you the timeless principles that make great headlines, and there's no greater headline creator than the news, so let's study them."
+    },
+    {
+      "start": 802.58,
+      "end": 806.42,
+      "text": "A meta-analysis of news revealed headline components that drove the most interest in stories."
+    },
+    {
+      "start": 806.76,
+      "end": 807.6,
+      "text": "They are as follows."
+    },
+    {
+      "start": 808.1,
+      "end": 809.74,
+      "text": "Try and include at least two in your headline."
+    },
+    {
+      "start": 810.46,
+      "end": 811.52,
+      "text": "A, recency."
+    },
+    {
+      "start": 811.9,
+      "end": 814.5,
+      "text": "As recent as possible, quite literally, the news."
+    },
+    {
+      "start": 815.9,
+      "end": 820.08,
+      "text": "Example: People pay attention to something that happened an hour ago more than a year ago."
+    },
+    {
+      "start": 821.08,
+      "end": 822.36,
+      "text": "B, relevancy."
+    },
+    {
+      "start": 822.8,
+      "end": 823.76,
+      "text": "Personally meaningful."
+    },
+    {
+      "start": 824.14,
+      "end": 829.12,
+      "text": "Example: Nurses pay more attention to stuff that affects nurses compared to stuff that affects accountants."
+    },
+    {
+      "start": 830.52,
+      "end": 831.88,
+      "text": "C, celebrity."
+    },
+    {
+      "start": 832.5,
+      "end": 835.1,
+      "text": "Including prominent people, celebrities, authorities, etc."
+    },
+    {
+      "start": 835.98,
+      "end": 841.94,
+      "text": "Example: Normally, we wouldn't care about what another human has for breakfast every day, but if it's Jeff Bezos', we do."
+    },
+    {
+      "start": 842.3,
+      "end": 844.1,
+      "text": "Since he's a celebrity, many people care."
+    },
+    {
+      "start": 845.02,
+      "end": 846.28,
+      "text": "D, proximity."
+    },
+    {
+      "start": 846.74,
+      "end": 848.32,
+      "text": "Close to home geographically."
+    },
+    {
+      "start": 848.86,
+      "end": 852.08,
+      "text": "Example: A house on fire across the country doesn't get your attention."
+    },
+    {
+      "start": 852.52,
+      "end": 854.16,
+      "text": "If it's your neighbor, it sure does."
+    },
+    {
+      "start": 854.64,
+      "end": 856.18,
+      "text": "Make it as close to home as possible."
+    },
+    {
+      "start": 857.0,
+      "end": 858.08,
+      "text": "E, conflict."
+    },
+    {
+      "start": 858.34,
+      "end": 861.26,
+      "text": "Of opposing ideas, opposing people, nature, etc."
+    },
+    {
+      "start": 862.34,
+      "end": 865.56,
+      "text": "Example: Pineapple versus no pineapple on pizza."
+    },
+    {
+      "start": 866.1,
+      "end": 866.64,
+      "text": "Conflict."
+    },
+    {
+      "start": 867.64,
+      "end": 871.8,
+      "text": "Example two: Good versus evil, hero versus villain, left versus right."
+    },
+    {
+      "start": 872.4,
+      "end": 875.8,
+      "text": "Example three: Freedom versus security, justice versus mercy."
+    },
+    {
+      "start": 876.04,
+      "end": 876.74,
+      "text": "You get the idea."
+    },
+    {
+      "start": 877.66,
+      "end": 878.64,
+      "text": "F, unusual."
+    },
+    {
+      "start": 878.98,
+      "end": 880.82,
+      "text": "Odd, unique, rare, bizarre."
+    },
+    {
+      "start": 881.38,
+      "end": 884.82,
+      "text": "Example: Think of a six-fingered man at the old-time circuses."
+    },
+    {
+      "start": 885.12,
+      "end": 887.66,
+      "text": "If it's outside of the norm, people pay more attention."
+    },
+    {
+      "start": 888.58,
+      "end": 890.06,
+      "text": "G, ongoing."
+    },
+    {
+      "start": 890.68,
+      "end": 894.02,
+      "text": "Stories still in progress are dynamic, evolving, and have plot twists."
+    },
+    {
+      "start": 894.26,
+      "end": 899.6,
+      "text": "Example: If someone goes into labor, people want updates every 10 minutes because anything could happen."
+    },
+    {
+      "start": 900.62,
+      "end": 905.88,
+      "text": "Action step: Include one or more of those components to give yourself meatier, attention-grabbing headlines."
+    },
+    {
+      "start": 906.82,
+      "end": 907.3,
+      "text": "Format."
+    },
+    {
+      "start": 908.06,
+      "end": 915.16,
+      "text": "Once we have a good topic and communicate it with a headline using one or more components, we need to match our format to the best content on the platform."
+    },
+    {
+      "start": 915.62,
+      "end": 922.22,
+      "text": "People consume content because it's similar to stuff they've liked in the past, and matching the popular format of the platform gets the most people to interact with it."
+    },
+    {
+      "start": 922.7,
+      "end": 925.64,
+      "text": "So, we want to make our content look like the stuff they've liked before."
+    },
+    {
+      "start": 926.2,
+      "end": 940.5,
+      "text": "Format example: Since you're listening on audio, I display a meme that went viral a few years ago with LinkedIn, Facebook, Instagram, Tinder, all images of the same people formatted in different ways contextual to the platform, and it showed how different people display themselves on each platform."
+    },
+    {
+      "start": 941.58,
+      "end": 942.22,
+      "text": "Back to the text."
+    },
+    {
+      "start": 943.3,
+      "end": 945.48,
+      "text": "This meme communicates the point better than I can with words."
+    },
+    {
+      "start": 946.14,
+      "end": 949.68,
+      "text": "All four images above are, well, images, but they have a different look and feel."
+    },
+    {
+      "start": 950.24,
+      "end": 954.16,
+      "text": "This is because formatting depends on the audience you want to hook and the platform your audience is on."
+    },
+    {
+      "start": 954.78,
+      "end": 958.8,
+      "text": "Bottom line: You've got to make your content look like what they expect will reward them."
+    },
+    {
+      "start": 959.26,
+      "end": 963.76,
+      "text": "Otherwise, no matter how good it is, better-looking content will hook them before yours even has a chance."
+    },
+    {
+      "start": 964.64,
+      "end": 970.24,
+      "text": "Action step: Format your content for the platform first, then tweak it so it hooks your ideal audience."
+    },
+    {
+      "start": 970.88,
+      "end": 973.82,
+      "text": "Use the best content on the platform that targets your market as your guide."
+    },
+    {
+      "start": 974.4,
+      "end": 976.56,
+      "text": "This concludes the hook step of our content unit."
+    },
+    {
+      "start": 977.2,
+      "end": 980.14,
+      "text": "Always following these basics will already put you in the top 1%."
+    },
+    {
+      "start": 980.3,
+      "end": 981.42,
+      "text": "At least it has for me."
+    },
+    {
+      "start": 982.5,
+      "end": 983.8,
+      "text": "Two: Retain."
+    },
+    {
+      "start": 984.7,
+      "end": 986.88,
+      "text": "My favorite driver of retention is curiosity."
+    },
+    {
+      "start": 987.12,
+      "end": 990.0,
+      "text": "It's my favorite because if done correctly, people will wait years."
+    },
+    {
+      "start": 990.58,
+      "end": 992.6,
+      "text": "People want to know what happens next."
+    },
+    {
+      "start": 992.8,
+      "end": 997.84,
+      "text": "For example, I get messages daily for years about when I will release my next book on sales."
+    },
+    {
+      "start": 998.6,
+      "end": 1002.34,
+      "text": "My favorite way to get the audience curious is to embed questions in their mind."
+    },
+    {
+      "start": 1002.9,
+      "end": 1005.32,
+      "text": "Unresolved questions can be explicit or implicit."
+    },
+    {
+      "start": 1005.62,
+      "end": 1008.36,
+      "text": "You can directly ask the question, or the question can be implied."
+    },
+    {
+      "start": 1008.9,
+      "end": 1012.48,
+      "text": "My three favorite ways to embed questions are lists, steps, and stories."
+    },
+    {
+      "start": 1013.78,
+      "end": 1014.78,
+      "text": "A: Lists."
+    },
+    {
+      "start": 1015.48,
+      "end": 1021.08,
+      "text": "Lists are things, facts, tips, opinions, ideas, etc., presented one after the other."
+    },
+    {
+      "start": 1021.76,
+      "end": 1024.28,
+      "text": "Good lists in free content also follow a theme."
+    },
+    {
+      "start": 1024.9,
+      "end": 1028.92,
+      "text": "Think top 10 mistakes or five biggest money makers, and so on."
+    },
+    {
+      "start": 1029.4,
+      "end": 1038.04,
+      "text": "Giving the number of listed items in your headline or in the first few seconds of your content tells people what to expect, and in my experience, this retains more of the audience's attention for longer."
+    },
+    {
+      "start": 1038.6,
+      "end": 1042.22,
+      "text": "Example: Seven ways I invested 1,000 dollars in my 20s that paid off big."
+    },
+    {
+      "start": 1042.68,
+      "end": 1044.54,
+      "text": "Example: 28 ways to stay poor."
+    },
+    {
+      "start": 1044.94,
+      "end": 1046.96,
+      "text": "Example: A content unit has three pieces."
+    },
+    {
+      "start": 1048.02,
+      "end": 1049.06,
+      "text": "B: Steps."
+    },
+    {
+      "start": 1049.7,
+      "end": 1052.76,
+      "text": "Steps are actions that occur in order and accomplish a goal when completed."
+    },
+    {
+      "start": 1053.18,
+      "end": 1058.46,
+      "text": "Provided that early steps were clear and valuable, the person will want to know how to do them all to accomplish their overall goal."
+    },
+    {
+      "start": 1059.04,
+      "end": 1061.36,
+      "text": "Example: Three steps to creating a great hook."
+    },
+    {
+      "start": 1061.92,
+      "end": 1064.32,
+      "text": "Example: How I create a headline in seven steps."
+    },
+    {
+      "start": 1064.86,
+      "end": 1067.42,
+      "text": "Example: The morning routine that boosts my productivity."
+    },
+    {
+      "start": 1068.16,
+      "end": 1070.74,
+      "text": "Note: Here's the difference between steps and lists."
+    },
+    {
+      "start": 1071.18,
+      "end": 1074.34,
+      "text": "Steps are actions that must be done in a specific order to get a result."
+    },
+    {
+      "start": 1074.8,
+      "end": 1077.8,
+      "text": "So steps are less flexible but have a bit more explicit reward."
+    },
+    {
+      "start": 1078.24,
+      "end": 1080.78,
+      "text": "Lists can have just about anything on them in any order you want."
+    },
+    {
+      "start": 1081.2,
+      "end": 1083.48,
+      "text": "So lists are more flexible but have less explicit reward."
+    },
+    {
+      "start": 1084.9,
+      "end": 1086.02,
+      "text": "C, stories."
+    },
+    {
+      "start": 1086.76,
+      "end": 1092.4,
+      "text": "Stories describe events, real or imaginary, and stories worth telling often have some lesson or takeaway for the listener."
+    },
+    {
+      "start": 1092.92,
+      "end": 1096.78,
+      "text": "You can tell stories about things that have happened, might happen, or will never happen."
+    },
+    {
+      "start": 1097.46,
+      "end": 1100.36,
+      "text": "All three drive curiosity because people want to know what happens next."
+    },
+    {
+      "start": 1101.3,
+      "end": 1103.98,
+      "text": "Example, almost every chapter in this book has a story."
+    },
+    {
+      "start": 1104.52,
+      "end": 1107.14,
+      "text": "Example, my editor made me do 19 drafts of this book."
+    },
+    {
+      "start": 1107.62,
+      "end": 1108.52,
+      "text": "Here's what I did to him."
+    },
+    {
+      "start": 1109.58,
+      "end": 1109.76,
+      "text": "Ha."
+    },
+    {
+      "start": 1111.2,
+      "end": 1116.3,
+      "text": "Example, my journey from sleeping on the bottom floor of a gym to the top floor of a five-star hotel."
+    },
+    {
+      "start": 1117.82,
+      "end": 1121.12,
+      "text": "You can use lists, steps, and stories on their own or interweave them."
+    },
+    {
+      "start": 1121.22,
+      "end": 1124.56,
+      "text": "For example, you can have lists within steps in a story about each list item."
+    },
+    {
+      "start": 1124.96,
+      "end": 1126.96,
+      "text": "You can have stories to reinforce the value of a step."
+    },
+    {
+      "start": 1127.28,
+      "end": 1130.36,
+      "text": "You can have a list of stories or many ongoing storyline, etc."
+    },
+    {
+      "start": 1131.02,
+      "end": 1132.68,
+      "text": "Your creativity is the only limit here."
+    },
+    {
+      "start": 1132.98,
+      "end": 1135.74,
+      "text": "That's why people who make a lot of content call themselves creators."
+    },
+    {
+      "start": 1136.7,
+      "end": 1141.1,
+      "text": "This chapter, for example, has lists within steps and stories interweaving them."
+    },
+    {
+      "start": 1142.04,
+      "end": 1146.5,
+      "text": "Action step, use lists, steps, and stories to keep your audience curious."
+    },
+    {
+      "start": 1147.04,
+      "end": 1150.26,
+      "text": "Embed questions in their minds to make them want to know what happens next."
+    },
+    {
+      "start": 1151.44,
+      "end": 1152.66,
+      "text": "Three, reward."
+    },
+    {
+      "start": 1153.46,
+      "end": 1157.24,
+      "text": "Anyone can think of cool hooks and organize their content using lists, steps, or stories."
+    },
+    {
+      "start": 1157.68,
+      "end": 1159.48,
+      "text": "But the real question is, is it good?"
+    },
+    {
+      "start": 1160.0,
+      "end": 1161.94,
+      "text": "Does it satisfy the reason they watched to begin with?"
+    },
+    {
+      "start": 1162.32,
+      "end": 1163.54,
+      "text": "Does it make people want to share it?"
+    },
+    {
+      "start": 1164.24,
+      "end": 1168.36,
+      "text": "How good your content is depends on how often it rewards your audience in the time it takes them to consume it."
+    },
+    {
+      "start": 1168.74,
+      "end": 1170.1,
+      "text": "Think value per second."
+    },
+    {
+      "start": 1170.56,
+      "end": 1180.24,
+      "text": "For example, the same person who gets bored three seconds into a 10-second video may also binge a 900-page book, and that same person may binge a television series for eight hours straight."
+    },
+    {
+      "start": 1180.58,
+      "end": 1182.9,
+      "text": "So there's no such thing as too long, only too boring."
+    },
+    {
+      "start": 1184.18,
+      "end": 1200.16,
+      "text": "Now, we can't guarantee a specific reward, but we can increase the chance reward happens by hooking the right audience with proper topics, headlines, and formatting, retaining them with lists, steps, and stories to get them curious and wanting more, clearly satisfying the reason the content hooked them to begin with."
+    },
+    {
+      "start": 1200.82,
+      "end": 1214.28,
+      "text": "Example, if your hook promises seven ways to make up with your spouse and you give A, four ways, B, seven ways that stunk or that they've heard before, or C, you're talking to a room full of single guys who don't have spouses, you did a bad job of rewarding."
+    },
+    {
+      "start": 1214.9,
+      "end": 1217.44,
+      "text": "People will not want to watch again and certainly won't share it."
+    },
+    {
+      "start": 1218.0,
+      "end": 1225.7,
+      "text": "Example, if your hook promises four marketing strategies dentists can use and they can't use them, they will not share it or watch your content in the future."
+    },
+    {
+      "start": 1225.96,
+      "end": 1227.36,
+      "text": "You did a bad job of rewarding."
+    },
+    {
+      "start": 1227.86,
+      "end": 1232.82,
+      "text": "Bottom line, I've had tons of content I thought would smash records, but the audience smashed the next button instead."
+    },
+    {
+      "start": 1233.3,
+      "end": 1236.48,
+      "text": "So no matter how good you think your content is, the audience decides."
+    },
+    {
+      "start": 1236.9,
+      "end": 1241.52,
+      "text": "Rewarding your audience means matching or exceeding their expectations when they decided to consume your content."
+    },
+    {
+      "start": 1242.02,
+      "end": 1243.32,
+      "text": "Here's how you know if you succeeded."
+    },
+    {
+      "start": 1243.84,
+      "end": 1244.9,
+      "text": "Your audience grows."
+    },
+    {
+      "start": 1245.72,
+      "end": 1247.9,
+      "text": "If it's not growing, your stuff isn't that good."
+    },
+    {
+      "start": 1248.34,
+      "end": 1249.7,
+      "text": "Practice and you'll get better."
+    },
+    {
+      "start": 1250.4,
+      "end": 1252.94,
+      "text": "Action step, provide more value than anyone else."
+    },
+    {
+      "start": 1253.38,
+      "end": 1254.5,
+      "text": "Make good on your promises."
+    },
+    {
+      "start": 1254.92,
+      "end": 1257.48,
+      "text": "Clearly satisfy the hook you used to get their attention."
+    },
+    {
+      "start": 1257.8,
+      "end": 1261.78,
+      "text": "In other words, completely answer the unresolved questions you embedded in their minds."
+    },
+    {
+      "start": 1262.7,
+      "end": 1264.76,
+      "text": "So what's the difference between short and long-form content?"
+    },
+    {
+      "start": 1265.32,
+      "end": 1266.38,
+      "text": "Answer, not much."
+    },
+    {
+      "start": 1266.94,
+      "end": 1271.6,
+      "text": "If you recall from earlier, the smallest amount of material it takes to hook, retain, and reward attention is a content unit."
+    },
+    {
+      "start": 1272.04,
+      "end": 1275.64,
+      "text": "So to create a longer piece of content, we simply link content units together."
+    },
+    {
+      "start": 1276.1,
+      "end": 1280.08,
+      "text": "For example, a single step in a five-step list might be a content unit."
+    },
+    {
+      "start": 1280.48,
+      "end": 1283.2,
+      "text": "When we link all five together, we have a longer piece of content."
+    },
+    {
+      "start": 1283.56,
+      "end": 1284.74,
+      "text": "Here's a visual to drive it home."
+    },
+    {
+      "start": 1285.26,
+      "end": 1289.42,
+      "text": "For everyone who's listening, it's just hook, retain, reward, cycled over and over and over again."
+    },
+    {
+      "start": 1291.06,
+      "end": 1293.22,
+      "text": "Shorter content hooks, retains, rewards fewer times."
+    },
+    {
+      "start": 1293.72,
+      "end": 1299.6,
+      "text": "Longer content does it more times, and doing it more times takes more skill because you have to string more good content units in a row."
+    },
+    {
+      "start": 1300.06,
+      "end": 1304.14,
+      "text": "For example, a new comedian will typically only get a few minutes on stage to perform their bit."
+    },
+    {
+      "start": 1304.88,
+      "end": 1306.5,
+      "text": "Only a master comic gets an hour."
+    },
+    {
+      "start": 1306.88,
+      "end": 1310.28,
+      "text": "It takes practice to reward attention just off enough to keep it for that long."
+    },
+    {
+      "start": 1310.66,
+      "end": 1312.56,
+      "text": "So, start small, then build from there."
+    },
+    {
+      "start": 1312.98,
+      "end": 1316.6,
+      "text": "Even if you start with longer content, which is fine, I suggest starting with shorter versions."
+    },
+    {
+      "start": 1317.24,
+      "end": 1318.32,
+      "text": "You'll have an easier go of it."
+    },
+    {
+      "start": 1318.88,
+      "end": 1323.78,
+      "text": "Many successful authors with epic-length novels started by writing, you guessed it, short stories."
+    },
+    {
+      "start": 1324.86,
+      "end": 1327.38,
+      "text": "Pro tip, make all your content for strangers."
+    },
+    {
+      "start": 1327.78,
+      "end": 1328.76,
+      "text": "This is important."
+    },
+    {
+      "start": 1329.14,
+      "end": 1330.06,
+      "text": "Pay attention."
+    },
+    {
+      "start": 1330.38,
+      "end": 1335.6,
+      "text": "If you want to grow your warm audience, then you need to make content assuming the people consuming it have never heard of you before."
+    },
+    {
+      "start": 1336.12,
+      "end": 1342.42,
+      "text": "If you make it for strangers, then strangers will like it because you made it for them, and they'll share it, and your audience will grow that much faster."
+    },
+    {
+      "start": 1343.52,
+      "end": 1344.62,
+      "text": "And consider the alternative."
+    },
+    {
+      "start": 1345.3,
+      "end": 1348.66,
+      "text": "You litter your content with inside jokes that no one gets besides your audience."
+    },
+    {
+      "start": 1349.16,
+      "end": 1353.22,
+      "text": "Cool for you guys, but no one else will feel welcome, and your audience growth will slow down."
+    },
+    {
+      "start": 1353.7,
+      "end": 1357.12,
+      "text": "This is one of the most common mistakes I see content creators make, so don't make it."
+    },
+    {
+      "start": 1357.56,
+      "end": 1362.74,
+      "text": "So make every piece of content assuming the person has never heard of you before, and everyone who already knows you won't mind."
+    },
+    {
+      "start": 1363.0,
+      "end": 1364.26,
+      "text": "They'll appreciate the reminders."
+    },
+    {
+      "start": 1364.82,
+      "end": 1368.28,
+      "text": "Once you understand how to make a content unit, all you have to do is more."
+    },
+    {
+      "start": 1368.76,
+      "end": 1370.18,
+      "text": "Then your audience will grow."
+    },
+    {
+      "start": 1370.6,
+      "end": 1373.5,
+      "text": "And once your audience grows big enough, you may want to monetize it."
+    },
+    {
+      "start": 1374.86,
+      "end": 1378.8,
+      "text": "I had too much to say to fit in one chapter, so we'll talk about how to monetize the audience in the next one."
+    },
+    {
+      "start": 1379.06,
+      "end": 1379.6,
+      "text": "I'll see you there."
+    },
+    {
+      "start": 1382.66,
+      "end": 1384.06,
+      "text": "Hey, I hope you're enjoying the book right now."
+    },
+    {
+      "start": 1384.3,
+      "end": 1391.88,
+      "text": "Um, if you don't know this, the mission of acquisition.com is to make real business education accessible to everyone, and the only way we can reach everyone is if you choose to share this."
+    },
+    {
+      "start": 1391.96,
+      "end": 1405.4,
+      "text": "And so if you've been enjoying this, you've been getting value from this chapter and any of the rest of the podcast episodes, if you could just take a second and ship this to a friend, just click the one button and send it to somebody or share it on your stories, it would mean the world to me, and it would ultimately send this message to more people."
+    },
+    {
+      "start": 1405.8,
+      "end": 1407.7,
+      "text": "So if you could do that now, it would mean a lot."
+    },
+    {
+      "start": 1409.48,
+      "end": 1412.06,
+      "text": "Post-free content part two, monetize your audience."
+    },
+    {
+      "start": 1412.44,
+      "end": 1415.06,
+      "text": "Give, give, give, give, give, give until they ask."
+    },
+    {
+      "start": 1416.46,
+      "end": 1418.86,
+      "text": "The point of this chapter is to show you how to monetize your warm audience."
+    },
+    {
+      "start": 1419.38,
+      "end": 1424.26,
+      "text": "First, we talk about how we can make offers and not be a spam monster, mastering the give-to-ask ratio."
+    },
+    {
+      "start": 1424.9,
+      "end": 1427.64,
+      "text": "Then we'll talk about the two offer strategies to monetize the audience."
+    },
+    {
+      "start": 1428.26,
+      "end": 1432.42,
+      "text": "After that, I'll talk about how to scale your output so you can grow a bigger audience faster and make even more money."
+    },
+    {
+      "start": 1433.12,
+      "end": 1436.56,
+      "text": "Then I'll share a bunch of lessons I've learned in building my own audience that I wish I had known sooner."
+    },
+    {
+      "start": 1437.16,
+      "end": 1440.18,
+      "text": "Finally, I'll wrap this up with how you can take action on everything today."
+    },
+    {
+      "start": 1441.36,
+      "end": 1442.76,
+      "text": "Mastering the give-to-ask ratio."
+    },
+    {
+      "start": 1443.68,
+      "end": 1445.82,
+      "text": "Gary Vaynerchuk popularized jab, jab, jab, right hook."
+    },
+    {
+      "start": 1446.39,
+      "end": 1449.53,
+      "text": "It simplifies the idea of giving to your audience many times before making an ask."
+    },
+    {
+      "start": 1450.07,
+      "end": 1453.35,
+      "text": "You deposit goodwill with rewarding content, then withdraw from it by making offers."
+    },
+    {
+      "start": 1453.87,
+      "end": 1455.85,
+      "text": "When you deposit goodwill, your audience pays more attention."
+    },
+    {
+      "start": 1456.33,
+      "end": 1458.99,
+      "text": "When you deposit goodwill, your audience is more likely to do what you ask."
+    },
+    {
+      "start": 1459.55,
+      "end": 1462.81,
+      "text": "So I try to under-ask my audience and build as much goodwill as possible."
+    },
+    {
+      "start": 1463.39,
+      "end": 1465.49,
+      "text": "Thankfully, the give-to-ask ratio has been well studied."
+    },
+    {
+      "start": 1466.03,
+      "end": 1469.21,
+      "text": "Television advertises 13 minutes of advertising per 60 minutes of airtime."
+    },
+    {
+      "start": 1469.63,
+      "end": 1473.69,
+      "text": "That means 47 minutes are dedicated to, quote, \"giving,\" and 13 minutes are dedicated to, quote, \"asking.\""
+    },
+    {
+      "start": 1474.17,
+      "end": 1476.97,
+      "text": "That's roughly a three and a half to one ratio of giving to asking."
+    },
+    {
+      "start": 1477.35,
+      "end": 1480.65,
+      "text": "On Facebook, it's roughly four content posts for every one ad on the newsfeed."
+    },
+    {
+      "start": 1481.15,
+      "end": 1483.97,
+      "text": "This gives us an idea of the minimum give-to-ask ratio we can sustain."
+    },
+    {
+      "start": 1484.43,
+      "end": 1487.43,
+      "text": "After all, television and Facebook are mature platforms."
+    },
+    {
+      "start": 1487.51,
+      "end": 1490.51,
+      "text": "They care less about growing their audiences and care more about making more money from them."
+    },
+    {
+      "start": 1491.19,
+      "end": 1499.01,
+      "text": "So, they give less and ask more, which means give, give, give, ask is the ratio that gets us closer to maximally monetizing an audience without shrinking it."
+    },
+    {
+      "start": 1499.53,
+      "end": 1502.25,
+      "text": "But most of us want to grow, so we shouldn't model them."
+    },
+    {
+      "start": 1502.61,
+      "end": 1504.05,
+      "text": "We should model growing platforms."
+    },
+    {
+      "start": 1504.69,
+      "end": 1506.31,
+      "text": "So, what do growing platforms do?"
+    },
+    {
+      "start": 1506.83,
+      "end": 1509.69,
+      "text": "They display lots of content without many advertisements at all."
+    },
+    {
+      "start": 1509.93,
+      "end": 1515.37,
+      "text": "In short, they give, give, give, give, give, give, give, give, give, give, give, maybe ask."
+    },
+    {
+      "start": 1515.93,
+      "end": 1517.73,
+      "text": "They dramatically over-give and under-ask."
+    },
+    {
+      "start": 1517.99,
+      "end": 1518.25,
+      "text": "Why?"
+    },
+    {
+      "start": 1518.63,
+      "end": 1520.67,
+      "text": "Because the more you reward your audience, the bigger it gets."
+    },
+    {
+      "start": 1521.05,
+      "end": 1523.35,
+      "text": "So if you want to grow an audience, give far more than you ask."
+    },
+    {
+      "start": 1524.85,
+      "end": 1527.35,
+      "text": "Most people don't make money because they can't wait 12 months."
+    },
+    {
+      "start": 1528.67,
+      "end": 1533.55,
+      "text": "And now that I have some experience with it, I've got a slight tweak on the traditional give-ask strategy that puts it on steroids."
+    },
+    {
+      "start": 1534.19,
+      "end": 1535.73,
+      "text": "Give until they ask."
+    },
+    {
+      "start": 1537.09,
+      "end": 1544.15,
+      "text": "People are always waiting for you to ask for money, and when you don't, they trust you more, they share your stuff more, you grow faster, etc."
+    },
+    {
+      "start": 1545.05,
+      "end": 1546.41,
+      "text": "But I'm not some altruistic saint."
+    },
+    {
+      "start": 1546.47,
+      "end": 1547.15,
+      "text": "I'm here to make money."
+    },
+    {
+      "start": 1547.39,
+      "end": 1549.85,
+      "text": "After all, I wouldn't be a very good businessman if I weren't making any."
+    },
+    {
+      "start": 1550.41,
+      "end": 1550.97,
+      "text": "So it's simple."
+    },
+    {
+      "start": 1551.45,
+      "end": 1553.43,
+      "text": "If you give enough, people start asking you."
+    },
+    {
+      "start": 1554.21,
+      "end": 1556.83,
+      "text": "It makes people uncomfortable to continue to receive without giving back."
+    },
+    {
+      "start": 1557.27,
+      "end": 1558.75,
+      "text": "It's core to our culture and DNA."
+    },
+    {
+      "start": 1559.49,
+      "end": 1562.91,
+      "text": "They'll go to your website, DM you, email you, etc., to ask for more."
+    },
+    {
+      "start": 1563.31,
+      "end": 1566.35,
+      "text": "Not only that, when you use this strategy, you get the best customers."
+    },
+    {
+      "start": 1567.13,
+      "end": 1568.69,
+      "text": "They are the ones who are the biggest givers."
+    },
+    {
+      "start": 1568.99,
+      "end": 1572.81,
+      "text": "They are the ones who, even as paying customers, still feel they get the better end of the deal."
+    },
+    {
+      "start": 1573.03,
+      "end": 1577.25,
+      "text": "And best of all, if you advertise this way, your growth never slows."
+    },
+    {
+      "start": 1577.77,
+      "end": 1580.75,
+      "text": "When you use this strategy, you give in public, ask in private."
+    },
+    {
+      "start": 1581.19,
+      "end": 1583.83,
+      "text": "You let the audience self-select when they're ready to give you money."
+    },
+    {
+      "start": 1584.21,
+      "end": 1587.71,
+      "text": "That's why, in my opinion, give until they ask is the best strategy."
+    },
+    {
+      "start": 1588.37,
+      "end": 1590.03,
+      "text": "But if you feel like asking, I get it."
+    },
+    {
+      "start": 1590.25,
+      "end": 1593.67,
+      "text": "So let's talk about how to ask, because if you're going to do it, you might as well do it well."
+    },
+    {
+      "start": 1594.19,
+      "end": 1598.27,
+      "text": "Bottom line, the moment you start asking for money is the moment you decide to slow down your growth."
+    },
+    {
+      "start": 1598.65,
+      "end": 1601.87,
+      "text": "So the more patient you are, the more you will get when you finally make your ask."
+    },
+    {
+      "start": 1602.37,
+      "end": 1605.53,
+      "text": "Action step: give, give, give, give, give, give until they ask."
+    },
+    {
+      "start": 1606.29,
+      "end": 1608.41,
+      "text": "Pro tip: give in public, ask in private."
+    },
+    {
+      "start": 1609.05,
+      "end": 1611.95,
+      "text": "If you continue to give in public, people will ask you for stuff privately."
+    },
+    {
+      "start": 1612.21,
+      "end": 1612.73,
+      "text": "Bank on it."
+    },
+    {
+      "start": 1613.03,
+      "end": 1620.05,
+      "text": "The best of both worlds is to never stop giving in public and continue to get an increasing number of people to ask you privately to sell them stuff."
+    },
+    {
+      "start": 1621.01,
+      "end": 1624.59,
+      "text": "Give, give, give, and you will get without losing goodwill or slowing down your audience growth."
+    },
+    {
+      "start": 1625.53,
+      "end": 1627.41,
+      "text": "How to make money from content: ask."
+    },
+    {
+      "start": 1628.13,
+      "end": 1630.69,
+      "text": "To be clear, I think you should use the give until they ask strategy."
+    },
+    {
+      "start": 1630.91,
+      "end": 1634.01,
+      "text": "But if you need to pay rent, feed your family, etc., I get it."
+    },
+    {
+      "start": 1634.21,
+      "end": 1634.99,
+      "text": "Sometimes you got to ask."
+    },
+    {
+      "start": 1635.67,
+      "end": 1638.15,
+      "text": "So let's talk about how to do that without sounding like a nincompoop."
+    },
+    {
+      "start": 1639.35,
+      "end": 1640.73,
+      "text": "Think of asks as commercials."
+    },
+    {
+      "start": 1641.29,
+      "end": 1642.87,
+      "text": "You interrupt this program with a very important message."
+    },
+    {
+      "start": 1643.51,
+      "end": 1647.35,
+      "text": "Since you are the one providing the value, you interrupt your own content with commercials about the stuff you sell."
+    },
+    {
+      "start": 1647.63,
+      "end": 1653.59,
+      "text": "But since it's your audience, you pay the cost of potential loss of trust, slowing growth, and of course, the time it took you to gather the audience in the first place."
+    },
+    {
+      "start": 1653.97,
+      "end": 1655.07,
+      "text": "But money-wise, it's free."
+    },
+    {
+      "start": 1655.67,
+      "end": 1661.23,
+      "text": "Now, I use two strategies to weave promotions into content: integrated offers and intermittent offers."
+    },
+    {
+      "start": 1661.39,
+      "end": 1662.07,
+      "text": "Let's cover both."
+    },
+    {
+      "start": 1662.93,
+      "end": 1663.39,
+      "text": "Integrated."
+    },
+    {
+      "start": 1664.01,
+      "end": 1668.05,
+      "text": "You can advertise in every piece of content so long as you keep your give-to-ask ratio high."
+    },
+    {
+      "start": 1668.39,
+      "end": 1670.77,
+      "text": "You will continue to grow your own audience and get engaged leads."
+    },
+    {
+      "start": 1670.93,
+      "end": 1671.39,
+      "text": "Win-win."
+    },
+    {
+      "start": 1671.51,
+      "end": 1681.63,
+      "text": "For example, if I make an hour-long podcast, having three 30-second ads means I have 58 and a half minutes of giving to one and a half minutes of asking, well above the three to one ratio."
+    },
+    {
+      "start": 1682.31,
+      "end": 1685.73,
+      "text": "On the flip side, I had a friend who had a podcast that blew up quickly."
+    },
+    {
+      "start": 1686.31,
+      "end": 1691.99,
+      "text": "Eager to monetize his new audience, he started making offers, asking too frequently in the content."
+    },
+    {
+      "start": 1692.33,
+      "end": 1694.59,
+      "text": "His podcast not only stopped growing, it actually shrank."
+    },
+    {
+      "start": 1695.01,
+      "end": 1695.67,
+      "text": "Don't be like that."
+    },
+    {
+      "start": 1695.85,
+      "end": 1696.79,
+      "text": "Don't kill your golden goose."
+    },
+    {
+      "start": 1697.15,
+      "end": 1698.03,
+      "text": "It's a balancing act."
+    },
+    {
+      "start": 1698.55,
+      "end": 1701.43,
+      "text": "Over-give to protect your most valuable asset, the goodwill of your audience."
+    },
+    {
+      "start": 1702.17,
+      "end": 1708.39,
+      "text": "Action step: I most commonly integrate asks, AKA CTAs, after a valuable moment or at the end of a content piece."
+    },
+    {
+      "start": 1709.07,
+      "end": 1712.57,
+      "text": "Consider trying one of those places first and make sure your audience growth doesn't slow."
+    },
+    {
+      "start": 1712.95,
+      "end": 1714.65,
+      "text": "Then add in the second and so forth."
+    },
+    {
+      "start": 1715.29,
+      "end": 1716.63,
+      "text": "Pro tip: PS statements."
+    },
+    {
+      "start": 1717.37,
+      "end": 1722.93,
+      "text": "A PS statement is one of the most read parts of any content, often because it summarizes the main thing the author wants the audience to do."
+    },
+    {
+      "start": 1723.47,
+      "end": 1725.29,
+      "text": "So, I try and include them in everything I write."
+    },
+    {
+      "start": 1725.41,
+      "end": 1727.27,
+      "text": "It's also one of my favorite places to make asks."
+    },
+    {
+      "start": 1727.67,
+      "end": 1728.63,
+      "text": "PS, see?"
+    },
+    {
+      "start": 1728.89,
+      "end": 1729.57,
+      "text": "Everyone reads these."
+    },
+    {
+      "start": 1730.35,
+      "end": 1730.77,
+      "text": "Intermittent."
+    },
+    {
+      "start": 1731.27,
+      "end": 1733.65,
+      "text": "The second way you can monetize is through intermittent asks."
+    },
+    {
+      "start": 1733.97,
+      "end": 1734.73,
+      "text": "Here's how it works."
+    },
+    {
+      "start": 1735.21,
+      "end": 1739.03,
+      "text": "You make many pieces of content of pure gives, then occasionally make an ask piece."
+    },
+    {
+      "start": 1739.31,
+      "end": 1742.87,
+      "text": "Example: you make 10 give posts, and on the 11th, you promote your stuff."
+    },
+    {
+      "start": 1743.59,
+      "end": 1745.93,
+      "text": "The difference between the first way and the second depends on the platform."
+    },
+    {
+      "start": 1746.09,
+      "end": 1748.25,
+      "text": "On short platforms, the intermittent way will dominate."
+    },
+    {
+      "start": 1748.69,
+      "end": 1750.99,
+      "text": "On long platforms, integrations are often your best bet."
+    },
+    {
+      "start": 1751.63,
+      "end": 1755.21,
+      "text": "When you make your asks, you either advertise your core offer or advertise your lead magnet."
+    },
+    {
+      "start": 1755.53,
+      "end": 1755.91,
+      "text": "That's it."
+    },
+    {
+      "start": 1756.15,
+      "end": 1757.07,
+      "text": "Don't overcomplicate this."
+    },
+    {
+      "start": 1758.05,
+      "end": 1759.05,
+      "text": "Lead magnet example."
+    },
+    {
+      "start": 1759.91,
+      "end": 1766.33,
+      "text": "If I just talked about a way to get more leads on a post, video, podcast, etc., I would then say, \"I have 11 more tips that have helped me do this."
+    },
+    {
+      "start": 1766.77,
+      "end": 1768.45,
+      "text": "Go to my site to grab a pretty visual of them.\""
+    },
+    {
+      "start": 1769.03,
+      "end": 1773.19,
+      "text": "And as long as I have an audience that wants to get more leads, this will get some of them to engage."
+    },
+    {
+      "start": 1773.73,
+      "end": 1779.27,
+      "text": "Then the thank you page after the opt-in page for my lead magnet would display my paid offer with some video explaining how it works."
+    },
+    {
+      "start": 1779.81,
+      "end": 1782.77,
+      "text": "Bonus points if your lead magnet is relevant to your content advertising it."
+    },
+    {
+      "start": 1784.15,
+      "end": 1784.75,
+      "text": "Offer example."
+    },
+    {
+      "start": 1785.29,
+      "end": 1789.49,
+      "text": "You can also go for the jugular with your core offer and go straight for the sale, the direct path to money."
+    },
+    {
+      "start": 1790.07,
+      "end": 1791.75,
+      "text": "We model our offer from the last chapter."
+    },
+    {
+      "start": 1792.61,
+      "end": 1797.01,
+      "text": "I'm looking for five specific avatar to help achieve dream outcome in time delay."
+    },
+    {
+      "start": 1797.45,
+      "end": 1799.79,
+      "text": "The best part is you don't have to effort and sacrifice."
+    },
+    {
+      "start": 1800.25,
+      "end": 1805.11,
+      "text": "And if you don't get dream outcome, I will do two things, increase perceived likelihood of achievement."
+    },
+    {
+      "start": 1805.65,
+      "end": 1807.21,
+      "text": "One, I will hand you your money back."
+    },
+    {
+      "start": 1807.43,
+      "end": 1808.99,
+      "text": "Two, I work with you until you do."
+    },
+    {
+      "start": 1809.56,
+      "end": 1814.08,
+      "text": "I do this because I want everyone to have an amazing experience with us and because I'm confident I can deliver on my promise."
+    },
+    {
+      "start": 1814.18,
+      "end": 1818.28,
+      "text": "If that sounds fair, DM me/book a call/comment below/reply to this email, etc."
+    },
+    {
+      "start": 1819.2,
+      "end": 1821.56,
+      "text": "After you make your ask, get back to providing value."
+    },
+    {
+      "start": 1822.2,
+      "end": 1823.98,
+      "text": "Pro tip, 100 million dollar offers."
+    },
+    {
+      "start": 1824.6,
+      "end": 1828.78,
+      "text": "My first book, 100 Million Dollar Offers, breaks down the offer creation process step by step."
+    },
+    {
+      "start": 1829.34,
+      "end": 1834.48,
+      "text": "If you want to know how to create a valuable offer that the right person would feel stupid saying no to, go check out that book."
+    },
+    {
+      "start": 1834.8,
+      "end": 1839.94,
+      "text": "The digital version is available for sale at the cheapest price that the platform would let me make it and still list it as a book."
+    },
+    {
+      "start": 1841.14,
+      "end": 1852.24,
+      "text": "If it helps you feel more comfortable, more than 10,000 people left it a five-star review in the first 15 months since it was published, and it has stayed atop the number one bestseller in marketing advertising sales list for the past 100 plus weeks and counting."
+    },
+    {
+      "start": 1852.94,
+      "end": 1856.2,
+      "text": "If you don't know what to sell, read that book to get it right the first time."
+    },
+    {
+      "start": 1857.38,
+      "end": 1859.3,
+      "text": "That was an example of an integration."
+    },
+    {
+      "start": 1860.74,
+      "end": 1861.2,
+      "text": "Action step."
+    },
+    {
+      "start": 1862.24,
+      "end": 1865.26,
+      "text": "Pick whether you integrate or make an intermittent ask."
+    },
+    {
+      "start": 1865.62,
+      "end": 1868.4,
+      "text": "Then pick whether you'll advertise your core offer or lead magnet."
+    },
+    {
+      "start": 1868.94,
+      "end": 1870.56,
+      "text": "If you're not sure, do the lead magnet."
+    },
+    {
+      "start": 1870.78,
+      "end": 1871.52,
+      "text": "It's lower risk."
+    },
+    {
+      "start": 1872.92,
+      "end": 1873.64,
+      "text": "How to scale it."
+    },
+    {
+      "start": 1875.4,
+      "end": 1877.72,
+      "text": "Depth and width or width then depth."
+    },
+    {
+      "start": 1878.84,
+      "end": 1883.36,
+      "text": "After you start asking, you're going to start getting leads and making money, but you don't want to stop there, do you?"
+    },
+    {
+      "start": 1883.76,
+      "end": 1884.32,
+      "text": "Didn't think so."
+    },
+    {
+      "start": 1884.6,
+      "end": 1884.88,
+      "text": "Cool."
+    },
+    {
+      "start": 1884.94,
+      "end": 1885.96,
+      "text": "So let's talk about scale."
+    },
+    {
+      "start": 1886.5,
+      "end": 1888.66,
+      "text": "There are two opposing strategies to scale your warm audience."
+    },
+    {
+      "start": 1888.98,
+      "end": 1890.52,
+      "text": "They both follow progressive steps."
+    },
+    {
+      "start": 1891.08,
+      "end": 1892.74,
+      "text": "First, you have the depth then width approach."
+    },
+    {
+      "start": 1893.28,
+      "end": 1895.02,
+      "text": "Then you have the width then depth approach."
+    },
+    {
+      "start": 1895.5,
+      "end": 1896.08,
+      "text": "Both are right."
+    },
+    {
+      "start": 1896.28,
+      "end": 1896.92,
+      "text": "Here's how they work."
+    },
+    {
+      "start": 1897.88,
+      "end": 1898.86,
+      "text": "Depth then width."
+    },
+    {
+      "start": 1899.28,
+      "end": 1901.76,
+      "text": "Maximize a platform, then move on to the next platform."
+    },
+    {
+      "start": 1902.44,
+      "end": 1904.72,
+      "text": "Step one, post content on a relevant platform."
+    },
+    {
+      "start": 1905.4,
+      "end": 1907.98,
+      "text": "Step two, post content regularly on that platform."
+    },
+    {
+      "start": 1908.5,
+      "end": 1912.64,
+      "text": "Step three, maximize quality and quantity of the content on that platform."
+    },
+    {
+      "start": 1913.1,
+      "end": 1916.6,
+      "text": "Short form, you may sometimes be able to get up to 10 times per day per platform."
+    },
+    {
+      "start": 1917.14,
+      "end": 1919.42,
+      "text": "Long form, you may have to get up to five days per week."
+    },
+    {
+      "start": 1919.72,
+      "end": 1920.56,
+      "text": "See soap operas."
+    },
+    {
+      "start": 1921.22,
+      "end": 1925.52,
+      "text": "Step four, add another platform while maintaining the quality and quantity on the first platform."
+    },
+    {
+      "start": 1925.74,
+      "end": 1929.7,
+      "text": "Step five, repeat steps one through four until all relevant platforms are maximized."
+    },
+    {
+      "start": 1930.2,
+      "end": 1930.8,
+      "text": "Advantages."
+    },
+    {
+      "start": 1931.34,
+      "end": 1933.94,
+      "text": "Once you figure out one platform, you maximize your return on that effort."
+    },
+    {
+      "start": 1934.5,
+      "end": 1936.16,
+      "text": "Audiences compound faster the more you do."
+    },
+    {
+      "start": 1936.32,
+      "end": 1937.68,
+      "text": "You take advantage of this compounding."
+    },
+    {
+      "start": 1938.02,
+      "end": 1939.74,
+      "text": "Fewer resources are required to make this work."
+    },
+    {
+      "start": 1940.28,
+      "end": 1940.96,
+      "text": "Disadvantages."
+    },
+    {
+      "start": 1941.34,
+      "end": 1944.16,
+      "text": "You have less low-hanging fruit of new platforms and new audiences."
+    },
+    {
+      "start": 1944.26,
+      "end": 1946.46,
+      "text": "You don't accomplish the feeling of, quote, \"omnipresence.\""
+    },
+    {
+      "start": 1946.88,
+      "end": 1949.4,
+      "text": "In the beginning, you risk your business being reliant on a single channel."
+    },
+    {
+      "start": 1949.84,
+      "end": 1953.16,
+      "text": "This is a risk because platforms can change all the time and sometimes ban you for no reason."
+    },
+    {
+      "start": 1953.62,
+      "end": 1956.94,
+      "text": "If you only have one way to get customers, it can kill your business if it gets shut down."
+    },
+    {
+      "start": 1958.3,
+      "end": 1959.12,
+      "text": "Width then depth."
+    },
+    {
+      "start": 1959.9,
+      "end": 1962.56,
+      "text": "Get on every platform early, then maximize them together."
+    },
+    {
+      "start": 1963.5,
+      "end": 1965.74,
+      "text": "Step one, post content on a relevant platform."
+    },
+    {
+      "start": 1966.0,
+      "end": 1968.34,
+      "text": "Step two, post content regularly on that platform."
+    },
+    {
+      "start": 1968.78,
+      "end": 1972.12,
+      "text": "Step three, here's where this strategy differs from the one before."
+    },
+    {
+      "start": 1972.72,
+      "end": 1978.22,
+      "text": "Instead of maximizing your first platform, move on to the next relevant platform while maintaining the previous."
+    },
+    {
+      "start": 1978.92,
+      "end": 1982.32,
+      "text": "Step four, continue until you are on all relevant platforms."
+    },
+    {
+      "start": 1982.68,
+      "end": 1986.84,
+      "text": "Step five, now maximize your content creation on all platforms at once."
+    },
+    {
+      "start": 1987.54,
+      "end": 1988.16,
+      "text": "Advantages."
+    },
+    {
+      "start": 1988.6,
+      "end": 1992.24,
+      "text": "You reach a broader audience faster, and you can repurpose your content."
+    },
+    {
+      "start": 1992.62,
+      "end": 1995.42,
+      "text": "So with a little extra work, you can capture tons of efficiency."
+    },
+    {
+      "start": 1996.32,
+      "end": 1999.86,
+      "text": "With minimal change to the format, you can make the same content fit multiple platforms."
+    },
+    {
+      "start": 1999.94,
+      "end": 2005.56,
+      "text": "For example, it takes little extra effort to format a single short video across all platforms distributing short video content."
+    },
+    {
+      "start": 2006.24,
+      "end": 2007.0,
+      "text": "Disadvantages."
+    },
+    {
+      "start": 2007.44,
+      "end": 2010.24,
+      "text": "It costs more labor, attention, and time to do this well."
+    },
+    {
+      "start": 2010.9,
+      "end": 2013.74,
+      "text": "Oftentimes, people end up with lots of bad content everywhere."
+    },
+    {
+      "start": 2014.2,
+      "end": 2014.84,
+      "text": "Sucky fluff."
+    },
+    {
+      "start": 2015.18,
+      "end": 2015.76,
+      "text": "No bueno."
+    },
+    {
+      "start": 2016.32,
+      "end": 2021.54,
+      "text": "If you already have a sizable business, scale up faster and reap the rewards of an asset that only gets better with time."
+    },
+    {
+      "start": 2022.02,
+      "end": 2023.28,
+      "text": "I said it before, and I'll say it again."
+    },
+    {
+      "start": 2023.72,
+      "end": 2026.28,
+      "text": "The best day to start posting content was the day you were born."
+    },
+    {
+      "start": 2026.52,
+      "end": 2028.02,
+      "text": "The second-best day is today."
+    },
+    {
+      "start": 2028.48,
+      "end": 2029.46,
+      "text": "Don't wait like I did."
+    },
+    {
+      "start": 2030.16,
+      "end": 2030.62,
+      "text": "Pro tip."
+    },
+    {
+      "start": 2031.02,
+      "end": 2031.9,
+      "text": "How I get it done."
+    },
+    {
+      "start": 2032.74,
+      "end": 2034.22,
+      "text": "I am not a full-time content creator."
+    },
+    {
+      "start": 2034.54,
+      "end": 2035.48,
+      "text": "I run businesses."
+    },
+    {
+      "start": 2036.1,
+      "end": 2038.52,
+      "text": "But content creation is a part of my responsibility."
+    },
+    {
+      "start": 2038.96,
+      "end": 2040.66,
+      "text": "Here's my simple process for recording."
+    },
+    {
+      "start": 2041.3,
+      "end": 2045.86,
+      "text": "One, I find topics using the five ways from the topic section of part one of this chapter."
+    },
+    {
+      "start": 2046.22,
+      "end": 2047.16,
+      "text": "This takes me about an hour."
+    },
+    {
+      "start": 2047.8,
+      "end": 2051.94,
+      "text": "Two, I sit down twice every month and record 30 or so short clips based on step one."
+    },
+    {
+      "start": 2052.8,
+      "end": 2058.48,
+      "text": "Three, on the same day, I record two to four longer videos unpacking tweets that had more stories or relevant examples."
+    },
+    {
+      "start": 2058.96,
+      "end": 2060.5,
+      "text": "This creates my longer-form content."
+    },
+    {
+      "start": 2060.92,
+      "end": 2062.8,
+      "text": "If that sounds simplistic, it's because it is."
+    },
+    {
+      "start": 2063.12,
+      "end": 2063.66,
+      "text": "Just start."
+    },
+    {
+      "start": 2063.7,
+      "end": 2064.76,
+      "text": "You can add volume over time."
+    },
+    {
+      "start": 2066.06,
+      "end": 2066.52,
+      "text": "Action step."
+    },
+    {
+      "start": 2067.0,
+      "end": 2071.1,
+      "text": "Pick an approach, start posting, then go up the scaling steps over time."
+    },
+    {
+      "start": 2072.14,
+      "end": 2072.52,
+      "text": "Pro tip."
+    },
+    {
+      "start": 2073.0,
+      "end": 2074.44,
+      "text": "Only one call to action at a time."
+    },
+    {
+      "start": 2075.2,
+      "end": 2078.52,
+      "text": "A confused mind doesn't buy is a common saying in the sales and marketing world."
+    },
+    {
+      "start": 2079.0,
+      "end": 2082.66,
+      "text": "To increase how many people do what you want, only ask them to do one thing per call to action."
+    },
+    {
+      "start": 2083.0,
+      "end": 2088.62,
+      "text": "For example, don't ask people to share, like, subscribe, and comment at the same time, because instead of doing them all, they'll do none."
+    },
+    {
+      "start": 2089.06,
+      "end": 2091.98,
+      "text": "Instead, if you want them to share, only ask them to share."
+    },
+    {
+      "start": 2092.24,
+      "end": 2094.7,
+      "text": "And if you want them to buy, only ask them to buy."
+    },
+    {
+      "start": 2094.9,
+      "end": 2096.5,
+      "text": "Make up your mind so they don't have to."
+    },
+    {
+      "start": 2096.82,
+      "end": 2100.04,
+      "text": "Why you should make content, even if it's not your primary advertising strategy."
+    },
+    {
+      "start": 2100.84,
+      "end": 2101.78,
+      "text": "January 2020."
+    },
+    {
+      "start": 2102.54,
+      "end": 2105.86,
+      "text": "I called all the major departments into a meeting to answer an important question."
+    },
+    {
+      "start": 2106.5,
+      "end": 2108.5,
+      "text": "Why isn't our paid advertising working like it used to?"
+    },
+    {
+      "start": 2108.86,
+      "end": 2109.9,
+      "text": "Opinions flooded the room."
+    },
+    {
+      "start": 2110.46,
+      "end": 2113.82,
+      "text": "The creative, the copy, the offer, our pages, our sales process, our price."
+    },
+    {
+      "start": 2114.22,
+      "end": 2118.1,
+      "text": "They shot back and forth at each other, every bit as invested as I was in solving the problem."
+    },
+    {
+      "start": 2118.8,
+      "end": 2120.74,
+      "text": "Layla and I sat quietly as the team debated."
+    },
+    {
+      "start": 2121.3,
+      "end": 2124.52,
+      "text": "After the din died down, Layla, in her wise fashion, asked a different question."
+    },
+    {
+      "start": 2125.32,
+      "end": 2127.52,
+      "text": "What did we stop doing in the months before the decline?"
+    },
+    {
+      "start": 2128.38,
+      "end": 2131.08,
+      "text": "A new debate arose, and a unanimous answer surfaced."
+    },
+    {
+      "start": 2131.64,
+      "end": 2134.74,
+      "text": "Alex stopped making gym content and started talking about general business."
+    },
+    {
+      "start": 2135.48,
+      "end": 2138.2,
+      "text": "Now, I didn't know how important this was, but I had to find out."
+    },
+    {
+      "start": 2138.34,
+      "end": 2139.86,
+      "text": "So I sent out a survey to our gym owners."
+    },
+    {
+      "start": 2140.22,
+      "end": 2142.84,
+      "text": "I asked them if they had consumed any content of mine before they booked a call."
+    },
+    {
+      "start": 2143.5,
+      "end": 2144.64,
+      "text": "The results astounded me."
+    },
+    {
+      "start": 2145.32,
+      "end": 2150.44,
+      "text": "78% of all clients had consumed at least two long-form pieces of content prior to booking a call."
+    },
+    {
+      "start": 2151.2,
+      "end": 2154.5,
+      "text": "I had fallen into my old ways and given paid ads all the credit."
+    },
+    {
+      "start": 2155.2,
+      "end": 2157.14,
+      "text": "But our free content was nurturing the demand."
+    },
+    {
+      "start": 2157.7,
+      "end": 2158.9,
+      "text": "Don't make the same mistake I did."
+    },
+    {
+      "start": 2159.26,
+      "end": 2163.14,
+      "text": "Your free content gives strangers an opportunity to find, get value, and share your stuff."
+    },
+    {
+      "start": 2163.72,
+      "end": 2168.56,
+      "text": "And it warms people on the fence that go to and from the cold audience methods we dive into next."
+    },
+    {
+      "start": 2169.1,
+      "end": 2173.02,
+      "text": "So even if it's hard to measure, free content gets you better returns on all advertising methods."
+    },
+    {
+      "start": 2173.54,
+      "end": 2176.16,
+      "text": "Bottom line, start making content relevant to your audience."
+    },
+    {
+      "start": 2176.3,
+      "end": 2177.38,
+      "text": "It will make you more money."
+    },
+    {
+      "start": 2178.04,
+      "end": 2179.64,
+      "text": "Seven lessons I've learned from making content."
+    },
+    {
+      "start": 2180.54,
+      "end": 2183.02,
+      "text": "One: switch how to, to how I."
+    },
+    {
+      "start": 2183.42,
+      "end": 2187.66,
+      "text": "From this is the best way, to these are my favorite ways, especially when you're starting out."
+    },
+    {
+      "start": 2188.32,
+      "end": 2190.1,
+      "text": "Talk about what you've done, not what others should do."
+    },
+    {
+      "start": 2190.38,
+      "end": 2192.44,
+      "text": "What you like, not this is the best."
+    },
+    {
+      "start": 2192.96,
+      "end": 2195.06,
+      "text": "When you talk about experience, no one can question you."
+    },
+    {
+      "start": 2195.16,
+      "end": 2196.12,
+      "text": "This makes you bulletproof."
+    },
+    {
+      "start": 2196.64,
+      "end": 2200.96,
+      "text": "A: I make my oatmeal this way, versus you should make your oatmeal this way."
+    },
+    {
+      "start": 2201.48,
+      "end": 2206.1,
+      "text": "B: how I built my seven-figure agency, versus how to build a seven-figure agency."
+    },
+    {
+      "start": 2206.92,
+      "end": 2211.76,
+      "text": "C: my favorite way to generate leads for my business, versus this is the best way to generate leads for your business."
+    },
+    {
+      "start": 2212.22,
+      "end": 2215.22,
+      "text": "It's subtle, but when you tell your experience, you're sharing value."
+    },
+    {
+      "start": 2215.6,
+      "end": 2218.86,
+      "text": "When you tell a stranger what to do, it's hard to avoid coming off preachy or arrogant."
+    },
+    {
+      "start": 2219.08,
+      "end": 2219.9,
+      "text": "This helps avoid it."
+    },
+    {
+      "start": 2220.42,
+      "end": 2223.06,
+      "text": "Two: we need to be reminded more than we need to be taught."
+    },
+    {
+      "start": 2223.84,
+      "end": 2227.64,
+      "text": "You're a silly goose if you think 100% of your audience listens 100% of the time."
+    },
+    {
+      "start": 2228.12,
+      "end": 2230.26,
+      "text": "For example, I post about my book every day."
+    },
+    {
+      "start": 2230.78,
+      "end": 2233.06,
+      "text": "I surveyed my audience and asked them if they knew I had a book."
+    },
+    {
+      "start": 2233.64,
+      "end": 2235.74,
+      "text": "One in five that saw the post said they didn't know."
+    },
+    {
+      "start": 2236.3,
+      "end": 2237.24,
+      "text": "Keep repeating yourself."
+    },
+    {
+      "start": 2237.42,
+      "end": 2240.12,
+      "text": "You'll get bored of your content before your whole audience even sees it."
+    },
+    {
+      "start": 2241.06,
+      "end": 2243.4,
+      "text": "Three: puddles, ponds, lakes, oceans."
+    },
+    {
+      "start": 2244.36,
+      "end": 2245.56,
+      "text": "Narrow the focus of your content."
+    },
+    {
+      "start": 2246.04,
+      "end": 2249.44,
+      "text": "If you have a small local business, you probably shouldn't make general business content."
+    },
+    {
+      "start": 2249.8,
+      "end": 2250.8,
+      "text": "Not at first, at least."
+    },
+    {
+      "start": 2251.18,
+      "end": 2251.44,
+      "text": "Why?"
+    },
+    {
+      "start": 2252.04,
+      "end": 2254.32,
+      "text": "The audience will listen to people with better track records than you."
+    },
+    {
+      "start": 2254.78,
+      "end": 2257.78,
+      "text": "But you can narrow your topics to what you do and the place you do it."
+    },
+    {
+      "start": 2258.2,
+      "end": 2260.02,
+      "text": "Example: plumbing in a certain town."
+    },
+    {
+      "start": 2260.48,
+      "end": 2262.52,
+      "text": "If you do that, you can become king of that puddle."
+    },
+    {
+      "start": 2262.84,
+      "end": 2271.64,
+      "text": "Over time, you can expand your plumbing puddle to the general local business pond, then the lake of brick and mortar chains, and so forth, and eventually the ocean of general business."
+    },
+    {
+      "start": 2272.34,
+      "end": 2275.08,
+      "text": "Four: content creates tools for salespeople."
+    },
+    {
+      "start": 2275.82,
+      "end": 2279.2,
+      "text": "Some content will perform well and get more people interested in buying your stuff."
+    },
+    {
+      "start": 2279.74,
+      "end": 2281.38,
+      "text": "That content helps your sales team."
+    },
+    {
+      "start": 2281.8,
+      "end": 2283.64,
+      "text": "Create a master list of your greatest hits."
+    },
+    {
+      "start": 2284.12,
+      "end": 2288.18,
+      "text": "Label each, quote, \"hit\" with the problem it solves and the benefit it provides."
+    },
+    {
+      "start": 2288.46,
+      "end": 2293.12,
+      "text": "Then your sales team can send it before or after sales calls and help people decide to buy."
+    },
+    {
+      "start": 2293.72,
+      "end": 2298.1,
+      "text": "They work especially well if the content resolves the specific concern the prospects commonly face."
+    },
+    {
+      "start": 2298.92,
+      "end": 2301.72,
+      "text": "Five: free content retains paying customers."
+    },
+    {
+      "start": 2302.4,
+      "end": 2305.68,
+      "text": "How a customer gets value from you matters less than where they got it."
+    },
+    {
+      "start": 2306.22,
+      "end": 2309.0,
+      "text": "Imagine a person pays for your thing and then consumes your free content."
+    },
+    {
+      "start": 2309.54,
+      "end": 2313.24,
+      "text": "If your free content is valuable, they will like you more and stay loyal to your business longer."
+    },
+    {
+      "start": 2313.74,
+      "end": 2318.18,
+      "text": "On the flip side, if they consume your free content and it sucks, they will like your paid product less."
+    },
+    {
+      "start": 2318.68,
+      "end": 2319.8,
+      "text": "Here's something you may not know."
+    },
+    {
+      "start": 2320.42,
+      "end": 2323.48,
+      "text": "Somebody who buys your stuff is more likely to consume your free content."
+    },
+    {
+      "start": 2323.92,
+      "end": 2326.0,
+      "text": "This is why it's so important to make your free content good."
+    },
+    {
+      "start": 2326.36,
+      "end": 2330.26,
+      "text": "Your customers will include it in how they calculate their ROI from your paid thing."
+    },
+    {
+      "start": 2331.08,
+      "end": 2335.0,
+      "text": "Six: people don't have short attention spans, they have higher standards."
+    },
+    {
+      "start": 2335.58,
+      "end": 2339.76,
+      "text": "Repeated for emphasis, there is no such thing as too long, only too boring."
+    },
+    {
+      "start": 2340.34,
+      "end": 2344.88,
+      "text": "Streaming platforms have proven that people will spend hours binging long-form content if they like it."
+    },
+    {
+      "start": 2345.38,
+      "end": 2348.36,
+      "text": "Our biology hasn't changed, our circumstances have."
+    },
+    {
+      "start": 2348.78,
+      "end": 2350.58,
+      "text": "They have more rewarding stuff to choose from."
+    },
+    {
+      "start": 2350.94,
+      "end": 2356.06,
+      "text": "So make good stuff people like and reap the rewards rather than whining about people's, quote, \"short attention spans.\""
+    },
+    {
+      "start": 2356.94,
+      "end": 2359.14,
+      "text": "Seven: avoid pre-scheduling posts."
+    },
+    {
+      "start": 2359.6,
+      "end": 2363.7,
+      "text": "Posts I manually post perform better than the ones I pre-schedule."
+    },
+    {
+      "start": 2364.14,
+      "end": 2364.92,
+      "text": "Here's my theory."
+    },
+    {
+      "start": 2365.58,
+      "end": 2370.46,
+      "text": "When you manually post, you know that within seconds you will be rewarded or punished for the quality of the content."
+    },
+    {
+      "start": 2371.14,
+      "end": 2375.78,
+      "text": "Because of that close feedback loop, you try that much harder to make it good."
+    },
+    {
+      "start": 2376.42,
+      "end": 2379.62,
+      "text": "When I schedule stuff out, I don't feel the same pressure."
+    },
+    {
+      "start": 2380.12,
+      "end": 2387.84,
+      "text": "So whenever I post, or my team does, we strongly believe in someone pressing the submit button because it gives that last bit of pressure to get it right."
+    },
+    {
+      "start": 2388.34,
+      "end": 2388.94,
+      "text": "Give it a try."
+    },
+    {
+      "start": 2390.28,
+      "end": 2391.86,
+      "text": "Benchmarks: how well am I doing?"
+    },
+    {
+      "start": 2393.1,
+      "end": 2395.12,
+      "text": "If our audience grows, we did good."
+    },
+    {
+      "start": 2395.64,
+      "end": 2397.96,
+      "text": "But if our audience grows fast, we did gooder."
+    },
+    {
+      "start": 2398.66,
+      "end": 2401.46,
+      "text": "So I like to measure my audience size and speed of growth monthly."
+    },
+    {
+      "start": 2401.84,
+      "end": 2402.52,
+      "text": "Here's what I measure."
+    },
+    {
+      "start": 2403.46,
+      "end": 2406.82,
+      "text": "One: total followers and reach, AKA how big."
+    },
+    {
+      "start": 2407.4,
+      "end": 2413.4,
+      "text": "Follower example: if I go from 1,000 followers across all platforms to 1,500, I grew my audience by 500."
+    },
+    {
+      "start": 2413.76,
+      "end": 2413.98,
+      "text": "Yay."
+    },
+    {
+      "start": 2414.92,
+      "end": 2422.76,
+      "text": "B: reach example: if I go from 10,000 people seeing my stuff to 15,000 people seeing my stuff, I grew my reach by 5,000 people."
+    },
+    {
+      "start": 2424.12,
+      "end": 2428.56,
+      "text": "Two: rate of getting followers and reach, AKA how fast."
+    },
+    {
+      "start": 2429.56,
+      "end": 2431.06,
+      "text": "You compare the growth between months."
+    },
+    {
+      "start": 2432.08,
+      "end": 2437.32,
+      "text": "Example: if I gain those 500 followers in a month, that would make it a 50% growth month."
+    },
+    {
+      "start": 2438.0,
+      "end": 2441.54,
+      "text": "500 new over 1,000 started equals 50% growth rate."
+    },
+    {
+      "start": 2442.44,
+      "end": 2450.08,
+      "text": "B: example: if I reach those 5,000 extra people in a month, that would make it a 50% growth month as well."
+    },
+    {
+      "start": 2451.32,
+      "end": 2455.28,
+      "text": "5,000 new over 10,000 started equals 50% growth rate."
+    },
+    {
+      "start": 2455.98,
+      "end": 2457.48,
+      "text": "Remember, we can only control inputs."
+    },
+    {
+      "start": 2457.78,
+      "end": 2460.86,
+      "text": "Measuring outputs is only useful if we are consistent with inputs."
+    },
+    {
+      "start": 2461.36,
+      "end": 2464.82,
+      "text": "So, pick the posting cadence you want to stick with on a particular platform."
+    },
+    {
+      "start": 2465.22,
+      "end": 2471.48,
+      "text": "Then pick your ask cadence on that platform, AKA how you will direct people to become engaged leads."
+    },
+    {
+      "start": 2471.84,
+      "end": 2473.76,
+      "text": "Then start and do not stop."
+    },
+    {
+      "start": 2474.62,
+      "end": 2477.88,
+      "text": "It's amazing what you can accomplish if you don't stop once you start."
+    },
+    {
+      "start": 2479.04,
+      "end": 2484.86,
+      "text": "For reference, I posted a new podcast twice a week for four years before even getting picked up on the top 100 list."
+    },
+    {
+      "start": 2485.5,
+      "end": 2489.42,
+      "text": "Because I did the same thing every week for years, I knew I could trust the feedback."
+    },
+    {
+      "start": 2489.64,
+      "end": 2491.18,
+      "text": "In the beginning, it didn't grow much."
+    },
+    {
+      "start": 2491.28,
+      "end": 2496.36,
+      "text": "It took time for me to get better, and I knew I had to make more over a long time for that to happen."
+    },
+    {
+      "start": 2496.92,
+      "end": 2500.32,
+      "text": "So if your listeners go from 10 to 15 in a month, that's progress, baby."
+    },
+    {
+      "start": 2500.94,
+      "end": 2504.72,
+      "text": "Even with small absolute numbers, that's 50% monthly growth."
+    },
+    {
+      "start": 2505.32,
+      "end": 2509.64,
+      "text": "It's why I like to measure both the absolute and relative growth and pick the one that makes me feel better."
+    },
+    {
+      "start": 2509.86,
+      "end": 2510.08,
+      "text": "Ha."
+    },
+    {
+      "start": 2510.68,
+      "end": 2511.36,
+      "text": "As my friend Dr."
+    },
+    {
+      "start": 2511.42,
+      "end": 2514.6,
+      "text": "Kashi says, \"The more ways you measure, the more ways you can win.\""
+    },
+    {
+      "start": 2515.0,
+      "end": 2518.26,
+      "text": "Be consistent, measure a lot, adapt to feedback, be a winner."
+    },
+    {
+      "start": 2518.9,
+      "end": 2525.4,
+      "text": "To close the loop, in its fifth year, my podcast, \"The Game,\" became a top 10 podcast in the US for business and top 500 in the world."
+    },
+    {
+      "start": 2526.0,
+      "end": 2529.92,
+      "text": "This was only possible after five years of multiple podcasts per week, every week."
+    },
+    {
+      "start": 2530.38,
+      "end": 2532.46,
+      "text": "Remember, everyone starts at zero."
+    },
+    {
+      "start": 2532.82,
+      "end": 2534.38,
+      "text": "You just gotta give time, time."
+    },
+    {
+      "start": 2535.62,
+      "end": 2536.3,
+      "text": "Your first post."
+    },
+    {
+      "start": 2536.98,
+      "end": 2540.62,
+      "text": "You've probably been providing value to other humans knowingly or unknowingly for a while."
+    },
+    {
+      "start": 2541.26,
+      "end": 2543.36,
+      "text": "So the first post you make, you can make an ask."
+    },
+    {
+      "start": 2543.84,
+      "end": 2545.92,
+      "text": "My hope is that it gets you your first engaged lead."
+    },
+    {
+      "start": 2546.4,
+      "end": 2550.02,
+      "text": "If it doesn't, you need to give for a while, then make an ask once you've earned the right to."
+    },
+    {
+      "start": 2550.48,
+      "end": 2554.16,
+      "text": "To show you that I'm not making this up, below you can find my first business post ever."
+    },
+    {
+      "start": 2554.4,
+      "end": 2554.94,
+      "text": "Is that ideal?"
+    },
+    {
+      "start": 2555.46,
+      "end": 2555.64,
+      "text": "No."
+    },
+    {
+      "start": 2556.18,
+      "end": 2557.14,
+      "text": "I had no idea what I was doing."
+    },
+    {
+      "start": 2557.46,
+      "end": 2558.14,
+      "text": "Should you copy it?"
+    },
+    {
+      "start": 2558.4,
+      "end": 2559.12,
+      "text": "Probably not."
+    },
+    {
+      "start": 2559.48,
+      "end": 2561.48,
+      "text": "Main point, don't be afraid of what other people think."
+    },
+    {
+      "start": 2561.66,
+      "end": 2565.44,
+      "text": "If someone won't speak at your funeral, you shouldn't care about their opinion while you're alive."
+    },
+    {
+      "start": 2566.06,
+      "end": 2568.2,
+      "text": "Honor the few who believe in you by having courage."
+    },
+    {
+      "start": 2568.76,
+      "end": 2569.46,
+      "text": "Here's the post."
+    },
+    {
+      "start": 2570.02,
+      "end": 2572.94,
+      "text": "Everyone, for those of you who know me, you know two things."
+    },
+    {
+      "start": 2573.52,
+      "end": 2575.62,
+      "text": "One, I am terrible with all things technological."
+    },
+    {
+      "start": 2575.74,
+      "end": 2578.24,
+      "text": "For example, I just heard about Spotify a few weeks ago."
+    },
+    {
+      "start": 2578.44,
+      "end": 2578.86,
+      "text": "Seriously."
+    },
+    {
+      "start": 2579.38,
+      "end": 2583.04,
+      "text": "Two, I love training and nutrition and fitness more than, well, a whole lot."
+    },
+    {
+      "start": 2583.56,
+      "end": 2588.12,
+      "text": "So today is sort of special because it marks the day where my love of training vanquished my fear of technology."
+    },
+    {
+      "start": 2588.56,
+      "end": 2589.08,
+      "text": "What do I mean?"
+    },
+    {
+      "start": 2589.38,
+      "end": 2597.94,
+      "text": "For the better part of a year, I've been taking part in a free personal training project with the idea that I would give away free personal training to anyone who's willing to give their 500 to 1,000 dollars to a cause of their choice."
+    },
+    {
+      "start": 2598.62,
+      "end": 2603.94,
+      "text": "This way, they wouldn't have to be motivated by the same thing as me, but be motivated to give to their cause and benefit themselves."
+    },
+    {
+      "start": 2604.44,
+      "end": 2608.06,
+      "text": "When I first introduced the idea, I was happily surprised with the amount of positive support I received."
+    },
+    {
+      "start": 2608.42,
+      "end": 2618.54,
+      "text": "So, almost a year from my first client, I now have a website to formally show some of the transformations that have gone underway using my programming and as a formal means of contacting me about signing up."
+    },
+    {
+      "start": 2619.0,
+      "end": 2623.38,
+      "text": "I currently have a few slots open on my roster, so drop me a note quickly if you are interested."
+    },
+    {
+      "start": 2623.78,
+      "end": 2624.52,
+      "text": "Thanks so much."
+    },
+    {
+      "start": 2625.26,
+      "end": 2628.72,
+      "text": "Take a second to check out some of the ridiculous transformations in record time."
+    },
+    {
+      "start": 2629.08,
+      "end": 2629.56,
+      "text": "Check it out."
+    },
+    {
+      "start": 2630.44,
+      "end": 2632.64,
+      "text": "Whenever I read this, I just think, you goon."
+    },
+    {
+      "start": 2633.0,
+      "end": 2635.24,
+      "text": "But hey, I was trying, and for that, I'm proud."
+    },
+    {
+      "start": 2636.08,
+      "end": 2636.48,
+      "text": "Recap."
+    },
+    {
+      "start": 2636.66,
+      "end": 2637.6,
+      "text": "We covered eight things."
+    },
+    {
+      "start": 2638.48,
+      "end": 2639.7,
+      "text": "One, the content unit."
+    },
+    {
+      "start": 2639.92,
+      "end": 2640.18,
+      "text": "Done."
+    },
+    {
+      "start": 2640.54,
+      "end": 2642.38,
+      "text": "Two, short versus long-form content."
+    },
+    {
+      "start": 2642.58,
+      "end": 2642.82,
+      "text": "Done."
+    },
+    {
+      "start": 2643.3,
+      "end": 2645.62,
+      "text": "Three, mastering the give-ask ratio."
+    },
+    {
+      "start": 2645.82,
+      "end": 2646.16,
+      "text": "Done."
+    },
+    {
+      "start": 2646.76,
+      "end": 2647.74,
+      "text": "Four, how to ask."
+    },
+    {
+      "start": 2648.02,
+      "end": 2648.28,
+      "text": "Done."
+    },
+    {
+      "start": 2648.54,
+      "end": 2649.56,
+      "text": "Five, how to scale it."
+    },
+    {
+      "start": 2649.76,
+      "end": 2650.02,
+      "text": "Done."
+    },
+    {
+      "start": 2650.32,
+      "end": 2652.02,
+      "text": "Six, lessons from content."
+    },
+    {
+      "start": 2652.08,
+      "end": 2652.36,
+      "text": "Done."
+    },
+    {
+      "start": 2652.84,
+      "end": 2653.86,
+      "text": "Seven, benchmarks."
+    },
+    {
+      "start": 2654.04,
+      "end": 2654.32,
+      "text": "Done."
+    },
+    {
+      "start": 2654.86,
+      "end": 2655.9,
+      "text": "Eight, your first post."
+    },
+    {
+      "start": 2656.18,
+      "end": 2656.44,
+      "text": "Done."
+    },
+    {
+      "start": 2657.22,
+      "end": 2658.94,
+      "text": "Now you know there's nothing stopping you."
+    },
+    {
+      "start": 2659.48,
+      "end": 2660.44,
+      "text": "So what do I do right now?"
+    },
+    {
+      "start": 2661.58,
+      "end": 2665.24,
+      "text": "Posting free content is less predictable than, but complementary to, warm reach-outs."
+    },
+    {
+      "start": 2665.76,
+      "end": 2667.14,
+      "text": "So keep doing warm reach-outs."
+    },
+    {
+      "start": 2667.44,
+      "end": 2672.52,
+      "text": "Also, posting free content grows your warm audience, and a bigger warm audience means more people for warm reach-outs."
+    },
+    {
+      "start": 2672.9,
+      "end": 2678.34,
+      "text": "So free content gets engaged leads on its own and keeps getting engaged leads through warm reach-outs."
+    },
+    {
+      "start": 2678.8,
+      "end": 2683.44,
+      "text": "Instead of ditching one for the other, I recommend you post free content in addition to warm reach-outs."
+    },
+    {
+      "start": 2684.18,
+      "end": 2686.88,
+      "text": "Let's fill out our daily action commitment for our first platform."
+    },
+    {
+      "start": 2687.88,
+      "end": 2689.46,
+      "text": "Post content daily checklist."
+    },
+    {
+      "start": 2689.98,
+      "end": 2690.22,
+      "text": "Who?"
+    },
+    {
+      "start": 2690.48,
+      "end": 2690.96,
+      "text": "Yourself."
+    },
+    {
+      "start": 2691.32,
+      "end": 2691.54,
+      "text": "What?"
+    },
+    {
+      "start": 2692.02,
+      "end": 2692.42,
+      "text": "Value."
+    },
+    {
+      "start": 2692.6,
+      "end": 2693.82,
+      "text": "Give, give, give until they ask."
+    },
+    {
+      "start": 2694.02,
+      "end": 2694.26,
+      "text": "Where?"
+    },
+    {
+      "start": 2694.54,
+      "end": 2695.48,
+      "text": "Any media platform."
+    },
+    {
+      "start": 2696.32,
+      "end": 2696.74,
+      "text": "To whom?"
+    },
+    {
+      "start": 2696.98,
+      "end": 2698.06,
+      "text": "People who already follow you."
+    },
+    {
+      "start": 2698.38,
+      "end": 2698.66,
+      "text": "When?"
+    },
+    {
+      "start": 2698.92,
+      "end": 2700.1,
+      "text": "Every morning, seven days a week."
+    },
+    {
+      "start": 2700.58,
+      "end": 2700.86,
+      "text": "Why?"
+    },
+    {
+      "start": 2701.16,
+      "end": 2702.68,
+      "text": "To build goodwill and get engaged leads."
+    },
+    {
+      "start": 2702.86,
+      "end": 2703.12,
+      "text": "How?"
+    },
+    {
+      "start": 2703.52,
+      "end": 2705.3,
+      "text": "Written, image, videos, or audio posts."
+    },
+    {
+      "start": 2705.78,
+      "end": 2706.22,
+      "text": "How much?"
+    },
+    {
+      "start": 2706.64,
+      "end": 2707.38,
+      "text": "100 minutes a day."
+    },
+    {
+      "start": 2707.8,
+      "end": 2708.18,
+      "text": "How many?"
+    },
+    {
+      "start": 2708.38,
+      "end": 2709.8,
+      "text": "As many times as the platform shows it."
+    },
+    {
+      "start": 2709.96,
+      "end": 2710.4,
+      "text": "How long?"
+    },
+    {
+      "start": 2710.52,
+      "end": 2711.26,
+      "text": "As long as it takes."
+    },
+    {
+      "start": 2711.98,
+      "end": 2712.44,
+      "text": "Next up."
+    },
+    {
+      "start": 2713.2,
+      "end": 2714.6,
+      "text": "First, we start with warm outreach."
+    },
+    {
+      "start": 2714.78,
+      "end": 2716.9,
+      "text": "We reach out to every person we have permission to contact."
+    },
+    {
+      "start": 2717.26,
+      "end": 2720.86,
+      "text": "Second, we post publicly about the successes and lessons we have from our first clients."
+    },
+    {
+      "start": 2721.3,
+      "end": 2723.98,
+      "text": "We post testimonials, we provide value, then occasionally ask."
+    },
+    {
+      "start": 2724.4,
+      "end": 2726.42,
+      "text": "We commit to doing both of these activities every day."
+    },
+    {
+      "start": 2726.98,
+      "end": 2730.96,
+      "text": "With these two methods alone, you can eventually build a six or seven-figure business."
+    },
+    {
+      "start": 2731.62,
+      "end": 2732.78,
+      "text": "But you may want to go faster."
+    },
+    {
+      "start": 2733.34,
+      "end": 2736.42,
+      "text": "So we venture from warm audiences who know us to cold audiences who don't."
+    },
+    {
+      "start": 2736.88,
+      "end": 2738.3,
+      "text": "We begin reaching out to strangers."
+    },
+    {
+      "start": 2738.84,
+      "end": 2741.86,
+      "text": "This begins the third step in our advertising journey, cold outreach."
+    },
+    {
+      "start": 2742.22,
+      "end": 2742.68,
+      "text": "Free gift."
+    },
+    {
+      "start": 2743.2,
+      "end": 2744.74,
+      "text": "Everything I've learned from posting content."
+    },
+    {
+      "start": 2745.58,
+      "end": 2747.78,
+      "text": "I had to cut out a lot of material to make this book manageable."
+    },
+    {
+      "start": 2748.08,
+      "end": 2754.54,
+      "text": "If you want to know the fast and easy way to make content that builds trust in an audience, go to acquisition.com/training/leads."
+    },
+    {
+      "start": 2755.02,
+      "end": 2758.08,
+      "text": "And if you need another reason besides it'll make you money, it won't cost you any."
+    },
+    {
+      "start": 2758.36,
+      "end": 2758.74,
+      "text": "It's free."
+    },
+    {
+      "start": 2759.16,
+      "end": 2759.52,
+      "text": "Enjoy."
+    },
+    {
+      "start": 2763.64,
+      "end": 2764.24,
+      "text": "Free goodwill."
+    },
+    {
+      "start": 2765.08,
+      "end": 2767.84,
+      "text": "He who said money can't buy happiness hasn't given enough away."
+    },
+    {
+      "start": 2768.34,
+      "end": 2768.68,
+      "text": "Unknown."
+    },
+    {
+      "start": 2769.76,
+      "end": 2773.1,
+      "text": "People who give without expectation live longer, happier lives, and make more money."
+    },
+    {
+      "start": 2773.86,
+      "end": 2776.92,
+      "text": "So if we've got a shot at doing that during our time together, darn it, I'm going to try."
+    },
+    {
+      "start": 2777.58,
+      "end": 2778.78,
+      "text": "To do that, I have a question for you."
+    },
+    {
+      "start": 2779.3,
+      "end": 2782.84,
+      "text": "Would you help someone who you've never met if it cost you nothing, but you didn't get credit?"
+    },
+    {
+      "start": 2783.62,
+      "end": 2784.6,
+      "text": "Who is this person, you ask?"
+    },
+    {
+      "start": 2785.12,
+      "end": 2787.32,
+      "text": "They are likely you, or at least like you used to be."
+    },
+    {
+      "start": 2787.82,
+      "end": 2791.1,
+      "text": "Less experienced, wanting to make a difference, and needing help, but not sure where to look."
+    },
+    {
+      "start": 2791.98,
+      "end": 2794.7,
+      "text": "Acquisition.com's mission is to make business accessible to everyone."
+    },
+    {
+      "start": 2795.46,
+      "end": 2801.08,
+      "text": "Everything we do stems from that mission, and the only way for us to accomplish that mission is by reaching, well, everyone."
+    },
+    {
+      "start": 2801.76,
+      "end": 2802.52,
+      "text": "This is where you come in."
+    },
+    {
+      "start": 2803.16,
+      "end": 2805.96,
+      "text": "Most people do, in fact, judge a book by its cover and its reviews."
+    },
+    {
+      "start": 2806.46,
+      "end": 2809.32,
+      "text": "So here's my ask on behalf of a struggling entrepreneur you've never met."
+    },
+    {
+      "start": 2810.1,
+      "end": 2812.24,
+      "text": "Please help that entrepreneur by leaving this book a review."
+    },
+    {
+      "start": 2812.7,
+      "end": 2818.42,
+      "text": "Your gift costs no money and less than 60 seconds to make real, but can change a fellow entrepreneur's life forever."
+    },
+    {
+      "start": 2819.08,
+      "end": 2828.68,
+      "text": "Your review could help one more small business provide for their community, one more entrepreneur support their family, one more employee get meaningful work, one more client transform their life, and one more dream come true."
+    },
+    {
+      "start": 2829.6,
+      "end": 2835.16,
+      "text": "To get that feel-good feeling and help that person for real, all you have to do is, and it takes 60 seconds, leave a review."
+    },
+    {
+      "start": 2835.86,
+      "end": 2842.28,
+      "text": "If you're on Audible, hit the three dots on the top right of your device, click rate and review, then leave a few sentences about the book with a star rating."
+    },
+    {
+      "start": 2842.96,
+      "end": 2848.08,
+      "text": "If you're reading this on a Kindle or reader, or doing both at the same time, scroll to the bottom of the book, then swipe up."
+    },
+    {
+      "start": 2848.18,
+      "end": 2849.3,
+      "text": "It'll prompt you to leave a review."
+    },
+    {
+      "start": 2849.82,
+      "end": 2855.24,
+      "text": "And if for some reason either of those change, you can just go to Amazon or wherever you purchased this and leave a review right on the book's page."
+    },
+    {
+      "start": 2855.78,
+      "end": 2858.74,
+      "text": "If you feel good about helping a faceless entrepreneur, you are my kind of people."
+    },
+    {
+      "start": 2858.98,
+      "end": 2859.9,
+      "text": "Welcome to Mozzie Nation."
+    },
+    {
+      "start": 2860.12,
+      "end": 2860.76,
+      "text": "You are one of us."
+    },
+    {
+      "start": 2861.32,
+      "end": 2863.92,
+      "text": "I'm that much more excited to help you get more leads than you can possibly imagine."
+    },
+    {
+      "start": 2864.26,
+      "end": 2866.56,
+      "text": "You'll love the tax tip I'm about to share with you in the next chapters."
+    },
+    {
+      "start": 2867.16,
+      "end": 2868.34,
+      "text": "Thank you from the bottom of my heart."
+    },
+    {
+      "start": 2868.6,
+      "end": 2870.28,
+      "text": "Now, back to our regularly scheduled programming."
+    },
+    {
+      "start": 2870.6,
+      "end": 2871.72,
+      "text": "Your biggest fan, Alex."
+    },
+    {
+      "start": 2872.12,
+      "end": 2872.48,
+      "text": "P.S."
+    },
+    {
+      "start": 2872.82,
+      "end": 2873.3,
+      "text": "Fun fact."
+    },
+    {
+      "start": 2873.9,
+      "end": 2877.02,
+      "text": "If you provide something of value to another person, it makes you more valuable to them."
+    },
+    {
+      "start": 2877.54,
+      "end": 2880.8,
+      "text": "If you'd like goodwill straight from another entrepreneur, send this book their way."
+    },
+    {
+      "start": 2882.76,
+      "end": 2889.6,
+      "text": "Hey, I hope you enjoyed, uh, Post Free Content Part 1 and Post Free Content Part 2, uh, chapters of the 100 Million Dollar Leads book."
+    },
+    {
+      "start": 2890.18,
+      "end": 2893.72,
+      "text": "Uh, if you want to grab a physical copy, you can always grab it on Amazon."
+    },
+    {
+      "start": 2893.92,
+      "end": 2897.02,
+      "text": "Um, and next, we've got some good stuff for you."
+    },
+    {
+      "start": 2897.38,
+      "end": 2899.08,
+      "text": "It is the Cold Outreach episode."
+    },
+    {
+      "start": 2899.14,
+      "end": 2907.54,
+      "text": "It is one episode, 33 minutes, one chapter, and it's the way that I learned how to advertise to save my business."
+    },
+    {
+      "start": 2908.08,
+      "end": 2912.08,
+      "text": "Uh, so during COVID, um, Gym Launch was struggling a lot, as you can imagine."
+    },
+    {
+      "start": 2912.12,
+      "end": 2915.44,
+      "text": "We were servicing brick-and-mortar gyms, and our customers weren't allowed to be in business."
+    },
+    {
+      "start": 2916.02,
+      "end": 2924.44,
+      "text": "And it was by that pressure and by happenstance that we were forced to learn how to do cold outreach, which today accounts for over half of that business's revenue."
+    },
+    {
+      "start": 2924.74,
+      "end": 2928.2,
+      "text": "And so we learned trial by fire how to make it work and how you can make it work too."
+    },
+    {
+      "start": 2931.82,
+      "end": 2936.78,
+      "text": "This has been 100 Million Dollar Leads, written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 2937.0,
+      "end": 2939.48,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 2939.74,
+      "end": 2943.52,
+      "text": "Audio production, copyright 2023, acquisition.com Media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "e62b014da12441cbb58808ba9a9d25d4c2995248348e7dede8a258dc9776e6e3",
+  "audio_duration_sec": 2948.937143,
+  "elapsed_sec": 23.8,
+  "created": "2026-11-16T03:05:34+00:00"
+}

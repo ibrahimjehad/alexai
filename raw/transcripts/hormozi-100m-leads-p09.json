@@ -1,0 +1,2977 @@
+{
+  "source_id": "hormozi-100m-leads-p09",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.26,
+      "end": 7.94,
+      "text": "Today, I've got a special edition 100 Million Dollar Leads episode collaboration with the podcast, The Game, myself and myself, a self high five, if you will."
+    },
+    {
+      "start": 8.52,
+      "end": 15.8,
+      "text": "Um, we got two chapters for you today, special cooking, um, in the, in the big cauldron of money-making madness that is this podcast."
+    },
+    {
+      "start": 16.06,
+      "end": 18.38,
+      "text": "We're going to be going over employees and agencies."
+    },
+    {
+      "start": 18.84,
+      "end": 22.98,
+      "text": "Uh, employees, so that they can help you do the core four, uh, for you, except on payroll."
+    },
+    {
+      "start": 23.0,
+      "end": 25.96,
+      "text": "And agencies are outside entities that will do them for you as well."
+    },
+    {
+      "start": 26.26,
+      "end": 30.1,
+      "text": "I have a really unique spin on how I use agencies, so you're going to want to stay tuned for that."
+    },
+    {
+      "start": 30.58,
+      "end": 32.78,
+      "text": "Uh, so I hope you enjoy and subscribe."
+    },
+    {
+      "start": 35.3,
+      "end": 35.82,
+      "text": "Employees."
+    },
+    {
+      "start": 36.64,
+      "end": 37.98,
+      "text": "If you want to go fast, go alone."
+    },
+    {
+      "start": 38.18,
+      "end": 39.48,
+      "text": "If you want to go far, go together."
+    },
+    {
+      "start": 40.22,
+      "end": 40.82,
+      "text": "African proverb."
+    },
+    {
+      "start": 42.28,
+      "end": 43.14,
+      "text": "June 2021."
+    },
+    {
+      "start": 44.16,
+      "end": 45.36,
+      "text": "The new sales director piped up."
+    },
+    {
+      "start": 45.36,
+      "end": 49.02,
+      "text": "\"I know we came in under our goal again, but I don't think we need to change anything."
+    },
+    {
+      "start": 49.2,
+      "end": 49.94,
+      "text": "We'll hit it this quarter.\""
+    },
+    {
+      "start": 50.68,
+      "end": 52.7,
+      "text": "I started around the room and looked in every direction but mine."
+    },
+    {
+      "start": 53.28,
+      "end": 56.7,
+      "text": "The silence was long enough for the executive assistant to mark the topic covered and move on."
+    },
+    {
+      "start": 57.38,
+      "end": 59.7,
+      "text": "No wonder we missed our cold outreach goal for the second quarter in a row."
+    },
+    {
+      "start": 60.22,
+      "end": 61.26,
+      "text": "Nobody challenged the failure."
+    },
+    {
+      "start": 62.06,
+      "end": 62.26,
+      "text": "What?"
+    },
+    {
+      "start": 62.32,
+      "end": 64.02,
+      "text": "So now we think the third time's the charm?"
+    },
+    {
+      "start": 64.08,
+      "end": 65.62,
+      "text": "\"Wait,\" I said."
+    },
+    {
+      "start": 66.1,
+      "end": 67.48,
+      "text": "Now everyone looked in my direction."
+    },
+    {
+      "start": 67.98,
+      "end": 70.0,
+      "text": "\"I'd like to know why we didn't hit this two quarters in a row."
+    },
+    {
+      "start": 70.64,
+      "end": 75.0,
+      "text": "I know we can sell, so if we want to make more sales with cold outreach, then we do more cold outreach."
+    },
+    {
+      "start": 75.12,
+      "end": 75.64,
+      "text": "What's the issue?\""
+    },
+    {
+      "start": 75.64,
+      "end": 79.0,
+      "text": "\"We lose a rep every four weeks,\" the sales director said."
+    },
+    {
+      "start": 79.52,
+      "end": 80.0,
+      "text": "Aha."
+    },
+    {
+      "start": 80.1,
+      "end": 81.94,
+      "text": "\"Okay, why is our churn so high?\""
+    },
+    {
+      "start": 82.02,
+      "end": 87.9,
+      "text": "\"I was wondering the same thing, but HR says we're actually below industry average churn for this position,\" he continued."
+    },
+    {
+      "start": 87.9,
+      "end": 90.8,
+      "text": "\"But by the time we hire an onboard one, another one turns out.\""
+    },
+    {
+      "start": 91.4,
+      "end": 94.08,
+      "text": "I saw the HR director nodding in agreement, getting warmer."
+    },
+    {
+      "start": 94.74,
+      "end": 96.66,
+      "text": "\"Okay, so the issue is hiring,\" I said."
+    },
+    {
+      "start": 97.16,
+      "end": 98.38,
+      "text": "\"What's the hiring situation look like?\""
+    },
+    {
+      "start": 98.38,
+      "end": 101.58,
+      "text": "\"We hire one out of every four candidates HR pushes to us.\""
+    },
+    {
+      "start": 101.6,
+      "end": 109.16,
+      "text": "\"So if they churn out as fast as we hire them, and you only hire one out of every four, that means you get like one candidate a week?\""
+    },
+    {
+      "start": 109.86,
+      "end": 110.64,
+      "text": "\"Yeah, about that.\""
+    },
+    {
+      "start": 111.14,
+      "end": 111.78,
+      "text": "Almost there."
+    },
+    {
+      "start": 112.3,
+      "end": 112.86,
+      "text": "\"Gotcha.\""
+    },
+    {
+      "start": 113.18,
+      "end": 114.26,
+      "text": "Now I looked at the HR director."
+    },
+    {
+      "start": 114.84,
+      "end": 116.36,
+      "text": "\"What's the screening situation look like?\""
+    },
+    {
+      "start": 116.36,
+      "end": 120.3,
+      "text": "\"We get one qualified candidate per 10 screening interviews, give or take,\" she said."
+    },
+    {
+      "start": 120.3,
+      "end": 124.66,
+      "text": "\"So it takes 40 interviews to get a single low-skilled frontline worker?\""
+    },
+    {
+      "start": 124.8,
+      "end": 125.92,
+      "text": "\"I guess so.\""
+    },
+    {
+      "start": 126.38,
+      "end": 126.78,
+      "text": "Bingo."
+    },
+    {
+      "start": 127.28,
+      "end": 129.08,
+      "text": "\"All right, we need to change things up,\" I said."
+    },
+    {
+      "start": 129.4,
+      "end": 131.1,
+      "text": "\"We're bottlenecked at the one-to-one screening."
+    },
+    {
+      "start": 131.6,
+      "end": 133.74,
+      "text": "Start interviewing in groups and look for the crazies there."
+    },
+    {
+      "start": 134.16,
+      "end": 137.78,
+      "text": "Push everyone else with a good work ethic and basic social skills over to sales."
+    },
+    {
+      "start": 137.86,
+      "end": 138.6,
+      "text": "We can teach the rest."
+    },
+    {
+      "start": 138.74,
+      "end": 139.08,
+      "text": "Agreed?\""
+    },
+    {
+      "start": 139.7,
+      "end": 140.36,
+      "text": "The team nodded."
+    },
+    {
+      "start": 140.8,
+      "end": 142.9,
+      "text": "Within six weeks, hiring outpaced churn."
+    },
+    {
+      "start": 143.3,
+      "end": 145.52,
+      "text": "Our cold outreach sales increased in lockstep."
+    },
+    {
+      "start": 145.9,
+      "end": 150.08,
+      "text": "By the end of the quarter, cold outreach sales had doubled and made up more than half our total sales."
+    },
+    {
+      "start": 150.6,
+      "end": 153.46,
+      "text": "The issue wasn't cold outreach method, skills, or offer at all."
+    },
+    {
+      "start": 154.0,
+      "end": 156.16,
+      "text": "We just didn't have enough people doing cold outreach."
+    },
+    {
+      "start": 156.84,
+      "end": 159.9,
+      "text": "If you use the methods in this book, you'll see more engaged leads flow into your business."
+    },
+    {
+      "start": 160.02,
+      "end": 161.52,
+      "text": "More engaged leads means more customers."
+    },
+    {
+      "start": 161.78,
+      "end": 163.22,
+      "text": "But as you grow, so does your workload."
+    },
+    {
+      "start": 163.68,
+      "end": 170.98,
+      "text": "In due time, it will take more work than a single person can handle, and you can solve the problem of too much work for one person by having more people work."
+    },
+    {
+      "start": 171.42,
+      "end": 180.12,
+      "text": "In short, to advertise more, you'll need more workers, and this chapter will show you how employees work, why they make you wealthy, how to get them, and the method I use to turn them into lead getters."
+    },
+    {
+      "start": 180.98,
+      "end": 181.76,
+      "text": "How employees work."
+    },
+    {
+      "start": 182.68,
+      "end": 186.3,
+      "text": "Lead-getting employees are people who work in your business that you train to get you leads."
+    },
+    {
+      "start": 186.94,
+      "end": 189.54,
+      "text": "They get you leads the exact same way you got your own leads in the beginning."
+    },
+    {
+      "start": 189.82,
+      "end": 192.36,
+      "text": "They can run ads, they can make and post content, and they can do outreach."
+    },
+    {
+      "start": 192.82,
+      "end": 194.86,
+      "text": "They can do any advertising you train them to do."
+    },
+    {
+      "start": 195.28,
+      "end": 197.9,
+      "text": "So more lead-getting employees means more engaged leads for your business."
+    },
+    {
+      "start": 198.06,
+      "end": 200.22,
+      "text": "It also means less work you have to do to get the leads."
+    },
+    {
+      "start": 200.8,
+      "end": 201.92,
+      "text": "More leads and less work."
+    },
+    {
+      "start": 202.12,
+      "end": 202.68,
+      "text": "Sign me up."
+    },
+    {
+      "start": 202.92,
+      "end": 204.2,
+      "text": "But wait, not so fast."
+    },
+    {
+      "start": 204.64,
+      "end": 206.52,
+      "text": "Don't get me wrong, employees take work."
+    },
+    {
+      "start": 207.04,
+      "end": 209.38,
+      "text": "They just take less time and work than doing everything on your own."
+    },
+    {
+      "start": 209.74,
+      "end": 214.68,
+      "text": "In my experience, if you trade 40 hours of doing for 4 hours of managing, you work 36 hours less."
+    },
+    {
+      "start": 214.92,
+      "end": 215.34,
+      "text": "Brilliant."
+    },
+    {
+      "start": 215.64,
+      "end": 217.78,
+      "text": "And the best part is, you can make that trade over and over."
+    },
+    {
+      "start": 218.18,
+      "end": 221.06,
+      "text": "You can swap 200 hours of work per week for 20 hours of management."
+    },
+    {
+      "start": 221.34,
+      "end": 225.46,
+      "text": "Then you trade the 20 hours of managing for a manager who costs you 4 hours per week to lead."
+    },
+    {
+      "start": 225.98,
+      "end": 228.9,
+      "text": "What remains is 4 hours of work for 200 hours of lead getting."
+    },
+    {
+      "start": 229.26,
+      "end": 229.62,
+      "text": "Boom."
+    },
+    {
+      "start": 230.12,
+      "end": 233.54,
+      "text": "Bottom line, employees make a fully functioning enterprise that grows without you."
+    },
+    {
+      "start": 234.32,
+      "end": 235.54,
+      "text": "Why employees make you wealthy."
+    },
+    {
+      "start": 236.38,
+      "end": 238.74,
+      "text": "For your business to run without you, other people need to run it."
+    },
+    {
+      "start": 239.74,
+      "end": 240.5,
+      "text": "Scenario number one."
+    },
+    {
+      "start": 241.08,
+      "end": 245.1,
+      "text": "Imagine you have a business that makes 5 million per year in revenue and 2 million per year in profit."
+    },
+    {
+      "start": 245.66,
+      "end": 247.72,
+      "text": "And to make that profit, you have to work around the clock."
+    },
+    {
+      "start": 248.34,
+      "end": 250.88,
+      "text": "In this situation, you basically have a high-paying job."
+    },
+    {
+      "start": 251.44,
+      "end": 255.56,
+      "text": "But let's say you're okay with working all the hours and knowing your business would burn down if you took a vacation."
+    },
+    {
+      "start": 256.04,
+      "end": 257.28,
+      "text": "Vacations are for losers anyways."
+    },
+    {
+      "start": 257.72,
+      "end": 258.8,
+      "text": "Kidding, cough, sort of."
+    },
+    {
+      "start": 259.56,
+      "end": 261.1,
+      "text": "We still have another important thing to look at."
+    },
+    {
+      "start": 261.68,
+      "end": 264.7,
+      "text": "Sure, you make a bit of money, but your business isn't worth much."
+    },
+    {
+      "start": 265.04,
+      "end": 268.58,
+      "text": "If the business only makes money with you in it, then it's a bad investment for anyone else."
+    },
+    {
+      "start": 268.98,
+      "end": 271.82,
+      "text": "They might not sound like a big deal right now, but let's consider an alternative."
+    },
+    {
+      "start": 272.46,
+      "end": 273.14,
+      "text": "Scenario two."
+    },
+    {
+      "start": 273.62,
+      "end": 278.48,
+      "text": "Your business makes the same 5 million per year in revenue and 2 million per year in profit, but there's one big difference."
+    },
+    {
+      "start": 278.8,
+      "end": 279.82,
+      "text": "The business runs without you."
+    },
+    {
+      "start": 280.28,
+      "end": 281.62,
+      "text": "This does two very cool things."
+    },
+    {
+      "start": 282.04,
+      "end": 284.64,
+      "text": "One, it turns what used to be a risky job into a valuable asset."
+    },
+    {
+      "start": 284.88,
+      "end": 286.72,
+      "text": "And two, it makes you much wealthier."
+    },
+    {
+      "start": 286.92,
+      "end": 287.44,
+      "text": "Here's how."
+    },
+    {
+      "start": 287.96,
+      "end": 292.66,
+      "text": "First, you get your time back, so you can use that time to invest in your business, buy other businesses, or take your stinking vacations."
+    },
+    {
+      "start": 293.28,
+      "end": 296.74,
+      "text": "Second, you become much wealthier because your business is now worth something to someone else."
+    },
+    {
+      "start": 297.26,
+      "end": 300.34,
+      "text": "You turn a liability that relied on you into an asset you can rely on."
+    },
+    {
+      "start": 301.24,
+      "end": 307.04,
+      "text": "If you have an asset that makes millions of dollars without you, then that means somebody else could use it to make millions of dollars without them."
+    },
+    {
+      "start": 307.46,
+      "end": 309.36,
+      "text": "In other words, your business is now a good investment."
+    },
+    {
+      "start": 309.78,
+      "end": 314.42,
+      "text": "Then investors looking for assets, like acquisition.com for instance, would buy some or all of it from you."
+    },
+    {
+      "start": 314.96,
+      "end": 319.56,
+      "text": "And your 2 million in profit per year, especially if it's climbing, could easily be worth 10 million dollars right now."
+    },
+    {
+      "start": 320.22,
+      "end": 323.74,
+      "text": "So your business went from having almost zero value to having 10 million dollars of value."
+    },
+    {
+      "start": 324.24,
+      "end": 327.88,
+      "text": "So learning how to get other people to do it for you makes a 10 million dollar difference in your net worth."
+    },
+    {
+      "start": 328.46,
+      "end": 329.9,
+      "text": "I'd say it's worth learning how to do it."
+    },
+    {
+      "start": 330.34,
+      "end": 333.9,
+      "text": "Reminder, you get rich from what you make, you become wealthy from what you own."
+    },
+    {
+      "start": 334.46,
+      "end": 339.62,
+      "text": "And it took me years to realize this, because not that long ago, everything I thought I knew about employees was wrong."
+    },
+    {
+      "start": 340.78,
+      "end": 343.34,
+      "text": "Have you ever heard, \"If you want it done right, you got to do it yourself.\""
+    },
+    {
+      "start": 343.68,
+      "end": 344.88,
+      "text": "\"No one can do it like I can do it.\""
+    },
+    {
+      "start": 345.26,
+      "end": 346.16,
+      "text": "\"Nobody can replace me.\""
+    },
+    {
+      "start": 346.82,
+      "end": 347.18,
+      "text": "I have."
+    },
+    {
+      "start": 347.52,
+      "end": 348.16,
+      "text": "I said all that stuff."
+    },
+    {
+      "start": 348.54,
+      "end": 350.02,
+      "text": "I lived all that stuff for years."
+    },
+    {
+      "start": 350.42,
+      "end": 353.06,
+      "text": "Every time I hired somebody, I would compare what they could do to what I could do."
+    },
+    {
+      "start": 353.32,
+      "end": 358.9,
+      "text": "In my head, I felt like it was me against them, to somehow prove I was more able than them, with my own team."
+    },
+    {
+      "start": 359.32,
+      "end": 362.1,
+      "text": "And this belief, this way of leading people, never made me more money."
+    },
+    {
+      "start": 362.75,
+      "end": 367.15,
+      "text": "For business, nobody can do it but me, and if you want something done right, you got to do it yourself, aren't facts."
+    },
+    {
+      "start": 367.23,
+      "end": 367.83,
+      "text": "They're false."
+    },
+    {
+      "start": 368.43,
+      "end": 373.11,
+      "text": "Somebody did similar stuff before you were around, and somebody will continue doing some version of it after you're gone."
+    },
+    {
+      "start": 373.49,
+      "end": 375.47,
+      "text": "In one way or another, everyone is replaceable."
+    },
+    {
+      "start": 375.97,
+      "end": 379.71,
+      "text": "It might be by multiple people, technology, or later in time, but everyone can be replaced."
+    },
+    {
+      "start": 380.13,
+      "end": 382.29,
+      "text": "My suggestion, replace yourself as soon as you can."
+    },
+    {
+      "start": 382.77,
+      "end": 384.61,
+      "text": "Then you can make yourself useful somewhere else."
+    },
+    {
+      "start": 385.01,
+      "end": 387.01,
+      "text": "Many other people figured this out, and so can you."
+    },
+    {
+      "start": 387.97,
+      "end": 391.67,
+      "text": "In the early days, whenever I started a business, I could do stuff better than the people I hired."
+    },
+    {
+      "start": 391.91,
+      "end": 398.17,
+      "text": "My entire workforce always ended up looking like a ragtag group of misfits who could kind of do one of many things I could do."
+    },
+    {
+      "start": 398.71,
+      "end": 402.71,
+      "text": "This got me up and running at first, but I fell into the trap of believing I was better than everyone else."
+    },
+    {
+      "start": 403.41,
+      "end": 407.93,
+      "text": "I would go back and forth between gloating because I was better than them and complaining because they weren't as good as me."
+    },
+    {
+      "start": 408.31,
+      "end": 411.81,
+      "text": "And for whatever reason, it never occurred to me I was the one who hired and trained them."
+    },
+    {
+      "start": 412.19,
+      "end": 412.83,
+      "text": "Who was I kidding?"
+    },
+    {
+      "start": 413.17,
+      "end": 414.13,
+      "text": "The reality was twofold."
+    },
+    {
+      "start": 414.47,
+      "end": 416.97,
+      "text": "First, I didn't have the skills to train or lead a team properly."
+    },
+    {
+      "start": 417.37,
+      "end": 421.67,
+      "text": "Second, I was too poor, and then when I had a little money, too cheap to hire anyone better."
+    },
+    {
+      "start": 421.95,
+      "end": 423.87,
+      "text": "In other words, it was my fault they sucked."
+    },
+    {
+      "start": 424.23,
+      "end": 424.47,
+      "text": "Oops."
+    },
+    {
+      "start": 425.35,
+      "end": 429.89,
+      "text": "The more I tried to out-compete my employees, the more distracted I became and the worse my business got."
+    },
+    {
+      "start": 430.27,
+      "end": 437.21,
+      "text": "Sure, at the time, maybe I could do anything better than any of my employees, but I couldn't do everything better than all of my employees."
+    },
+    {
+      "start": 437.57,
+      "end": 440.61,
+      "text": "And when I finally realized this, I started adopting better beliefs about talent."
+    },
+    {
+      "start": 441.19,
+      "end": 443.79,
+      "text": "If you want it done right, get someone to spend all their time doing it."
+    },
+    {
+      "start": 444.65,
+      "end": 446.37,
+      "text": "If I can do it, someone else can do it better."
+    },
+    {
+      "start": 447.03,
+      "end": 448.91,
+      "text": "Everyone is replaceable, especially me."
+    },
+    {
+      "start": 449.45,
+      "end": 455.07,
+      "text": "These new beliefs about talent not only made it a much healthier culture in my business, but also came with very profitable side effects."
+    },
+    {
+      "start": 455.85,
+      "end": 460.51,
+      "text": "Trusting my employees to succeed made my time and my attention far more valuable."
+    },
+    {
+      "start": 460.91,
+      "end": 462.39,
+      "text": "If someone else can do it, why would I?"
+    },
+    {
+      "start": 462.87,
+      "end": 464.55,
+      "text": "If someone else could train them, why would I?"
+    },
+    {
+      "start": 464.91,
+      "end": 469.09,
+      "text": "If I could learn other stuff to grow the business while my team held the fort down, it makes way more sense to do that."
+    },
+    {
+      "start": 469.35,
+      "end": 470.07,
+      "text": "So let's do that."
+    },
+    {
+      "start": 470.97,
+      "end": 473.67,
+      "text": "How to get employee leads, the internal core four."
+    },
+    {
+      "start": 474.25,
+      "end": 475.03,
+      "text": "Remember the core four?"
+    },
+    {
+      "start": 475.57,
+      "end": 477.35,
+      "text": "Well, they work for getting employees too."
+    },
+    {
+      "start": 477.51,
+      "end": 478.09,
+      "text": "Imagine that."
+    },
+    {
+      "start": 478.49,
+      "end": 485.71,
+      "text": "By changing the frame from letting potential customers know about your stuff to letting potential employees know about your stuff, it immediately turns into something you already know how to do."
+    },
+    {
+      "start": 486.15,
+      "end": 487.83,
+      "text": "But some people have the opposite problem."
+    },
+    {
+      "start": 488.15,
+      "end": 490.57,
+      "text": "They already know how to get employees just fine, but struggle to get customers."
+    },
+    {
+      "start": 490.89,
+      "end": 493.01,
+      "text": "Employees are just other people you let know about your stuff."
+    },
+    {
+      "start": 493.65,
+      "end": 494.61,
+      "text": "So you do the same thing."
+    },
+    {
+      "start": 495.69,
+      "end": 498.61,
+      "text": "Let's line up the actions to get employees with the actions to get customers."
+    },
+    {
+      "start": 498.79,
+      "end": 499.73,
+      "text": "It's the same stuff."
+    },
+    {
+      "start": 500.29,
+      "end": 502.61,
+      "text": "Warm outreach equals ask your network."
+    },
+    {
+      "start": 503.03,
+      "end": 504.53,
+      "text": "Cold outreach equals recruiting."
+    },
+    {
+      "start": 505.07,
+      "end": 507.47,
+      "text": "Posting content equals posting job openings."
+    },
+    {
+      "start": 507.91,
+      "end": 510.01,
+      "text": "Paid ads equals promoted job postings."
+    },
+    {
+      "start": 510.59,
+      "end": 512.71,
+      "text": "Customer referrals equals employee referrals."
+    },
+    {
+      "start": 513.29,
+      "end": 516.23,
+      "text": "Affiliates equal associations, guilds, listservs, etc."
+    },
+    {
+      "start": 517.09,
+      "end": 518.65,
+      "text": "Agencies equal staffing firms."
+    },
+    {
+      "start": 519.01,
+      "end": 521.37,
+      "text": "Employees equals employees, because those are the same thing."
+    },
+    {
+      "start": 522.07,
+      "end": 527.51,
+      "text": "The ways you get employee leads and their lead getters have equivalent to the ways you get customer leads and their lead getters."
+    },
+    {
+      "start": 527.93,
+      "end": 530.43,
+      "text": "So when you need to get new talent, you just advertise to get it."
+    },
+    {
+      "start": 530.73,
+      "end": 532.31,
+      "text": "And when you need more, you do more."
+    },
+    {
+      "start": 532.61,
+      "end": 538.77,
+      "text": "And like creating a reliable process to get customers, you can also create a reliable process of getting employees, and you'll need both to scale."
+    },
+    {
+      "start": 539.35,
+      "end": 540.67,
+      "text": "How to get employees to get you leads."
+    },
+    {
+      "start": 541.61,
+      "end": 543.23,
+      "text": "Now you hire someone who costs you money every month."
+    },
+    {
+      "start": 543.39,
+      "end": 543.73,
+      "text": "Great."
+    },
+    {
+      "start": 544.15,
+      "end": 546.75,
+      "text": "Let's make sure you get it back and some ASAP."
+    },
+    {
+      "start": 547.13,
+      "end": 550.31,
+      "text": "Note, some people looking for work will already know how to get leads."
+    },
+    {
+      "start": 550.79,
+      "end": 551.79,
+      "text": "Those people are awesome."
+    },
+    {
+      "start": 552.35,
+      "end": 553.91,
+      "text": "You can also count on them to cost more."
+    },
+    {
+      "start": 554.33,
+      "end": 556.39,
+      "text": "And if you're starting out, you may not be able to afford them."
+    },
+    {
+      "start": 556.67,
+      "end": 558.23,
+      "text": "So your next best option is to train them."
+    },
+    {
+      "start": 558.71,
+      "end": 561.49,
+      "text": "Thankfully, you have an entire book of lead getting at your fingertips."
+    },
+    {
+      "start": 561.91,
+      "end": 565.41,
+      "text": "So the next step is training your employees on how you do those lead getting activities."
+    },
+    {
+      "start": 565.89,
+      "end": 571.93,
+      "text": "I think about and actually approach training with this 3Ds mental model: document, demonstrate, duplicate."
+    },
+    {
+      "start": 572.13,
+      "end": 572.81,
+      "text": "Here's how it works."
+    },
+    {
+      "start": 573.27,
+      "end": 574.31,
+      "text": "Step one, document."
+    },
+    {
+      "start": 574.63,
+      "end": 575.53,
+      "text": "You make a checklist."
+    },
+    {
+      "start": 575.99,
+      "end": 577.37,
+      "text": "You already know how to do the thing."
+    },
+    {
+      "start": 577.85,
+      "end": 580.37,
+      "text": "Now you just need to write down the steps exactly as you do it."
+    },
+    {
+      "start": 580.69,
+      "end": 583.71,
+      "text": "You can also have other trusted observers watch you and document what you do."
+    },
+    {
+      "start": 584.13,
+      "end": 587.57,
+      "text": "Bonus points if you record yourself doing the thing multiple ways and in multiple shifts."
+    },
+    {
+      "start": 587.81,
+      "end": 592.03,
+      "text": "This way you can watch yourself as an observer rather than breaking your flow by pausing to take notes while you go."
+    },
+    {
+      "start": 592.71,
+      "end": 597.59,
+      "text": "Once you've got everything put into a checklist, bust it out on your next work block and only follow those steps."
+    },
+    {
+      "start": 598.15,
+      "end": 602.07,
+      "text": "Can you do an A+ job only following your directions exactly?"
+    },
+    {
+      "start": 602.49,
+      "end": 605.43,
+      "text": "If you can, you have the first draft of your checklist for the job."
+    },
+    {
+      "start": 606.27,
+      "end": 607.41,
+      "text": "Step two, demonstrate."
+    },
+    {
+      "start": 607.81,
+      "end": 608.85,
+      "text": "You do it in front of them."
+    },
+    {
+      "start": 609.35,
+      "end": 614.17,
+      "text": "Just like your parents taught you how to tie your shoes, you sit down and walk them through the checklist step by step."
+    },
+    {
+      "start": 614.53,
+      "end": 617.59,
+      "text": "This may take a while depending on how many steps it takes to complete the thing."
+    },
+    {
+      "start": 618.05,
+      "end": 622.45,
+      "text": "If they stop you or slow down to understand something, adjust your checklist for that."
+    },
+    {
+      "start": 622.95,
+      "end": 625.19,
+      "text": "Now you have the second draft ready for them to try."
+    },
+    {
+      "start": 625.67,
+      "end": 627.17,
+      "text": "Step three, duplicate."
+    },
+    {
+      "start": 627.67,
+      "end": 628.85,
+      "text": "They do it in front of you."
+    },
+    {
+      "start": 629.45,
+      "end": 630.29,
+      "text": "Now it's their turn."
+    },
+    {
+      "start": 630.65,
+      "end": 635.21,
+      "text": "They follow the same checklist you followed, except this time they're the one doing it and you're the one observing."
+    },
+    {
+      "start": 635.69,
+      "end": 637.53,
+      "text": "We just want them to duplicate what we did."
+    },
+    {
+      "start": 637.83,
+      "end": 640.27,
+      "text": "So if the checklist is right, the outcome will be the same."
+    },
+    {
+      "start": 640.49,
+      "end": 642.55,
+      "text": "And if the checklist is off, you'll find out fast."
+    },
+    {
+      "start": 643.05,
+      "end": 646.51,
+      "text": "Fix your checklist until it's right, then have them follow it until they get it right."
+    },
+    {
+      "start": 646.85,
+      "end": 649.87,
+      "text": "And once they nail it, you now have a bona fide lead getter on your payroll."
+    },
+    {
+      "start": 649.97,
+      "end": 650.75,
+      "text": "Congratulations."
+    },
+    {
+      "start": 651.75,
+      "end": 654.43,
+      "text": "Pro tip: give short windows for people to prove themselves."
+    },
+    {
+      "start": 654.97,
+      "end": 657.11,
+      "text": "Most entry-level advertising jobs aren't complex."
+    },
+    {
+      "start": 657.21,
+      "end": 658.41,
+      "text": "It takes more grit than skill."
+    },
+    {
+      "start": 658.77,
+      "end": 662.15,
+      "text": "If you train someone properly and they're still below expectations in three weeks, cut them."
+    },
+    {
+      "start": 663.45,
+      "end": 668.25,
+      "text": "After you train your first few employees this way, you'll have worked out the kinks for that job, and it's pretty much smooth sailing from there."
+    },
+    {
+      "start": 668.89,
+      "end": 670.13,
+      "text": "At least the training part anyways."
+    },
+    {
+      "start": 670.65,
+      "end": 671.53,
+      "text": "Think about it like this."
+    },
+    {
+      "start": 672.21,
+      "end": 676.19,
+      "text": "If you vanish tomorrow, could a stranger get the results you get if they only followed your checklist?"
+    },
+    {
+      "start": 676.67,
+      "end": 678.33,
+      "text": "That's the level of clarity to shoot for."
+    },
+    {
+      "start": 679.01,
+      "end": 680.11,
+      "text": "Some helpful notes on training."
+    },
+    {
+      "start": 680.97,
+      "end": 686.57,
+      "text": "A helpful way to look at this training style is, if they get it wrong or get confused, then we got it wrong or made it confusing."
+    },
+    {
+      "start": 686.87,
+      "end": 691.91,
+      "text": "If we have to explain what a step means, then the step is too complicated, or more likely, we try to put multiple steps into one."
+    },
+    {
+      "start": 692.97,
+      "end": 700.17,
+      "text": "Next, if they only appear to get it after a longish explanation or multiple demonstrations, then again, we've got some work to do."
+    },
+    {
+      "start": 700.55,
+      "end": 703.61,
+      "text": "Business owners that ignore this run into chronic training problems."
+    },
+    {
+      "start": 703.81,
+      "end": 710.17,
+      "text": "And word to the wise, you can probably force an inferior checklist to work, but this turns into a nightmare when somebody else takes over your training for you."
+    },
+    {
+      "start": 711.51,
+      "end": 714.75,
+      "text": "Next, there is a difference between competence and performance."
+    },
+    {
+      "start": 714.91,
+      "end": 718.61,
+      "text": "In other words, they can know exactly what to do and not be that good at it yet."
+    },
+    {
+      "start": 718.91,
+      "end": 722.45,
+      "text": "And if that's the case, then your instructions are fine, they just need to practice."
+    },
+    {
+      "start": 722.99,
+      "end": 726.87,
+      "text": "Using an analogy from the fitness world, think slow, then smooth, then fast."
+    },
+    {
+      "start": 727.33,
+      "end": 729.41,
+      "text": "You don't need to change anything, they just need more reps."
+    },
+    {
+      "start": 730.74,
+      "end": 737.1,
+      "text": "Next, focus on your employees' ability to follow directions more than whether they got the right result."
+    },
+    {
+      "start": 737.78,
+      "end": 742.52,
+      "text": "This is super important because if you train your employees to follow directions, then they will follow directions."
+    },
+    {
+      "start": 742.82,
+      "end": 746.14,
+      "text": "And if they follow directions and get the wrong result, then you know it's the directions."
+    },
+    {
+      "start": 746.4,
+      "end": 747.04,
+      "text": "That's good."
+    },
+    {
+      "start": 747.3,
+      "end": 748.52,
+      "text": "You have a lot more control over that."
+    },
+    {
+      "start": 749.7,
+      "end": 753.58,
+      "text": "Next, every time they do a step successfully, let them know they did it right."
+    },
+    {
+      "start": 753.84,
+      "end": 755.9,
+      "text": "And if they respond to praise, praise them."
+    },
+    {
+      "start": 756.22,
+      "end": 758.22,
+      "text": "And if they goof, that's okay too."
+    },
+    {
+      "start": 758.62,
+      "end": 759.68,
+      "text": "That's what training is for."
+    },
+    {
+      "start": 760.06,
+      "end": 761.58,
+      "text": "Don't take over for them when they mess up."
+    },
+    {
+      "start": 761.7,
+      "end": 764.04,
+      "text": "Simply pause, take a step back, and let them try again."
+    },
+    {
+      "start": 764.58,
+      "end": 767.18,
+      "text": "Fast feedback cycles get people to learn faster."
+    },
+    {
+      "start": 767.94,
+      "end": 772.28,
+      "text": "If they follow your directions exactly and get the wrong result, still praise them for following the directions."
+    },
+    {
+      "start": 772.44,
+      "end": 775.5,
+      "text": "Praise them, then make the corrections to your checklist on the spot."
+    },
+    {
+      "start": 776.52,
+      "end": 779.86,
+      "text": "Avoid punishment or penalties of any type for doing the wrong stuff during training."
+    },
+    {
+      "start": 780.36,
+      "end": 784.48,
+      "text": "As a rule of thumb, reward the stuff you want them to do more of, and they'll do more of it."
+    },
+    {
+      "start": 784.88,
+      "end": 786.74,
+      "text": "Learning a new skill is punishing enough."
+    },
+    {
+      "start": 786.8,
+      "end": 787.82,
+      "text": "We don't need to add to it."
+    },
+    {
+      "start": 788.96,
+      "end": 791.5,
+      "text": "It's hard to fix multiple things when you've never done something before."
+    },
+    {
+      "start": 792.02,
+      "end": 793.96,
+      "text": "Give feedback one step at a time."
+    },
+    {
+      "start": 794.42,
+      "end": 796.48,
+      "text": "Give one piece of feedback at a time."
+    },
+    {
+      "start": 797.14,
+      "end": 799.66,
+      "text": "Practice until they get it right, then move on to the next step."
+    },
+    {
+      "start": 800.54,
+      "end": 803.32,
+      "text": "Whenever there's a major dip from normal performance, retrain the team."
+    },
+    {
+      "start": 803.58,
+      "end": 807.22,
+      "text": "They stopped doing an important step in the process, often because they didn't know it was important."
+    },
+    {
+      "start": 807.72,
+      "end": 810.94,
+      "text": "Once you figure out the step, reward people for following it going forward."
+    },
+    {
+      "start": 811.88,
+      "end": 813.84,
+      "text": "How to calculate returns from lead getting employees."
+    },
+    {
+      "start": 814.6,
+      "end": 821.62,
+      "text": "Excluding the cost of running paid ads, the cost of advertising, outreach, and content, etc., with employees is almost entirely based on the amount of money you pay them to do it."
+    },
+    {
+      "start": 822.1,
+      "end": 827.1,
+      "text": "We simplify this by comparing how much money we spend on payroll to how much money the engaged leads they bring in get."
+    },
+    {
+      "start": 827.5,
+      "end": 830.42,
+      "text": "Total payroll divided by total engaged leads equals cost per lead."
+    },
+    {
+      "start": 830.82,
+      "end": 835.8,
+      "text": "Example: 100,000 dollars in payroll divided by 1,000 leads equals 100 dollars per engaged lead."
+    },
+    {
+      "start": 836.02,
+      "end": 840.52,
+      "text": "If one out of 10 engaged leads becomes a customer, then our CAC is 1,000 dollars."
+    },
+    {
+      "start": 841.02,
+      "end": 846.68,
+      "text": "100 dollars per engaged lead times 10 engaged leads per customer equals 1,000 dollar CAC."
+    },
+    {
+      "start": 847.16,
+      "end": 851.36,
+      "text": "If each customer has an LCGP of 4,000, then you have an LGP to CAC of 4 to 1."
+    },
+    {
+      "start": 851.86,
+      "end": 854.92,
+      "text": "4,000 LCGP divided by 1,000 dollars CAC equals 4 to 1."
+    },
+    {
+      "start": 855.46,
+      "end": 860.44,
+      "text": "For example, at the time of this writing, I get about 30,000 leads per month at acquisition.com."
+    },
+    {
+      "start": 861.02,
+      "end": 867.5,
+      "text": "I run no paid ads and do no outreach, but the team responsible for creating the content that generates that interest is about 100,000 dollars per month."
+    },
+    {
+      "start": 867.76,
+      "end": 875.4,
+      "text": "This means it costs me roughly 3 dollars and 33 cents per engaged lead, 100,000 divided by 30,000 leads, in payroll to generate them."
+    },
+    {
+      "start": 875.9,
+      "end": 879.6,
+      "text": "We make much more than 3 dollars and 33 cents per lead, so we're profitable."
+    },
+    {
+      "start": 880.12,
+      "end": 882.46,
+      "text": "You can apply the same math to whatever advertising method you use."
+    },
+    {
+      "start": 883.32,
+      "end": 886.12,
+      "text": "How to know which employees to focus on to maximize returns."
+    },
+    {
+      "start": 887.3,
+      "end": 893.12,
+      "text": "Like we learned in Run Paid Ads Part 2, if your cost to get a customer is within 3X industry average, then you're doing good enough."
+    },
+    {
+      "start": 893.54,
+      "end": 895.72,
+      "text": "From there, you focus on bumping your LCGP."
+    },
+    {
+      "start": 896.38,
+      "end": 900.28,
+      "text": "If your CAC is more than 3X industry average, then you have a sales problem or an advertising problem."
+    },
+    {
+      "start": 900.82,
+      "end": 905.4,
+      "text": "We diagnose this with a single question: Do my engaged leads have the problem I solve and the money to spend?"
+    },
+    {
+      "start": 905.92,
+      "end": 907.84,
+      "text": "If no, then they're not qualified."
+    },
+    {
+      "start": 908.02,
+      "end": 909.1,
+      "text": "That's an advertising problem."
+    },
+    {
+      "start": 909.32,
+      "end": 914.54,
+      "text": "If yes, then they're qualified and they're buying, but you don't have enough of them, which is an advertising problem."
+    },
+    {
+      "start": 914.78,
+      "end": 916.92,
+      "text": "They're qualified but not buying, which is a sales problem."
+    },
+    {
+      "start": 917.62,
+      "end": 920.06,
+      "text": "Don't fire your sales guy if you've got an advertising problem."
+    },
+    {
+      "start": 920.24,
+      "end": 922.9,
+      "text": "And equally, don't fire your advertising employees if you've got a sales problem."
+    },
+    {
+      "start": 923.34,
+      "end": 925.64,
+      "text": "That little question can help you identify which employees to focus on."
+    },
+    {
+      "start": 926.04,
+      "end": 929.7,
+      "text": "But fundamentally, you just need to figure out all your costs of getting a customer put together."
+    },
+    {
+      "start": 930.22,
+      "end": 933.46,
+      "text": "And as long as they're at least one-third of the profit you make over the lifetime, you're in good shape."
+    },
+    {
+      "start": 934.12,
+      "end": 934.66,
+      "text": "Conclusion."
+    },
+    {
+      "start": 935.36,
+      "end": 937.2,
+      "text": "The goal of this chapter was to shift your perspective."
+    },
+    {
+      "start": 937.68,
+      "end": 940.14,
+      "text": "It's your job to advertise and sell the vision of your company."
+    },
+    {
+      "start": 940.48,
+      "end": 943.4,
+      "text": "You advertise it publicly and privately to employees and customers alike."
+    },
+    {
+      "start": 943.72,
+      "end": 944.52,
+      "text": "That's the job."
+    },
+    {
+      "start": 944.78,
+      "end": 946.52,
+      "text": "And once you get good at it, you become unstoppable."
+    },
+    {
+      "start": 947.02,
+      "end": 951.18,
+      "text": "I say this because I believe anyone can be taught to do ground level jobs for any business, advertising or otherwise."
+    },
+    {
+      "start": 951.64,
+      "end": 954.04,
+      "text": "So who you pick is not as important as how you train the ones you do."
+    },
+    {
+      "start": 954.64,
+      "end": 958.2,
+      "text": "Like I've said throughout the book and will say again here, it doesn't take a genius to advertise."
+    },
+    {
+      "start": 958.58,
+      "end": 959.36,
+      "text": "I'd even say it hurts."
+    },
+    {
+      "start": 959.66,
+      "end": 962.38,
+      "text": "We've got plenty more iron wills than brainiacs anyways."
+    },
+    {
+      "start": 962.52,
+      "end": 964.46,
+      "text": "Remember, this isn't about brains, it's about guts."
+    },
+    {
+      "start": 964.88,
+      "end": 968.2,
+      "text": "And although some people might be born geniuses, nobody is born with an iron will."
+    },
+    {
+      "start": 968.58,
+      "end": 970.14,
+      "text": "After all, we all come out crybabies."
+    },
+    {
+      "start": 970.7,
+      "end": 975.9,
+      "text": "All this to say, having guts is a skill, and that means anyone can have guts if they learn how."
+    },
+    {
+      "start": 976.26,
+      "end": 982.44,
+      "text": "So if you have an iron will, and as an entrepreneur you probably do, it won't take long for you to figure out that you got it from your life experiences."
+    },
+    {
+      "start": 982.9,
+      "end": 985.94,
+      "text": "You can pass those experiences on as lessons to anyone who cares enough to listen."
+    },
+    {
+      "start": 986.42,
+      "end": 989.16,
+      "text": "Then they can stand on your shoulders and have a better chance at succeeding in life."
+    },
+    {
+      "start": 989.8,
+      "end": 995.12,
+      "text": "And you can't really know anything anyway until you train them well and give them a fighting chance to succeed out in the field."
+    },
+    {
+      "start": 995.64,
+      "end": 998.52,
+      "text": "Plus, for low-level jobs, you'll never have a shortage of labor."
+    },
+    {
+      "start": 998.94,
+      "end": 1005.78,
+      "text": "Get picky when you have to make massive investments in hyper-specific multiple six-figure C-suite employees, etc., AKA fancy employees."
+    },
+    {
+      "start": 1006.54,
+      "end": 1010.4,
+      "text": "I find at this current stage, it's actually better use of time to hire, train, and anyone willing."
+    },
+    {
+      "start": 1010.86,
+      "end": 1016.28,
+      "text": "Then when you find winners, and with this method you will, treat them well, don't burn them out, and give them what they deserve."
+    },
+    {
+      "start": 1016.94,
+      "end": 1019.12,
+      "text": "In the land of overflowing leads, you'll need allies."
+    },
+    {
+      "start": 1019.52,
+      "end": 1021.76,
+      "text": "Employees are among the most powerful of these allies."
+    },
+    {
+      "start": 1022.24,
+      "end": 1031.68,
+      "text": "We talked about how they make you wealthy, how they work, how getting them works, how to get them, how to get them getting you leads, how to keep them getting you leads, and how to know they're doing a good job."
+    },
+    {
+      "start": 1032.86,
+      "end": 1037.42,
+      "text": "And once you build a system for getting people who get you leads, doing the core four on your behalf, you just need to do more."
+    },
+    {
+      "start": 1039.02,
+      "end": 1040.76,
+      "text": "Author note: A word on fancy employees."
+    },
+    {
+      "start": 1041.7,
+      "end": 1047.72,
+      "text": "I explicitly left out recruiting director level and up employees because you can easily qualify for acquisition.com without them."
+    },
+    {
+      "start": 1047.9,
+      "end": 1050.3,
+      "text": "And once you do become a portfolio company, we'll do it for you."
+    },
+    {
+      "start": 1051.48,
+      "end": 1052.18,
+      "text": "The next lead getter."
+    },
+    {
+      "start": 1052.94,
+      "end": 1055.6,
+      "text": "The next stop on our advertising journey leads us to agencies."
+    },
+    {
+      "start": 1055.94,
+      "end": 1057.74,
+      "text": "Yes, you can pay people to shortcut your path."
+    },
+    {
+      "start": 1058.28,
+      "end": 1063.8,
+      "text": "I have paid zillions of dollars to agencies, and I believe I finally cracked the code on how to create a win for all parties."
+    },
+    {
+      "start": 1064.4,
+      "end": 1066.42,
+      "text": "For us, so we're not dependent on them forever."
+    },
+    {
+      "start": 1066.82,
+      "end": 1069.7,
+      "text": "For them, so they can make more profit and provide more value to their customers."
+    },
+    {
+      "start": 1070.24,
+      "end": 1073.38,
+      "text": "They've been key to many breakthroughs I've had, so you won't want to skip this next one."
+    },
+    {
+      "start": 1074.42,
+      "end": 1074.94,
+      "text": "Free gift."
+    },
+    {
+      "start": 1075.9,
+      "end": 1077.68,
+      "text": "Build or buy, the talent roadmap."
+    },
+    {
+      "start": 1078.16,
+      "end": 1080.94,
+      "text": "The longer I do business, the more I ask who over what and how."
+    },
+    {
+      "start": 1081.4,
+      "end": 1086.02,
+      "text": "This training may be one of the most tactical and important because no matter what you build, you're gonna need help."
+    },
+    {
+      "start": 1086.66,
+      "end": 1091.22,
+      "text": "Since it's so important, I made a training outlining this content in more depth with some downloads, etc."
+    },
+    {
+      "start": 1091.56,
+      "end": 1094.68,
+      "text": "You can watch it free at acquisition.com/training/leads."
+    },
+    {
+      "start": 1097.71,
+      "end": 1101.05,
+      "text": "Hey, I hope you're enjoying the book chapter that you're listening to right now, 100 Million Dollar Leads."
+    },
+    {
+      "start": 1101.53,
+      "end": 1103.77,
+      "text": "I took a long time putting together for you."
+    },
+    {
+      "start": 1104.21,
+      "end": 1109.69,
+      "text": "Uh, and so my only ask is that you just take a quick second and leave a review for the book on Amazon."
+    },
+    {
+      "start": 1109.83,
+      "end": 1114.85,
+      "text": "It's the number one way that people find books, um, and this is a way of getting more people into our world."
+    },
+    {
+      "start": 1114.91,
+      "end": 1120.97,
+      "text": "And so our mission at acquisition.com is to make real business education accessible to everyone, and I need your help."
+    },
+    {
+      "start": 1121.19,
+      "end": 1128.89,
+      "text": "And so if you could do that, just that one, one small action, um, and it has a trade for the two years that I took putting this book together for you, uh, it would mean the world to me."
+    },
+    {
+      "start": 1129.15,
+      "end": 1129.99,
+      "text": "So thank you."
+    },
+    {
+      "start": 1131.29,
+      "end": 1132.91,
+      "text": "Agencies, everything is for sale."
+    },
+    {
+      "start": 1133.85,
+      "end": 1134.63,
+      "text": "Summer 2016."
+    },
+    {
+      "start": 1135.41,
+      "end": 1136.31,
+      "text": "I wasn't a techie guy."
+    },
+    {
+      "start": 1136.57,
+      "end": 1139.51,
+      "text": "I was a fitness guy who had learned a few marketing and sales tricks building my gyms."
+    },
+    {
+      "start": 1139.93,
+      "end": 1141.89,
+      "text": "But now I had five, and I was launching my sixth."
+    },
+    {
+      "start": 1142.41,
+      "end": 1143.27,
+      "text": "It was time to level up."
+    },
+    {
+      "start": 1143.75,
+      "end": 1148.81,
+      "text": "Facebook had just released some new features, retargeting, interest groups, pixels, etc., and I didn't understand any of it."
+    },
+    {
+      "start": 1149.41,
+      "end": 1151.75,
+      "text": "I bought a few courses, but ended up more confused than when I started."
+    },
+    {
+      "start": 1152.49,
+      "end": 1154.25,
+      "text": "I asked a few friends if they knew anyone who could help."
+    },
+    {
+      "start": 1154.57,
+      "end": 1155.37,
+      "text": "I got two referrals."
+    },
+    {
+      "start": 1155.81,
+      "end": 1156.65,
+      "text": "Both were agencies."
+    },
+    {
+      "start": 1156.97,
+      "end": 1157.49,
+      "text": "I was scared."
+    },
+    {
+      "start": 1157.69,
+      "end": 1158.59,
+      "text": "I'd never used one before."
+    },
+    {
+      "start": 1159.33,
+      "end": 1163.41,
+      "text": "I'd only ever heard horror stories about advertising agencies, mostly that they cost a ton and never work."
+    },
+    {
+      "start": 1163.97,
+      "end": 1166.51,
+      "text": "But then I realized that even if they did work, I'd need them forever."
+    },
+    {
+      "start": 1166.97,
+      "end": 1168.21,
+      "text": "They'd have my business by the balls."
+    },
+    {
+      "start": 1168.69,
+      "end": 1170.49,
+      "text": "It turns out my expectations weren't far off."
+    },
+    {
+      "start": 1170.99,
+      "end": 1175.91,
+      "text": "They offered to run my ads, all right, for an arm and a leg, money I couldn't justify spending with my low margins."
+    },
+    {
+      "start": 1176.05,
+      "end": 1181.03,
+      "text": "But then again, my advertising costs were killing me, and at this rate, in a few months, I wouldn't be able to keep my doors open."
+    },
+    {
+      "start": 1181.35,
+      "end": 1181.73,
+      "text": "Stressful."
+    },
+    {
+      "start": 1182.43,
+      "end": 1184.69,
+      "text": "I refused the first agency because I couldn't afford it at the time."
+    },
+    {
+      "start": 1185.23,
+      "end": 1186.67,
+      "text": "The second call started going the same way."
+    },
+    {
+      "start": 1186.85,
+      "end": 1187.59,
+      "text": "I began to panic."
+    },
+    {
+      "start": 1187.63,
+      "end": 1188.49,
+      "text": "How am I going to fix this?"
+    },
+    {
+      "start": 1189.33,
+      "end": 1193.93,
+      "text": "In what felt like a last-ditch effort to stay in business, I asked the second agency owner for what I really wanted."
+    },
+    {
+      "start": 1194.37,
+      "end": 1196.79,
+      "text": "\"Can you just show me in a few hours how you'd run my ads on my account?\""
+    },
+    {
+      "start": 1196.79,
+      "end": 1198.67,
+      "text": "\"No,\" he fired back."
+    },
+    {
+      "start": 1198.83,
+      "end": 1199.81,
+      "text": "\"My time's not for sale.\""
+    },
+    {
+      "start": 1200.67,
+      "end": 1201.61,
+      "text": "Worried, but still hopeful."
+    },
+    {
+      "start": 1202.41,
+      "end": 1203.99,
+      "text": "What sort of arrangement could we come to?"
+    },
+    {
+      "start": 1204.79,
+      "end": 1207.59,
+      "text": "He thought for a moment, then his eyebrows shot up, and a smirk appeared."
+    },
+    {
+      "start": 1207.59,
+      "end": 1209.89,
+      "text": "\"Fine, 715 an hour.\""
+    },
+    {
+      "start": 1210.55,
+      "end": 1210.81,
+      "text": "Gulp."
+    },
+    {
+      "start": 1211.47,
+      "end": 1216.65,
+      "text": "His intimidation tactic worked, but at least I knew his time was for sale, so I wanted to find out more."
+    },
+    {
+      "start": 1216.65,
+      "end": 1222.51,
+      "text": "\"And for 715 an hour, you will sit down with me and show me how you would run my ads?\""
+    },
+    {
+      "start": 1222.63,
+      "end": 1223.57,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 1223.57,
+      "end": 1225.67,
+      "text": "\"And I'd be the one doing everything."
+    },
+    {
+      "start": 1225.81,
+      "end": 1230.65,
+      "text": "Like, you'll walk me through what to do and look over my shoulder as I do it, and then you'll explain why you do it that way.\""
+    },
+    {
+      "start": 1230.71,
+      "end": 1231.63,
+      "text": "\"Yeah.\""
+    },
+    {
+      "start": 1232.13,
+      "end": 1236.49,
+      "text": "\"And you're confident you can make my ads more profitable and show me the more advanced stuff, right?\""
+    },
+    {
+      "start": 1236.49,
+      "end": 1237.59,
+      "text": "\"Yeah."
+    },
+    {
+      "start": 1237.77,
+      "end": 1240.45,
+      "text": "I mean, if you want to pay me 715 an hour, we can do whatever you want."
+    },
+    {
+      "start": 1240.61,
+      "end": 1243.25,
+      "text": "It's your money,\" he said, half laughing."
+    },
+    {
+      "start": 1243.65,
+      "end": 1245.41,
+      "text": "It sounded more like, \"It's your funeral.\""
+    },
+    {
+      "start": 1246.05,
+      "end": 1246.53,
+      "text": "I paused."
+    },
+    {
+      "start": 1247.13,
+      "end": 1247.99,
+      "text": "\"All right, I'll do it."
+    },
+    {
+      "start": 1248.49,
+      "end": 1249.39,
+      "text": "We'll meet one hour a week."
+    },
+    {
+      "start": 1249.91,
+      "end": 1251.91,
+      "text": "You give me homework, and I'll study between calls."
+    },
+    {
+      "start": 1251.99,
+      "end": 1252.39,
+      "text": "Fair enough?\""
+    },
+    {
+      "start": 1253.17,
+      "end": 1253.75,
+      "text": "\"Works for me."
+    },
+    {
+      "start": 1254.17,
+      "end": 1255.61,
+      "text": "You got to pay the first four hours up front.\""
+    },
+    {
+      "start": 1256.31,
+      "end": 1256.97,
+      "text": "So that's what I did."
+    },
+    {
+      "start": 1257.55,
+      "end": 1260.65,
+      "text": "I placed a 3,000 dollar bet on this guy's word that he knew what he was doing."
+    },
+    {
+      "start": 1261.05,
+      "end": 1261.43,
+      "text": "Yikes."
+    },
+    {
+      "start": 1262.01,
+      "end": 1266.47,
+      "text": "But every week thereafter, I showed up, and like a good student, I came with notes and questions ready."
+    },
+    {
+      "start": 1266.95,
+      "end": 1269.77,
+      "text": "I also recorded and rewatched every call because I didn't want to miss anything."
+    },
+    {
+      "start": 1270.27,
+      "end": 1272.43,
+      "text": "The first two calls, he took the wheel, and I watched."
+    },
+    {
+      "start": 1272.87,
+      "end": 1275.07,
+      "text": "Calls three and four, he put me in the driver's seat."
+    },
+    {
+      "start": 1275.33,
+      "end": 1276.99,
+      "text": "By calls five and six, it clicked."
+    },
+    {
+      "start": 1277.49,
+      "end": 1279.45,
+      "text": "I got how he made decisions and what data he tracked."
+    },
+    {
+      "start": 1279.71,
+      "end": 1282.19,
+      "text": "At seven and eight, I realized I didn't need his help anymore."
+    },
+    {
+      "start": 1282.71,
+      "end": 1285.49,
+      "text": "I had learned how to run paid ads, at least on Facebook, like a pro."
+    },
+    {
+      "start": 1285.93,
+      "end": 1289.19,
+      "text": "And if I had to make a guess, it was because I learned it from a pro."
+    },
+    {
+      "start": 1289.81,
+      "end": 1294.39,
+      "text": "In this chapter, we explore a not-so-obvious but much better way to use agencies to get more leads."
+    },
+    {
+      "start": 1294.83,
+      "end": 1295.59,
+      "text": "Let's get cranking."
+    },
+    {
+      "start": 1296.69,
+      "end": 1298.69,
+      "text": "How agencies want you to think they work."
+    },
+    {
+      "start": 1299.63,
+      "end": 1301.71,
+      "text": "Advertising agencies are lead-getting service businesses."
+    },
+    {
+      "start": 1302.27,
+      "end": 1305.49,
+      "text": "You pay them to run ads, do outreach, or package and distribute content."
+    },
+    {
+      "start": 1305.93,
+      "end": 1310.81,
+      "text": "For example, let's say you want to post free video content, but you know nothing about making video content or how to distribute it."
+    },
+    {
+      "start": 1311.29,
+      "end": 1315.63,
+      "text": "You need to learn how to pick video topics, record videos, edit videos, make thumbnail images, and write headlines."
+    },
+    {
+      "start": 1316.15,
+      "end": 1317.49,
+      "text": "Or you need to hire people who do."
+    },
+    {
+      "start": 1317.83,
+      "end": 1318.57,
+      "text": "Enter the agency."
+    },
+    {
+      "start": 1319.05,
+      "end": 1325.17,
+      "text": "They say they've hired and trained people to do that stuff already, so they promise faster, better, and more cost-efficient results than you could get on your own."
+    },
+    {
+      "start": 1325.59,
+      "end": 1327.79,
+      "text": "And as soon as I had enough money, it felt compelling enough."
+    },
+    {
+      "start": 1328.49,
+      "end": 1332.91,
+      "text": "After my first experience with an agency that I mentioned earlier went quite well, I decided to use more."
+    },
+    {
+      "start": 1333.33,
+      "end": 1337.61,
+      "text": "But my experience with the next 10 plus agencies was different because I used them, quote, \"the right way.\""
+    },
+    {
+      "start": 1338.09,
+      "end": 1339.21,
+      "text": "Each went something like this."
+    },
+    {
+      "start": 1339.79,
+      "end": 1342.31,
+      "text": "Step one, they got me excited about all the new leads they would bring."
+    },
+    {
+      "start": 1342.61,
+      "end": 1346.37,
+      "text": "Step two, I'd go through an onboarding process that felt valuable and sometimes was."
+    },
+    {
+      "start": 1346.85,
+      "end": 1349.73,
+      "text": "Step three, they assigned their best senior rep to my account."
+    },
+    {
+      "start": 1350.03,
+      "end": 1351.49,
+      "text": "Step four, I saw some results."
+    },
+    {
+      "start": 1351.91,
+      "end": 1354.11,
+      "text": "Step five, they moved my senior rep to the newest customer."
+    },
+    {
+      "start": 1354.51,
+      "end": 1356.83,
+      "text": "Step six, a junior rep starts managing my account."
+    },
+    {
+      "start": 1357.17,
+      "end": 1357.95,
+      "text": "My results suffered."
+    },
+    {
+      "start": 1358.45,
+      "end": 1359.77,
+      "text": "Step seven, I complained."
+    },
+    {
+      "start": 1360.17,
+      "end": 1362.93,
+      "text": "Step eight, the senior rep would come back once in a while to make me feel better."
+    },
+    {
+      "start": 1363.39,
+      "end": 1366.43,
+      "text": "Step nine, results still suffered, and I eventually cancel."
+    },
+    {
+      "start": 1366.95,
+      "end": 1370.29,
+      "text": "Step 10, I'd search for another agency and repeat the cycle of insanity."
+    },
+    {
+      "start": 1370.91,
+      "end": 1374.79,
+      "text": "Step 11, for the zillionth time, start wondering why I wasn't getting results like the first time."
+    },
+    {
+      "start": 1375.43,
+      "end": 1382.17,
+      "text": "To be clear, like the introduction of this chapter shows, agencies can play a valuable role in business growth, but not the way they want you to."
+    },
+    {
+      "start": 1382.63,
+      "end": 1384.41,
+      "text": "I don't want anyone else falling into the same trap."
+    },
+    {
+      "start": 1384.45,
+      "end": 1387.95,
+      "text": "In fact, I hope all the money I wasted goes towards paying down your ignorance debt too."
+    },
+    {
+      "start": 1388.53,
+      "end": 1389.31,
+      "text": "So keep reading."
+    },
+    {
+      "start": 1389.83,
+      "end": 1394.63,
+      "text": "It's frankly ridiculous it took me so many years to figure this out that I actually used an agency the right way the first time."
+    },
+    {
+      "start": 1395.05,
+      "end": 1401.03,
+      "text": "But now, after playing their game so many times, I feel I cracked the how to use an agency code, and it doesn't come from playing their game at all."
+    },
+    {
+      "start": 1401.09,
+      "end": 1402.21,
+      "text": "It comes from playing a different one."
+    },
+    {
+      "start": 1402.55,
+      "end": 1404.81,
+      "text": "And this chapter breaks it all down in three steps."
+    },
+    {
+      "start": 1405.31,
+      "end": 1407.69,
+      "text": "Number one, hiring an agency versus doing it yourself."
+    },
+    {
+      "start": 1408.25,
+      "end": 1410.45,
+      "text": "Two, how I use agencies now and how you can too."
+    },
+    {
+      "start": 1410.97,
+      "end": 1412.37,
+      "text": "Three, how to pick the right agency."
+    },
+    {
+      "start": 1413.65,
+      "end": 1415.15,
+      "text": "Hiring an agency versus doing it yourself."
+    },
+    {
+      "start": 1415.83,
+      "end": 1417.03,
+      "text": "First, let's get this out of the way."
+    },
+    {
+      "start": 1417.35,
+      "end": 1418.49,
+      "text": "Good agencies cost money."
+    },
+    {
+      "start": 1419.05,
+      "end": 1421.39,
+      "text": "So if you have no money, then agencies are out of the question."
+    },
+    {
+      "start": 1421.65,
+      "end": 1423.51,
+      "text": "You got to learn through trial and error, and that's no big deal."
+    },
+    {
+      "start": 1423.69,
+      "end": 1424.69,
+      "text": "We all start that way."
+    },
+    {
+      "start": 1425.03,
+      "end": 1429.97,
+      "text": "But if you do have some money, I suggest using agencies for two things, learning new methods and learning new platforms."
+    },
+    {
+      "start": 1430.79,
+      "end": 1435.79,
+      "text": "If I want to learn new ways to do content, outreach, or paid ads, then I hire agencies offering new ways to do them."
+    },
+    {
+      "start": 1436.33,
+      "end": 1437.69,
+      "text": "They've already made the big mistakes."
+    },
+    {
+      "start": 1438.09,
+      "end": 1441.75,
+      "text": "So instead of wasting time figuring it out myself, I skip straight to the make money part."
+    },
+    {
+      "start": 1442.07,
+      "end": 1443.17,
+      "text": "I like the make money part."
+    },
+    {
+      "start": 1443.73,
+      "end": 1447.05,
+      "text": "I also use agencies when I want to start advertising on a new platform I don't understand."
+    },
+    {
+      "start": 1447.51,
+      "end": 1452.35,
+      "text": "I make money faster because they do the early setup and maintenance for me and because I get them to teach me how to do it."
+    },
+    {
+      "start": 1452.99,
+      "end": 1457.29,
+      "text": "Hiring an agency is all about investing in important skills you can't really learn anywhere else."
+    },
+    {
+      "start": 1457.85,
+      "end": 1460.67,
+      "text": "That is, unless you go through all the trial and error to learn it yourself."
+    },
+    {
+      "start": 1461.08,
+      "end": 1466.02,
+      "text": "And if you did, you lose the time and attention you could have used to learn other important stuff that scales your business."
+    },
+    {
+      "start": 1466.42,
+      "end": 1468.02,
+      "text": "And scaling your business is the whole point."
+    },
+    {
+      "start": 1468.7,
+      "end": 1469.2,
+      "text": "Action step."
+    },
+    {
+      "start": 1469.6,
+      "end": 1472.16,
+      "text": "As soon as you have enough money for a good agency, start poking around."
+    },
+    {
+      "start": 1472.9,
+      "end": 1476.0,
+      "text": "If you follow the rest of the steps in this chapter, you'll make it all back and then some."
+    },
+    {
+      "start": 1477.08,
+      "end": 1479.08,
+      "text": "How I use agencies now and how you can too."
+    },
+    {
+      "start": 1479.66,
+      "end": 1482.0,
+      "text": "I've become a little more sophisticated than the story I told at the beginning."
+    },
+    {
+      "start": 1482.58,
+      "end": 1483.84,
+      "text": "Here's how I use agencies now."
+    },
+    {
+      "start": 1484.46,
+      "end": 1491.02,
+      "text": "Rather than believe the lie, I'll never have to learn the stuff because they can do it, I start every agency relationship with a purpose and a deadline to fulfill it."
+    },
+    {
+      "start": 1491.54,
+      "end": 1495.68,
+      "text": "I open by saying, \"I want to do what you do in my business, but I don't know how."
+    },
+    {
+      "start": 1496.2,
+      "end": 1498.92,
+      "text": "I'd like to work with you for six months so I can learn how you do it."
+    },
+    {
+      "start": 1499.36,
+      "end": 1503.56,
+      "text": "Plus, I'll pay extra for you to break down why you make the decisions you do and the steps you take to make them."
+    },
+    {
+      "start": 1504.08,
+      "end": 1506.8,
+      "text": "Then, after I get a good idea of how it all works, I'll start training my team on it."
+    },
+    {
+      "start": 1507.12,
+      "end": 1510.14,
+      "text": "And once they can do it well enough, I'd like to change to a lower-cost consulting arrangement."
+    },
+    {
+      "start": 1510.32,
+      "end": 1512.22,
+      "text": "This way, you can still help us if we run into problems."
+    },
+    {
+      "start": 1512.6,
+      "end": 1513.38,
+      "text": "Are you opposed to this?\""
+    },
+    {
+      "start": 1515.16,
+      "end": 1517.72,
+      "text": "In my experience, most agencies are not opposed to this."
+    },
+    {
+      "start": 1518.24,
+      "end": 1520.02,
+      "text": "And if it doesn't work for them, that's perfectly fine."
+    },
+    {
+      "start": 1520.18,
+      "end": 1521.28,
+      "text": "Just move on to the next agency."
+    },
+    {
+      "start": 1521.8,
+      "end": 1524.9,
+      "text": "But before you start kicking everyone to the curb, be willing to negotiate."
+    },
+    {
+      "start": 1525.08,
+      "end": 1526.72,
+      "text": "At some price, it's worth it for you both."
+    },
+    {
+      "start": 1527.18,
+      "end": 1528.12,
+      "text": "Viva capitalism."
+    },
+    {
+      "start": 1528.9,
+      "end": 1530.48,
+      "text": "This is how I use agencies now."
+    },
+    {
+      "start": 1530.9,
+      "end": 1533.8,
+      "text": "Like when I wanted to learn YouTube, I actually hired two agencies."
+    },
+    {
+      "start": 1534.16,
+      "end": 1538.38,
+      "text": "The first I hired to keep me committed to making videos while they did some legwork on the platform itself."
+    },
+    {
+      "start": 1538.84,
+      "end": 1544.18,
+      "text": "The second I hired at four times the price to really teach us the in-depth ideas behind making the best content possible."
+    },
+    {
+      "start": 1544.42,
+      "end": 1548.06,
+      "text": "And once our videos beat their videos, we dropped down to consulting only."
+    },
+    {
+      "start": 1548.56,
+      "end": 1550.08,
+      "text": "I've used this method again and again."
+    },
+    {
+      "start": 1550.52,
+      "end": 1557.78,
+      "text": "I hire one good enough agency to learn the ropes of a new platform, then I hire a more elite agency to learn how to maximize it, and I cannot recommend this strategy enough."
+    },
+    {
+      "start": 1558.14,
+      "end": 1561.54,
+      "text": "If you are upfront about your intentions and the agency agrees, you get the best of both worlds."
+    },
+    {
+      "start": 1562.06,
+      "end": 1568.6,
+      "text": "You get better short-term results because they probably know more than you, and you get better long-term results because you learn how to do it yourself or your team learns to do it for you."
+    },
+    {
+      "start": 1569.0,
+      "end": 1571.64,
+      "text": "You also spend the maximum amount of time with their best reps."
+    },
+    {
+      "start": 1572.14,
+      "end": 1577.12,
+      "text": "Remember, you only get a fraction of the agency's attention, so results get worse whenever they get new clients."
+    },
+    {
+      "start": 1577.42,
+      "end": 1580.66,
+      "text": "Meanwhile, your team gets better and better because they stay focused on you full time."
+    },
+    {
+      "start": 1581.02,
+      "end": 1587.06,
+      "text": "So compare your team's results with the agency's until you beat them, then cancel the relationship and put the money into scaling everything you just learned."
+    },
+    {
+      "start": 1587.78,
+      "end": 1588.22,
+      "text": "Action step."
+    },
+    {
+      "start": 1588.58,
+      "end": 1593.68,
+      "text": "When you find an agency to work with, next step, set terms with them and deadlines for yourself."
+    },
+    {
+      "start": 1594.16,
+      "end": 1598.28,
+      "text": "Use the template above as your guide and feel okay with negotiating a bit to make it work."
+    },
+    {
+      "start": 1598.96,
+      "end": 1599.42,
+      "text": "Author note."
+    },
+    {
+      "start": 1599.74,
+      "end": 1601.44,
+      "text": "Yes, there's a place for agencies."
+    },
+    {
+      "start": 1601.8,
+      "end": 1606.42,
+      "text": "To be clear, I still own equity in an agency software, Alan, so I'm not against agencies."
+    },
+    {
+      "start": 1606.8,
+      "end": 1608.52,
+      "text": "I just share how I've had the most success with them."
+    },
+    {
+      "start": 1608.94,
+      "end": 1611.18,
+      "text": "Are there massive companies that use huge ad agencies?"
+    },
+    {
+      "start": 1611.48,
+      "end": 1611.84,
+      "text": "Sure."
+    },
+    {
+      "start": 1612.2,
+      "end": 1613.38,
+      "text": "They're not who I'm writing this for."
+    },
+    {
+      "start": 1613.76,
+      "end": 1618.34,
+      "text": "For most people, spending 10, 50, or 100,000 dollars on an agency is a significant cost."
+    },
+    {
+      "start": 1618.76,
+      "end": 1621.44,
+      "text": "So this is how I've gotten the best return from working with them."
+    },
+    {
+      "start": 1621.82,
+      "end": 1625.16,
+      "text": "Also, some people never want to learn, and for those people, agencies are great."
+    },
+    {
+      "start": 1625.56,
+      "end": 1628.64,
+      "text": "I personally always want to learn, which is why I use agencies this way."
+    },
+    {
+      "start": 1629.28,
+      "end": 1630.28,
+      "text": "How to pick the right agency."
+    },
+    {
+      "start": 1631.06,
+      "end": 1635.58,
+      "text": "After working with tons of bad agencies and a handful of good ones, I created a list of what all the good ones had in common."
+    },
+    {
+      "start": 1636.06,
+      "end": 1640.4,
+      "text": "Now, this isn't the last word on what makes a good agency, but it is useful stuff that worked for me."
+    },
+    {
+      "start": 1641.02,
+      "end": 1641.84,
+      "text": "Here's what I look for."
+    },
+    {
+      "start": 1642.38,
+      "end": 1645.46,
+      "text": "One, somebody I know got good results working with them."
+    },
+    {
+      "start": 1645.94,
+      "end": 1652.24,
+      "text": "If you only know about an agency from their paid ads or cold outreach, they probably aren't as good as the ones who rely solely on word of mouth, and the best ones do."
+    },
+    {
+      "start": 1652.98,
+      "end": 1656.26,
+      "text": "Two, prominent companies got good results working with them."
+    },
+    {
+      "start": 1656.72,
+      "end": 1659.6,
+      "text": "I may not know the companies personally, but if I recognize them, that's a good sign."
+    },
+    {
+      "start": 1660.14,
+      "end": 1661.26,
+      "text": "Three, a waiting list."
+    },
+    {
+      "start": 1661.6,
+      "end": 1664.28,
+      "text": "When demand for service exceeds the supply, they're probably pretty good."
+    },
+    {
+      "start": 1664.86,
+      "end": 1668.88,
+      "text": "Four, a clear sales process that makes a point to set realistic expectations."
+    },
+    {
+      "start": 1669.06,
+      "end": 1669.84,
+      "text": "No funny business."
+    },
+    {
+      "start": 1670.5,
+      "end": 1672.32,
+      "text": "Five, no short-term hacks."
+    },
+    {
+      "start": 1672.8,
+      "end": 1674.52,
+      "text": "They keep the talk on long-term strategy."
+    },
+    {
+      "start": 1674.84,
+      "end": 1677.48,
+      "text": "They also give clear timelines for setup, scaling, and results."
+    },
+    {
+      "start": 1678.12,
+      "end": 1681.96,
+      "text": "Six, they tell me exactly what they need from me, when they need it, and how they use it."
+    },
+    {
+      "start": 1682.6,
+      "end": 1688.0,
+      "text": "Seven, they suggest a regular schedule of meetings and offer several ways to update me on their progress."
+    },
+    {
+      "start": 1688.58,
+      "end": 1693.92,
+      "text": "Eight, they give updates in simple terms and have clear ways to track so I know how costs compare with results."
+    },
+    {
+      "start": 1694.76,
+      "end": 1696.6,
+      "text": "Nine, they make a good offer."
+    },
+    {
+      "start": 1697.04,
+      "end": 1699.42,
+      "text": "Dream outcome, what is the promise that I want?"
+    },
+    {
+      "start": 1699.56,
+      "end": 1702.42,
+      "text": "Perceived likelihood of achievement, how many other people like me have they gotten there?"
+    },
+    {
+      "start": 1703.08,
+      "end": 1704.58,
+      "text": "C, time delay, how long will it take?"
+    },
+    {
+      "start": 1705.1,
+      "end": 1709.06,
+      "text": "D, effort and sacrifice, what do they require from me to do when working with them?"
+    },
+    {
+      "start": 1709.5,
+      "end": 1710.38,
+      "text": "What will I have to give up?"
+    },
+    {
+      "start": 1710.7,
+      "end": 1711.98,
+      "text": "Can I stick with those for a long time?"
+    },
+    {
+      "start": 1712.94,
+      "end": 1714.72,
+      "text": "Ten, they are expensive."
+    },
+    {
+      "start": 1715.28,
+      "end": 1718.5,
+      "text": "All good agencies are expensive, but not all expensive agencies are good."
+    },
+    {
+      "start": 1719.02,
+      "end": 1722.58,
+      "text": "So talk with as many as it takes and use this list as a guide to find the good ones."
+    },
+    {
+      "start": 1723.2,
+      "end": 1725.62,
+      "text": "If an agency checks those boxes, they're worth considering."
+    },
+    {
+      "start": 1726.68,
+      "end": 1727.12,
+      "text": "Pro tip."
+    },
+    {
+      "start": 1727.76,
+      "end": 1729.56,
+      "text": "Talk to more agencies to become a better customer."
+    },
+    {
+      "start": 1730.14,
+      "end": 1731.76,
+      "text": "Being an informed customer helps everyone."
+    },
+    {
+      "start": 1731.96,
+      "end": 1733.4,
+      "text": "So before you buy, get informed."
+    },
+    {
+      "start": 1733.88,
+      "end": 1735.66,
+      "text": "Talk to five or 10 agencies to learn how they work."
+    },
+    {
+      "start": 1735.8,
+      "end": 1740.16,
+      "text": "At first, you'll learn a bunch of new stuff, but over time, the difference between the better ones and the worst ones will become obvious."
+    },
+    {
+      "start": 1740.68,
+      "end": 1742.32,
+      "text": "Now you can make a more informed decision."
+    },
+    {
+      "start": 1743.0,
+      "end": 1747.2,
+      "text": "If the agency doesn't meet my needs, but I like the people, I'll ask them to refer me to another agency."
+    },
+    {
+      "start": 1747.62,
+      "end": 1752.0,
+      "text": "A good agency offering one specialty will send you to other good agencies who offer the one you want."
+    },
+    {
+      "start": 1752.56,
+      "end": 1754.02,
+      "text": "Those are some of my favorite referrals."
+    },
+    {
+      "start": 1755.54,
+      "end": 1755.98,
+      "text": "Action step."
+    },
+    {
+      "start": 1756.52,
+      "end": 1760.14,
+      "text": "Even if an agency agrees to your terms, talk with a few more before you make a decision."
+    },
+    {
+      "start": 1760.54,
+      "end": 1763.34,
+      "text": "Compare them with the checklist above and then pick the best one for you."
+    },
+    {
+      "start": 1764.1,
+      "end": 1764.56,
+      "text": "Conclusion."
+    },
+    {
+      "start": 1765.22,
+      "end": 1769.14,
+      "text": "Even though this isn't the traditional agency model, both businesses benefit."
+    },
+    {
+      "start": 1769.52,
+      "end": 1772.78,
+      "text": "They get a customer they otherwise wouldn't have, and we get a money-making skill for life."
+    },
+    {
+      "start": 1773.2,
+      "end": 1777.76,
+      "text": "In the story at the beginning of the chapter, it cost me eight hours and 6,000 dollars to learn a skill that's made me millions."
+    },
+    {
+      "start": 1778.18,
+      "end": 1779.3,
+      "text": "Does that seem worth it to you?"
+    },
+    {
+      "start": 1779.6,
+      "end": 1780.0,
+      "text": "It better."
+    },
+    {
+      "start": 1780.32,
+      "end": 1787.14,
+      "text": "And to make this agency method work at scale, you have to count on a good amount of time where you pay the agency and your team to do the same stuff."
+    },
+    {
+      "start": 1787.64,
+      "end": 1792.9,
+      "text": "You've got to give yourself some breathing room to get results from the agency, learn what they do, and train your team on it all at once."
+    },
+    {
+      "start": 1793.44,
+      "end": 1796.86,
+      "text": "Yes, it costs a lot of money, and yes, it's totally worth it when you get it right."
+    },
+    {
+      "start": 1797.46,
+      "end": 1798.5,
+      "text": "And get it right you can."
+    },
+    {
+      "start": 1799.14,
+      "end": 1802.84,
+      "text": "After agencies put a low-level employee on my account for the millionth time, it finally clicked."
+    },
+    {
+      "start": 1803.36,
+      "end": 1804.5,
+      "text": "This can't be that hard."
+    },
+    {
+      "start": 1805.0,
+      "end": 1807.6,
+      "text": "At first, it took me about a year to get my team better than an agency."
+    },
+    {
+      "start": 1808.04,
+      "end": 1811.42,
+      "text": "As I got better, it went down to 10 months, then eight, and now I've got it down."
+    },
+    {
+      "start": 1811.56,
+      "end": 1814.4,
+      "text": "I can get my team as good or better than the agency in six months or less."
+    },
+    {
+      "start": 1815.04,
+      "end": 1818.06,
+      "text": "And every time I want to learn a new method or platform, I repeat the process."
+    },
+    {
+      "start": 1818.5,
+      "end": 1820.74,
+      "text": "The better you get, the cheaper it becomes, and the more money you make."
+    },
+    {
+      "start": 1821.0,
+      "end": 1822.56,
+      "text": "Funny, that sounds a lot like advertising."
+    },
+    {
+      "start": 1823.45,
+      "end": 1823.87,
+      "text": "Next steps."
+    },
+    {
+      "start": 1824.55,
+      "end": 1826.83,
+      "text": "One, decide if using an agency makes sense for you right now."
+    },
+    {
+      "start": 1827.19,
+      "end": 1829.51,
+      "text": "Two, talk to a lot of agencies to get a feel for the market."
+    },
+    {
+      "start": 1829.55,
+      "end": 1830.05,
+      "text": "Don't be cheap."
+    },
+    {
+      "start": 1830.53,
+      "end": 1832.65,
+      "text": "Three, use the agreement framework I outlined."
+    },
+    {
+      "start": 1833.09,
+      "end": 1836.41,
+      "text": "Four, set a clear deadline to force you and your team to learn the skills."
+    },
+    {
+      "start": 1836.89,
+      "end": 1839.81,
+      "text": "Five, use both teams until yours beats theirs regularly."
+    },
+    {
+      "start": 1840.23,
+      "end": 1845.47,
+      "text": "Six, switch to discounted consulting until you feel like you're teaching them instead of them teaching you, then cut them loose."
+    },
+    {
+      "start": 1846.29,
+      "end": 1851.65,
+      "text": "Now that we know how to profit from the high-risk world of agencies, we explore the lead getter that's made me the most money."
+    },
+    {
+      "start": 1852.27,
+      "end": 1856.49,
+      "text": "We recruit an army of businesses who can get us even more leads, affiliates."
+    },
+    {
+      "start": 1858.15,
+      "end": 1860.83,
+      "text": "Free gift, what to look for in an agency checklist."
+    },
+    {
+      "start": 1861.03,
+      "end": 1864.87,
+      "text": "If you want to know the best way to use agencies rather than being used by them, I made a free training for you."
+    },
+    {
+      "start": 1865.25,
+      "end": 1868.55,
+      "text": "You can watch it free at acquisition.com/training/leads."
+    },
+    {
+      "start": 1869.23,
+      "end": 1870.89,
+      "text": "It has swipe files and some other goodies."
+    },
+    {
+      "start": 1872.33,
+      "end": 1876.47,
+      "text": "I hope you enjoyed the employees and agencies chapters from the 100 Million Dollar Leads book."
+    },
+    {
+      "start": 1877.25,
+      "end": 1880.45,
+      "text": "Next episode we have coming up is going to be affiliates and partners."
+    },
+    {
+      "start": 1880.81,
+      "end": 1882.95,
+      "text": "That was a huge part of how we promoted this book."
+    },
+    {
+      "start": 1883.37,
+      "end": 1884.51,
+      "text": "It's been one of my unlocks."
+    },
+    {
+      "start": 1884.67,
+      "end": 1885.47,
+      "text": "I've done over 50..."
+    },
+    {
+      "start": 1885.61,
+      "end": 1886.53,
+      "text": "No, that's not true."
+    },
+    {
+      "start": 1886.95,
+      "end": 1890.51,
+      "text": "I've done over 75 million dollars in sales from affiliates and partners."
+    },
+    {
+      "start": 1890.85,
+      "end": 1901.51,
+      "text": "And so learning how to align incentives between you and affiliate and their customers to create a win-win scenario, there is a very specific step process that you can follow to make that happen every single time."
+    },
+    {
+      "start": 1901.83,
+      "end": 1910.49,
+      "text": "And when you unlock that, you latch your business onto their advertising, and so you get hundreds and thousands of people to advertise on your behalf."
+    },
+    {
+      "start": 1910.53,
+      "end": 1917.99,
+      "text": "And just to give you some proof around this, when I promoted my book, I had over 10,000 people who promoted it with me, and they did it without a financial incentive."
+    },
+    {
+      "start": 1918.23,
+      "end": 1920.85,
+      "text": "And so you can do this stuff even if you have no budget."
+    },
+    {
+      "start": 1921.17,
+      "end": 1923.47,
+      "text": "All right, so that's what we're going to be going over in the next chapter."
+    },
+    {
+      "start": 1923.75,
+      "end": 1927.01,
+      "text": "And if this stuff has been valuable for you, hit subscribe so you don't miss any new stuff."
+    },
+    {
+      "start": 1929.61,
+      "end": 1934.59,
+      "text": "This has been 100 Million Dollar Leads, written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 1934.79,
+      "end": 1937.27,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 1937.53,
+      "end": 1941.31,
+      "text": "Audio production copyright 2023, acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "d69c589bc7e12238c02fb25d8ca795a1e4e2f60a4aa78d30d03300916967aa0f",
+  "audio_duration_sec": 1945.208163,
+  "elapsed_sec": 19.5,
+  "created": "2026-11-16T03:07:07+00:00"
+}

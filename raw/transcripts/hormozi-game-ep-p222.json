@@ -1,0 +1,602 @@
+{
+  "source_id": "hormozi-game-ep-p222",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 4.54,
+      "text": "The point is, is that they would get people to just agree that they don't want anything else."
+    },
+    {
+      "start": 4.76,
+      "end": 13.16,
+      "text": "Welcome to the Gym Secrets podcast, where we talk about how to get more customers, how to make more per customer, and how to keep them longer, and the many failures and lessons that we have learned along the way."
+    },
+    {
+      "start": 13.54,
+      "end": 15.4,
+      "text": "I hope you enjoy and subscribe."
+    },
+    {
+      "start": 16.86,
+      "end": 17.68,
+      "text": "What's going on, everyone?"
+    },
+    {
+      "start": 17.8,
+      "end": 18.76,
+      "text": "Happy Saturday."
+    },
+    {
+      "start": 19.0,
+      "end": 23.16,
+      "text": "Uh, I want to give you a quick and tactical, uh, training."
+    },
+    {
+      "start": 23.2,
+      "end": 26.9,
+      "text": "This is one of my favorite stories, uh, of all time from selling stuff."
+    },
+    {
+      "start": 27.56,
+      "end": 33.06,
+      "text": "Uh, and this comes from the, uh, vaults of Richard Schwartz and Manno Schwartz Furriers."
+    },
+    {
+      "start": 33.7,
+      "end": 46.36,
+      "text": "Uh, they're a fourth-generation furrier, uh, in Baltimore, and they took over the entire market, really the larger, like, Maryland, Pennsylvania market, um, just simply doing the boring work and being better at the everyday things."
+    },
+    {
+      "start": 46.42,
+      "end": 54.24,
+      "text": "And so, Richard Schwartz, unknowing-- unbeknownst to him, was a, a, a mentor of mine in terms of, I just observed a lot of the things that he did in his business."
+    },
+    {
+      "start": 55.26,
+      "end": 60.08,
+      "text": "And I started doing back-of-napkin math when I was 17 or 18, and I was like, \"Dude, this guy kills it.\""
+    },
+    {
+      "start": 60.78,
+      "end": 63.64,
+      "text": "Um, and he was, and, uh, he probably still is."
+    },
+    {
+      "start": 63.94,
+      "end": 67.62,
+      "text": "Um, and, uh, there was one-- he's-- I, I learned so many things from him."
+    },
+    {
+      "start": 68.14,
+      "end": 72.44,
+      "text": "Uh, but one of them, uh, was getting people to say no to say yes."
+    },
+    {
+      "start": 72.72,
+      "end": 72.92,
+      "text": "All right?"
+    },
+    {
+      "start": 72.96,
+      "end": 79.78,
+      "text": "And so this is a very, very real-world tactical, um, tidbit that you can use to close sales."
+    },
+    {
+      "start": 80.18,
+      "end": 87.3,
+      "text": "Now, there's a specific type of sale that this really applies to, which is, uh, a lot of times bolt-on or u- uh, or upsells, right?"
+    },
+    {
+      "start": 87.96,
+      "end": 94.58,
+      "text": "And these upsells can be incredibly important to the business in terms of driving bottom line profit, liquidating acquisition costs."
+    },
+    {
+      "start": 94.62,
+      "end": 96.92,
+      "text": "And so usually these are sales that are not complex sales."
+    },
+    {
+      "start": 97.28,
+      "end": 100.18,
+      "text": "These are not necessarily core offer sales."
+    },
+    {
+      "start": 100.58,
+      "end": 122.38,
+      "text": "These are sales, uh, you know, within the fitness world that might be attributed to supplement sales or meal sales, or if you were in retail, it'd be like getting someone to buy a scarf with the outfit or, um, just, you know, anything along those line-- you know, getting someone to buy orthotics if you're in the, in the physical therapy space, or if you're in the dental space, getting them to buy a special kind of extra brace or special toothpaste or whatever."
+    },
+    {
+      "start": 122.44,
+      "end": 127.04,
+      "text": "Or if you're in the beauty space, you know, night serums that go with your service package, whatever it is, right?"
+    },
+    {
+      "start": 127.56,
+      "end": 133.1,
+      "text": "The point is, is that usually there's gonna be, you know, one or multiple things that you're gonna want to go with your core offer, all right?"
+    },
+    {
+      "start": 133.62,
+      "end": 140.66,
+      "text": "The reason that this, this little trick I learned from him is so powerful, um, is that it closes like crazy."
+    },
+    {
+      "start": 141.08,
+      "end": 141.28,
+      "text": "All right?"
+    },
+    {
+      "start": 141.48,
+      "end": 146.26,
+      "text": "So if you're used to having like 20, 30% of people take upsells, that is a normal amount where people take upsells."
+    },
+    {
+      "start": 146.66,
+      "end": 151.4,
+      "text": "And the reason he gets 90% plus to take his upsells is because they don't know they're being sold."
+    },
+    {
+      "start": 151.74,
+      "end": 152.0,
+      "text": "All right?"
+    },
+    {
+      "start": 152.1,
+      "end": 153.64,
+      "text": "And so here's the trick, and here's how it works."
+    },
+    {
+      "start": 154.06,
+      "end": 156.14,
+      "text": "And I mean, you can take this to the bank."
+    },
+    {
+      "start": 156.28,
+      "end": 157.96,
+      "text": "Like, it works, okay?"
+    },
+    {
+      "start": 158.14,
+      "end": 162.06,
+      "text": "And I'll give you the example, uh, that they used, uh, at, at, at Manno."
+    },
+    {
+      "start": 162.6,
+      "end": 167.94,
+      "text": "And so somebody would come in, and so every year if you bought a fur coat, you would have to store it, right?"
+    },
+    {
+      "start": 168.02,
+      "end": 170.02,
+      "text": "And they made-- they killed it on storage, but anyways."
+    },
+    {
+      "start": 170.44,
+      "end": 171.58,
+      "text": "So people would come in."
+    },
+    {
+      "start": 171.62,
+      "end": 175.24,
+      "text": "So basically, they'd sell someone a car, essentially, because that's how much a, you know, fur coat is."
+    },
+    {
+      "start": 175.62,
+      "end": 188.5,
+      "text": "They'd sell someone a car, and then, uh, every year they would maintain that customer relationship by getting them to come back in and store their coat, uh, during the summer, because it's not good to, you know, keep, uh, a really expensive fur in, uh, you know, the heat or whatever, right?"
+    },
+    {
+      "start": 188.54,
+      "end": 189.72,
+      "text": "That's at least part of the pitch."
+    },
+    {
+      "start": 190.14,
+      "end": 194.1,
+      "text": "And so, uh, they-- everybody brings their fur in to get stored and conditioned."
+    },
+    {
+      "start": 194.16,
+      "end": 200.08,
+      "text": "So they brush them, you know, and I was one of the guys who was brushing them in the freaking warehouse and, like, spraying these things down."
+    },
+    {
+      "start": 200.64,
+      "end": 203.48,
+      "text": "Uh, it was mind-numbing work, but I got to learn a lot while I was there."
+    },
+    {
+      "start": 203.7,
+      "end": 219.9,
+      "text": "And so, anywho, uh, we'd brush these coats, and so one of the, one of the things, one of the promotions we ran as an incentive was get a free pair of, uh, fur earmuffs, uh, when you store your coat for winter, or store your coat for summer, excuse me."
+    },
+    {
+      "start": 222.16,
+      "end": 222.74,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 222.78,
+      "end": 226.58,
+      "text": "You guys already know that I don't run any ads on this, and I don't sell anything."
+    },
+    {
+      "start": 226.62,
+      "end": 236.88,
+      "text": "And so the only ask that I can ever have of you guys is that you help me spread the word so we can help more entrepreneurs make more money, feed their families, make better products, and have better experiences for their employees and customers."
+    },
+    {
+      "start": 237.04,
+      "end": 241.34,
+      "text": "And the only way we do that is if you can rate and review and share this podcast."
+    },
+    {
+      "start": 241.56,
+      "end": 243.82,
+      "text": "So the single thing that I ask you to do is you can just leave a review."
+    },
+    {
+      "start": 244.06,
+      "end": 245.92,
+      "text": "It'll take you 10 seconds or one type of the thumb."
+    },
+    {
+      "start": 246.04,
+      "end": 249.8,
+      "text": "It would mean the absolute world to me, and more importantly, it may change the world for someone else."
+    },
+    {
+      "start": 252.08,
+      "end": 259.06,
+      "text": "And so tons of people would come in because they wanted these true real fur, uh, earmuffs, uh, by bringing it in."
+    },
+    {
+      "start": 259.1,
+      "end": 268.98,
+      "text": "And so what would end up happening is David, his son, would, uh, the person would come in, and they'd say, \"I want to f- I would want to do this, and can I get the, the fur earmuffs?\""
+    },
+    {
+      "start": 269.02,
+      "end": 278.14,
+      "text": "And so he would show them the fur earmuffs and then say, \"Well, um, you're like, what we're gonna do is, uh, store and condition your coat."
+    },
+    {
+      "start": 278.18,
+      "end": 279.38,
+      "text": "You don't want anything else, do you?\""
+    },
+    {
+      "start": 280.3,
+      "end": 282.38,
+      "text": "Uh, and they would say, \"No, I don't want anything else.\""
+    },
+    {
+      "start": 282.44,
+      "end": 284.28,
+      "text": "But the conditioning was an upsell, right?"
+    },
+    {
+      "start": 284.38,
+      "end": 287.9,
+      "text": "And it's almost even the way I presented it to you just now, it's like, well, you're gonna store and condition your coat."
+    },
+    {
+      "start": 288.3,
+      "end": 296.34,
+      "text": "But storing the coat versus storing and doing the brush down and doing the, uh, the, the shampooing of the coat, uh, is obviously an extra service."
+    },
+    {
+      "start": 296.48,
+      "end": 302.18,
+      "text": "But it immediately added a couple hundred bucks to every single coat, and they were doing thousands of coats, right?"
+    },
+    {
+      "start": 302.7,
+      "end": 310.44,
+      "text": "And so, anywho, uh, the point is, is that they would get people to just agree that they don't want anything else, okay?"
+    },
+    {
+      "start": 311.0,
+      "end": 313.18,
+      "text": "So think about how you can use this strategy, right?"
+    },
+    {
+      "start": 313.42,
+      "end": 318.68,
+      "text": "There's, there's, there's many ways you can use it, but the something else is the easiest that I can ever see, right?"
+    },
+    {
+      "start": 319.12,
+      "end": 325.16,
+      "text": "So let's say you say, \"Hey, like, this is what you're gonna, uh, this is what you need to take, uh, for this weight loss program,\" right?"
+    },
+    {
+      "start": 325.2,
+      "end": 326.7,
+      "text": "\"These are the four supplements you're gonna need to take.\""
+    },
+    {
+      "start": 326.94,
+      "end": 328.3,
+      "text": "Now, you might have more supplements, right?"
+    },
+    {
+      "start": 328.34,
+      "end": 330.2,
+      "text": "And you're like, \"You don't wanna buy anything else, do you?\""
+    },
+    {
+      "start": 330.88,
+      "end": 331.02,
+      "text": "Right?"
+    },
+    {
+      "start": 331.16,
+      "end": 334.0,
+      "text": "And then they're gonna automatically, a lot of times, like, \"You don't wanna buy any more stuff, do you?\""
+    },
+    {
+      "start": 334.42,
+      "end": 336.52,
+      "text": "And then they're like, \"No, no, no, I don't, I don't wanna get anything else,\" right?"
+    },
+    {
+      "start": 337.06,
+      "end": 341.58,
+      "text": "And by doing that, you automatically close the sale that you just recommended, right?"
+    },
+    {
+      "start": 342.5,
+      "end": 345.92,
+      "text": "And you can do the same thing, uh, in a different way, which would be like, um,"
+    },
+    {
+      "start": 347.68,
+      "end": 349.78,
+      "text": "\"Hey, uh, you don't wanna pay full retail for that, right?\""
+    },
+    {
+      "start": 350.58,
+      "end": 351.98,
+      "text": "And they're gonna be like, \"No, no, no, I don't wanna pay.\""
+    },
+    {
+      "start": 352.02,
+      "end": 356.44,
+      "text": "It's like, \"Cool, so you want me to send it, uh, with this discount to the, you know, the address I have on file?\""
+    },
+    {
+      "start": 356.58,
+      "end": 358.7,
+      "text": "And they'll be like, \"Okay, yeah, yeah, let's do that,\" right?"
+    },
+    {
+      "start": 359.08,
+      "end": 361.33,
+      "text": "And so by doing that, you're getting them to say- ..."
+    },
+    {
+      "start": 361.43,
+      "end": 363.13,
+      "text": "uh, yes by saying no."
+    },
+    {
+      "start": 363.57,
+      "end": 371.27,
+      "text": "And the thing is, is people are so contrarian, people always feel like they're being sold, that you actually use that psychological, like, it's subconscious."
+    },
+    {
+      "start": 371.31,
+      "end": 372.37,
+      "text": "Like, they can't even think..."
+    },
+    {
+      "start": 372.69,
+      "end": 374.29,
+      "text": "They're not even making the thought process."
+    },
+    {
+      "start": 374.35,
+      "end": 379.23,
+      "text": "Like, they're agreeing because they're so pre-programmed to try and not to buy things that they end up buying things."
+    },
+    {
+      "start": 379.25,
+      "end": 381.47,
+      "text": "And so you use that psychological bias to your advantage."
+    },
+    {
+      "start": 381.81,
+      "end": 384.71,
+      "text": "It's one of the most powerful techniques I have ever seen in sales."
+    },
+    {
+      "start": 385.19,
+      "end": 389.39,
+      "text": "Most people get 20 to 30% uptake on their, uh, upsells."
+    },
+    {
+      "start": 390.11,
+      "end": 396.85,
+      "text": "If you use an assume close tactic like this, you can literally see 90% plus take rates on this, right?"
+    },
+    {
+      "start": 397.45,
+      "end": 414.95,
+      "text": "And so, as a, as to, to wrap up the story, um, when, uh, they give them the earmuffs at the, at the furrier, they would, they would, they would say, \"Well, now that you have those, uh, you're gonna need to, to, to store those and condition those as well, so that'll be, you know, an extra whatever.\""
+    },
+    {
+      "start": 415.47,
+      "end": 422.23,
+      "text": "And so what ended up happening is that people would get the, the free, uh, the free earmuffs, but you have to pay to get it stored and conditioned to cover the cost of the fur."
+    },
+    {
+      "start": 423.65,
+      "end": 431.91,
+      "text": "So, uh, it was just kind of hilarious because what ended up happening is you'd give it to them, they'd have it in their hand, you'd be like, \"Well, you still need to store it because you just bought your coat here and you're not gonna keep these out.\""
+    },
+    {
+      "start": 431.97,
+      "end": 440.11,
+      "text": "So to be, to be congruent with the story of, of needing to store the coats, they had to wrap it, uh, right underneath of the jacket and then they would take both of them into the back."
+    },
+    {
+      "start": 440.15,
+      "end": 447.89,
+      "text": "And so people would come in, they'd get the earmuffs, they'd hold onto them, and they'd put them right back on the coat and they'd say, \"Hey, you don't want us to do anything else besides, you know, storing and conditioning, do you?\""
+    },
+    {
+      "start": 448.47,
+      "end": 449.67,
+      "text": "And they're like, \"No, no, no, I don't want anything else.\""
+    },
+    {
+      "start": 449.83,
+      "end": 450.33,
+      "text": "Like, \"Okay, cool."
+    },
+    {
+      "start": 450.49,
+      "end": 451.91,
+      "text": "Well, we'll, we'll get that taken care of.\""
+    },
+    {
+      "start": 451.95,
+      "end": 454.59,
+      "text": "And then they'd inspect the coat real fast and be like, \"Want us to take care of this button?"
+    },
+    {
+      "start": 454.61,
+      "end": 455.19,
+      "text": "It's kind of loose."
+    },
+    {
+      "start": 455.23,
+      "end": 456.95,
+      "text": "Want us to sew this little seam here?\""
+    },
+    {
+      "start": 456.99,
+      "end": 457.81,
+      "text": "And they'd be like, \"Oh, yeah, sure.\""
+    },
+    {
+      "start": 457.87,
+      "end": 458.51,
+      "text": "\"You don't want anything else, do you?\""
+    },
+    {
+      "start": 458.55,
+      "end": 458.65,
+      "text": "Right?"
+    },
+    {
+      "start": 458.95,
+      "end": 459.25,
+      "text": "\"No, no, no.\""
+    },
+    {
+      "start": 459.91,
+      "end": 462.33,
+      "text": "And so every time, each one of these things, they just keep upselling them."
+    },
+    {
+      "start": 462.91,
+      "end": 470.19,
+      "text": "Um, but people are so subconsciously, uh, wired to try and say no to upsells that they would say yes by saying no."
+    },
+    {
+      "start": 470.41,
+      "end": 473.03,
+      "text": "And so, uh, you can try and utilize that in your business."
+    },
+    {
+      "start": 473.59,
+      "end": 476.79,
+      "text": "Um, I think it works very well with kind of like hand-to-hand small upsells."
+    },
+    {
+      "start": 477.37,
+      "end": 480.97,
+      "text": "Um, but a lot of these little small upsells can be massive profit drivers in the business."
+    },
+    {
+      "start": 481.03,
+      "end": 485.31,
+      "text": "This is kind of like your fries and Coke situation that I'm talking about here."
+    },
+    {
+      "start": 485.35,
+      "end": 491.41,
+      "text": "Like, this is a lot like you don't make your money on the burger, you make your money on the fries and the Coke because those are the high profit margin things, even though it's not the core offer."
+    },
+    {
+      "start": 491.73,
+      "end": 501.53,
+      "text": "And a lot of times there's huge pockets of profit that most, especially most small business owners, um, and especially if you're running like a brick and mortar b- uh, uh, service business, uh, that you're missing out on."
+    },
+    {
+      "start": 501.75,
+      "end": 503.99,
+      "text": "So, um, highly recommend using that strategy."
+    },
+    {
+      "start": 504.35,
+      "end": 507.09,
+      "text": "If you're like, \"Oh man, I wish I could use this in my business,\" you can."
+    },
+    {
+      "start": 507.19,
+      "end": 515.07,
+      "text": "Uh, just use your brain and be creative because, uh, winners always think, \"Man, I wonder how I could use that in my business,\" and losers think, \"That wouldn't work in my business."
+    },
+    {
+      "start": 515.15,
+      "end": 515.97,
+      "text": "My business is different.\""
+    },
+    {
+      "start": 516.37,
+      "end": 519.21,
+      "text": "So decide which one you are and then, uh, execute accordingly."
+    },
+    {
+      "start": 519.65,
+      "end": 520.47,
+      "text": "Otherwise, lots of love."
+    },
+    {
+      "start": 520.49,
+      "end": 521.73,
+      "text": "Hope you guys are having an amazing Saturday."
+    },
+    {
+      "start": 521.79,
+      "end": 522.67,
+      "text": "Hope that was of value for you."
+    },
+    {
+      "start": 522.71,
+      "end": 529.41,
+      "text": "If it is, you know, drop or tag or like or do all the, the fun stuff and, uh, I hope to see you on the next podcast."
+    },
+    {
+      "start": 529.69,
+      "end": 530.61,
+      "text": "All right, catch you soon."
+    },
+    {
+      "start": 530.65,
+      "end": 530.77,
+      "text": "Bye."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "6992a1f90ad8fbadaccdd1a1c0e59a0bd574256ad5365c29efbd702fbc2e4018",
+  "audio_duration_sec": 537.887347,
+  "elapsed_sec": 12.6,
+  "created": "2026-11-16T15:25:07+00:00"
+}

@@ -1,0 +1,1447 @@
+{
+  "source_id": "hormozi-100m-leads-p07",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.02,
+      "end": 7.64,
+      "text": "So we're going to get wild today on this special edition 100 Million Dollar Leads audiobook podcast collaboration for free."
+    },
+    {
+      "start": 8.3,
+      "end": 9.98,
+      "text": "Uh, we're talking about Core Four on steroids."
+    },
+    {
+      "start": 10.06,
+      "end": 15.2,
+      "text": "We concluded the Core Four, uh, which is the only four ways that any one person can let another person know about their stuff."
+    },
+    {
+      "start": 15.58,
+      "end": 21.42,
+      "text": "Today, we talk about more, better, new, which is the three ways that you can do it and do more of it in a way to make more monies."
+    },
+    {
+      "start": 21.86,
+      "end": 23.02,
+      "text": "All right, so I hope you enjoy this one."
+    },
+    {
+      "start": 23.14,
+      "end": 24.9,
+      "text": "It's going to be a heater and packed."
+    },
+    {
+      "start": 27.82,
+      "end": 29.02,
+      "text": "Core Four on steroids."
+    },
+    {
+      "start": 29.36,
+      "end": 30.0,
+      "text": "More, better, new."
+    },
+    {
+      "start": 30.66,
+      "end": 32.8,
+      "text": "If at first you don't succeed, use force."
+    },
+    {
+      "start": 34.02,
+      "end": 40.42,
+      "text": "I surveyed the 50 or so faces of the group, all entrepreneurs looking to scale their businesses, each hungry for the missing link that would flood them with engaged leads."
+    },
+    {
+      "start": 40.9,
+      "end": 44.14,
+      "text": "After finishing a presentation on lead generation, I opened up the floor for Q&A."
+    },
+    {
+      "start": 45.2,
+      "end": 48.06,
+      "text": "The first business owner chimed in, \"I feel like I've saturated the market."
+    },
+    {
+      "start": 48.44,
+      "end": 50.66,
+      "text": "I don't think we can get any bigger in the chiropractor niche than we already are.\""
+    },
+    {
+      "start": 50.74,
+      "end": 51.98,
+      "text": "\"What's your revenue?\""
+    },
+    {
+      "start": 52.24,
+      "end": 52.54,
+      "text": "I asked."
+    },
+    {
+      "start": 52.98,
+      "end": 53.6,
+      "text": "\"Two million a year.\""
+    },
+    {
+      "start": 54.32,
+      "end": 55.68,
+      "text": "\"And how much do you spend in advertising?\""
+    },
+    {
+      "start": 56.16,
+      "end": 57.46,
+      "text": "\"About 30 grand a month on Facebook.\""
+    },
+    {
+      "start": 57.46,
+      "end": 59.64,
+      "text": "\"What's your conversion rate from click to close?\""
+    },
+    {
+      "start": 60.12,
+      "end": 60.46,
+      "text": "\"I don't know.\""
+    },
+    {
+      "start": 60.46,
+      "end": 63.58,
+      "text": "\"So you don't track overall throughput?\""
+    },
+    {
+      "start": 64.22,
+      "end": 64.84,
+      "text": "\"I guess not.\""
+    },
+    {
+      "start": 64.84,
+      "end": 65.86,
+      "text": "\"Okay."
+    },
+    {
+      "start": 66.3,
+      "end": 67.5,
+      "text": "What other platforms do you advertise on?\""
+    },
+    {
+      "start": 67.5,
+      "end": 68.38,
+      "text": "\"None.\""
+    },
+    {
+      "start": 69.0,
+      "end": 70.38,
+      "text": "\"How much content do you make for chiropractors?\""
+    },
+    {
+      "start": 70.38,
+      "end": 71.04,
+      "text": "\"None.\""
+    },
+    {
+      "start": 71.56,
+      "end": 72.44,
+      "text": "\"How much cold outreach do you do?\""
+    },
+    {
+      "start": 72.44,
+      "end": 73.4,
+      "text": "\"None.\""
+    },
+    {
+      "start": 74.0,
+      "end": 79.86,
+      "text": "\"And the 30K you spend on one platform for a 2 million dollar business saturated the 15.1 billion dollar chiropractor industry?"
+    },
+    {
+      "start": 80.32,
+      "end": 81.06,
+      "text": "Does that sound reasonable?\""
+    },
+    {
+      "start": 82.02,
+      "end": 83.78,
+      "text": "A second business owner chimed in before he could answer."
+    },
+    {
+      "start": 84.24,
+      "end": 88.36,
+      "text": "\"If it helps, I'm in the chiropractor niche too, and I spent 30,000 in advertising across four platforms last week.\""
+    },
+    {
+      "start": 88.54,
+      "end": 90.18,
+      "text": "\"Do you still feel like you saturated your niche?\""
+    },
+    {
+      "start": 90.28,
+      "end": 90.54,
+      "text": "I asked."
+    },
+    {
+      "start": 91.12,
+      "end": 91.66,
+      "text": "He got the point."
+    },
+    {
+      "start": 92.64,
+      "end": 94.54,
+      "text": "I have this conversation daily with entrepreneurs looking to grow."
+    },
+    {
+      "start": 94.84,
+      "end": 99.06,
+      "text": "Typically, they figured out how to get enough customers from one platform to get them to 1 to 3 million dollars per year."
+    },
+    {
+      "start": 99.54,
+      "end": 104.68,
+      "text": "It's still not completely predictable, and they have their ups and downs, but they have the gist of what they need to do and have seen some success."
+    },
+    {
+      "start": 105.24,
+      "end": 107.66,
+      "text": "So it's at this point that they hit a wall because they think they can't make more money."
+    },
+    {
+      "start": 107.94,
+      "end": 109.24,
+      "text": "They assume they've tapped the market."
+    },
+    {
+      "start": 109.78,
+      "end": 110.28,
+      "text": "I kid you not."
+    },
+    {
+      "start": 110.88,
+      "end": 113.98,
+      "text": "I had a conversation with a different entrepreneur making 3 million per year in the weight loss space."
+    },
+    {
+      "start": 114.36,
+      "end": 118.02,
+      "text": "He was worried increasing his ad spend past 40,000 a month would saturate his ad platform."
+    },
+    {
+      "start": 118.24,
+      "end": 124.92,
+      "text": "For context, that platform has over 1 billion active daily users, and he was selling weight loss in America, a 60 billion dollar industry."
+    },
+    {
+      "start": 125.48,
+      "end": 125.78,
+      "text": "Silly."
+    },
+    {
+      "start": 126.42,
+      "end": 128.46,
+      "text": "There are more leads out there than you can possibly imagine."
+    },
+    {
+      "start": 128.88,
+      "end": 131.96,
+      "text": "I've used a framework to unlock those leads over and over again, and now you can use it too."
+    },
+    {
+      "start": 132.78,
+      "end": 133.72,
+      "text": "How to get even more leads."
+    },
+    {
+      "start": 134.26,
+      "end": 135.34,
+      "text": "More, better, new."
+    },
+    {
+      "start": 135.74,
+      "end": 137.94,
+      "text": "First, you reach out to people who know you."
+    },
+    {
+      "start": 138.78,
+      "end": 140.34,
+      "text": "Then you start making free content."
+    },
+    {
+      "start": 140.88,
+      "end": 142.48,
+      "text": "Then you start reaching out to people who don't know you."
+    },
+    {
+      "start": 142.78,
+      "end": 143.86,
+      "text": "Then you start running paid ads."
+    },
+    {
+      "start": 144.38,
+      "end": 149.58,
+      "text": "This is how you do the Core Four to get engaged leads, and there's really nothing else a single person can do on their own to get them."
+    },
+    {
+      "start": 150.18,
+      "end": 153.36,
+      "text": "But what if you're doing the Core Four and still not getting as many engaged leads as you want?"
+    },
+    {
+      "start": 153.68,
+      "end": 154.54,
+      "text": "Well, worry not."
+    },
+    {
+      "start": 154.84,
+      "end": 158.18,
+      "text": "There are two ways to boost any of the Core Four to get more engaged leads on your own."
+    },
+    {
+      "start": 158.54,
+      "end": 161.72,
+      "text": "I use these every time I want to increase engaged lead flow in a portfolio company."
+    },
+    {
+      "start": 162.12,
+      "end": 162.92,
+      "text": "They're easy to remember."
+    },
+    {
+      "start": 163.34,
+      "end": 164.34,
+      "text": "More, better, new."
+    },
+    {
+      "start": 164.94,
+      "end": 170.12,
+      "text": "Simply stated, you can do more of what you're currently doing, you can do what you're currently doing better, and you can do it somewhere new."
+    },
+    {
+      "start": 171.34,
+      "end": 174.7,
+      "text": "And just like the story in the beginning with the agency owner, that's exactly what I was asking him."
+    },
+    {
+      "start": 174.94,
+      "end": 175.74,
+      "text": "Could you advertise more?"
+    },
+    {
+      "start": 176.1,
+      "end": 177.08,
+      "text": "Could you advertise better?"
+    },
+    {
+      "start": 177.12,
+      "end": 178.0,
+      "text": "Could you advertise somewhere new?"
+    },
+    {
+      "start": 178.76,
+      "end": 181.32,
+      "text": "So let's start with the one I actually do first, more."
+    },
+    {
+      "start": 182.1,
+      "end": 186.32,
+      "text": "You've done some advertising by now, and you know the advertising that you do works to some degree."
+    },
+    {
+      "start": 186.84,
+      "end": 190.58,
+      "text": "So the next obvious thing you can do to get more engaged leads is more, a lot more."
+    },
+    {
+      "start": 191.06,
+      "end": 192.74,
+      "text": "Crank up the volume to max capacity."
+    },
+    {
+      "start": 193.4,
+      "end": 196.64,
+      "text": "Even with no improvements at all, if you double your inputs, you'll get more engaged leads."
+    },
+    {
+      "start": 196.98,
+      "end": 200.98,
+      "text": "Make twice the reach outs, post twice the content, run twice the ads, double the ad spend, etcetera."
+    },
+    {
+      "start": 201.3,
+      "end": 203.5,
+      "text": "You won't regret it, unless, of course, you hate money."
+    },
+    {
+      "start": 203.92,
+      "end": 209.96,
+      "text": "So while we'll always focus on testing to make ourselves better, which we'll get to in a moment, the biggest increases often come from advertising more."
+    },
+    {
+      "start": 210.9,
+      "end": 212.88,
+      "text": "Here's how I do more, the Rule of 100."
+    },
+    {
+      "start": 213.58,
+      "end": 214.6,
+      "text": "The Rule of 100 is simple."
+    },
+    {
+      "start": 214.82,
+      "end": 218.26,
+      "text": "You advertise your stuff by doing 100 primary actions every day for 100 days in a row."
+    },
+    {
+      "start": 218.6,
+      "end": 218.98,
+      "text": "That's it."
+    },
+    {
+      "start": 219.38,
+      "end": 221.12,
+      "text": "I don't make many promises, but this is one."
+    },
+    {
+      "start": 221.68,
+      "end": 226.74,
+      "text": "If you do 100 primary actions per day, and you do it for 100 days straight, you will get more engaged leads."
+    },
+    {
+      "start": 227.34,
+      "end": 229.44,
+      "text": "Commit to the Rule 100, and you will never go hungry again."
+    },
+    {
+      "start": 230.02,
+      "end": 231.78,
+      "text": "Here's what it looks like applied to each of the Core Four."
+    },
+    {
+      "start": 232.1,
+      "end": 234.32,
+      "text": "Warm reach outs, 100 reach outs per day."
+    },
+    {
+      "start": 234.88,
+      "end": 238.06,
+      "text": "Example primary actions, email, text, direct message, calls, etcetera."
+    },
+    {
+      "start": 238.7,
+      "end": 241.64,
+      "text": "Post content, 100 minutes per day making content."
+    },
+    {
+      "start": 242.28,
+      "end": 244.48,
+      "text": "Release at least one per day on a platform."
+    },
+    {
+      "start": 244.72,
+      "end": 246.04,
+      "text": "As you get better, post even more."
+    },
+    {
+      "start": 246.42,
+      "end": 250.68,
+      "text": "Example primary actions, short and long videos or articles, podcasts, infographics, etcetera."
+    },
+    {
+      "start": 251.08,
+      "end": 253.12,
+      "text": "Cold reach outs, 100 reach outs per day."
+    },
+    {
+      "start": 253.6,
+      "end": 257.26,
+      "text": "Example primary actions, email, text, direct message, cold call, flyers, etcetera."
+    },
+    {
+      "start": 258.08,
+      "end": 261.64,
+      "text": "As with all cold advertising, expect lower response rates, so use automation."
+    },
+    {
+      "start": 262.38,
+      "end": 265.34,
+      "text": "Paid ads, 100 minutes per day making paid ads."
+    },
+    {
+      "start": 265.78,
+      "end": 272.22,
+      "text": "Example primary actions, direct response media ads, direct mail, seminar, podcast spots, etcetera."
+    },
+    {
+      "start": 272.72,
+      "end": 274.54,
+      "text": "100 days straight of running those paid ads."
+    },
+    {
+      "start": 274.8,
+      "end": 277.26,
+      "text": "Use the daily budget we calculated together in the paid ads chapter."
+    },
+    {
+      "start": 277.7,
+      "end": 279.04,
+      "text": "Aim for client finest acquisition."
+    },
+    {
+      "start": 279.22,
+      "end": 283.54,
+      "text": "Pro tip, more ads means better ads means more leads."
+    },
+    {
+      "start": 284.08,
+      "end": 286.76,
+      "text": "Facebook reviewed the accounts of all advertisers on their platform."
+    },
+    {
+      "start": 286.98,
+      "end": 287.94,
+      "text": "They found something curious."
+    },
+    {
+      "start": 288.3,
+      "end": 293.44,
+      "text": "The top 0.1% of advertisers split test 11 more times creative than everyone else."
+    },
+    {
+      "start": 294.08,
+      "end": 299.3,
+      "text": "Oftentimes, it's not that you can't scale an ad profitably, you just can't scale a mediocre ad profitably."
+    },
+    {
+      "start": 299.52,
+      "end": 302.64,
+      "text": "And the only way to find the exceptional ads is to make 11 times more of them."
+    },
+    {
+      "start": 303.14,
+      "end": 304.26,
+      "text": "Success leaves clues."
+    },
+    {
+      "start": 304.82,
+      "end": 307.82,
+      "text": "Do what the 0.1% do to get what the 0.1% get."
+    },
+    {
+      "start": 308.48,
+      "end": 310.68,
+      "text": "Getting better gets you more leads for the same effort."
+    },
+    {
+      "start": 310.86,
+      "end": 311.48,
+      "text": "We want that."
+    },
+    {
+      "start": 311.64,
+      "end": 313.9,
+      "text": "And you can only get better by doing one thing, testing."
+    },
+    {
+      "start": 314.3,
+      "end": 316.8,
+      "text": "So you do more and more until it breaks."
+    },
+    {
+      "start": 317.3,
+      "end": 318.3,
+      "text": "Then you make it better."
+    },
+    {
+      "start": 318.7,
+      "end": 322.4,
+      "text": "In other words, if you do more for long enough, your CAC will eventually get too high to sustain."
+    },
+    {
+      "start": 323.02,
+      "end": 324.54,
+      "text": "So you make a tweak and see if it improves."
+    },
+    {
+      "start": 325.14,
+      "end": 326.18,
+      "text": "If it does, keep doing it."
+    },
+    {
+      "start": 326.24,
+      "end": 327.26,
+      "text": "If it doesn't, toss it out."
+    },
+    {
+      "start": 327.66,
+      "end": 330.32,
+      "text": "Thousands of these tiny tests separate the winners from the beginners."
+    },
+    {
+      "start": 331.4,
+      "end": 334.96,
+      "text": "Every action a lead takes before they become a customer is a potential drop-off point."
+    },
+    {
+      "start": 335.46,
+      "end": 338.7,
+      "text": "So I do the most testing at whatever step the most leads drop off."
+    },
+    {
+      "start": 339.12,
+      "end": 340.12,
+      "text": "I call these constraints."
+    },
+    {
+      "start": 340.46,
+      "end": 343.66,
+      "text": "Constraints are the points where the smallest improvement create the biggest boost in results."
+    },
+    {
+      "start": 344.2,
+      "end": 345.36,
+      "text": "That's why they're so important."
+    },
+    {
+      "start": 345.62,
+      "end": 346.94,
+      "text": "We get the biggest bang for our buck."
+    },
+    {
+      "start": 347.26,
+      "end": 356.76,
+      "text": "For example, if you have three steps in your process, let's say 30% opt-in, AKA give you their contact information, 5% apply, and then 50% schedule."
+    },
+    {
+      "start": 357.42,
+      "end": 359.3,
+      "text": "But let's ignore the obvious constraint for a moment."
+    },
+    {
+      "start": 359.62,
+      "end": 362.0,
+      "text": "Imagine we improve each step by 5% itself."
+    },
+    {
+      "start": 362.46,
+      "end": 366.96,
+      "text": "So 30% becomes 35%, which is a 16% increase."
+    },
+    {
+      "start": 367.78,
+      "end": 370.82,
+      "text": "Five percent becomes 10%, which is a 100% increase."
+    },
+    {
+      "start": 371.62,
+      "end": 376.76,
+      "text": "Five percent becomes 55%, uh, in scheduling, which is a 10% increase in leads."
+    },
+    {
+      "start": 377.4,
+      "end": 378.88,
+      "text": "We get wildly different results."
+    },
+    {
+      "start": 379.32,
+      "end": 381.64,
+      "text": "Improving the constraint also comes out the clear winner."
+    },
+    {
+      "start": 382.22,
+      "end": 389.44,
+      "text": "So, focus on the constraint, which was obviously in our example, the five going to 10 because it's a 2X increase in leads."
+    },
+    {
+      "start": 389.96,
+      "end": 394.96,
+      "text": "And again, if you're not sure which step is the biggest constraint, find the step where the most leads drop off."
+    },
+    {
+      "start": 395.2,
+      "end": 397.3,
+      "text": "You'll get the biggest reward for the smallest improvement."
+    },
+    {
+      "start": 398.02,
+      "end": 398.84,
+      "text": "Here's how I get better."
+    },
+    {
+      "start": 399.44,
+      "end": 403.42,
+      "text": "I test one thing per week per platform, and I do it for four big reasons."
+    },
+    {
+      "start": 404.04,
+      "end": 407.66,
+      "text": "One, if you test multiple things at a time on one platform, you'll never really learn what worked."
+    },
+    {
+      "start": 408.36,
+      "end": 410.0,
+      "text": "Two, steps affect each other."
+    },
+    {
+      "start": 410.32,
+      "end": 412.2,
+      "text": "A single change can affect results at other steps."
+    },
+    {
+      "start": 412.34,
+      "end": 416.48,
+      "text": "For example, if you change step one and more people opt in, but fewer people apply, no bueno."
+    },
+    {
+      "start": 416.92,
+      "end": 418.68,
+      "text": "But you wouldn't know if you changed both steps."
+    },
+    {
+      "start": 419.0,
+      "end": 420.84,
+      "text": "If you make one change, you can see what happened."
+    },
+    {
+      "start": 421.08,
+      "end": 423.98,
+      "text": "If you make a bunch of changes, good luck trying to figure out what worked or didn't."
+    },
+    {
+      "start": 424.68,
+      "end": 428.26,
+      "text": "Three, it forces you to prioritize what will get you the most engaged leads."
+    },
+    {
+      "start": 428.68,
+      "end": 433.28,
+      "text": "You can do an infinite amount of tests, but time is limited, so you must choose your tests wisely."
+    },
+    {
+      "start": 433.48,
+      "end": 440.5,
+      "text": "For example, if you only do one big test per week per platform, don't waste it on a color change from red to bright red."
+    },
+    {
+      "start": 441.22,
+      "end": 446.66,
+      "text": "Four, maybe the most important, you run the test for long enough to see if you actually get an improvement."
+    },
+    {
+      "start": 447.16,
+      "end": 448.68,
+      "text": "Too short, and you won't get enough data."
+    },
+    {
+      "start": 448.98,
+      "end": 451.84,
+      "text": "Too long, and you waste time you could have spent improving the next constraint."
+    },
+    {
+      "start": 452.16,
+      "end": 456.66,
+      "text": "With the size of my team and the amount of money I spend on advertising, one week is typically long enough for me."
+    },
+    {
+      "start": 457.08,
+      "end": 459.24,
+      "text": "In every company I own, I set up a testing schedule."
+    },
+    {
+      "start": 459.64,
+      "end": 463.28,
+      "text": "Every Monday, we run one split test per platform."
+    },
+    {
+      "start": 463.82,
+      "end": 467.22,
+      "text": "We give it a week, and then the next Monday, we do three things."
+    },
+    {
+      "start": 467.78,
+      "end": 470.34,
+      "text": "One, we look at the results and pick the winners for each platform test."
+    },
+    {
+      "start": 470.74,
+      "end": 475.68,
+      "text": "Two, important, we write down the results of the test in a log of all tests."
+    },
+    {
+      "start": 476.12,
+      "end": 479.76,
+      "text": "So the next time we do something, we start a zillion improvements later, not at square one."
+    },
+    {
+      "start": 480.46,
+      "end": 484.0,
+      "text": "Three, we come up with our next test to beat the current best version."
+    },
+    {
+      "start": 484.46,
+      "end": 489.96,
+      "text": "If we can't beat the version we're currently running in four tries or one month, we move on to the next constraint."
+    },
+    {
+      "start": 490.62,
+      "end": 496.7,
+      "text": "You continue to allocate effort to make things better, but at a certain point, the effort you put into making things better brings lower and lower returns."
+    },
+    {
+      "start": 497.07,
+      "end": 500.8,
+      "text": "At some point, it makes more sense to invest your effort into something that will bring higher returns."
+    },
+    {
+      "start": 501.24,
+      "end": 503.36,
+      "text": "Only at this point do we try something new."
+    },
+    {
+      "start": 503.78,
+      "end": 507.02,
+      "text": "Pro tip, front to back most times."
+    },
+    {
+      "start": 507.4,
+      "end": 511.86,
+      "text": "In general, the lowest percentage steps usually happen at the front, and the higher percentage steps happen at the back."
+    },
+    {
+      "start": 512.0,
+      "end": 515.94,
+      "text": "As in, 1% of people may click an ad, then 30% will give you their contact information."
+    },
+    {
+      "start": 516.28,
+      "end": 520.62,
+      "text": "This is why most times you'll end up focusing on the front more than the back, and that's fine."
+    },
+    {
+      "start": 520.66,
+      "end": 521.98,
+      "text": "Those steps are usually the constraint."
+    },
+    {
+      "start": 522.26,
+      "end": 524.22,
+      "text": "They have the largest return for the smallest improvements."
+    },
+    {
+      "start": 524.52,
+      "end": 532.2,
+      "text": "The call-out, the value elements, the offer, the CTA, the landing page, the headline, the subheadline, the image, et cetera, down the pathway you go in order what the lead will see and then do."
+    },
+    {
+      "start": 532.6,
+      "end": 533.74,
+      "text": "Pro tip, better, more, new."
+    },
+    {
+      "start": 534.32,
+      "end": 538.56,
+      "text": "When talking to businesses less than 1 million per year in profit, I usually advise them to do more first."
+    },
+    {
+      "start": 538.98,
+      "end": 541.54,
+      "text": "They haven't done enough volume for percentage changes to make a big difference."
+    },
+    {
+      "start": 541.96,
+      "end": 546.26,
+      "text": "But once you cross a million in annual profit, making things better can be the lowest cost, highest return thing you do."
+    },
+    {
+      "start": 546.68,
+      "end": 550.26,
+      "text": "So once a business is big enough, I flip the order from more, better, new to better, more, new."
+    },
+    {
+      "start": 551.24,
+      "end": 551.42,
+      "text": "New."
+    },
+    {
+      "start": 552.58,
+      "end": 557.28,
+      "text": "So after you've improved your marketing efforts through more and better, the only thing you have left is new places and new ways."
+    },
+    {
+      "start": 557.44,
+      "end": 558.38,
+      "text": "In simple terms, new."
+    },
+    {
+      "start": 558.86,
+      "end": 563.12,
+      "text": "And if you think your business can't possibly get any bigger, let me show you why it can, then I'll show you how it can."
+    },
+    {
+      "start": 563.58,
+      "end": 566.02,
+      "text": "Size of the pie fallacy, understanding market size."
+    },
+    {
+      "start": 567.18,
+      "end": 569.4,
+      "text": "I have a visual that has three circles."
+    },
+    {
+      "start": 569.68,
+      "end": 582.98,
+      "text": "One that's 100% filled out that just says me, one that's 50% filled out that has a middle smiley face, says me plus one competitor, and then a circle that has only one quarter filled out, which is me plus three competitors, which is a very sad face."
+    },
+    {
+      "start": 583.76,
+      "end": 594.96,
+      "text": "Most business owners only look at the platform and tiny community they market in, and usually there are only three or four big companies marketing in their niche, so they assume those companies must split the entire market between them."
+    },
+    {
+      "start": 595.42,
+      "end": 597.92,
+      "text": "This is exactly what the entrepreneur in my intro story did."
+    },
+    {
+      "start": 598.48,
+      "end": 600.26,
+      "text": "Think for a moment about how ridiculous this is."
+    },
+    {
+      "start": 600.72,
+      "end": 602.5,
+      "text": "I call this problem the size of the pie fallacy."
+    },
+    {
+      "start": 602.98,
+      "end": 605.44,
+      "text": "The market is, in fact, much bigger than most assume."
+    },
+    {
+      "start": 606.28,
+      "end": 611.74,
+      "text": "A small business uses one of the core four on one platform in one very specific way with a very targeted audience."
+    },
+    {
+      "start": 612.26,
+      "end": 616.98,
+      "text": "And in that same space, advertising the same way, there may be only a handful of other competitors."
+    },
+    {
+      "start": 617.56,
+      "end": 622.18,
+      "text": "They then mistakenly assume the tiny slice of the universe they advertise to is the entire available market."
+    },
+    {
+      "start": 622.44,
+      "end": 624.02,
+      "text": "This is why most businesses stay small."
+    },
+    {
+      "start": 624.26,
+      "end": 626.48,
+      "text": "When they plateau, they think there's no more leads to get."
+    },
+    {
+      "start": 626.72,
+      "end": 634.06,
+      "text": "They believe they got as big as they possibly can, because for many, saying, \"I'm as big as I can get,\" is much easier than saying, \"I'm not as good at advertising as I thought.\""
+    },
+    {
+      "start": 634.36,
+      "end": 637.34,
+      "text": "This false argument keeps entrepreneurs everywhere poorer than they should be."
+    },
+    {
+      "start": 637.94,
+      "end": 638.74,
+      "text": "When to do new."
+    },
+    {
+      "start": 639.48,
+      "end": 645.04,
+      "text": "When the returns you get from doing more better are lower than what you could do from a new placement or new way of advertising."
+    },
+    {
+      "start": 645.26,
+      "end": 651.12,
+      "text": "There are many other slices of attention and potential leads sitting just inside the tiny universe of post content."
+    },
+    {
+      "start": 651.76,
+      "end": 656.2,
+      "text": "They could add new placements since many platforms have multiple places or forms of content."
+    },
+    {
+      "start": 656.48,
+      "end": 659.82,
+      "text": "For example, on Instagram, you can make stories, message ads, and posts."
+    },
+    {
+      "start": 660.18,
+      "end": 662.62,
+      "text": "On YouTube, you can make shorts, longs, community posts, et cetera."
+    },
+    {
+      "start": 663.02,
+      "end": 664.36,
+      "text": "Or they could add a new platform."
+    },
+    {
+      "start": 665.06,
+      "end": 667.16,
+      "text": "They could go from Instagram Messenger to Facebook Messenger."
+    },
+    {
+      "start": 667.2,
+      "end": 670.02,
+      "text": "They could go from YouTube Shorts to Instagram Shorts, et cetera."
+    },
+    {
+      "start": 670.82,
+      "end": 674.74,
+      "text": "And once they've exhausted those, they could add an entirely new core four activity."
+    },
+    {
+      "start": 675.16,
+      "end": 681.62,
+      "text": "And if you're curious, the order I pick my next new comes down to one thing: what will get me the most leads for the least amount of work?"
+    },
+    {
+      "start": 681.94,
+      "end": 682.7,
+      "text": "That is the rule."
+    },
+    {
+      "start": 683.08,
+      "end": 689.88,
+      "text": "And nine times out of 10, it goes like this: new placements, then new platforms, then new core four."
+    },
+    {
+      "start": 690.22,
+      "end": 697.92,
+      "text": "Bottom line, no matter how you advertise, you could do it in new ways, different styles of content, or new places, think other platforms."
+    },
+    {
+      "start": 698.34,
+      "end": 705.62,
+      "text": "Then finally, do a new core four activity altogether, and you guessed it, each of them gets us what we want, more leads."
+    },
+    {
+      "start": 706.28,
+      "end": 710.26,
+      "text": "Now, this is much harder in practice, which is why we exhaust more better first."
+    },
+    {
+      "start": 710.72,
+      "end": 716.54,
+      "text": "But at a certain point, you have to expand to new placements, platforms, and core four activities to get more people to know about your stuff."
+    },
+    {
+      "start": 717.48,
+      "end": 719.88,
+      "text": "Action step: exhaust more better first."
+    },
+    {
+      "start": 720.32,
+      "end": 726.8,
+      "text": "Once you can't do any more, any better, meaning the returns are lower than putting the same effort into a new platform, then try new."
+    },
+    {
+      "start": 727.44,
+      "end": 728.22,
+      "text": "Use this rough order."
+    },
+    {
+      "start": 728.9,
+      "end": 732.06,
+      "text": "New placement, new platform, new core four activity."
+    },
+    {
+      "start": 732.58,
+      "end": 736.4,
+      "text": "Get it going, measure how you do, and scale up from there using more better."
+    },
+    {
+      "start": 736.66,
+      "end": 737.98,
+      "text": "Then rinse and repeat."
+    },
+    {
+      "start": 738.84,
+      "end": 739.66,
+      "text": "More better new summary."
+    },
+    {
+      "start": 740.36,
+      "end": 742.92,
+      "text": "First, you do way more of the advertising that works until it breaks."
+    },
+    {
+      "start": 743.4,
+      "end": 745.12,
+      "text": "Then the next drop-off point becomes obvious."
+    },
+    {
+      "start": 745.68,
+      "end": 749.7,
+      "text": "Then you keep that level of advertising up while you go back, fix the constraint, and make it better."
+    },
+    {
+      "start": 750.2,
+      "end": 753.24,
+      "text": "So really, better and more work with each other more than they work separately."
+    },
+    {
+      "start": 753.62,
+      "end": 759.68,
+      "text": "The first question I usually ask myself before we invest in a company that needs to get more customers is, what's stopping them from doing 10 times what they're currently doing?"
+    },
+    {
+      "start": 760.26,
+      "end": 762.34,
+      "text": "Sometimes nothing, so we just do more."
+    },
+    {
+      "start": 762.8,
+      "end": 764.82,
+      "text": "Other times, we need to make something better first."
+    },
+    {
+      "start": 765.42,
+      "end": 767.34,
+      "text": "So answer that question, and you'll know what to do next."
+    },
+    {
+      "start": 767.9,
+      "end": 770.88,
+      "text": "Only once you've exhausted more better do the real returns come from doing new."
+    },
+    {
+      "start": 771.38,
+      "end": 773.82,
+      "text": "First, go with new ad placements on a platform you know."
+    },
+    {
+      "start": 774.18,
+      "end": 777.28,
+      "text": "Second, go with placements you know on a new platform."
+    },
+    {
+      "start": 778.32,
+      "end": 781.5,
+      "text": "Then once you get the hang of the new platform, use new placements on it."
+    },
+    {
+      "start": 782.16,
+      "end": 785.46,
+      "text": "Once you exhaust that, you can add a new core four activity on top of what you currently do."
+    },
+    {
+      "start": 785.8,
+      "end": 790.12,
+      "text": "That gives you my simple, real-world way I put the core four on steroids to get even more leads."
+    },
+    {
+      "start": 790.82,
+      "end": 791.42,
+      "text": "Conclusion."
+    },
+    {
+      "start": 792.42,
+      "end": 793.98,
+      "text": "Advertising is the process of making known."
+    },
+    {
+      "start": 794.5,
+      "end": 796.88,
+      "text": "It's what we do to let strangers know about the stuff we sell."
+    },
+    {
+      "start": 797.36,
+      "end": 800.16,
+      "text": "Now, we solved the stuff problem with your lead magnet or offer."
+    },
+    {
+      "start": 800.66,
+      "end": 803.34,
+      "text": "To get them to turn into engaged leads, you have to tell them about it."
+    },
+    {
+      "start": 803.82,
+      "end": 808.96,
+      "text": "So we spent this section going over the only four ways a single person can advertise, let other people know about their stuff."
+    },
+    {
+      "start": 809.32,
+      "end": 811.9,
+      "text": "And to do it, you trade either time, money, or both."
+    },
+    {
+      "start": 812.24,
+      "end": 816.76,
+      "text": "And when you do it, you can advertise to people who know you, warm, or you can advertise to strangers, cold."
+    },
+    {
+      "start": 817.14,
+      "end": 820.78,
+      "text": "And you can advertise publicly, content or ads, or privately, through outreach."
+    },
+    {
+      "start": 821.8,
+      "end": 822.88,
+      "text": "As far as what to do when."
+    },
+    {
+      "start": 824.0,
+      "end": 826.1,
+      "text": "Whenever I build a business, I think about it this way."
+    },
+    {
+      "start": 826.74,
+      "end": 831.9,
+      "text": "After I do warm outreach to get my pool of customers going, if I have more time than money, I move to posting content."
+    },
+    {
+      "start": 832.36,
+      "end": 835.12,
+      "text": "If I have more money than time, I go with cold outreach or running paid ads."
+    },
+    {
+      "start": 835.66,
+      "end": 840.84,
+      "text": "But remember, you only need to do one to get engaged leads, so just pick one, then max it out."
+    },
+    {
+      "start": 841.3,
+      "end": 843.56,
+      "text": "Do more, do better, do new."
+    },
+    {
+      "start": 844.0,
+      "end": 845.78,
+      "text": "And all the advertising methods compound together."
+    },
+    {
+      "start": 846.08,
+      "end": 850.16,
+      "text": "The money, the systems, and experience you earn from the prior method will help you master the next one."
+    },
+    {
+      "start": 850.54,
+      "end": 855.9,
+      "text": "A business that posts free content and runs paid ads will get more out of their ads and their content than a business that only does one or the other."
+    },
+    {
+      "start": 856.44,
+      "end": 862.28,
+      "text": "A business that does cold outreach and makes content will get more from their cold outreach and work their warm leads better than one that does only one."
+    },
+    {
+      "start": 862.76,
+      "end": 866.2,
+      "text": "Every combination of the core four advertising activities boost each other in some way."
+    },
+    {
+      "start": 866.9,
+      "end": 868.6,
+      "text": "And as a personal note, I've done them all."
+    },
+    {
+      "start": 869.14,
+      "end": 871.58,
+      "text": "I built my first business off posting content and warm outreach."
+    },
+    {
+      "start": 871.74,
+      "end": 873.6,
+      "text": "I built my gyms off free content and paid ads."
+    },
+    {
+      "start": 874.0,
+      "end": 876.04,
+      "text": "I built Gym Launch off paid ads and cold outreach."
+    },
+    {
+      "start": 876.42,
+      "end": 879.2,
+      "text": "I built Prestige Labs off affiliates, which we'll cover in section four."
+    },
+    {
+      "start": 879.64,
+      "end": 882.4,
+      "text": "I built Alan off paid ads and affiliates, also section four."
+    },
+    {
+      "start": 882.94,
+      "end": 884.82,
+      "text": "I built acquisition.com off posting content."
+    },
+    {
+      "start": 885.22,
+      "end": 886.76,
+      "text": "There are many ways to get engaged leads."
+    },
+    {
+      "start": 886.94,
+      "end": 889.44,
+      "text": "If you master one, you'll be able to feed yourself for the rest of your life."
+    },
+    {
+      "start": 889.72,
+      "end": 890.9,
+      "text": "They all work if you do."
+    },
+    {
+      "start": 892.06,
+      "end": 895.76,
+      "text": "Next up, if you follow the steps in this book, you'll run out of hours in the day."
+    },
+    {
+      "start": 896.06,
+      "end": 899.42,
+      "text": "You won't be able to do any more, any better, let alone add anything new."
+    },
+    {
+      "start": 900.04,
+      "end": 902.34,
+      "text": "So you'll need help on your journey to the land of endless leads."
+    },
+    {
+      "start": 902.58,
+      "end": 903.3,
+      "text": "You'll need allies."
+    },
+    {
+      "start": 903.64,
+      "end": 908.3,
+      "text": "Those allies come in four different flavors, and since there are more of them than there are of you, they're the key to getting there."
+    },
+    {
+      "start": 908.54,
+      "end": 909.2,
+      "text": "So let's go get them."
+    },
+    {
+      "start": 910.38,
+      "end": 910.82,
+      "text": "Free gift."
+    },
+    {
+      "start": 911.26,
+      "end": 913.16,
+      "text": "Bonus training, more, better, new."
+    },
+    {
+      "start": 913.88,
+      "end": 916.4,
+      "text": "This is one of my favorite topics around scaling businesses."
+    },
+    {
+      "start": 916.98,
+      "end": 921.0,
+      "text": "Our portfolio CEOs cite this as one of the most impactful frameworks I've given them."
+    },
+    {
+      "start": 921.5,
+      "end": 928.7,
+      "text": "If you want to see a video version of me breaking this down, you can find it here for free as always at acquisition.com/training/leads."
+    },
+    {
+      "start": 929.94,
+      "end": 938.48,
+      "text": "As simple as what you just heard was, that framework of more, better, new is exactly how I approach every advertising campaign in every single company, which is, can we do more?"
+    },
+    {
+      "start": 938.78,
+      "end": 939.4,
+      "text": "Can we do better?"
+    },
+    {
+      "start": 939.84,
+      "end": 941.94,
+      "text": "And I go back and say, \"Why can't we do more?"
+    },
+    {
+      "start": 942.08,
+      "end": 942.8,
+      "text": "Why can't we do better?\""
+    },
+    {
+      "start": 942.92,
+      "end": 943.72,
+      "text": "before doing new."
+    },
+    {
+      "start": 944.2,
+      "end": 946.52,
+      "text": "But if you need to do new, you might as well know how to do it well."
+    },
+    {
+      "start": 946.92,
+      "end": 950.56,
+      "text": "And hopefully, that gave you a little bit of a taste of how to do that for your own business."
+    },
+    {
+      "start": 951.0,
+      "end": 956.48,
+      "text": "And if you enjoyed that and you think you could use that in your own business, then it means it'd probably be useful to somebody else."
+    },
+    {
+      "start": 956.74,
+      "end": 965.8,
+      "text": "And so if you could take the two seconds, hit the share button, text it to a friend, post it to your story, it would mean the absolute world to me, because after all, this whole thing, I made absolutely free rather than trying to monetize it."
+    },
+    {
+      "start": 965.94,
+      "end": 966.52,
+      "text": "Hope you enjoy."
+    },
+    {
+      "start": 967.06,
+      "end": 971.22,
+      "text": "And next, we have, uh, section four, which begins the lead getter section."
+    },
+    {
+      "start": 971.58,
+      "end": 980.48,
+      "text": "All right, so I almost wrote this entire book to get to the lead getter section because today, almost all the leads I get are from the next four ways that I introduced advertising."
+    },
+    {
+      "start": 980.52,
+      "end": 985.92,
+      "text": "But I had to explain the fundamentals, which is the core four, in order to explain the next four lead getters."
+    },
+    {
+      "start": 986.34,
+      "end": 992.08,
+      "text": "And, uh, this is, I mean, when I advertise this book, I use predominantly the back half of the book to advertise the book."
+    },
+    {
+      "start": 992.5,
+      "end": 997.08,
+      "text": "I advertised using the first half just to show that I could do it and to demonstrate that it worked."
+    },
+    {
+      "start": 997.42,
+      "end": 1006.5,
+      "text": "But where you go from 100 leads a day to 20,000 leads a day comes from leverage, and that comes from the back half of the book, and the beginning of that is next episode, so you won't want to miss it."
+    },
+    {
+      "start": 1009.18,
+      "end": 1014.16,
+      "text": "This has been \"100 Million Dollar Leads,\" written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 1014.36,
+      "end": 1016.84,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 1017.12,
+      "end": 1020.9,
+      "text": "Audio production copyright 2023, acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "78db87cac5b3896373625213b53b706e375d2d6e14e47429e4e499570c776953",
+  "audio_duration_sec": 1023.399184,
+  "elapsed_sec": 10.6,
+  "created": "2026-11-16T03:06:28+00:00"
+}

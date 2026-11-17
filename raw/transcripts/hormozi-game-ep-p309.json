@@ -1,0 +1,562 @@
+{
+  "source_id": "hormozi-game-ep-p309",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 3.4,
+      "text": "So, many people like to think, like, do you believe in what you are selling, right?"
+    },
+    {
+      "start": 3.5,
+      "end": 7.52,
+      "text": "They ask the question as though it's a binary answer, yes or no, I believe or I don't believe."
+    },
+    {
+      "start": 7.96,
+      "end": 10.58,
+      "text": "But it would be much more accurate to say, to what extent do you believe it?"
+    },
+    {
+      "start": 11.18,
+      "end": 17.76,
+      "text": "Welcome to the game, where we talk about how to get more customers, how to make more per customer, and how to keep them longer, and the many failures and lessons we have learned along the way."
+    },
+    {
+      "start": 17.88,
+      "end": 19.16,
+      "text": "I hope you enjoy and subscribe."
+    },
+    {
+      "start": 20.54,
+      "end": 24.42,
+      "text": "In this video, I want to talk to you about how to close a higher percentage of deals and how to close more deals overall."
+    },
+    {
+      "start": 24.8,
+      "end": 27.52,
+      "text": "And it's all centered around a single concept, which is the belief continuum."
+    },
+    {
+      "start": 27.94,
+      "end": 32.48,
+      "text": "All right, and so if you think about this visual that I have right here, so you've got your salesman here, and you've got your prospect here, right?"
+    },
+    {
+      "start": 32.88,
+      "end": 34.34,
+      "text": "And you see this bubble that I put over their head."
+    },
+    {
+      "start": 34.38,
+      "end": 38.28,
+      "text": "The prospect has no bubble inside, it's completely empty, and they might have a negative bubble as well."
+    },
+    {
+      "start": 38.68,
+      "end": 40.78,
+      "text": "And then you've got the salesman who's got his belief bubble."
+    },
+    {
+      "start": 41.24,
+      "end": 44.42,
+      "text": "So, many people like to think, like, do you believe in what you are selling, right?"
+    },
+    {
+      "start": 44.5,
+      "end": 48.56,
+      "text": "They ask the question as though it's a binary answer, yes or no, I believe or I don't believe."
+    },
+    {
+      "start": 48.96,
+      "end": 52.08,
+      "text": "But it would be much more accurate to say, to what extent do you believe it, right?"
+    },
+    {
+      "start": 52.14,
+      "end": 55.48,
+      "text": "Because belief is not a binary question, it is a continuum."
+    },
+    {
+      "start": 55.54,
+      "end": 58.08,
+      "text": "It is how much do you believe in what you are selling?"
+    },
+    {
+      "start": 58.34,
+      "end": 65.58,
+      "text": "Because if you thoroughly, 100% believe with all of your heart and mind that what you are selling is true, I guarantee you that you will sell significantly more."
+    },
+    {
+      "start": 65.88,
+      "end": 71.04,
+      "text": "And so what I want to show you is these two equations, um, that I wrote down as simple equations for how to actually sell."
+    },
+    {
+      "start": 71.42,
+      "end": 78.82,
+      "text": "And so many people focus, I would say a disproportionate amount of people focus on the skill of selling, and there absolutely is a skill to sales."
+    },
+    {
+      "start": 78.86,
+      "end": 81.04,
+      "text": "You have to know exactly what to say, and you have to know how to say it."
+    },
+    {
+      "start": 81.44,
+      "end": 86.36,
+      "text": "But you can shortcut that path to success by having conviction."
+    },
+    {
+      "start": 86.72,
+      "end": 101.96,
+      "text": "And the way that you have conviction is by, A, dramatically understanding the, the needs of your prospect so that when you are talking to somebody, you know exactly what their problem is, so that if your product perfectly matches their problem, you can have conviction in order to sell it."
+    },
+    {
+      "start": 102.28,
+      "end": 113.76,
+      "text": "Most salespeople don't even listen to the prospect at all and simply want to deliver their pitch, which inherently means that they can't believe in the product that much because they're not even thinking about whether it solves the problem for the prospect."
+    },
+    {
+      "start": 114.0,
+      "end": 117.6,
+      "text": "Because you can't be convicted that it's going to solve the problem if you don't even know what the problem is."
+    },
+    {
+      "start": 117.86,
+      "end": 120.18,
+      "text": "And so they haven't taken any time to understand the prospect."
+    },
+    {
+      "start": 120.62,
+      "end": 135.2,
+      "text": "Most sales training should be-- is currently focused on educating salesmen around the product when it should be most of them-- most of the time focused on educating the salesman around the prospect and their problems, not the product."
+    },
+    {
+      "start": 135.56,
+      "end": 135.78,
+      "text": "All right?"
+    },
+    {
+      "start": 135.98,
+      "end": 143.04,
+      "text": "Key understanding shift that has to happen when you're educating a sales team and/or yourself, especially if you're entering a market that you are not the avatar, right?"
+    },
+    {
+      "start": 143.08,
+      "end": 161.22,
+      "text": "One of the reasons that many successful businesses happen from somebody who suffered from a pain and then went to go solve it for themselves and then ended up solving it for other people is because they desperately and, and, and they so clearly understand the thoughts, needs, and pains of the prospect, and they know how the product solves those problems, right?"
+    },
+    {
+      "start": 161.6,
+      "end": 165.38,
+      "text": "And so the first equation here is for increasing closing percentage."
+    },
+    {
+      "start": 165.62,
+      "end": 173.58,
+      "text": "And so if it's you that's selling or if it's a sales team that's selling, it's the skill of skill-- sales multiplied by the extent to which you believe."
+    },
+    {
+      "start": 173.9,
+      "end": 175.66,
+      "text": "It is not yes, I believe, no, I believe."
+    },
+    {
+      "start": 176.04,
+      "end": 179.12,
+      "text": "This number can be 100, right?"
+    },
+    {
+      "start": 179.78,
+      "end": 185.1,
+      "text": "And the thing is, is that I believe that this number of conviction can grow far higher than what skill can give you."
+    },
+    {
+      "start": 185.28,
+      "end": 189.32,
+      "text": "You can be a very skilled salesman, but let's say the skill of sales is 1 to 10, right?"
+    },
+    {
+      "start": 190.62,
+      "end": 191.98,
+      "text": "I'll put this on here so everyone can see it."
+    },
+    {
+      "start": 192.24,
+      "end": 193.96,
+      "text": "Let's say your skill of sales can be 1 to 10."
+    },
+    {
+      "start": 194.46,
+      "end": 199.8,
+      "text": "I believe that your skill, your, your beliefs around conviction can be 1 to 100, right?"
+    },
+    {
+      "start": 200.0,
+      "end": 205.2,
+      "text": "So even if your skill of sales is a 2, you could have 100 belief, and I guarantee you that you will close."
+    },
+    {
+      "start": 205.54,
+      "end": 215.44,
+      "text": "Because people can sense whether you believe what you are telling them is true, and they believe that what you are selling them is going to solve their problem, right?"
+    },
+    {
+      "start": 215.76,
+      "end": 223.82,
+      "text": "And so most people, most sales teams, most sales managers do not focus enough on this bubble, which is conviction, which is this part of the equation, right?"
+    },
+    {
+      "start": 224.16,
+      "end": 227.54,
+      "text": "If you think about what sales is, it's fundamentally a transference of belief."
+    },
+    {
+      "start": 227.84,
+      "end": 231.0,
+      "text": "And so how can you, how can you transfer an empty cup?"
+    },
+    {
+      "start": 231.32,
+      "end": 242.96,
+      "text": "How can you transfer a cup that is only one-third full into another empty cup and expect it to be over the threshold of the amount of belief that's necessary to-- and that's required for a prospect to make, make a purchasing decision?"
+    },
+    {
+      "start": 243.38,
+      "end": 244.6,
+      "text": "Of course not, right?"
+    },
+    {
+      "start": 244.84,
+      "end": 251.92,
+      "text": "And so we still try and get the person to say a certain thing or pause in this way or have this tonality or this emphasis, and that is important, right?"
+    },
+    {
+      "start": 251.96,
+      "end": 253.36,
+      "text": "And, and there's definitely a place for that."
+    },
+    {
+      "start": 253.4,
+      "end": 269.62,
+      "text": "You have to have the basis of sales in place, but a much, much bigger lever that is often and most un-underutilized or unutilized at all is the conviction or the extent to which the salesman believes in what they are selling and to what extent it can help solve the prospect's problem."
+    },
+    {
+      "start": 272.02,
+      "end": 275.6,
+      "text": "Hey guys, real quick, if you're new to the podcast, I have a book on Amazon."
+    },
+    {
+      "start": 275.96,
+      "end": 277.38,
+      "text": "It's called 100 Million Dollar Offers."
+    },
+    {
+      "start": 277.42,
+      "end": 280.46,
+      "text": "It has over 8,000 five-star reviews, and it has almost a perfect score."
+    },
+    {
+      "start": 280.54,
+      "end": 282.08,
+      "text": "You can get it for 99 cents on Kindle."
+    },
+    {
+      "start": 282.46,
+      "end": 287.56,
+      "text": "The reason I bring it up is that I put over 1,000 hours into writing that book, and it's my biggest gift to our community."
+    },
+    {
+      "start": 287.66,
+      "end": 295.84,
+      "text": "So it's my very shameless way of trying to get you to like me more and ultimately make more dollars so that later on in your business career, I can potentially partner with you."
+    },
+    {
+      "start": 295.9,
+      "end": 296.9,
+      "text": "So that's my gift."
+    },
+    {
+      "start": 296.94,
+      "end": 299.58,
+      "text": "Go check it out, Amazon, and back to the show."
+    },
+    {
+      "start": 302.34,
+      "end": 302.52,
+      "text": "All right?"
+    },
+    {
+      "start": 302.92,
+      "end": 306.08,
+      "text": "And so that will influence the closing percentage of an individual or team."
+    },
+    {
+      "start": 306.48,
+      "end": 309.16,
+      "text": "The second piece is going to be the work ethic, right?"
+    },
+    {
+      "start": 309.48,
+      "end": 317.08,
+      "text": "So a lot of people have probably seen really good closers versus really bad closers based on their closing percentage, but also total number of deals closed."
+    },
+    {
+      "start": 317.82,
+      "end": 324.38,
+      "text": "Personally, when you have somebody who has really high work ethic, then they can make up for a lower closing percentage by having more activity."
+    },
+    {
+      "start": 324.7,
+      "end": 327.24,
+      "text": "So that means that they are following up with their pipeline faster."
+    },
+    {
+      "start": 327.28,
+      "end": 329.1,
+      "text": "They are following up more times, right?"
+    },
+    {
+      "start": 329.16,
+      "end": 337.26,
+      "text": "They are reaching out to people on their own, in their own time, to give themselves more opportunities, and they can compensate for a lower closing percentage by simply having more at-bats, right?"
+    },
+    {
+      "start": 337.6,
+      "end": 345.02,
+      "text": "And so if you think about the expert salesman as having these two things together, which is you want to have a high closing percentage, and you want to have lots of units sold, all right?"
+    },
+    {
+      "start": 345.32,
+      "end": 347.02,
+      "text": "And so there's three variables here."
+    },
+    {
+      "start": 347.08,
+      "end": 349.52,
+      "text": "You've got skill, you've got conviction, and you've got work ethic."
+    },
+    {
+      "start": 349.78,
+      "end": 351.14,
+      "text": "But conviction counts twice."
+    },
+    {
+      "start": 351.78,
+      "end": 356.3,
+      "text": "Because if you believe that what you are selling is genuinely going to help people, you will follow up faster."
+    },
+    {
+      "start": 356.34,
+      "end": 357.76,
+      "text": "You will follow up more religiously."
+    },
+    {
+      "start": 358.02,
+      "end": 361.0,
+      "text": "You will follow up as though you were trying to help someone."
+    },
+    {
+      "start": 361.6,
+      "end": 364.74,
+      "text": "And so let me, let me ask you this question as a, as a good mental thought process."
+    },
+    {
+      "start": 365.24,
+      "end": 374.8,
+      "text": "If you could go back in time, let's say you could go back in time five years, and you could talk to yourself and say, \"Hey, I want you to put 100% of the money that we have,\" right?"
+    },
+    {
+      "start": 374.94,
+      "end": 380.22,
+      "text": "Now, mind you, you can't-- you couldn't tell the person that is you, your past self, that you are you in the future, right?"
+    },
+    {
+      "start": 380.28,
+      "end": 381.84,
+      "text": "So you, you can't say anything like that."
+    },
+    {
+      "start": 382.14,
+      "end": 387.1,
+      "text": "But in this thought experiment, and you went back in time and you said, \"Hey, we've got this money in the bank account."
+    },
+    {
+      "start": 387.16,
+      "end": 389.94,
+      "text": "I want you to put 100% of money into this thing called Bitcoin,\" right?"
+    },
+    {
+      "start": 389.98,
+      "end": 392.3,
+      "text": "\"I want you to put 100% of money into something called Amazon."
+    },
+    {
+      "start": 392.36,
+      "end": 394.72,
+      "text": "I want you to put all of that money into Tesla,\" or whatever, right?"
+    },
+    {
+      "start": 394.78,
+      "end": 396.94,
+      "text": "Something that blew up over the last five years, all right?"
+    },
+    {
+      "start": 397.46,
+      "end": 404.24,
+      "text": "If you were to tell yourself that, let's say you were talking to you, and you were like, \"Um, I'm good."
+    },
+    {
+      "start": 404.64,
+      "end": 405.6,
+      "text": "Thanks,\" right?"
+    },
+    {
+      "start": 406.16,
+      "end": 414.24,
+      "text": "How many times would you follow up with yourself to get yourself to do that thing or do that action or make that investment?"
+    },
+    {
+      "start": 415.04,
+      "end": 415.6,
+      "text": "A lot."
+    },
+    {
+      "start": 416.16,
+      "end": 427.28,
+      "text": "And it's because you truly believe that it would solve your prospect's problem, and you have pure conviction that what you are selling them, the investment, the opportunity, the whatever it is, is 100% going to work."
+    },
+    {
+      "start": 428.18,
+      "end": 429.7,
+      "text": "Think about how you would approach that."
+    },
+    {
+      "start": 429.96,
+      "end": 431.3,
+      "text": "How many times would you follow up?"
+    },
+    {
+      "start": 431.66,
+      "end": 433.92,
+      "text": "How, how convicted would you be when you spoke?"
+    },
+    {
+      "start": 434.16,
+      "end": 439.32,
+      "text": "Would you even be focused on the skill of selling, or would you be focusing on how true what you say is?"
+    },
+    {
+      "start": 440.28,
+      "end": 465.56,
+      "text": "And if you can make that perspective shift, and if you are a sales manager and you're trying to manage a sales team, I would implore you to focus way more of your time around the thing that counts twice in the equation of selling and creating great salespeople, which is the belief to which the extent, the extent to which they believe what they are selling and to whom they are selling than, than, than, than boring with the, with the, uh, the, the monotony of the skill, which, which, don't get me wrong, it is very important to sell."
+    },
+    {
+      "start": 465.58,
+      "end": 468.42,
+      "text": "There's lots of videos that you've probably heard where I talk about the skill of sales."
+    },
+    {
+      "start": 469.3,
+      "end": 475.08,
+      "text": "But I think when you, when you rate this, and you were to-- in, in a forced multiplication standpoint, I don't think that they are equated."
+    },
+    {
+      "start": 475.16,
+      "end": 476.8,
+      "text": "I don't think they are equivalent, right?"
+    },
+    {
+      "start": 477.06,
+      "end": 485.52,
+      "text": "And the, the proof that I have in this is that if you look at every single religious, you know, movement, you are selling something very hard to sell, which is a completely new frame of view around the world."
+    },
+    {
+      "start": 486.02,
+      "end": 490.12,
+      "text": "The people who believe this, many times they don't train them in the skill of selling."
+    },
+    {
+      "start": 490.56,
+      "end": 494.92,
+      "text": "They just get them to believe wholeheartedly in what they are selling, right?"
+    },
+    {
+      "start": 495.16,
+      "end": 505.78,
+      "text": "And so if your salesman and your sales team are not drinking the Kool-Aid quite literally of the products that you sell or the services that you sell, then that is your problem, not whether or not they are clarifying the problem in the beginning."
+    },
+    {
+      "start": 505.84,
+      "end": 511.88,
+      "text": "Now, they should because they should be listening and they should believe and they should make sure that the, the prospect is, is going to be best served by this, right?"
+    },
+    {
+      "start": 512.3,
+      "end": 515.68,
+      "text": "But big picture, if you fix this, everything else will happen."
+    },
+    {
+      "start": 515.92,
+      "end": 517.74,
+      "text": "And I'll tell you this as the one last story around this."
+    },
+    {
+      "start": 519.32,
+      "end": 530.02,
+      "text": "If you believed wholeheartedly in the, the, the solution that you are selling, would you not then spend lots of time honing your skill?"
+    },
+    {
+      "start": 531.0,
+      "end": 535.36,
+      "text": "Probably, because you would want to help more people because you believe in the thing that you were selling them, right?"
+    },
+    {
+      "start": 535.9,
+      "end": 543.54,
+      "text": "You would prob-- like, would you not, if you believe in this thing wholeheartedly, follow up with as many people as possible, be quick to respond because you know how much it's going to change their life?"
+    },
+    {
+      "start": 544.18,
+      "end": 544.74,
+      "text": "Probably."
+    },
+    {
+      "start": 545.14,
+      "end": 558.1,
+      "text": "And so I think that just like Simon Sinek says, \"Start with why,\" I believe that the skill of sales is fundamentally a transference of belief, and we do need to start with why for salespeople, because it is not a question of whether or not they believe."
+    },
+    {
+      "start": 558.34,
+      "end": 561.1,
+      "text": "It is an ex-- it is the question of to what extent do they believe."
+    },
+    {
+      "start": 561.14,
+      "end": 564.36,
+      "text": "And if you can get that to 100, you will never have problems selling ever again."
+    },
+    {
+      "start": 564.84,
+      "end": 566.1,
+      "text": "So, hope you found this valuable."
+    },
+    {
+      "start": 566.16,
+      "end": 566.88,
+      "text": "Click subscribe."
+    },
+    {
+      "start": 567.16,
+      "end": 568.68,
+      "text": "Lots of love, and I'll see you in the next video."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "dc7088c1e51af1010ef07bf1b9c0f8f8defd21ac62537f2703a833da37b5ef64",
+  "audio_duration_sec": 575.503673,
+  "elapsed_sec": 11.0,
+  "created": "2026-11-16T15:34:50+00:00"
+}

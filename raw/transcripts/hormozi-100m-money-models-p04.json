@@ -1,0 +1,2707 @@
+{
+  "source_id": "hormozi-100m-money-models-p04",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.22,
+      "end": 0.84,
+      "text": "Decoy offer."
+    },
+    {
+      "start": 1.56,
+      "end": 3.06,
+      "text": "Which one do you think will get you the best results?"
+    },
+    {
+      "start": 4.42,
+      "end": 5.48,
+      "text": "June 2014."
+    },
+    {
+      "start": 6.52,
+      "end": 8.12,
+      "text": "John, my second mentor, retired early."
+    },
+    {
+      "start": 8.8,
+      "end": 11.9,
+      "text": "He spent his retirement raising his girls, playing golf, and hanging out at his lake house."
+    },
+    {
+      "start": 12.34,
+      "end": 13.36,
+      "text": "He was a man who had lived."
+    },
+    {
+      "start": 14.26,
+      "end": 32.18,
+      "text": "Once in a while, he'd invite me to his lake house, and on those long drives, he taught me things about life and business I use to this day, like the difference between price and value, the pros and cons of low, low-cost offers, high volume, low price business models, differences between recurring subscriptions and one-time transactions, and the art of keeping things simple in business and life."
+    },
+    {
+      "start": 32.94,
+      "end": 33.76,
+      "text": "John was great company."
+    },
+    {
+      "start": 34.24,
+      "end": 36.3,
+      "text": "I often wished we would drive forever so I could soak everything in."
+    },
+    {
+      "start": 37.02,
+      "end": 41.08,
+      "text": "To him, this was just another story to pass the time, but to me, it was a lesson I would never forget."
+    },
+    {
+      "start": 42.14,
+      "end": 44.28,
+      "text": "The five-day, five-dollar VIP tanning pass."
+    },
+    {
+      "start": 44.74,
+      "end": 52.48,
+      "text": "You see, the beauty of the five-dollar, five-day pass is everyone thinks they can get tan in five days, and they can, but it's never as tan as they want to get."
+    },
+    {
+      "start": 52.94,
+      "end": 55.22,
+      "text": "And if they try to speed things up, they'll burn."
+    },
+    {
+      "start": 55.7,
+      "end": 62.74,
+      "text": "So when someone comes in with a pass, we ask them how tan they want to get, and as soon as they say they want to get a few shades darker, we give them the turkey talk."
+    },
+    {
+      "start": 62.98,
+      "end": 64.0,
+      "text": "I was like, \"What's the turkey talk?\""
+    },
+    {
+      "start": 64.72,
+      "end": 65.72,
+      "text": "John smiled and continued."
+    },
+    {
+      "start": 65.78,
+      "end": 68.54,
+      "text": "\"Say a Thanksgiving turkey takes three hours to cook."
+    },
+    {
+      "start": 69.02,
+      "end": 71.7,
+      "text": "We all know what happens if you double the temperature to cook it in half the time."
+    },
+    {
+      "start": 71.96,
+      "end": 72.42,
+      "text": "You burn it."
+    },
+    {
+      "start": 73.22,
+      "end": 76.6,
+      "text": "It takes at least five to ten sessions to get the color you want without burning."
+    },
+    {
+      "start": 76.96,
+      "end": 80.18,
+      "text": "And since they got to take some time between sessions, it always takes more than five days."
+    },
+    {
+      "start": 80.72,
+      "end": 84.94,
+      "text": "And once they realize that, we say, 'Let's just credit your VIP pass towards your first month."
+    },
+    {
+      "start": 85.22,
+      "end": 90.28,
+      "text": "Why buy so many 25 dollar day passes when members get unlimited access for just 19.99 a month?'"
+    },
+    {
+      "start": 91.0,
+      "end": 92.86,
+      "text": "They immediately see the value and take to membership."
+    },
+    {
+      "start": 93.34,
+      "end": 93.9,
+      "text": "Easy as that.\""
+    },
+    {
+      "start": 94.78,
+      "end": 95.44,
+      "text": "Five years later."
+    },
+    {
+      "start": 96.22,
+      "end": 97.44,
+      "text": "\"Hey, boss, we've got a problem.\""
+    },
+    {
+      "start": 97.94,
+      "end": 98.44,
+      "text": "\"Oh, boy."
+    },
+    {
+      "start": 98.74,
+      "end": 99.04,
+      "text": "What's up?\""
+    },
+    {
+      "start": 99.12,
+      "end": 99.36,
+      "text": "I said."
+    },
+    {
+      "start": 99.48,
+      "end": 102.1,
+      "text": "\"Our fitness leads have gotten way too expensive."
+    },
+    {
+      "start": 102.6,
+      "end": 105.62,
+      "text": "The guys who can sell are still making it work, but most of them are barely breaking even.\""
+    },
+    {
+      "start": 105.62,
+      "end": 106.44,
+      "text": "\"Dang."
+    },
+    {
+      "start": 106.98,
+      "end": 108.64,
+      "text": "So it finally happened,\" I said."
+    },
+    {
+      "start": 108.94,
+      "end": 110.02,
+      "text": "I pressed my hands to my forehead."
+    },
+    {
+      "start": 110.4,
+      "end": 112.42,
+      "text": "I knew this was coming, and the truth is, I was dreading it."
+    },
+    {
+      "start": 113.06,
+      "end": 118.96,
+      "text": "I tried for weeks to put a spin on our previous offer, a new or interesting twist that would buy us time, but our tests had failed so far."
+    },
+    {
+      "start": 118.96,
+      "end": 120.84,
+      "text": "\"You got any offers up your sleeve?\""
+    },
+    {
+      "start": 120.86,
+      "end": 121.18,
+      "text": "he asked."
+    },
+    {
+      "start": 121.82,
+      "end": 124.98,
+      "text": "I racked my brain, then remembered the five-dollar VIP tanning pass."
+    },
+    {
+      "start": 125.52,
+      "end": 126.5,
+      "text": "That might just work."
+    },
+    {
+      "start": 127.18,
+      "end": 133.28,
+      "text": "Why don't we offer something super cheap to get leads, but when they come in, make them a crazy offer that costs more but is a hundred times better?"
+    },
+    {
+      "start": 133.76,
+      "end": 139.24,
+      "text": "They can still take the cheap thing, but we'll just explain that they'll get way better results with the extra accountability, nutrition, etc."
+    },
+    {
+      "start": 139.52,
+      "end": 141.54,
+      "text": "\"Yeah, I can run something like that,\" he said."
+    },
+    {
+      "start": 141.96,
+      "end": 142.54,
+      "text": "A few weeks later."
+    },
+    {
+      "start": 142.64,
+      "end": 144.62,
+      "text": "\"Alex, I think we cracked it.\""
+    },
+    {
+      "start": 145.08,
+      "end": 145.46,
+      "text": "\"Awesome."
+    },
+    {
+      "start": 145.72,
+      "end": 146.38,
+      "text": "Walk me through it.\""
+    },
+    {
+      "start": 146.38,
+      "end": 148.04,
+      "text": "\"So we give two options."
+    },
+    {
+      "start": 148.36,
+      "end": 149.66,
+      "text": "The first option is free."
+    },
+    {
+      "start": 150.36,
+      "end": 151.52,
+      "text": "I give one session per week."
+    },
+    {
+      "start": 151.78,
+      "end": 154.36,
+      "text": "The second option is an ultimate version for 3.99."
+    },
+    {
+      "start": 154.96,
+      "end": 160.22,
+      "text": "It comes with unlimited sessions, one-on-one coaching, more personalized stuff, and a guarantee they'll get results or they repeat the program for free.\""
+    },
+    {
+      "start": 160.24,
+      "end": 162.02,
+      "text": "\"Oh, man, that guarantee is solid."
+    },
+    {
+      "start": 162.4,
+      "end": 163.0,
+      "text": "What's the take rate?\""
+    },
+    {
+      "start": 163.48,
+      "end": 165.78,
+      "text": "\"We got 70 to 80% taking the 3.99 option."
+    },
+    {
+      "start": 165.86,
+      "end": 166.44,
+      "text": "We're crushing it.\""
+    },
+    {
+      "start": 166.72,
+      "end": 167.16,
+      "text": "\"Awesome."
+    },
+    {
+      "start": 167.2,
+      "end": 167.82,
+      "text": "Let's scale it.\""
+    },
+    {
+      "start": 169.14,
+      "end": 171.06,
+      "text": "John was a brilliant salesman and patient teacher."
+    },
+    {
+      "start": 171.44,
+      "end": 176.48,
+      "text": "His philosophy of giving customers what they want now, so you can give them what they need later, shaped many ways I do business."
+    },
+    {
+      "start": 177.14,
+      "end": 178.88,
+      "text": "He also inspired the offer that saved my gyms."
+    },
+    {
+      "start": 179.66,
+      "end": 184.92,
+      "text": "But the most valuable thing I learned from him was this: you have to know what gets results for customers better than they do."
+    },
+    {
+      "start": 185.36,
+      "end": 191.38,
+      "text": "This makes our premium offer the clear solution, and making our premium the clear solution is what decoy offers are all about."
+    },
+    {
+      "start": 192.56,
+      "end": 193.12,
+      "text": "Description."
+    },
+    {
+      "start": 194.12,
+      "end": 196.32,
+      "text": "Decoy offers advertise something free or discounted."
+    },
+    {
+      "start": 196.68,
+      "end": 200.56,
+      "text": "Then, when the lead asks to learn more, you also present a more valuable premium offer."
+    },
+    {
+      "start": 201.0,
+      "end": 204.82,
+      "text": "The premium offer provides more features, benefits, bonuses, guarantees, and so on."
+    },
+    {
+      "start": 205.5,
+      "end": 210.66,
+      "text": "By putting your decoy offers and premium offers side by side, leads can see how much more valuable your premium offer is."
+    },
+    {
+      "start": 211.26,
+      "end": 213.92,
+      "text": "I like decoy offers because they get more customers overall."
+    },
+    {
+      "start": 214.44,
+      "end": 216.82,
+      "text": "They either take the decoy version or the premium version."
+    },
+    {
+      "start": 217.1,
+      "end": 218.62,
+      "text": "If they take the premium version, great."
+    },
+    {
+      "start": 219.0,
+      "end": 220.66,
+      "text": "If they take the decoy, also great."
+    },
+    {
+      "start": 221.16,
+      "end": 224.06,
+      "text": "It gives you time to upgrade them rather than just losing them immediately."
+    },
+    {
+      "start": 224.44,
+      "end": 225.94,
+      "text": "But either way, you can close everyone."
+    },
+    {
+      "start": 226.22,
+      "end": 229.98,
+      "text": "This makes it cheap and profitable to get new customers, and any business can do it."
+    },
+    {
+      "start": 230.56,
+      "end": 231.86,
+      "text": "Here are the steps to make a decoy offer."
+    },
+    {
+      "start": 232.68,
+      "end": 236.44,
+      "text": "Advertise a lesser, smaller, or simpler version of your premium offer as a decoy."
+    },
+    {
+      "start": 237.22,
+      "end": 241.24,
+      "text": "Then, when leads engage, offer both options, but emphasize the premium one."
+    },
+    {
+      "start": 242.74,
+      "end": 243.24,
+      "text": "Examples."
+    },
+    {
+      "start": 244.36,
+      "end": 246.16,
+      "text": "Lemonade stand offer, physical products."
+    },
+    {
+      "start": 246.84,
+      "end": 251.06,
+      "text": "Attraction offer: free week of lemonade or one dollar week of lemonade."
+    },
+    {
+      "start": 251.64,
+      "end": 252.58,
+      "text": "That would be the attraction offer."
+    },
+    {
+      "start": 253.26,
+      "end": 266.64,
+      "text": "Decoy option: you can have this water and powdered lemon and corn syrup, or premium option, the organic, all-natural, vegan, gluten-free, imported Italian lemons, which are cold-pressed and shipped straight to your door."
+    },
+    {
+      "start": 266.94,
+      "end": 268.9,
+      "text": "You'll never need to waste time coming to the store again."
+    },
+    {
+      "start": 269.28,
+      "end": 272.48,
+      "text": "It'll have you feeling like a Labrador puppy chasing butterflies all day."
+    },
+    {
+      "start": 272.52,
+      "end": 276.02,
+      "text": "It also comes with other flavors, like our sparkling rose water lemonade."
+    },
+    {
+      "start": 276.44,
+      "end": 278.2,
+      "text": "Float tank center example, service."
+    },
+    {
+      "start": 278.58,
+      "end": 283.42,
+      "text": "Attraction offer: free six-week stress release or a six dollar six-week stress release."
+    },
+    {
+      "start": 284.32,
+      "end": 289.9,
+      "text": "Decoy option: one float per month with at-home, do-it-yourself stress release exercises."
+    },
+    {
+      "start": 290.42,
+      "end": 296.9,
+      "text": "Premium option: two times per week floats for six weeks, one-on-one consulting, journal, sleep routine, satisfaction guaranteed."
+    },
+    {
+      "start": 298.76,
+      "end": 300.0,
+      "text": "Gym offer, local business."
+    },
+    {
+      "start": 300.48,
+      "end": 305.74,
+      "text": "Attraction offer: free 21-day transformation or 21 dollar 21-day transformation."
+    },
+    {
+      "start": 306.44,
+      "end": 317.08,
+      "text": "Decoy option when they walk in the door: workouts done in a school.com group once a day, a general nutrition plan, can watch recordings, no support, no guarantee."
+    },
+    {
+      "start": 317.98,
+      "end": 325.2,
+      "text": "Premium option: unlimited workouts, a personalized nutrition plan, one-on-one accountability, results guarantee, or you get another 21 days free."
+    },
+    {
+      "start": 327.28,
+      "end": 327.94,
+      "text": "Important notes."
+    },
+    {
+      "start": 328.56,
+      "end": 329.62,
+      "text": "How to make your decoy offer."
+    },
+    {
+      "start": 330.32,
+      "end": 335.14,
+      "text": "Offer fewer components, older models, or less personalized versions of your premium offer."
+    },
+    {
+      "start": 335.58,
+      "end": 336.96,
+      "text": "Also, remove any guarantees."
+    },
+    {
+      "start": 337.64,
+      "end": 340.3,
+      "text": "Your attraction offer only has to get leads to engage, nothing more."
+    },
+    {
+      "start": 341.22,
+      "end": 342.5,
+      "text": "Advertise benefits, not the features."
+    },
+    {
+      "start": 342.78,
+      "end": 344.2,
+      "text": "We want to sell them on the dream outcome."
+    },
+    {
+      "start": 344.4,
+      "end": 347.92,
+      "text": "We advertise a transformation in 21 days, not workouts and meal plans."
+    },
+    {
+      "start": 348.46,
+      "end": 352.38,
+      "text": "Leads get specific product details in the sales presentation, not the advertising."
+    },
+    {
+      "start": 352.9,
+      "end": 357.74,
+      "text": "Private jets and rowboats can both get you to an exotic island, but the premium option is certainly more enjoyable."
+    },
+    {
+      "start": 359.12,
+      "end": 360.82,
+      "text": "You can advertise discounts in four ways."
+    },
+    {
+      "start": 361.4,
+      "end": 363.78,
+      "text": "So let's say you have a year-long thing that costs 100 dollars a month."
+    },
+    {
+      "start": 364.24,
+      "end": 367.5,
+      "text": "If you wanted to have them pay 900 dollars for the year, you could say..."
+    },
+    {
+      "start": 368.47,
+      "end": 370.43,
+      "text": "One, percentage off, 25% off."
+    },
+    {
+      "start": 370.85,
+      "end": 373.11,
+      "text": "Two, an absolute amount off, 300 dollars off."
+    },
+    {
+      "start": 373.73,
+      "end": 376.33,
+      "text": "Three, a free portion, so three months free."
+    },
+    {
+      "start": 376.77,
+      "end": 381.09,
+      "text": "Or four, total package, one year for 900 dollars, which you cross out 1200 dollars above it."
+    },
+    {
+      "start": 381.57,
+      "end": 382.57,
+      "text": "They all mean the same thing."
+    },
+    {
+      "start": 383.07,
+      "end": 385.61,
+      "text": "It's worth testing to see which one converts better in your market."
+    },
+    {
+      "start": 386.39,
+      "end": 387.91,
+      "text": "Make the contrast huge."
+    },
+    {
+      "start": 388.53,
+      "end": 393.17,
+      "text": "The value of the premium option comes from the huge difference between it with the decoy option."
+    },
+    {
+      "start": 393.49,
+      "end": 398.49,
+      "text": "So make the decoy option as basic as reasonable, then make the premium option as awesome as possible."
+    },
+    {
+      "start": 399.03,
+      "end": 402.01,
+      "text": "The bigger the contrast, the better the deal, the more customers will take it."
+    },
+    {
+      "start": 402.83,
+      "end": 405.25,
+      "text": "Discount offers have higher show-up rates than free offers."
+    },
+    {
+      "start": 406.05,
+      "end": 409.31,
+      "text": "In my experience, if you run a free attraction offer, you'll get more leads."
+    },
+    {
+      "start": 409.63,
+      "end": 412.75,
+      "text": "If you run a discount offer, you'll get fewer leads, but a higher percentage will show up."
+    },
+    {
+      "start": 413.27,
+      "end": 416.09,
+      "text": "So if you have low show-up rates for appointments, try a discount offer instead."
+    },
+    {
+      "start": 416.61,
+      "end": 419.79,
+      "text": "This is especially important for businesses where you have high cost of someone not showing up."
+    },
+    {
+      "start": 419.99,
+      "end": 421.61,
+      "text": "Think doctors, lawyers, dentists, etc."
+    },
+    {
+      "start": 423.27,
+      "end": 425.53,
+      "text": "If possible, present the premium offer first."
+    },
+    {
+      "start": 426.03,
+      "end": 428.53,
+      "text": "In a perfect world, they take the premium offer immediately."
+    },
+    {
+      "start": 428.95,
+      "end": 430.65,
+      "text": "The decoy offer stays in your back pocket."
+    },
+    {
+      "start": 431.21,
+      "end": 437.55,
+      "text": "If they come in specifically asking for the decoy option upfront, then get them to give you permission to sell to them."
+    },
+    {
+      "start": 438.51,
+      "end": 441.71,
+      "text": "If they ask to hear about your decoy, you are legally required to present it."
+    },
+    {
+      "start": 442.31,
+      "end": 444.83,
+      "text": "Or if you prefer to present it first, here's how I like to do it."
+    },
+    {
+      "start": 446.25,
+      "end": 449.43,
+      "text": "I ask them this simple question, \"Are you here for free stuff or lasting results?\""
+    },
+    {
+      "start": 450.39,
+      "end": 453.63,
+      "text": "And as soon as they say results, which most people do, skip to your premium offer."
+    },
+    {
+      "start": 454.27,
+      "end": 458.41,
+      "text": "If they say free stuff, present the decoy offer, then immediately contrast it with your premium offer."
+    },
+    {
+      "start": 458.89,
+      "end": 464.23,
+      "text": "Then only after presenting both, ask them, \"Which do you think will get you to your goal faster?\""
+    },
+    {
+      "start": 464.79,
+      "end": 470.55,
+      "text": "Or, \"Which would you prefer, the less valuable thing or YYY more valuable thing, benefit one, two, three?\""
+    },
+    {
+      "start": 471.21,
+      "end": 473.15,
+      "text": "At this point, they'll have to say the premium offer."
+    },
+    {
+      "start": 473.27,
+      "end": 476.35,
+      "text": "Then you can move forward in the sale, mutually agreeing it's the best for them."
+    },
+    {
+      "start": 477.15,
+      "end": 479.35,
+      "text": "When making your premium offer, get excited about it."
+    },
+    {
+      "start": 479.77,
+      "end": 485.09,
+      "text": "Present it as superior to the decoy offer, because it is, and assuming it is, how it fits the customer better."
+    },
+    {
+      "start": 486.09,
+      "end": 488.93,
+      "text": "Your excitement motivates people to take the option that will get them the best value."
+    },
+    {
+      "start": 489.67,
+      "end": 493.29,
+      "text": "From a selling perspective, you want to talk to the lead as if you already know they will accept your offer."
+    },
+    {
+      "start": 493.81,
+      "end": 496.17,
+      "text": "Many salespeople refer to this as an assumed close."
+    },
+    {
+      "start": 496.65,
+      "end": 498.87,
+      "text": "You operate from a position of, \"This is what everyone does."
+    },
+    {
+      "start": 499.03,
+      "end": 499.95,
+      "text": "This is just a formality."
+    },
+    {
+      "start": 500.09,
+      "end": 502.23,
+      "text": "Let me get your ID and credit card so you can get your value.\""
+    },
+    {
+      "start": 502.67,
+      "end": 505.91,
+      "text": "No hype, just friendly disposition, almost bored of how regularly people buy."
+    },
+    {
+      "start": 507.33,
+      "end": 508.89,
+      "text": "Surprise benefit optional."
+    },
+    {
+      "start": 509.65,
+      "end": 517.19,
+      "text": "To take this a step further, if someone takes the decoy option, you can choose to surprise them with a few or low to zero cost features from your premium offer."
+    },
+    {
+      "start": 517.53,
+      "end": 522.41,
+      "text": "Just say something like, \"Hey, I'm going to throw this in, even though it's part of our premium offer, just because I want you to get great results.\""
+    },
+    {
+      "start": 522.73,
+      "end": 526.23,
+      "text": "This builds goodwill, overdelivers, and increases the chances they take your upsells later."
+    },
+    {
+      "start": 526.33,
+      "end": 527.65,
+      "text": "Remember, they're still leads."
+    },
+    {
+      "start": 528.55,
+      "end": 529.07,
+      "text": "Summary points."
+    },
+    {
+      "start": 530.87,
+      "end": 532.99,
+      "text": "Decoy offers advertise something free or discounted."
+    },
+    {
+      "start": 533.37,
+      "end": 536.69,
+      "text": "Then when leads ask to learn more, you also present a more valuable premium offer."
+    },
+    {
+      "start": 537.65,
+      "end": 543.01,
+      "text": "Two, make the premium offer far more valuable than the decoy option by adding more features, benefits, bonuses, and guarantees."
+    },
+    {
+      "start": 543.85,
+      "end": 545.55,
+      "text": "Strip down your decoy offer as much as reasonable."
+    },
+    {
+      "start": 546.25,
+      "end": 549.35,
+      "text": "When leads ask about your decoy offer, present your premium offer right next to it."
+    },
+    {
+      "start": 550.25,
+      "end": 552.07,
+      "text": "Ask, \"Are you here for free stuff or lasting results?\""
+    },
+    {
+      "start": 552.27,
+      "end": 554.49,
+      "text": "for permission to offer the premium offer first."
+    },
+    {
+      "start": 555.77,
+      "end": 557.79,
+      "text": "You can still make money from leads who pick the decoy option."
+    },
+    {
+      "start": 557.97,
+      "end": 561.27,
+      "text": "You'll learn the best way to deliver your decoy product and maximize the upsells from it."
+    },
+    {
+      "start": 562.21,
+      "end": 565.83,
+      "text": "Expect to make money fast, and if you're not, then make the contrast between offers larger."
+    },
+    {
+      "start": 566.69,
+      "end": 569.19,
+      "text": "Free gift, no opt-in required, decoy offers training."
+    },
+    {
+      "start": 570.17,
+      "end": 573.03,
+      "text": "Decoy offers one of the most flexible attraction offers in any business."
+    },
+    {
+      "start": 573.15,
+      "end": 575.07,
+      "text": "You just need to know more about your customers' problems than they do."
+    },
+    {
+      "start": 575.55,
+      "end": 577.17,
+      "text": "They're also easy to train people to sell."
+    },
+    {
+      "start": 577.83,
+      "end": 579.39,
+      "text": "I've run them in a number of different industries."
+    },
+    {
+      "start": 579.97,
+      "end": 582.65,
+      "text": "If you want to nerd out on the topic, I made a full video breakdown for you."
+    },
+    {
+      "start": 582.79,
+      "end": 585.49,
+      "text": "You can check it out at acquisition.com/training/money."
+    },
+    {
+      "start": 586.09,
+      "end": 587.23,
+      "text": "Buy X, get Y free."
+    },
+    {
+      "start": 587.81,
+      "end": 589.55,
+      "text": "Buy one puppy, get two puppies free."
+    },
+    {
+      "start": 590.87,
+      "end": 592.47,
+      "text": "Downtown Nashville, 2020."
+    },
+    {
+      "start": 593.59,
+      "end": 599.85,
+      "text": "Bars and shops at this popular tourist destination went in and out of business all the time, but one store reigned supreme, Boot Factory."
+    },
+    {
+      "start": 600.45,
+      "end": 603.79,
+      "text": "Their neon sign cut through the visual clutter of the street like a hot knife through butter."
+    },
+    {
+      "start": 604.47,
+      "end": 607.21,
+      "text": "A cowboy boot bigger than my car directed me to the front door."
+    },
+    {
+      "start": 607.71,
+      "end": 610.63,
+      "text": "There was no mistaking what they wanted me to do, so of course, I obeyed."
+    },
+    {
+      "start": 611.25,
+      "end": 616.49,
+      "text": "And as I got closer, I could make out their offer, \"Buy one pair, get two pair free.\""
+    },
+    {
+      "start": 618.01,
+      "end": 623.77,
+      "text": "A decade passed since I'd been to Nashville, but I remember the sign and buy one, get two free offer like it was yesterday."
+    },
+    {
+      "start": 624.67,
+      "end": 626.93,
+      "text": "As a kid on bar crawls, I thought the offer was dumb."
+    },
+    {
+      "start": 627.21,
+      "end": 629.01,
+      "text": "How could they give away so much stuff and stay in business?"
+    },
+    {
+      "start": 629.21,
+      "end": 632.05,
+      "text": "But now, with some offer-making under my belt, I could appreciate it."
+    },
+    {
+      "start": 632.81,
+      "end": 634.51,
+      "text": "I went straight to the men's section and grabbed a boot."
+    },
+    {
+      "start": 635.15,
+      "end": 641.01,
+      "text": "Curious, the price was marked down twice to a final offer of 600 dollars for the pair."
+    },
+    {
+      "start": 641.61,
+      "end": 642.79,
+      "text": "But these were normal-looking boots."
+    },
+    {
+      "start": 643.19,
+      "end": 646.43,
+      "text": "The young me would have scoffed, but the business me realized that I had missed something."
+    },
+    {
+      "start": 646.99,
+      "end": 650.31,
+      "text": "The store got much bigger since the last time I saw it, so the offer clearly worked."
+    },
+    {
+      "start": 650.63,
+      "end": 651.27,
+      "text": "Then it clicked."
+    },
+    {
+      "start": 652.05,
+      "end": 655.97,
+      "text": "They charged three times the price for a single pair of boots because they came with two more pairs."
+    },
+    {
+      "start": 656.47,
+      "end": 661.03,
+      "text": "So rather than saying, \"Come to Boot Factory and buy boots at a fair price,\" they managed to create a free offer."
+    },
+    {
+      "start": 661.65,
+      "end": 665.45,
+      "text": "Even in the few minutes I checked out the store, bachelorettes filled in getting matching pairs of boots."
+    },
+    {
+      "start": 665.85,
+      "end": 669.79,
+      "text": "And since the Boot Factory sat in the middle of a street full of cowboy-themed bars, this happened a lot."
+    },
+    {
+      "start": 670.09,
+      "end": 670.75,
+      "text": "It was brilliant."
+    },
+    {
+      "start": 672.51,
+      "end": 673.01,
+      "text": "Description."
+    },
+    {
+      "start": 673.39,
+      "end": 676.87,
+      "text": "In buy X, get Y free offers, when customers buy something, they get other stuff free."
+    },
+    {
+      "start": 677.35,
+      "end": 680.49,
+      "text": "The more free stuff they get and the higher its value, the better it works."
+    },
+    {
+      "start": 681.13,
+      "end": 683.33,
+      "text": "Free offers get way more attention than discount offers."
+    },
+    {
+      "start": 683.75,
+      "end": 686.47,
+      "text": "But if you have one thing to sell and you give it away, you go hungry."
+    },
+    {
+      "start": 686.97,
+      "end": 689.57,
+      "text": "In situations like this, businesses tend to lean on discounts."
+    },
+    {
+      "start": 689.87,
+      "end": 695.71,
+      "text": "They run sales relying on holidays, seasonal changes, or whatever as reasons to temporarily lower their prices and get more customers."
+    },
+    {
+      "start": 696.33,
+      "end": 701.13,
+      "text": "But by selling more than one thing at once, you can turn discount offers into even stronger free offers."
+    },
+    {
+      "start": 701.79,
+      "end": 706.37,
+      "text": "When you have more than one item, you can make the discount value large enough that it covers the price of the more stuff."
+    },
+    {
+      "start": 706.83,
+      "end": 714.81,
+      "text": "For example, I could sell three T-shirts for 10 dollars each for a total of 30 dollars, or I could sell one T-shirt for 30 dollars and give away two for free."
+    },
+    {
+      "start": 714.91,
+      "end": 716.93,
+      "text": "It's the same price, but way more free stuff."
+    },
+    {
+      "start": 719.85,
+      "end": 724.33,
+      "text": "And if I wanted to offer a discount rather than only reframe the price, I could do this."
+    },
+    {
+      "start": 724.75,
+      "end": 730.57,
+      "text": "I could sell three T-shirts for 6 dollars and 67 cents each for a total of 20 dollars, which is a 33% discount."
+    },
+    {
+      "start": 731.12,
+      "end": 735.2,
+      "text": "Or keeping the same discount, I could sell one shirt for 20 and give away two free."
+    },
+    {
+      "start": 735.52,
+      "end": 738.18,
+      "text": "It's the same price, but way more free stuff again."
+    },
+    {
+      "start": 739.42,
+      "end": 740.86,
+      "text": "Boot Factory took the first option."
+    },
+    {
+      "start": 741.22,
+      "end": 744.88,
+      "text": "They tripled the price of one pair of boots and added value in more boots."
+    },
+    {
+      "start": 745.42,
+      "end": 751.2,
+      "text": "And an expensive pair of boots with two free gets Boot Factory more customers than selling one pair at a fair price."
+    },
+    {
+      "start": 751.6,
+      "end": 754.62,
+      "text": "Plus, if you can include free, then it attracts even more customers."
+    },
+    {
+      "start": 755.92,
+      "end": 756.5,
+      "text": "Examples."
+    },
+    {
+      "start": 757.72,
+      "end": 761.06,
+      "text": "Buy one, get two free physical products offer, the Boot Factory offer."
+    },
+    {
+      "start": 761.38,
+      "end": 762.76,
+      "text": "One pair of boots, 200 dollars."
+    },
+    {
+      "start": 763.3,
+      "end": 764.46,
+      "text": "Buy X, get Y free offer."
+    },
+    {
+      "start": 765.0,
+      "end": 767.34,
+      "text": "Buy one for 600 dollars, get two pairs free."
+    },
+    {
+      "start": 767.7,
+      "end": 770.86,
+      "text": "End result, they still buy three pairs of 200 dollar boots for a total of 600 dollars."
+    },
+    {
+      "start": 772.14,
+      "end": 772.76,
+      "text": "Three versions."
+    },
+    {
+      "start": 773.68,
+      "end": 778.52,
+      "text": "Now, here's three different versions for an 18 months of services agreement, AKA three pairs of boots."
+    },
+    {
+      "start": 779.16,
+      "end": 779.86,
+      "text": "Here's a good version."
+    },
+    {
+      "start": 780.52,
+      "end": 783.0,
+      "text": "Buy 12 months, get six months free, 1800 dollars."
+    },
+    {
+      "start": 783.26,
+      "end": 784.0,
+      "text": "Here's a better version."
+    },
+    {
+      "start": 784.4,
+      "end": 786.9,
+      "text": "Buy six months, get six months free, 1800 dollars."
+    },
+    {
+      "start": 787.04,
+      "end": 787.92,
+      "text": "Here's the best version."
+    },
+    {
+      "start": 788.3,
+      "end": 790.9,
+      "text": "Buy six months, get 12 months free, 1800 dollars."
+    },
+    {
+      "start": 791.56,
+      "end": 795.42,
+      "text": "Everyone pays the same price for the same amount of service, but the third option is the most compelling."
+    },
+    {
+      "start": 795.86,
+      "end": 797.32,
+      "text": "Hint, it has the most free stuff."
+    },
+    {
+      "start": 798.22,
+      "end": 798.86,
+      "text": "Important notes."
+    },
+    {
+      "start": 799.74,
+      "end": 803.56,
+      "text": "Buy X, get Y free gets people to buy more stuff and provides more value."
+    },
+    {
+      "start": 804.3,
+      "end": 814.44,
+      "text": "It used to take a whole year for some of my service businesses to make their money, but buy six, get six offer attracted far more customers than the original month-to-month offer."
+    },
+    {
+      "start": 814.74,
+      "end": 816.62,
+      "text": "Even better, they got paid upfront for it."
+    },
+    {
+      "start": 818.08,
+      "end": 821.26,
+      "text": "Raise prices before giving away free stuff to preserve profits."
+    },
+    {
+      "start": 822.3,
+      "end": 824.68,
+      "text": "If you use this to attract customers, it will work."
+    },
+    {
+      "start": 824.82,
+      "end": 826.48,
+      "text": "And since it will work, you need to make money."
+    },
+    {
+      "start": 826.86,
+      "end": 829.52,
+      "text": "So permanently raise prices to accommodate the discount."
+    },
+    {
+      "start": 829.94,
+      "end": 830.6,
+      "text": "Don't lie."
+    },
+    {
+      "start": 831.08,
+      "end": 832.06,
+      "text": "Actually raise your prices."
+    },
+    {
+      "start": 832.68,
+      "end": 837.82,
+      "text": "Since this is what all new customers will be coming in on, then it makes sense to change it for a season at least."
+    },
+    {
+      "start": 838.34,
+      "end": 844.16,
+      "text": "Plus, plenty of people might still take your double prices a la carte and break your limiting beliefs around prices."
+    },
+    {
+      "start": 844.5,
+      "end": 844.94,
+      "text": "You're welcome."
+    },
+    {
+      "start": 845.82,
+      "end": 848.86,
+      "text": "Buy X, get Y free works better if you have more free stuff than paid stuff."
+    },
+    {
+      "start": 849.84,
+      "end": 854.94,
+      "text": "For example, buy 10, get two free is not as strong as buy two, get 10 free."
+    },
+    {
+      "start": 855.42,
+      "end": 857.5,
+      "text": "This seems obvious, but again, people don't do it."
+    },
+    {
+      "start": 857.94,
+      "end": 861.1,
+      "text": "To make it work better, give more free stuff than you ask people to buy."
+    },
+    {
+      "start": 861.44,
+      "end": 863.14,
+      "text": "Just play with the pricing until it makes sense for you."
+    },
+    {
+      "start": 863.78,
+      "end": 866.0,
+      "text": "Buy one, get two instead of buy two, get one."
+    },
+    {
+      "start": 866.54,
+      "end": 868.86,
+      "text": "The free things can be different from the paid things."
+    },
+    {
+      "start": 869.84,
+      "end": 875.3,
+      "text": "When people first start doing offers like this, they match the free and paid stuff, but you can mix and match whatever you want."
+    },
+    {
+      "start": 875.54,
+      "end": 879.22,
+      "text": "Just make sure the value of different free stuff still makes the offer compelling."
+    },
+    {
+      "start": 879.84,
+      "end": 883.54,
+      "text": "Example, let's say socks have a 10 dollar value."
+    },
+    {
+      "start": 883.92,
+      "end": 888.96,
+      "text": "If they buy one shirt for 10 dollars, but get 20 dollars of free socks, it may seem like a better deal."
+    },
+    {
+      "start": 890.7,
+      "end": 894.0,
+      "text": "More cheaper things can work better than fewer free expensive things."
+    },
+    {
+      "start": 894.5,
+      "end": 895.84,
+      "text": "Revisiting the T-shirt example."
+    },
+    {
+      "start": 896.82,
+      "end": 903.48,
+      "text": "Let's say I could only afford to give away one shirt for free, but for the same cost, I could give them three pairs of socks."
+    },
+    {
+      "start": 904.32,
+      "end": 911.48,
+      "text": "I'd probably test buy one shirt, get one shirt free against buy one shirt, get three pairs of socks for free."
+    },
+    {
+      "start": 912.16,
+      "end": 917.5,
+      "text": "Socks cost less than a shirt, but people still see buy one thing, get three things free."
+    },
+    {
+      "start": 918.06,
+      "end": 921.42,
+      "text": "Sometimes more cheaper things works better than fewer expensive things."
+    },
+    {
+      "start": 922.16,
+      "end": 925.84,
+      "text": "Rather than offer a 33% discount, try buy one, get two free."
+    },
+    {
+      "start": 926.88,
+      "end": 931.02,
+      "text": "Even though it can be structured to accomplish the same thing, free drives more interest than a discount."
+    },
+    {
+      "start": 931.5,
+      "end": 934.2,
+      "text": "More people know the value of free than the value of one shirt."
+    },
+    {
+      "start": 934.52,
+      "end": 946.46,
+      "text": "For example, rather than selling 10 dollar shirts for 6 dollars and 67 cents each, 33% off, you may get more interest and make more money by offering buy one shirt for 20 dollars, get two free."
+    },
+    {
+      "start": 946.8,
+      "end": 947.4,
+      "text": "Just test it."
+    },
+    {
+      "start": 948.5,
+      "end": 950.9,
+      "text": "Do not make offers like this if you can't manage money."
+    },
+    {
+      "start": 951.58,
+      "end": 955.94,
+      "text": "While buy X, get Y free offers create massive cash flow for a business, you need to deliver."
+    },
+    {
+      "start": 956.42,
+      "end": 960.4,
+      "text": "So if you get a whole year's worth of payments in a month, make sure you can deliver for the whole year."
+    },
+    {
+      "start": 961.06,
+      "end": 964.56,
+      "text": "Budget the correct amount of money to service your customers for the duration of your agreement."
+    },
+    {
+      "start": 965.06,
+      "end": 968.6,
+      "text": "Don't be a goon and buy yourself a house with the cash meant for servicing your customers."
+    },
+    {
+      "start": 969.24,
+      "end": 972.44,
+      "text": "Selling stuff you can't deliver on breaks the law and ruins your reputation."
+    },
+    {
+      "start": 972.6,
+      "end": 973.64,
+      "text": "Deliver on your promises."
+    },
+    {
+      "start": 975.66,
+      "end": 978.1,
+      "text": "Make this offer to existing customers for fast cash."
+    },
+    {
+      "start": 978.66,
+      "end": 983.3,
+      "text": "If you have a recurring business already and need fast cash, you can make this offer to existing customers."
+    },
+    {
+      "start": 983.72,
+      "end": 987.42,
+      "text": "Many will happily buy 10 and get two free at their current price."
+    },
+    {
+      "start": 987.98,
+      "end": 991.08,
+      "text": "Just cap how many can take the offer to 10% of your customer base."
+    },
+    {
+      "start": 991.54,
+      "end": 994.38,
+      "text": "This gives you a good cash pop and keeps recurring cash flow healthy."
+    },
+    {
+      "start": 995.24,
+      "end": 999.34,
+      "text": "Even if customers prepay then, you can still upsell them different stuff now."
+    },
+    {
+      "start": 1000.28,
+      "end": 1003.56,
+      "text": "A lot of people don't want to make more offers to customers who prepay for stuff."
+    },
+    {
+      "start": 1004.12,
+      "end": 1004.82,
+      "text": "This is a mistake."
+    },
+    {
+      "start": 1005.44,
+      "end": 1007.9,
+      "text": "Speaking from experience, these are the people who spend the most money."
+    },
+    {
+      "start": 1008.62,
+      "end": 1010.42,
+      "text": "Give them other offers to buy, and they will."
+    },
+    {
+      "start": 1011.04,
+      "end": 1013.66,
+      "text": "After all, they may have prepaid months ago."
+    },
+    {
+      "start": 1013.98,
+      "end": 1017.9,
+      "text": "Their wallets have been refreshed with new money that is dying to make it in your pocket."
+    },
+    {
+      "start": 1018.42,
+      "end": 1019.18,
+      "text": "Don't get in the way."
+    },
+    {
+      "start": 1020.7,
+      "end": 1023.96,
+      "text": "If customers only buy once, make the buy as big as you can."
+    },
+    {
+      "start": 1024.76,
+      "end": 1029.16,
+      "text": "The boot factory in my story catered to tourists that want to fit in at the local cowboy bars."
+    },
+    {
+      "start": 1029.74,
+      "end": 1032.52,
+      "text": "This means most of their customers made one purchase ever."
+    },
+    {
+      "start": 1032.94,
+      "end": 1036.04,
+      "text": "For that reason, it makes sense to make that purchase as large as possible."
+    },
+    {
+      "start": 1036.58,
+      "end": 1037.94,
+      "text": "Just provide the value to back it up."
+    },
+    {
+      "start": 1038.26,
+      "end": 1040.22,
+      "text": "If you only have one shot, you might as well make it count."
+    },
+    {
+      "start": 1042.34,
+      "end": 1042.9,
+      "text": "Summary points."
+    },
+    {
+      "start": 1043.56,
+      "end": 1047.66,
+      "text": "In buy X, get Y free offers, when customers buy something, they get other stuff free."
+    },
+    {
+      "start": 1048.5,
+      "end": 1052.86,
+      "text": "Buy X, get Y free works for stuff that makes sense to buy more of or get longer access to."
+    },
+    {
+      "start": 1053.94,
+      "end": 1056.8,
+      "text": "Basic buy X, get Y free offers reframe pricing."
+    },
+    {
+      "start": 1057.38,
+      "end": 1061.72,
+      "text": "Buy one, gets two free costs the same as buying three, except customers see the free offer as more valuable."
+    },
+    {
+      "start": 1063.12,
+      "end": 1064.76,
+      "text": "Just look at the 18 months of service example."
+    },
+    {
+      "start": 1066.06,
+      "end": 1068.44,
+      "text": "Always try to give more free things than paid things."
+    },
+    {
+      "start": 1068.94,
+      "end": 1071.14,
+      "text": "You compare different free things with your paid things."
+    },
+    {
+      "start": 1072.04,
+      "end": 1079.76,
+      "text": "Some buy X, get Y free offers discount the price, where buying more things costs less per thing than buying the same number of things one at a time."
+    },
+    {
+      "start": 1081.4,
+      "end": 1084.44,
+      "text": "Buy X, get Y free can lengthen the amount of time customers stay."
+    },
+    {
+      "start": 1085.26,
+      "end": 1091.94,
+      "text": "If normal customers stay for three months, then buy two, get two free will keep them for four months or whatever you set it at."
+    },
+    {
+      "start": 1092.5,
+      "end": 1095.1,
+      "text": "This gives you more opportunities to make more offers and provide more value."
+    },
+    {
+      "start": 1097.12,
+      "end": 1102.66,
+      "text": "If you use buy X, get Y free to generate lots of cash fast, make sure you manage it well and deliver on your promises."
+    },
+    {
+      "start": 1103.78,
+      "end": 1107.34,
+      "text": "If you need fast cash, you can make this offer to existing recurring customers."
+    },
+    {
+      "start": 1107.66,
+      "end": 1109.98,
+      "text": "Just cap how many you sell to, so you still have cash flow."
+    },
+    {
+      "start": 1111.24,
+      "end": 1113.3,
+      "text": "Keep selling customers who prepay long durations."
+    },
+    {
+      "start": 1113.46,
+      "end": 1115.22,
+      "text": "They are the most likely customers to buy again."
+    },
+    {
+      "start": 1116.46,
+      "end": 1116.92,
+      "text": "Free gift."
+    },
+    {
+      "start": 1117.6,
+      "end": 1119.24,
+      "text": "Buy X, get Y free video course."
+    },
+    {
+      "start": 1120.0,
+      "end": 1122.64,
+      "text": "Buy X, get Y free gets lots of cash and lots of customers."
+    },
+    {
+      "start": 1123.06,
+      "end": 1124.48,
+      "text": "You just need to know your math."
+    },
+    {
+      "start": 1125.2,
+      "end": 1127.88,
+      "text": "I made a free video for you giving you a few more creative ways to use it."
+    },
+    {
+      "start": 1127.92,
+      "end": 1132.04,
+      "text": "You can watch the video for free at acquisition.com/training/money."
+    },
+    {
+      "start": 1134.56,
+      "end": 1135.82,
+      "text": "Pay less now or pay more later."
+    },
+    {
+      "start": 1136.24,
+      "end": 1136.84,
+      "text": "Time is money."
+    },
+    {
+      "start": 1137.2,
+      "end": 1137.96,
+      "text": "Benjamin Franklin."
+    },
+    {
+      "start": 1138.98,
+      "end": 1139.94,
+      "text": "June 2016."
+    },
+    {
+      "start": 1140.8,
+      "end": 1141.78,
+      "text": "A headline caught my attention."
+    },
+    {
+      "start": 1142.48,
+      "end": 1144.48,
+      "text": "Double your reading speed in three hours or it's free."
+    },
+    {
+      "start": 1145.18,
+      "end": 1146.42,
+      "text": "I opened and scanned the text."
+    },
+    {
+      "start": 1147.7,
+      "end": 1151.42,
+      "text": "Inside, the world's fastest reader offered a free training to double my reading speed in three hours."
+    },
+    {
+      "start": 1151.9,
+      "end": 1152.9,
+      "text": "So I registered."
+    },
+    {
+      "start": 1152.94,
+      "end": 1153.3,
+      "text": "Why not?"
+    },
+    {
+      "start": 1154.0,
+      "end": 1159.26,
+      "text": "The registration page said, \"You can put your credit card down for 0 dollars and get billed 297 dollars tomorrow."
+    },
+    {
+      "start": 1159.84,
+      "end": 1163.12,
+      "text": "And if your reading speed doesn't double, just email us before then, and we'll cancel the charge."
+    },
+    {
+      "start": 1163.7,
+      "end": 1165.26,
+      "text": "But you must attend in order to be eligible."
+    },
+    {
+      "start": 1166.0,
+      "end": 1171.14,
+      "text": "Or you can just pay 97 dollars right now, and as a free bonus, get the recordings, which won't be for sale anywhere else.\""
+    },
+    {
+      "start": 1173.0,
+      "end": 1174.08,
+      "text": "I decided on the first option."
+    },
+    {
+      "start": 1174.62,
+      "end": 1176.76,
+      "text": "I wanted to see if my reading speed doubled before paying anything."
+    },
+    {
+      "start": 1177.62,
+      "end": 1180.7,
+      "text": "The whole training, I expected him to sell me more stuff, but he simply provided value."
+    },
+    {
+      "start": 1181.24,
+      "end": 1183.68,
+      "text": "After two hours using his tactics, my reading speed doubled."
+    },
+    {
+      "start": 1184.18,
+      "end": 1184.6,
+      "text": "Impressive."
+    },
+    {
+      "start": 1185.34,
+      "end": 1186.88,
+      "text": "The training had been true to the promise."
+    },
+    {
+      "start": 1187.12,
+      "end": 1188.52,
+      "text": "He earned his 297 dollars."
+    },
+    {
+      "start": 1189.12,
+      "end": 1192.88,
+      "text": "After that, he talked about how I could learn to read even faster with his eight-week training program."
+    },
+    {
+      "start": 1193.36,
+      "end": 1196.0,
+      "text": "I was satisfied with my results, so I chose not to take the upsell."
+    },
+    {
+      "start": 1196.46,
+      "end": 1200.58,
+      "text": "He taught me a skill I still use to this day, but the true value came from learning a brand new attraction offer."
+    },
+    {
+      "start": 1201.56,
+      "end": 1202.16,
+      "text": "Description."
+    },
+    {
+      "start": 1203.02,
+      "end": 1208.14,
+      "text": "In pay less now or pay more later, you give people a choice to pay full price later or pay a discounted price now."
+    },
+    {
+      "start": 1208.58,
+      "end": 1211.44,
+      "text": "This play works so well because remove all risk from the customer."
+    },
+    {
+      "start": 1211.82,
+      "end": 1214.02,
+      "text": "They pay later and only if they like it."
+    },
+    {
+      "start": 1214.44,
+      "end": 1217.54,
+      "text": "So it combines the benefits of a delayed payment and a satisfaction guarantee."
+    },
+    {
+      "start": 1218.06,
+      "end": 1219.04,
+      "text": "Anyone can sell this."
+    },
+    {
+      "start": 1219.7,
+      "end": 1222.18,
+      "text": "Almost anyone will agree to pay later if they're satisfied."
+    },
+    {
+      "start": 1222.48,
+      "end": 1227.6,
+      "text": "But once they agree to pay later, you can get them to pay now with hefty discounts and valuable bonuses."
+    },
+    {
+      "start": 1228.3,
+      "end": 1231.78,
+      "text": "The pay later option allows you to advertise free since they can choose to pay or not."
+    },
+    {
+      "start": 1232.26,
+      "end": 1233.82,
+      "text": "This gets lots of engaged leads."
+    },
+    {
+      "start": 1234.44,
+      "end": 1236.56,
+      "text": "But this free offer has an added benefit."
+    },
+    {
+      "start": 1236.78,
+      "end": 1237.94,
+      "text": "We get their card on file."
+    },
+    {
+      "start": 1238.46,
+      "end": 1242.94,
+      "text": "So if they choose this option and hate the product, then they can cancel at any time before the charge goes through."
+    },
+    {
+      "start": 1243.7,
+      "end": 1251.38,
+      "text": "If they accept the pay later option, we make a follow-up offer to pay now, and pay now options provide a 20 to 50% discount and greater bonuses."
+    },
+    {
+      "start": 1251.86,
+      "end": 1254.44,
+      "text": "And since we already have their card on file, make it easier for them to pay."
+    },
+    {
+      "start": 1255.08,
+      "end": 1259.24,
+      "text": "Whether they choose to pay now or pay later, you've got customers and likely some profit."
+    },
+    {
+      "start": 1259.66,
+      "end": 1262.52,
+      "text": "But to take full advantage of this offer, you want something else to sell."
+    },
+    {
+      "start": 1262.94,
+      "end": 1266.04,
+      "text": "So have something more, better, or newer to offer when the time is right."
+    },
+    {
+      "start": 1266.5,
+      "end": 1268.76,
+      "text": "And don't worry, we'll go deep on upsells in the next section."
+    },
+    {
+      "start": 1270.18,
+      "end": 1270.76,
+      "text": "Examples."
+    },
+    {
+      "start": 1271.6,
+      "end": 1272.92,
+      "text": "Find your first real estate deal."
+    },
+    {
+      "start": 1273.28,
+      "end": 1274.3,
+      "text": "Free three-day workshop."
+    },
+    {
+      "start": 1274.92,
+      "end": 1275.66,
+      "text": "Pay later option."
+    },
+    {
+      "start": 1276.76,
+      "end": 1277.94,
+      "text": "0 dollars for three-day workshop."
+    },
+    {
+      "start": 1278.32,
+      "end": 1280.54,
+      "text": "Get billed 500 dollars at the end unless you cancel."
+    },
+    {
+      "start": 1280.84,
+      "end": 1281.5,
+      "text": "Pay now option."
+    },
+    {
+      "start": 1282.86,
+      "end": 1290.58,
+      "text": "299 for three-day workshop plus recordings, one-on-one call with certified distressed property expert, plus printed materials to use delivered at the workshop."
+    },
+    {
+      "start": 1291.92,
+      "end": 1294.3,
+      "text": "Upsell offer from the workshop."
+    },
+    {
+      "start": 1295.24,
+      "end": 1303.82,
+      "text": "30,000 dollars take you through every other step of closing your first deal within six months, plus legal templates, advisor to vet the investment, inspection checklist, etc."
+    },
+    {
+      "start": 1304.94,
+      "end": 1305.94,
+      "text": "Local business service."
+    },
+    {
+      "start": 1306.7,
+      "end": 1307.72,
+      "text": "Trim your hedges for free."
+    },
+    {
+      "start": 1308.42,
+      "end": 1309.12,
+      "text": "Pay later option."
+    },
+    {
+      "start": 1309.9,
+      "end": 1313.8,
+      "text": "0 dollar lawn cut plus hedges, then 600 bucks after if satisfied."
+    },
+    {
+      "start": 1314.6,
+      "end": 1315.28,
+      "text": "Pay now option."
+    },
+    {
+      "start": 1316.22,
+      "end": 1320.14,
+      "text": "369 dollars lawn cut and hedges and lawn treatment."
+    },
+    {
+      "start": 1321.0,
+      "end": 1321.32,
+      "text": "Upsell."
+    },
+    {
+      "start": 1322.04,
+      "end": 1324.34,
+      "text": "199 dollars per month lawn care services."
+    },
+    {
+      "start": 1324.98,
+      "end": 1329.6,
+      "text": "The rep comes to the house, makes the estimate, and offers both options, then upsells after the work is done."
+    },
+    {
+      "start": 1331.6,
+      "end": 1332.24,
+      "text": "Physical products."
+    },
+    {
+      "start": 1332.5,
+      "end": 1333.62,
+      "text": "14-day clothing trial."
+    },
+    {
+      "start": 1334.56,
+      "end": 1334.98,
+      "text": "Pay later."
+    },
+    {
+      "start": 1335.96,
+      "end": 1338.82,
+      "text": "0 dollars now, get it, then get billed 149 in 14 days."
+    },
+    {
+      "start": 1339.52,
+      "end": 1339.92,
+      "text": "Pay now."
+    },
+    {
+      "start": 1340.64,
+      "end": 1343.18,
+      "text": "97 dollars for the closing, plus an accessory that goes with it."
+    },
+    {
+      "start": 1343.82,
+      "end": 1344.2,
+      "text": "Upsell."
+    },
+    {
+      "start": 1344.68,
+      "end": 1347.92,
+      "text": "The dress comes with an offer for a monthly subscription to more clothes like this."
+    },
+    {
+      "start": 1348.44,
+      "end": 1352.66,
+      "text": "Customers must return the product in like-new condition before billing to qualify for the guarantee."
+    },
+    {
+      "start": 1353.56,
+      "end": 1354.12,
+      "text": "Important notes."
+    },
+    {
+      "start": 1355.04,
+      "end": 1357.54,
+      "text": "Promise a clear yes/no result."
+    },
+    {
+      "start": 1358.4,
+      "end": 1360.86,
+      "text": "First, make your promise a clear yes or no result."
+    },
+    {
+      "start": 1361.2,
+      "end": 1363.94,
+      "text": "Second, make sure you can deliver on it within your time frame."
+    },
+    {
+      "start": 1364.02,
+      "end": 1365.84,
+      "text": "If you don't, they will ask not to be billed."
+    },
+    {
+      "start": 1366.18,
+      "end": 1366.46,
+      "text": "Duh."
+    },
+    {
+      "start": 1366.8,
+      "end": 1371.5,
+      "text": "For example, if you promise to decrease someone's shoulder pain, have them rate their pain 1 to 10 before you do your magic."
+    },
+    {
+      "start": 1371.82,
+      "end": 1372.88,
+      "text": "Then ask them to rate it after."
+    },
+    {
+      "start": 1373.08,
+      "end": 1375.36,
+      "text": "If it went down, you've succeeded, and you can sell them something else."
+    },
+    {
+      "start": 1375.86,
+      "end": 1377.5,
+      "text": "Keep the promise simple, clear, and measurable."
+    },
+    {
+      "start": 1377.88,
+      "end": 1379.56,
+      "text": "This avoids unnecessary cancellations."
+    },
+    {
+      "start": 1380.76,
+      "end": 1382.54,
+      "text": "Make a conditional satisfaction guarantee."
+    },
+    {
+      "start": 1383.08,
+      "end": 1385.76,
+      "text": "People can only cancel the billing if they qualify."
+    },
+    {
+      "start": 1386.22,
+      "end": 1389.7,
+      "text": "For example, I had to show up to the reading training to qualify to cancel the charge."
+    },
+    {
+      "start": 1390.08,
+      "end": 1392.9,
+      "text": "After all, they can't say that you suck if they never tried it."
+    },
+    {
+      "start": 1393.4,
+      "end": 1396.16,
+      "text": "So be sure to track the conditions necessary to qualify."
+    },
+    {
+      "start": 1396.54,
+      "end": 1399.2,
+      "text": "Think attendance, showing up to an appointment, turning in data, etc."
+    },
+    {
+      "start": 1399.9,
+      "end": 1402.56,
+      "text": "Make the criteria what people do to get the most value out of the product."
+    },
+    {
+      "start": 1402.86,
+      "end": 1403.28,
+      "text": "Win-win."
+    },
+    {
+      "start": 1404.4,
+      "end": 1405.92,
+      "text": "Bonuses for your pay now option."
+    },
+    {
+      "start": 1406.8,
+      "end": 1410.54,
+      "text": "I hate when people repeat content and call it new, so I didn't want to be like that."
+    },
+    {
+      "start": 1411.16,
+      "end": 1414.62,
+      "text": "I dedicated an entire chapter in 100 Million Dollar Offers, Bonuses."
+    },
+    {
+      "start": 1415.76,
+      "end": 1421.08,
+      "text": "You can grab a copy of that book or watch the video training on my site for free at acquisition.com/training/offers."
+    },
+    {
+      "start": 1422.38,
+      "end": 1424.18,
+      "text": "Optimizing your pay now and pay later offer."
+    },
+    {
+      "start": 1424.86,
+      "end": 1430.22,
+      "text": "If too many people take your pay later option, discount the pay now option more, add better bonuses, or both."
+    },
+    {
+      "start": 1430.68,
+      "end": 1433.02,
+      "text": "If too many people take your pay now option, do the opposite."
+    },
+    {
+      "start": 1434.14,
+      "end": 1440.78,
+      "text": "If more than 10% of pay later people cancel their payment, you promised too much, the guaranteed conditions are too low, or the price is too high."
+    },
+    {
+      "start": 1441.32,
+      "end": 1445.78,
+      "text": "Note, no matter how well you deliver, some people will cancel the payment, and that's okay."
+    },
+    {
+      "start": 1446.32,
+      "end": 1448.68,
+      "text": "Factor it into your cost of doing business and keep living your life."
+    },
+    {
+      "start": 1449.56,
+      "end": 1451.38,
+      "text": "This works for recurring revenue businesses too."
+    },
+    {
+      "start": 1452.22,
+      "end": 1458.46,
+      "text": "You just give them the option to pay a higher ongoing rate 30 days later, or they pay less today and keep the lower rate for good."
+    },
+    {
+      "start": 1458.98,
+      "end": 1460.34,
+      "text": "Plus, add in some bonuses."
+    },
+    {
+      "start": 1460.96,
+      "end": 1465.46,
+      "text": "See section six, Continuity, chapter One-Time Bonuses for more details."
+    },
+    {
+      "start": 1466.61,
+      "end": 1471.59,
+      "text": "Pro tip: if you run events, workshops, presentations, hint at your next offer early."
+    },
+    {
+      "start": 1472.43,
+      "end": 1477.17,
+      "text": "If the reading guru had said, \"Everyone wants to know when my next reading intensive starts because they sell out so fast."
+    },
+    {
+      "start": 1477.35,
+      "end": 1478.97,
+      "text": "I'll get to it at the end, but please pay attention."
+    },
+    {
+      "start": 1479.57,
+      "end": 1482.11,
+      "text": "I want to deliver on my promise to make sure you guys double your reading speed.\""
+    },
+    {
+      "start": 1483.07,
+      "end": 1486.21,
+      "text": "By hinting about his next offer earlier, he would have sold more of it."
+    },
+    {
+      "start": 1486.67,
+      "end": 1487.31,
+      "text": "Let me explain."
+    },
+    {
+      "start": 1488.41,
+      "end": 1490.13,
+      "text": "I used to do a lot of nutrition consultations."
+    },
+    {
+      "start": 1490.45,
+      "end": 1492.43,
+      "text": "People would interrupt me all the time to ask about supplements."
+    },
+    {
+      "start": 1492.65,
+      "end": 1493.09,
+      "text": "It annoyed me."
+    },
+    {
+      "start": 1493.27,
+      "end": 1496.29,
+      "text": "So one day, I spouted, \"Everyone wants to know what supplements to buy."
+    },
+    {
+      "start": 1496.43,
+      "end": 1499.01,
+      "text": "We'll get there, I promise, but please pay attention to the nutrition section."
+    },
+    {
+      "start": 1499.07,
+      "end": 1499.71,
+      "text": "It matters more.\""
+    },
+    {
+      "start": 1500.21,
+      "end": 1510.29,
+      "text": "By accident, I applied everyone bought supplements without offering them, and all the head nods I got showed that they actually did want more products, and all these factors got more people to buy when I did offer it to them."
+    },
+    {
+      "start": 1511.07,
+      "end": 1511.67,
+      "text": "Summary points."
+    },
+    {
+      "start": 1513.19,
+      "end": 1519.93,
+      "text": "Pay less now or pay more later offers give people a choice to pay full price later or pay a discounted price with additional bonuses if they pay now."
+    },
+    {
+      "start": 1520.81,
+      "end": 1523.53,
+      "text": "The pay later option has a delayed payment with a conditional guarantee."
+    },
+    {
+      "start": 1524.33,
+      "end": 1527.43,
+      "text": "Have clear criteria to qualify for the guarantee and easy ways to measure it."
+    },
+    {
+      "start": 1528.05,
+      "end": 1531.75,
+      "text": "If you can, align the criteria with what gets people the most value from the product."
+    },
+    {
+      "start": 1532.57,
+      "end": 1536.27,
+      "text": "The pay now option offers 20 to 50% discount and bonuses if they pay now."
+    },
+    {
+      "start": 1536.93,
+      "end": 1540.55,
+      "text": "Offer customers the pay now option after they accept the pay later option."
+    },
+    {
+      "start": 1541.13,
+      "end": 1545.23,
+      "text": "If they choose pay now, they get the discount and bonuses instead of the guarantee."
+    },
+    {
+      "start": 1545.93,
+      "end": 1549.49,
+      "text": "Make sure you promise easy to track, difficult to refute, and clear yes/no results."
+    },
+    {
+      "start": 1550.57,
+      "end": 1554.99,
+      "text": "If you have more than 10% canceling, you promised too much, the guarantee conditions are too low, or the price is too high."
+    },
+    {
+      "start": 1555.51,
+      "end": 1560.05,
+      "text": "Also, give extra attention to those who claim they haven't received what was promised before the cancellation deadline."
+    },
+    {
+      "start": 1560.35,
+      "end": 1561.45,
+      "text": "It may help reverse them."
+    },
+    {
+      "start": 1562.51,
+      "end": 1562.91,
+      "text": "Free gift."
+    },
+    {
+      "start": 1563.53,
+      "end": 1565.69,
+      "text": "Pay less now, pay more later training."
+    },
+    {
+      "start": 1565.99,
+      "end": 1566.43,
+      "text": "No opt-in."
+    },
+    {
+      "start": 1567.09,
+      "end": 1569.07,
+      "text": "This is one of the most creative offers I've ever seen or used."
+    },
+    {
+      "start": 1569.21,
+      "end": 1571.91,
+      "text": "It does exceptionally well with digital products and short duration services."
+    },
+    {
+      "start": 1572.39,
+      "end": 1574.83,
+      "text": "These can be scary effective and also feel good."
+    },
+    {
+      "start": 1575.31,
+      "end": 1576.95,
+      "text": "It's super easy to teach salesmen as well."
+    },
+    {
+      "start": 1577.39,
+      "end": 1583.07,
+      "text": "If you want to learn more about them, I made a deeper training for you at, for free, at acquisition.com/training/money."
+    },
+    {
+      "start": 1584.09,
+      "end": 1585.13,
+      "text": "Free goodwill offer."
+    },
+    {
+      "start": 1586.25,
+      "end": 1589.77,
+      "text": "He who said, \"Money can't buy happiness,\" hasn't given enough away."
+    },
+    {
+      "start": 1589.85,
+      "end": 1597.17,
+      "text": "\"I became a quadriplegic in 2018 and was living on welfare until I found your content and book."
+    },
+    {
+      "start": 1597.73,
+      "end": 1600.79,
+      "text": "I made 50,000 dollars the following 12 months as a freelancer.\""
+    },
+    {
+      "start": 1601.31,
+      "end": 1601.81,
+      "text": "Danny W."
+    },
+    {
+      "start": 1603.61,
+      "end": 1604.41,
+      "text": "I have a question for you."
+    },
+    {
+      "start": 1605.05,
+      "end": 1608.35,
+      "text": "Would you help someone you've never met if it cost you nothing, but you didn't get credit?"
+    },
+    {
+      "start": 1609.45,
+      "end": 1611.67,
+      "text": "Most people do, in fact, judge a book by its cover."
+    },
+    {
+      "start": 1612.43,
+      "end": 1615.29,
+      "text": "So here is my ask on behalf of a struggling entrepreneur you've never met."
+    },
+    {
+      "start": 1616.15,
+      "end": 1618.11,
+      "text": "Please help that entrepreneur by leaving this book a review."
+    },
+    {
+      "start": 1619.11,
+      "end": 1622.23,
+      "text": "Your review helps one more small business like Bill's provide for their community."
+    },
+    {
+      "start": 1622.59,
+      "end": 1628.35,
+      "text": "In Bill's own words, \"I opened a pizzeria in early 2020, shortly after finding the 100 Million Dollar Offers book."
+    },
+    {
+      "start": 1628.93,
+      "end": 1630.35,
+      "text": "Sales started slow, but we did it."
+    },
+    {
+      "start": 1631.05,
+      "end": 1637.41,
+      "text": "After I read 100 Million Dollar Leads, we implemented many things like having customers donate to the local food bank for a chance to win free prizes for a year."
+    },
+    {
+      "start": 1638.03,
+      "end": 1641.31,
+      "text": "I've lost count of how many new customers we've gotten after doing these things for the community."
+    },
+    {
+      "start": 1641.71,
+      "end": 1644.45,
+      "text": "This absolutely proves the stuff works for any type of business."
+    },
+    {
+      "start": 1644.69,
+      "end": 1645.09,
+      "text": "Thank you."
+    },
+    {
+      "start": 1645.65,
+      "end": 1645.91,
+      "text": "Bill.\""
+    },
+    {
+      "start": 1648.11,
+      "end": 1651.11,
+      "text": "Your review helps one more entrepreneur, like Thomas, support their family."
+    },
+    {
+      "start": 1651.37,
+      "end": 1657.67,
+      "text": "In Thomas's own words, \"After 10 years, I got laid off from my 9:00 to 5:00 job, but I found your book and opened a tour guide business in Colorado."
+    },
+    {
+      "start": 1658.13,
+      "end": 1660.59,
+      "text": "Fast forward two years later, and we have five employees."
+    },
+    {
+      "start": 1661.27,
+      "end": 1663.45,
+      "text": "I literally took what I learned and built my dream."
+    },
+    {
+      "start": 1664.01,
+      "end": 1665.39,
+      "text": "Now my kids and wife are happier than ever.\""
+    },
+    {
+      "start": 1666.63,
+      "end": 1669.59,
+      "text": "Your review will help one more employee, like Miguel, have more meaningful work."
+    },
+    {
+      "start": 1669.97,
+      "end": 1674.25,
+      "text": "In Miguel's own words, \"I received the book as a gift and decided to pass it on to my six employees."
+    },
+    {
+      "start": 1674.69,
+      "end": 1678.67,
+      "text": "Since then, our business has undergone a remarkable transformation and continues to grow on a monthly basis."
+    },
+    {
+      "start": 1679.15,
+      "end": 1682.03,
+      "text": "Not only that, but I also gave it to my independent contractor trainers."
+    },
+    {
+      "start": 1682.35,
+      "end": 1682.75,
+      "text": "Thank you.\""
+    },
+    {
+      "start": 1683.65,
+      "end": 1686.47,
+      "text": "Your review helps one more entrepreneur, like Simon, transform their life."
+    },
+    {
+      "start": 1686.93,
+      "end": 1687.89,
+      "text": "Here's Simon's own words."
+    },
+    {
+      "start": 1688.45,
+      "end": 1691.33,
+      "text": "\"I'm just a normal guy from Germany, and I couldn't get a client to save my life."
+    },
+    {
+      "start": 1691.85,
+      "end": 1693.09,
+      "text": "Then I bought 100 Million Dollar Leads."
+    },
+    {
+      "start": 1693.67,
+      "end": 1695.87,
+      "text": "After reading the cold outreach chapter, I started the rule of 100."
+    },
+    {
+      "start": 1696.53,
+      "end": 1701.17,
+      "text": "I expected maybe to get one to two clients, but then I booked eight meetings in seven days."
+    },
+    {
+      "start": 1701.35,
+      "end": 1705.23,
+      "text": "I closed four of them and earned my first 500 dollars from one of those clients."
+    },
+    {
+      "start": 1705.65,
+      "end": 1707.53,
+      "text": "It has been three months now, and my career couldn't be better."
+    },
+    {
+      "start": 1707.81,
+      "end": 1709.17,
+      "text": "Your book was the only book I needed."
+    },
+    {
+      "start": 1709.47,
+      "end": 1710.49,
+      "text": "I recommend it to everyone.\""
+    },
+    {
+      "start": 1711.13,
+      "end": 1713.87,
+      "text": "And your review could help one more entrepreneur, like Alex, get out of a hole."
+    },
+    {
+      "start": 1714.25,
+      "end": 1717.95,
+      "text": "In Alex's own words, \"I moved in with my girlfriend making less than 1,000 dollars a month."
+    },
+    {
+      "start": 1718.41,
+      "end": 1720.95,
+      "text": "I bought 100 Million Dollar Leads, and we applied everything."
+    },
+    {
+      "start": 1721.19,
+      "end": 1724.49,
+      "text": "Three weeks later, we signed a client for over 2,000 dollars a month, then three more."
+    },
+    {
+      "start": 1724.97,
+      "end": 1726.81,
+      "text": "I owe you a lot more than what these books cost.\""
+    },
+    {
+      "start": 1728.05,
+      "end": 1731.67,
+      "text": "Your review helps one more entrepreneur, like Mohan, flee his country and get out of debt."
+    },
+    {
+      "start": 1731.97,
+      "end": 1739.05,
+      "text": "In Mohan's own words, \"As a struggling Indian immigrant trying to get to Ireland, I made so little money I would die before I pay off my debt."
+    },
+    {
+      "start": 1739.63,
+      "end": 1741.09,
+      "text": "I tutored on the side where I could."
+    },
+    {
+      "start": 1741.37,
+      "end": 1744.07,
+      "text": "Then I read 100 Million Dollar Offers and quit my job 11 days later."
+    },
+    {
+      "start": 1744.67,
+      "end": 1747.15,
+      "text": "I did the same work, but learned how to make offers this time."
+    },
+    {
+      "start": 1747.45,
+      "end": 1751.47,
+      "text": "Clients were happy to pay, sometimes even 1,500 dollars when I gave some bonuses."
+    },
+    {
+      "start": 1752.29,
+      "end": 1755.13,
+      "text": "I make a livable income now, and I finally found what I love to do."
+    },
+    {
+      "start": 1755.85,
+      "end": 1757.87,
+      "text": "I moved to Germany now, and my debt is almost paid."
+    },
+    {
+      "start": 1758.15,
+      "end": 1758.49,
+      "text": "Thank you.\""
+    },
+    {
+      "start": 1759.25,
+      "end": 1762.29,
+      "text": "If you tell yourself you'll do it later, instead, please do it now."
+    },
+    {
+      "start": 1762.71,
+      "end": 1764.91,
+      "text": "It takes less than 60 seconds to change someone's life forever."
+    },
+    {
+      "start": 1765.81,
+      "end": 1771.59,
+      "text": "If you're on Audible, hit the three dots on the top right of your device, click rate and review, and leave a few sentences about the book with a star rating."
+    },
+    {
+      "start": 1772.57,
+      "end": 1775.91,
+      "text": "If you're reading on Kindle or an e-reader, scroll to the bottom of the book, then swipe up."
+    },
+    {
+      "start": 1776.01,
+      "end": 1776.97,
+      "text": "It'll prompt you for a review."
+    },
+    {
+      "start": 1777.61,
+      "end": 1782.15,
+      "text": "And if for some reason these have changed, you can go to Amazon or wherever you purchased this and leave a review right on the book's page."
+    },
+    {
+      "start": 1782.85,
+      "end": 1785.51,
+      "text": "If you feel good about helping faceless entrepreneurs, you're my kind of people."
+    },
+    {
+      "start": 1786.03,
+      "end": 1786.89,
+      "text": "Welcome to Mosey Nation."
+    },
+    {
+      "start": 1787.05,
+      "end": 1787.57,
+      "text": "You're one of us."
+    },
+    {
+      "start": 1788.59,
+      "end": 1791.47,
+      "text": "I'm that much more excited to help you make more money than you could ever possibly imagine."
+    },
+    {
+      "start": 1791.83,
+      "end": 1794.03,
+      "text": "You'll love the tactics I'm about to share with you in the coming chapters."
+    },
+    {
+      "start": 1794.45,
+      "end": 1795.51,
+      "text": "Thank you from the bottom of my heart."
+    },
+    {
+      "start": 1795.79,
+      "end": 1797.81,
+      "text": "Now, back to our regularly scheduled programming."
+    },
+    {
+      "start": 1798.07,
+      "end": 1799.13,
+      "text": "Your biggest fan, Alex."
+    },
+    {
+      "start": 1799.87,
+      "end": 1800.77,
+      "text": "Attraction conclusion."
+    },
+    {
+      "start": 1801.23,
+      "end": 1802.47,
+      "text": "Extra, extra, hear all about it."
+    },
+    {
+      "start": 1803.01,
+      "end": 1807.43,
+      "text": "The point of attraction offers is to turn strangers into customers and do it in a way that gets more cash upfront."
+    },
+    {
+      "start": 1808.11,
+      "end": 1812.81,
+      "text": "Ideally, we get enough cash to cover the cost of the customer and the cost to deliver our thing multiple times over."
+    },
+    {
+      "start": 1814.17,
+      "end": 1816.57,
+      "text": "That way, we can pay ourselves back and get our next customer."
+    },
+    {
+      "start": 1817.29,
+      "end": 1820.09,
+      "text": "I showed you the five most powerful attraction offers I've seen and used."
+    },
+    {
+      "start": 1820.33,
+      "end": 1824.43,
+      "text": "Win your money back, giveaways, decoy offers, buy X, get Y free, and pay less now or pay more later."
+    },
+    {
+      "start": 1825.07,
+      "end": 1827.39,
+      "text": "I play them one time or another to every business I own."
+    },
+    {
+      "start": 1828.05,
+      "end": 1832.59,
+      "text": "They turn 1,000 dollars into 10 million in 10 months because when I got returns, I kept doubling down."
+    },
+    {
+      "start": 1833.29,
+      "end": 1836.31,
+      "text": "A grand slam attraction offer changes your business and life forever."
+    },
+    {
+      "start": 1836.99,
+      "end": 1839.25,
+      "text": "After using attraction offers, we've got more customers."
+    },
+    {
+      "start": 1839.99,
+      "end": 1844.37,
+      "text": "And now that we've got them, we need to boost our 30-day profits even more by selling them even more stuff."
+    },
+    {
+      "start": 1845.11,
+      "end": 1848.55,
+      "text": "This leads us to the next component of 100 Million Dollar Money Model, upsell offers."
+    },
+    {
+      "start": 1848.81,
+      "end": 1849.79,
+      "text": "What to offer next."
+    },
+    {
+      "start": 1851.83,
+      "end": 1852.33,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 1852.63,
+      "end": 1857.77,
+      "text": "I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 1858.45,
+      "end": 1863.75,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 1863.85,
+      "end": 1869.39,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 1869.45,
+      "end": 1875.55,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 1875.89,
+      "end": 1879.91,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 1880.07,
+      "end": 1883.49,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 1883.59,
+      "end": 1886.01,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 1886.15,
+      "end": 1891.13,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 1891.17,
+      "end": 1897.35,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 1897.99,
+      "end": 1904.39,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap, R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "043eb68bffbe481963dbf5a7a69a0200b597f9b442ce7f88f3f0884a5af566fb",
+  "audio_duration_sec": 1909.446531,
+  "elapsed_sec": 16.1,
+  "created": "2026-11-16T03:30:15+00:00"
+}

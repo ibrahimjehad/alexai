@@ -1,0 +1,1707 @@
+{
+  "source_id": "hormozi-100m-money-models-p01",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 8.68,
+      "text": "Acquisition.com Publishing is proud to present Acquisition.com Volume 3: 100 Million Dollar Money Models: How to Make Money, written and performed by Alex Hormozi."
+    },
+    {
+      "start": 9.74,
+      "end": 10.22,
+      "text": "Dedication."
+    },
+    {
+      "start": 10.78,
+      "end": 12.44,
+      "text": "What people have said about Alex Hormozi."
+    },
+    {
+      "start": 12.44,
+      "end": 14.04,
+      "text": "\"Alex is my husband.\""
+    },
+    {
+      "start": 14.58,
+      "end": 15.16,
+      "text": "Leila Hormozi."
+    },
+    {
+      "start": 15.16,
+      "end": 16.58,
+      "text": "\"I have known many people."
+    },
+    {
+      "start": 17.08,
+      "end": 17.74,
+      "text": "Alex is one of them.\""
+    },
+    {
+      "start": 18.1,
+      "end": 19.04,
+      "text": "People who know Alex."
+    },
+    {
+      "start": 19.04,
+      "end": 21.16,
+      "text": "\"Alex has said things people have heard.\""
+    },
+    {
+      "start": 21.7,
+      "end": 21.98,
+      "text": "Friends."
+    },
+    {
+      "start": 21.98,
+      "end": 24.92,
+      "text": "\"Alex is better at some things than others.\""
+    },
+    {
+      "start": 25.5,
+      "end": 26.4,
+      "text": "Alex's favorite teacher."
+    },
+    {
+      "start": 26.4,
+      "end": 27.88,
+      "text": "\"Alex wrote a book."
+    },
+    {
+      "start": 28.34,
+      "end": 29.12,
+      "text": "I have read many books.\""
+    },
+    {
+      "start": 29.68,
+      "end": 30.3,
+      "text": "Magazine critic."
+    },
+    {
+      "start": 32.02,
+      "end": 32.74,
+      "text": "Guiding principles."
+    },
+    {
+      "start": 32.74,
+      "end": 35.28,
+      "text": "\"Risk comes from not knowing what you're doing.\""
+    },
+    {
+      "start": 35.82,
+      "end": 36.32,
+      "text": "Warren Buffett."
+    },
+    {
+      "start": 36.32,
+      "end": 39.68,
+      "text": "\"More important than the will to win is the will to prepare.\""
+    },
+    {
+      "start": 40.32,
+      "end": 40.78,
+      "text": "Charlie Munger."
+    },
+    {
+      "start": 42.62,
+      "end": 43.1,
+      "text": "A quick word."
+    },
+    {
+      "start": 43.98,
+      "end": 46.16,
+      "text": "Leila, I wrote this dedication six years ago."
+    },
+    {
+      "start": 46.84,
+      "end": 49.26,
+      "text": "I want to thank my partner, my ride-or-die, Leila."
+    },
+    {
+      "start": 49.8,
+      "end": 54.2,
+      "text": "You found me at my absolute worst, and you have fought beside me, shoulder to shoulder, ever since."
+    },
+    {
+      "start": 54.94,
+      "end": 58.22,
+      "text": "You said you would sleep with me under a bridge if it came to that, and I have not forgotten."
+    },
+    {
+      "start": 59.02,
+      "end": 60.86,
+      "text": "You stood tall when everything was crumbling around me."
+    },
+    {
+      "start": 61.58,
+      "end": 62.44,
+      "text": "I would go to war with you."
+    },
+    {
+      "start": 62.74,
+      "end": 63.42,
+      "text": "I would die for you."
+    },
+    {
+      "start": 64.1,
+      "end": 69.36,
+      "text": "If the world were a hurricane, standing with you is like being in the eye, calmly observing the storm raging around us."
+    },
+    {
+      "start": 70.08,
+      "end": 73.16,
+      "text": "There's no one else I'd want by my side to fight the battles that come."
+    },
+    {
+      "start": 73.74,
+      "end": 75.88,
+      "text": "Being with you makes the stars look within reach."
+    },
+    {
+      "start": 76.64,
+      "end": 78.34,
+      "text": "Here's to a life filled with the impossible."
+    },
+    {
+      "start": 78.92,
+      "end": 80.96,
+      "text": "And six years later, nothing's changed."
+    },
+    {
+      "start": 82.32,
+      "end": 86.82,
+      "text": "Trevor, \"As iron sharpens iron, so one person sharpens another.\""
+    },
+    {
+      "start": 87.5,
+      "end": 89.4,
+      "text": "Proverbs 27:17."
+    },
+    {
+      "start": 90.36,
+      "end": 93.8,
+      "text": "It's a rare and wonderful thing to have the smartest man you've met call you a friend."
+    },
+    {
+      "start": 94.48,
+      "end": 100.34,
+      "text": "If ignorance is the only true evil and knowledge the only true good, you, my brother, are a force of good."
+    },
+    {
+      "start": 100.82,
+      "end": 104.0,
+      "text": "The world is better with you in it, and I will fight to keep it that way."
+    },
+    {
+      "start": 104.88,
+      "end": 106.2,
+      "text": "My life wouldn't be the same without you."
+    },
+    {
+      "start": 106.82,
+      "end": 107.92,
+      "text": "I wouldn't be the same without you."
+    },
+    {
+      "start": 108.46,
+      "end": 113.68,
+      "text": "I doubt I will ever be able to repay the favor that you have given me by being in my life, but I'll live trying."
+    },
+    {
+      "start": 114.56,
+      "end": 118.3,
+      "text": "Thank you for giving me a gift far more than a paragraph at the beginning of a book can ever repay."
+    },
+    {
+      "start": 119.26,
+      "end": 120.3,
+      "text": "We will put our brick in the wall."
+    },
+    {
+      "start": 121.24,
+      "end": 122.82,
+      "text": "Here's to a once-in-a-generation friendship."
+    },
+    {
+      "start": 123.38,
+      "end": 123.82,
+      "text": "Philia."
+    },
+    {
+      "start": 125.26,
+      "end": 125.74,
+      "text": "Start here."
+    },
+    {
+      "start": 125.74,
+      "end": 130.16,
+      "text": "\"The world breaks everyone, and afterward, many are strong at the broken places.\""
+    },
+    {
+      "start": 130.88,
+      "end": 131.54,
+      "text": "Ernest Hemingway."
+    },
+    {
+      "start": 132.12,
+      "end": 138.08,
+      "text": "The first picture you see inside my book is a picture of me standing in front of my gym and a picture of where I used to sleep on the gym floor."
+    },
+    {
+      "start": 138.76,
+      "end": 140.32,
+      "text": "I stared at the ceiling in the dark alone."
+    },
+    {
+      "start": 140.8,
+      "end": 141.7,
+      "text": "I had no one to go to."
+    },
+    {
+      "start": 142.36,
+      "end": 145.08,
+      "text": "It sounds cool when you tell the story later, but it didn't feel that way."
+    },
+    {
+      "start": 145.5,
+      "end": 146.1,
+      "text": "I was terrified."
+    },
+    {
+      "start": 146.88,
+      "end": 148.18,
+      "text": "I went against my father's wishes."
+    },
+    {
+      "start": 148.74,
+      "end": 149.86,
+      "text": "I skipped out on business school."
+    },
+    {
+      "start": 150.22,
+      "end": 151.18,
+      "text": "I spent all my savings."
+    },
+    {
+      "start": 151.76,
+      "end": 153.38,
+      "text": "Everyone I cared about told me not to do it."
+    },
+    {
+      "start": 154.08,
+      "end": 155.88,
+      "text": "I was the idiot that gave up on a good career."
+    },
+    {
+      "start": 156.36,
+      "end": 159.82,
+      "text": "I thought I would look forward to the struggle, but it got real fast."
+    },
+    {
+      "start": 160.54,
+      "end": 162.7,
+      "text": "Kids partied all night in the parking garage above me."
+    },
+    {
+      "start": 163.32,
+      "end": 164.82,
+      "text": "They'd race over the steel dividers."
+    },
+    {
+      "start": 165.22,
+      "end": 167.56,
+      "text": "It sounded like gunshots echoing in my concrete bedroom."
+    },
+    {
+      "start": 168.44,
+      "end": 172.56,
+      "text": "And as soon as I started to pass out, I'd get jolted awake by another bang, bang, bang, bang."
+    },
+    {
+      "start": 173.3,
+      "end": 174.8,
+      "text": "I finally gave up trying to sleep at night."
+    },
+    {
+      "start": 175.3,
+      "end": 177.44,
+      "text": "I settled for midday naps in the utility closet."
+    },
+    {
+      "start": 178.14,
+      "end": 179.78,
+      "text": "Then, in the dead of night, I worked."
+    },
+    {
+      "start": 180.38,
+      "end": 181.04,
+      "text": "I had to make money."
+    },
+    {
+      "start": 181.68,
+      "end": 184.16,
+      "text": "My gym sat across the street from a large storage unit business."
+    },
+    {
+      "start": 184.58,
+      "end": 187.32,
+      "text": "The owner became one of my few members, only out of convenience."
+    },
+    {
+      "start": 188.12,
+      "end": 190.68,
+      "text": "A few weeks after he joined, he pulled me aside after his workout."
+    },
+    {
+      "start": 190.68,
+      "end": 192.7,
+      "text": "\"I've been doing a little math,\" he said."
+    },
+    {
+      "start": 192.72,
+      "end": 194.4,
+      "text": "\"It looks like you're struggling.\""
+    },
+    {
+      "start": 195.02,
+      "end": 196.86,
+      "text": "I tried to hide my embarrassment, but I failed."
+    },
+    {
+      "start": 196.86,
+      "end": 199.46,
+      "text": "\"All right, kid, let's grab breakfast tomorrow.\""
+    },
+    {
+      "start": 200.42,
+      "end": 201.96,
+      "text": "I hesitated, thinking about my bank account."
+    },
+    {
+      "start": 202.08,
+      "end": 204.44,
+      "text": "Before I could answer, he said, \"Don't worry, my treat.\""
+    },
+    {
+      "start": 205.06,
+      "end": 205.4,
+      "text": "Relief."
+    },
+    {
+      "start": 206.48,
+      "end": 208.74,
+      "text": "The next morning, we met at the local diner around 5:00 a.m."
+    },
+    {
+      "start": 209.42,
+      "end": 212.56,
+      "text": "As the waitress brought our coffee, he asked, \"How much time you got left to live?\""
+    },
+    {
+      "start": 212.58,
+      "end": 213.42,
+      "text": "\"Huh?\""
+    },
+    {
+      "start": 214.36,
+      "end": 215.46,
+      "text": "\"How much cash you got saved up?\""
+    },
+    {
+      "start": 215.52,
+      "end": 216.76,
+      "text": "\"About five grand.\""
+    },
+    {
+      "start": 216.76,
+      "end": 220.2,
+      "text": "\"How much time does that give you before you run out?\""
+    },
+    {
+      "start": 221.42,
+      "end": 222.42,
+      "text": "I thought about it for a moment."
+    },
+    {
+      "start": 222.42,
+      "end": 223.56,
+      "text": "\"About a month.\""
+    },
+    {
+      "start": 223.56,
+      "end": 224.74,
+      "text": "\"Tough."
+    },
+    {
+      "start": 225.46,
+      "end": 226.2,
+      "text": "How you getting customers?\""
+    },
+    {
+      "start": 226.2,
+      "end": 229.82,
+      "text": "\"I have a 39 dollar six-week special on a discount site.\""
+    },
+    {
+      "start": 229.82,
+      "end": 231.68,
+      "text": "\"How many customers have you gotten?\""
+    },
+    {
+      "start": 231.82,
+      "end": 232.76,
+      "text": "\"Four.\""
+    },
+    {
+      "start": 232.76,
+      "end": 236.92,
+      "text": "\"Looks like you've got a problem that you need to solve fast.\""
+    },
+    {
+      "start": 237.9,
+      "end": 239.0,
+      "text": "He let the statement sink in."
+    },
+    {
+      "start": 239.8,
+      "end": 241.42,
+      "text": "Then I saw a grin spread across his face."
+    },
+    {
+      "start": 241.42,
+      "end": 243.02,
+      "text": "\"Let me ask you a question."
+    },
+    {
+      "start": 243.82,
+      "end": 245.66,
+      "text": "How much does a free month of storage cost?\""
+    },
+    {
+      "start": 246.52,
+      "end": 246.94,
+      "text": "I shrugged."
+    },
+    {
+      "start": 247.32,
+      "end": 248.3,
+      "text": "\"Uh, nothing.\""
+    },
+    {
+      "start": 249.6,
+      "end": 252.54,
+      "text": "He took note of my confusion and said, \"All right, let's go for a ride."
+    },
+    {
+      "start": 252.94,
+      "end": 254.1,
+      "text": "I'll explain it at my facility.\""
+    },
+    {
+      "start": 255.0,
+      "end": 257.42,
+      "text": "As soon as we walked in, the girl at the front desk greeted us."
+    },
+    {
+      "start": 257.48,
+      "end": 258.64,
+      "text": "\"Good morning, gentlemen.\""
+    },
+    {
+      "start": 258.64,
+      "end": 260.14,
+      "text": "\"Good morning, Judy."
+    },
+    {
+      "start": 260.6,
+      "end": 262.12,
+      "text": "How much does a free month of storage cost?\""
+    },
+    {
+      "start": 262.18,
+      "end": 262.52,
+      "text": "he asked."
+    },
+    {
+      "start": 262.62,
+      "end": 265.18,
+      "text": "\"127, sir,\" she replied cheerfully."
+    },
+    {
+      "start": 266.34,
+      "end": 267.8,
+      "text": "He smiled, and he turned to me."
+    },
+    {
+      "start": 267.8,
+      "end": 269.18,
+      "text": "\"Want to know how?\""
+    },
+    {
+      "start": 269.86,
+      "end": 270.24,
+      "text": "I nodded."
+    },
+    {
+      "start": 271.16,
+      "end": 273.96,
+      "text": "He took me through the office and down one of the rows of freshly painted units."
+    },
+    {
+      "start": 273.96,
+      "end": 277.24,
+      "text": "\"So we advertise the first month is free, and it is."
+    },
+    {
+      "start": 278.14,
+      "end": 280.32,
+      "text": "But what's the first thing you need after you get a storage unit?\""
+    },
+    {
+      "start": 281.48,
+      "end": 282.0,
+      "text": "\"I don't know.\""
+    },
+    {
+      "start": 282.36,
+      "end": 282.74,
+      "text": "I shrugged."
+    },
+    {
+      "start": 282.74,
+      "end": 284.1,
+      "text": "\"Exactly."
+    },
+    {
+      "start": 284.44,
+      "end": 286.92,
+      "text": "Nobody really does, but I do, and I help them out."
+    },
+    {
+      "start": 287.4,
+      "end": 288.2,
+      "text": "So let me give you a hint.\""
+    },
+    {
+      "start": 288.64,
+      "end": 290.04,
+      "text": "He pointed towards the lock on the door."
+    },
+    {
+      "start": 290.06,
+      "end": 291.64,
+      "text": "\"Right, a lock.\""
+    },
+    {
+      "start": 291.64,
+      "end": 295.58,
+      "text": "\"Yeah, and not one of those flimsy locks that kids use on their lockers."
+    },
+    {
+      "start": 295.88,
+      "end": 296.96,
+      "text": "Those won't fit here anyways."
+    },
+    {
+      "start": 297.54,
+      "end": 301.92,
+      "text": "Besides, any goon with bolt cutters can get through those in a second, but not one of these bad boys.\""
+    },
+    {
+      "start": 302.28,
+      "end": 303.82,
+      "text": "He tapped the lock to emphasize his point."
+    },
+    {
+      "start": 303.86,
+      "end": 306.94,
+      "text": "\"Yeesh, it looks like it."
+    },
+    {
+      "start": 307.24,
+      "end": 308.08,
+      "text": "Where do you even get one of those?\""
+    },
+    {
+      "start": 308.42,
+      "end": 308.76,
+      "text": "I asked."
+    },
+    {
+      "start": 308.76,
+      "end": 310.18,
+      "text": "\"Funny you should ask."
+    },
+    {
+      "start": 311.22,
+      "end": 312.86,
+      "text": "I've got a whole storage unit full of these."
+    },
+    {
+      "start": 313.68,
+      "end": 315.34,
+      "text": "Yours today for just 47 bucks.\""
+    },
+    {
+      "start": 315.34,
+      "end": 317.44,
+      "text": "\"Okay, okay, I get it."
+    },
+    {
+      "start": 318.1,
+      "end": 321.64,
+      "text": "They come in for the free month, but what good is a storage unit unless you can lock it?\""
+    },
+    {
+      "start": 321.72,
+      "end": 323.34,
+      "text": "\"Exactly,\" he said."
+    },
+    {
+      "start": 323.34,
+      "end": 324.68,
+      "text": "\"I get it."
+    },
+    {
+      "start": 324.72,
+      "end": 326.02,
+      "text": "So where does the other 80 bucks come from?\""
+    },
+    {
+      "start": 326.14,
+      "end": 327.08,
+      "text": "\"Great memory."
+    },
+    {
+      "start": 327.72,
+      "end": 328.82,
+      "text": "So what else are you gonna want?\""
+    },
+    {
+      "start": 329.24,
+      "end": 329.62,
+      "text": "I shrugged."
+    },
+    {
+      "start": 329.62,
+      "end": 333.34,
+      "text": "\"Well, if you have stuff to store, you're gonna need boxes to store it in."
+    },
+    {
+      "start": 333.86,
+      "end": 338.4,
+      "text": "But never fear, we've got boxes with tons of different shapes and sizes to fit all your storage needs."
+    },
+    {
+      "start": 339.06,
+      "end": 344.36,
+      "text": "We also offer tape, labels, and heavy-duty markers to make sure you know exactly what's in every box and where you put it."
+    },
+    {
+      "start": 344.64,
+      "end": 345.24,
+      "text": "Super handy.\""
+    },
+    {
+      "start": 345.66,
+      "end": 348.38,
+      "text": "\"Oh, duh, that makes perfect sense,\" I said."
+    },
+    {
+      "start": 348.38,
+      "end": 350.22,
+      "text": "\"What else are you gonna need?\""
+    },
+    {
+      "start": 350.48,
+      "end": 350.82,
+      "text": "he asked."
+    },
+    {
+      "start": 350.82,
+      "end": 353.16,
+      "text": "\"I don't know, uh, help moving it?\""
+    },
+    {
+      "start": 353.16,
+      "end": 354.38,
+      "text": "\"Yes."
+    },
+    {
+      "start": 354.82,
+      "end": 361.8,
+      "text": "Now, we don't actually offer in-house moving services, but we have an affiliate relationship with a local moving business and make a kickback."
+    },
+    {
+      "start": 362.42,
+      "end": 364.66,
+      "text": "And if you want to move all your stuff yourself, that's fine too."
+    },
+    {
+      "start": 364.72,
+      "end": 368.44,
+      "text": "We have dollies, hand trucks, straps, and other useful tools available for a fee.\""
+    },
+    {
+      "start": 369.33,
+      "end": 371.49,
+      "text": "After all, why buy a bunch of stuff you'll only use once?"
+    },
+    {
+      "start": 371.65,
+      "end": 372.11,
+      "text": "What a waste."
+    },
+    {
+      "start": 372.19,
+      "end": 374.91,
+      "text": "\"Oh, yeah, I didn't think of that,\" I said."
+    },
+    {
+      "start": 374.91,
+      "end": 376.69,
+      "text": "\"What else are you gonna want?\""
+    },
+    {
+      "start": 376.85,
+      "end": 377.27,
+      "text": "he asked."
+    },
+    {
+      "start": 377.27,
+      "end": 379.41,
+      "text": "\"Uh, I really don't know.\""
+    },
+    {
+      "start": 379.51,
+      "end": 382.57,
+      "text": "\"Well, what you store is valuable, right?"
+    },
+    {
+      "start": 382.99,
+      "end": 384.59,
+      "text": "At least valuable to you in some way."
+    },
+    {
+      "start": 384.85,
+      "end": 386.63,
+      "text": "I mean, if it wasn't, you'd send it all to the dump."
+    },
+    {
+      "start": 387.05,
+      "end": 389.25,
+      "text": "So you're gonna want some insurance in case something bad happens."
+    },
+    {
+      "start": 389.75,
+      "end": 399.31,
+      "text": "Now, I already give 500 dollars of free insurance to all customers, but if you have one of the special locks only I offer, I'll bump it to 100,000 dollars for only an extra 10 dollars a month.\""
+    },
+    {
+      "start": 399.69,
+      "end": 400.63,
+      "text": "He puffed with pride."
+    },
+    {
+      "start": 400.63,
+      "end": 401.73,
+      "text": "\"Dang."
+    },
+    {
+      "start": 402.23,
+      "end": 403.97,
+      "text": "And all that adds up to 127 bucks?\""
+    },
+    {
+      "start": 403.97,
+      "end": 405.79,
+      "text": "\"Yep, but we're not done yet."
+    },
+    {
+      "start": 406.47,
+      "end": 407.77,
+      "text": "You know what always seems to happen?\""
+    },
+    {
+      "start": 408.59,
+      "end": 410.03,
+      "text": "Onto his game now, I played along."
+    },
+    {
+      "start": 410.03,
+      "end": 411.03,
+      "text": "\"Beats me."
+    },
+    {
+      "start": 411.23,
+      "end": 411.85,
+      "text": "What happens?\""
+    },
+    {
+      "start": 412.99,
+      "end": 417.21,
+      "text": "\"Everyone has way more stuff than they think, and they always rent too small of a unit."
+    },
+    {
+      "start": 417.43,
+      "end": 420.73,
+      "text": "In fact, it happens so often, we always offer one size up."
+    },
+    {
+      "start": 421.29,
+      "end": 423.49,
+      "text": "They get the space they need, and we make a few extra bucks."
+    },
+    {
+      "start": 423.69,
+      "end": 424.57,
+      "text": "It works out for everyone.\""
+    },
+    {
+      "start": 424.57,
+      "end": 426.51,
+      "text": "\"Wow, this is pretty cool."
+    },
+    {
+      "start": 426.77,
+      "end": 427.51,
+      "text": "I didn't know any of this stuff.\""
+    },
+    {
+      "start": 427.89,
+      "end": 429.07,
+      "text": "\"Of course not,\" he said."
+    },
+    {
+      "start": 429.29,
+      "end": 429.75,
+      "text": "\"Why would you?\""
+    },
+    {
+      "start": 429.83,
+      "end": 431.15,
+      "text": "\"Fair enough."
+    },
+    {
+      "start": 431.75,
+      "end": 433.07,
+      "text": "But how do I use this to grow my gym?\""
+    },
+    {
+      "start": 433.15,
+      "end": 433.45,
+      "text": "I asked."
+    },
+    {
+      "start": 433.53,
+      "end": 441.63,
+      "text": "\"Yeah, I've been playing this game as long as you've been alive, and when you figure out how to make money in one business, I mean, really figure it out, you see ways to make money in any business."
+    },
+    {
+      "start": 442.25,
+      "end": 445.11,
+      "text": "And one thing's for sure, the longer you play, the more you learn.\""
+    },
+    {
+      "start": 445.15,
+      "end": 447.87,
+      "text": "\"Wow, so you've had this place for 23 years?\""
+    },
+    {
+      "start": 448.31,
+      "end": 448.79,
+      "text": "\"This place?"
+    },
+    {
+      "start": 449.11,
+      "end": 449.31,
+      "text": "No."
+    },
+    {
+      "start": 450.03,
+      "end": 451.45,
+      "text": "This is just one of my newer locations.\""
+    },
+    {
+      "start": 451.79,
+      "end": 452.59,
+      "text": "\"You have more than one?\""
+    },
+    {
+      "start": 453.13,
+      "end": 453.45,
+      "text": "I asked."
+    },
+    {
+      "start": 453.45,
+      "end": 454.89,
+      "text": "\"I have 27.\""
+    },
+    {
+      "start": 454.99,
+      "end": 456.95,
+      "text": "\"Oh, crap.\""
+    },
+    {
+      "start": 457.77,
+      "end": 458.65,
+      "text": "I felt two inches tall."
+    },
+    {
+      "start": 458.77,
+      "end": 460.83,
+      "text": "\"Anyways, I gotta get to work."
+    },
+    {
+      "start": 461.01,
+      "end": 461.65,
+      "text": "You know your way out?\""
+    },
+    {
+      "start": 461.97,
+      "end": 462.73,
+      "text": "He pointed to the door."
+    },
+    {
+      "start": 462.73,
+      "end": 464.23,
+      "text": "\"Yeah,\" I chuckled."
+    },
+    {
+      "start": 464.39,
+      "end": 465.71,
+      "text": "\"I think I can make it across the street.\""
+    },
+    {
+      "start": 467.69,
+      "end": 468.53,
+      "text": "Two and a half years later."
+    },
+    {
+      "start": 469.91,
+      "end": 470.83,
+      "text": "I now had six gyms."
+    },
+    {
+      "start": 471.19,
+      "end": 471.83,
+      "text": "I had leveled up."
+    },
+    {
+      "start": 472.49,
+      "end": 476.65,
+      "text": "I wanted to level up again, so I paid 25,000 dollars for an hour of time with a famous marketer."
+    },
+    {
+      "start": 477.39,
+      "end": 480.21,
+      "text": "I'd never spoken to him, but I knew his stuff like the back of my hand."
+    },
+    {
+      "start": 480.69,
+      "end": 483.23,
+      "text": "I had one goal for this call, for him to help me scale my gyms."
+    },
+    {
+      "start": 484.15,
+      "end": 485.79,
+      "text": "After brief introductions, we dove in."
+    },
+    {
+      "start": 485.79,
+      "end": 490.37,
+      "text": "\"So, yeah, and that's how I open my gyms at full capacity on day one."
+    },
+    {
+      "start": 490.71,
+      "end": 494.05,
+      "text": "I put 3,000 dollars down for a lease and then run a few days worth of ads."
+    },
+    {
+      "start": 494.45,
+      "end": 495.85,
+      "text": "I sell customers in the empty building."
+    },
+    {
+      "start": 496.47,
+      "end": 502.63,
+      "text": "Then the cash from those signups goes towards more ads, equipment, paint, flooring, furniture, signage, and whatever else the location needs."
+    },
+    {
+      "start": 503.25,
+      "end": 506.09,
+      "text": "Doing it this way, I've opened up a new location every six months with no debt.\""
+    },
+    {
+      "start": 506.09,
+      "end": 507.49,
+      "text": "\"Wow, so cool."
+    },
+    {
+      "start": 508.01,
+      "end": 509.55,
+      "text": "Explain this to me in a bit more detail, would you?\""
+    },
+    {
+      "start": 510.03,
+      "end": 511.89,
+      "text": "His business was making millions of bucks a month."
+    },
+    {
+      "start": 512.39,
+      "end": 515.97,
+      "text": "Those numbers blew my mind, and he wants to hear how I advertise?"
+    },
+    {
+      "start": 516.57,
+      "end": 517.37,
+      "text": "I beamed with pride."
+    },
+    {
+      "start": 517.37,
+      "end": 520.93,
+      "text": "\"I advertise a free six-week challenge until I get about 20 leads a day.\""
+    },
+    {
+      "start": 521.01,
+      "end": 521.97,
+      "text": "\"Got it."
+    },
+    {
+      "start": 522.13,
+      "end": 522.97,
+      "text": "Keep going,\" he said."
+    },
+    {
+      "start": 522.97,
+      "end": 525.45,
+      "text": "\"About half the leads show up for appointments."
+    },
+    {
+      "start": 525.77,
+      "end": 530.27,
+      "text": "I sell half of those who show into a 600 dollar program, so about 25% of my leads become paying customers."
+    },
+    {
+      "start": 531.05,
+      "end": 534.13,
+      "text": "I also get about another 80 bucks in profit per customer from supplement sales."
+    },
+    {
+      "start": 534.57,
+      "end": 535.21,
+      "text": "Not too shabby.\""
+    },
+    {
+      "start": 535.75,
+      "end": 536.83,
+      "text": "\"Agreed,\" he grunted."
+    },
+    {
+      "start": 536.83,
+      "end": 540.39,
+      "text": "\"So you make like 680 bucks per customer before you even open your doors."
+    },
+    {
+      "start": 540.59,
+      "end": 542.07,
+      "text": "Pretty dang good, but you left something out.\""
+    },
+    {
+      "start": 542.15,
+      "end": 543.25,
+      "text": "\"What did I leave out?\""
+    },
+    {
+      "start": 543.29,
+      "end": 544.83,
+      "text": "\"How much you paying per lead?\""
+    },
+    {
+      "start": 544.83,
+      "end": 546.31,
+      "text": "\"Oh, five bucks.\""
+    },
+    {
+      "start": 547.61,
+      "end": 550.27,
+      "text": "If a deafening silence ever happened in my life, this was it."
+    },
+    {
+      "start": 551.03,
+      "end": 551.71,
+      "text": "He stuttered a bit."
+    },
+    {
+      "start": 551.71,
+      "end": 556.85,
+      "text": "\"So you put 1 dollar in and get 34 dollars out in 48 hours?\""
+    },
+    {
+      "start": 556.85,
+      "end": 558.33,
+      "text": "\"Yeah, is that good?\""
+    },
+    {
+      "start": 558.73,
+      "end": 558.99,
+      "text": "I asked."
+    },
+    {
+      "start": 559.05,
+      "end": 561.05,
+      "text": "\"It's amazing,\" he said."
+    },
+    {
+      "start": 561.05,
+      "end": 563.49,
+      "text": "\"Do you have anything happening on the back end?\""
+    },
+    {
+      "start": 564.67,
+      "end": 565.43,
+      "text": "I grinned ear to ear."
+    },
+    {
+      "start": 565.43,
+      "end": 570.03,
+      "text": "\"Yeah, a few weeks later, I tell them that they can get their 600 dollars back as credit if they choose to sign up for a year."
+    },
+    {
+      "start": 570.45,
+      "end": 577.41,
+      "text": "Two-thirds of signups convert into memberships, so I end up with a full gym and 20,000 dollars a month of recurring memberships for 3,000 dollars down."
+    },
+    {
+      "start": 577.63,
+      "end": 578.53,
+      "text": "Then I rinse and repeat.\""
+    },
+    {
+      "start": 578.55,
+      "end": 579.63,
+      "text": "\"Wait a second."
+    },
+    {
+      "start": 580.01,
+      "end": 581.23,
+      "text": "You do all this in 30 days?\""
+    },
+    {
+      "start": 581.37,
+      "end": 582.81,
+      "text": "\"Yeah, pretty cool, right?\""
+    },
+    {
+      "start": 583.39,
+      "end": 584.09,
+      "text": "He rubbed his eyes."
+    },
+    {
+      "start": 584.11,
+      "end": 585.73,
+      "text": "\"You shouldn't be running gyms.\""
+    },
+    {
+      "start": 586.13,
+      "end": 589.37,
+      "text": "\"Oh, God, I thought he was going to compliment me, but he told me I should quit?\""
+    },
+    {
+      "start": 589.95,
+      "end": 590.57,
+      "text": "My mind raced."
+    },
+    {
+      "start": 590.63,
+      "end": 593.39,
+      "text": "\"Alex,\" he said, snapping me back into reality."
+    },
+    {
+      "start": 593.45,
+      "end": 596.19,
+      "text": "\"You have a level 10 skill set and a level 2 opportunity.\""
+    },
+    {
+      "start": 596.19,
+      "end": 598.49,
+      "text": "\"Okay, well, what should I do?\""
+    },
+    {
+      "start": 598.71,
+      "end": 599.05,
+      "text": "I asked."
+    },
+    {
+      "start": 599.05,
+      "end": 601.15,
+      "text": "\"You shouldn't be running gyms."
+    },
+    {
+      "start": 601.59,
+      "end": 603.77,
+      "text": "You should be showing other gym owners how to do what you just showed me.\""
+    },
+    {
+      "start": 604.95,
+      "end": 609.29,
+      "text": "I hated the idea of giving up on what took years to build, but he made a lot more money than I did."
+    },
+    {
+      "start": 609.87,
+      "end": 612.63,
+      "text": "I figured if I ignored his advice, I may as well burn my money."
+    },
+    {
+      "start": 613.09,
+      "end": 614.13,
+      "text": "So, I took his advice."
+    },
+    {
+      "start": 614.65,
+      "end": 618.57,
+      "text": "Over the next nine months, I closed down my newest gym and sold my other five."
+    },
+    {
+      "start": 619.25,
+      "end": 621.91,
+      "text": "That gave me all the time to go all in on my new company, Gym Launch."
+    },
+    {
+      "start": 622.33,
+      "end": 624.87,
+      "text": "Over the next two years, I flew around the country turning gyms around."
+    },
+    {
+      "start": 625.35,
+      "end": 628.15,
+      "text": "Then, after 30 plus turnarounds, I switched to a licensing model."
+    },
+    {
+      "start": 628.85,
+      "end": 630.07,
+      "text": "I no longer flew out in person."
+    },
+    {
+      "start": 630.41,
+      "end": 634.63,
+      "text": "Instead, I helped them follow our proven model to fill their gyms and increase profits."
+    },
+    {
+      "start": 635.29,
+      "end": 638.59,
+      "text": "A small market to be sure, but they were starving, some literally."
+    },
+    {
+      "start": 639.25,
+      "end": 641.47,
+      "text": "But once they filled their gym in 30 days, they told their friends."
+    },
+    {
+      "start": 642.03,
+      "end": 643.35,
+      "text": "Gym Launch took off like a rocket."
+    },
+    {
+      "start": 643.65,
+      "end": 644.23,
+      "text": "It was wild."
+    },
+    {
+      "start": 645.11,
+      "end": 648.69,
+      "text": "Over the next five years, I took over 43 million dollars in owner distributions."
+    },
+    {
+      "start": 649.21,
+      "end": 653.11,
+      "text": "Then I sold 66% of the company at 46.2 million in an all-cash deal."
+    },
+    {
+      "start": 654.49,
+      "end": 657.41,
+      "text": "With that deal, I crossed 100 million dollars in net worth at age 31."
+    },
+    {
+      "start": 657.73,
+      "end": 659.97,
+      "text": "And to be clear, no one was more surprised than me."
+    },
+    {
+      "start": 660.85,
+      "end": 665.99,
+      "text": "From there, my wife and I founded our family office, acquisition.com, to invest in businesses we know how to grow."
+    },
+    {
+      "start": 666.51,
+      "end": 669.75,
+      "text": "Our portfolio at the time of this writing does over 200 million dollars per year in annual revenue."
+    },
+    {
+      "start": 670.41,
+      "end": 674.45,
+      "text": "It spans brick-and-mortar chains, software, services, and e-commerce."
+    },
+    {
+      "start": 675.45,
+      "end": 680.69,
+      "text": "And even though we worked in many different niches, our companies have all grown using the same principles I share in this book."
+    },
+    {
+      "start": 681.37,
+      "end": 682.81,
+      "text": "So, what's in it for you?"
+    },
+    {
+      "start": 683.87,
+      "end": 687.47,
+      "text": "In a few pages, I took you from sleeping on the floor to crossing 100 million dollars in net worth."
+    },
+    {
+      "start": 687.99,
+      "end": 689.35,
+      "text": "So the natural question is, how?"
+    },
+    {
+      "start": 690.11,
+      "end": 693.31,
+      "text": "Answer, by making more money from customers than it costs to get them."
+    },
+    {
+      "start": 693.89,
+      "end": 696.51,
+      "text": "And that's what this book, 100 Million Dollar Money Models, is all about."
+    },
+    {
+      "start": 697.33,
+      "end": 700.63,
+      "text": "Since I've been in business, the landscape has changed more than once, and it'll keep changing."
+    },
+    {
+      "start": 701.23,
+      "end": 703.83,
+      "text": "The good news is, sound principles help you print money no matter what."
+    },
+    {
+      "start": 704.33,
+      "end": 705.33,
+      "text": "I've learned a lot of money models."
+    },
+    {
+      "start": 705.81,
+      "end": 706.67,
+      "text": "I cover my favorites here."
+    },
+    {
+      "start": 707.43,
+      "end": 713.39,
+      "text": "100 Million Dollar Money Models shows already proven offers that you can use today, and the instructions to make them happen."
+    },
+    {
+      "start": 714.17,
+      "end": 717.25,
+      "text": "Think of 100 Million Dollar Money Models as a book of winning lottery tickets."
+    },
+    {
+      "start": 717.69,
+      "end": 718.89,
+      "text": "All you have to do is cash them in."
+    },
+    {
+      "start": 719.73,
+      "end": 721.15,
+      "text": "Also, I want to make something clear."
+    },
+    {
+      "start": 721.63,
+      "end": 722.77,
+      "text": "These are my private notes."
+    },
+    {
+      "start": 723.09,
+      "end": 724.53,
+      "text": "If it's here, I've made money with it."
+    },
+    {
+      "start": 725.07,
+      "end": 731.69,
+      "text": "These chapters contain my observations and experiences with different businesses, from local chains to physical products to services to education to software and so on."
+    },
+    {
+      "start": 732.45,
+      "end": 734.69,
+      "text": "And they were scattered everywhere over the years, until now."
+    },
+    {
+      "start": 735.89,
+      "end": 737.27,
+      "text": "This is my cookbook for making money."
+    },
+    {
+      "start": 738.03,
+      "end": 738.97,
+      "text": "How this book is structured."
+    },
+    {
+      "start": 739.91,
+      "end": 744.13,
+      "text": "This book teaches you one insanely profitable thing, how to build a 100 million dollar money model."
+    },
+    {
+      "start": 744.73,
+      "end": 750.27,
+      "text": "With a 100 million dollar money model, you make so much money in the first 30 days that the cost of getting more customers will never be a problem again."
+    },
+    {
+      "start": 751.17,
+      "end": 754.99,
+      "text": "With so many customers, you'll be forced to work on everything else in your business just to keep up."
+    },
+    {
+      "start": 755.71,
+      "end": 757.75,
+      "text": "A problem for another book to solve, winky face."
+    },
+    {
+      "start": 758.67,
+      "end": 759.47,
+      "text": "Here's the book outline."
+    },
+    {
+      "start": 760.71,
+      "end": 762.37,
+      "text": "Start here and problem this book solves."
+    },
+    {
+      "start": 762.65,
+      "end": 763.37,
+      "text": "You just finished it."
+    },
+    {
+      "start": 763.97,
+      "end": 765.43,
+      "text": "Section one, what's a money model?"
+    },
+    {
+      "start": 765.81,
+      "end": 766.41,
+      "text": "Coming up next."
+    },
+    {
+      "start": 766.81,
+      "end": 768.19,
+      "text": "Section two, attraction offers."
+    },
+    {
+      "start": 768.43,
+      "end": 769.67,
+      "text": "Section three, upsell offers."
+    },
+    {
+      "start": 769.99,
+      "end": 771.33,
+      "text": "Section four, downsell offers."
+    },
+    {
+      "start": 771.47,
+      "end": 772.83,
+      "text": "Section five, continuity offers."
+    },
+    {
+      "start": 773.25,
+      "end": 774.99,
+      "text": "Section six, make your money model."
+    },
+    {
+      "start": 775.41,
+      "end": 775.73,
+      "text": "That's it."
+    },
+    {
+      "start": 776.03,
+      "end": 776.53,
+      "text": "Easy peasy."
+    },
+    {
+      "start": 777.75,
+      "end": 778.25,
+      "text": "Pro tip."
+    },
+    {
+      "start": 778.85,
+      "end": 781.27,
+      "text": "Faster, deeper learning by reading and listening at the same time."
+    },
+    {
+      "start": 781.81,
+      "end": 783.37,
+      "text": "Here's a life hack I stumbled on years ago."
+    },
+    {
+      "start": 783.97,
+      "end": 788.75,
+      "text": "If you listen to an audiobook and read the physical book or ebook at the same time, you read faster and remember more."
+    },
+    {
+      "start": 789.55,
+      "end": 791.37,
+      "text": "You store the content in more places in your brain."
+    },
+    {
+      "start": 791.69,
+      "end": 792.23,
+      "text": "Nifty stuff."
+    },
+    {
+      "start": 792.49,
+      "end": 793.93,
+      "text": "This is how I read books worth reading."
+    },
+    {
+      "start": 794.85,
+      "end": 797.25,
+      "text": "I also do both because I struggle to stay focused."
+    },
+    {
+      "start": 797.65,
+      "end": 800.29,
+      "text": "If I listen to the audio while reading it, it helps me avoid zoning out."
+    },
+    {
+      "start": 800.77,
+      "end": 802.53,
+      "text": "It took me two days to record this book out loud."
+    },
+    {
+      "start": 803.21,
+      "end": 805.41,
+      "text": "I did it, so if you struggle like me, you don't have to anymore."
+    },
+    {
+      "start": 805.91,
+      "end": 809.65,
+      "text": "If you want to give it a try, go ahead and grab the audio version and see for yourself."
+    },
+    {
+      "start": 810.43,
+      "end": 814.61,
+      "text": "I've made my books as cheap as the platforms let me, so this isn't a ploy to make some extra coin, I promise."
+    },
+    {
+      "start": 815.17,
+      "end": 816.61,
+      "text": "I hope you find it as valuable as I have."
+    },
+    {
+      "start": 817.57,
+      "end": 819.57,
+      "text": "I figured I'd put this hack early on."
+    },
+    {
+      "start": 820.03,
+      "end": 823.77,
+      "text": "This way, you'd have a chance to do it if you found the first chapter valuable enough to earn your attention."
+    },
+    {
+      "start": 824.75,
+      "end": 825.15,
+      "text": "Pro tip."
+    },
+    {
+      "start": 825.77,
+      "end": 826.69,
+      "text": "Hack for finishing books."
+    },
+    {
+      "start": 827.35,
+      "end": 830.33,
+      "text": "I get distracted easily, so I need little tricks to keep my attention."
+    },
+    {
+      "start": 830.65,
+      "end": 831.53,
+      "text": "This one helps me a lot."
+    },
+    {
+      "start": 832.31,
+      "end": 833.07,
+      "text": "Finish chapters."
+    },
+    {
+      "start": 833.23,
+      "end": 834.07,
+      "text": "Don't stop in the middle."
+    },
+    {
+      "start": 834.59,
+      "end": 836.45,
+      "text": "Completing a chapter gives you positive reinforcement."
+    },
+    {
+      "start": 836.51,
+      "end": 837.11,
+      "text": "It keeps you going."
+    },
+    {
+      "start": 837.57,
+      "end": 840.89,
+      "text": "So if you meet a tough chapter, finish it so you can start fresh on the next one."
+    },
+    {
+      "start": 842.65,
+      "end": 848.63,
+      "text": "Real quick, guys, I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 849.25,
+      "end": 854.57,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 854.67,
+      "end": 860.21,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 860.25,
+      "end": 866.37,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 866.71,
+      "end": 870.71,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 870.87,
+      "end": 874.29,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 874.39,
+      "end": 876.81,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 876.97,
+      "end": 881.95,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 881.99,
+      "end": 888.15,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 888.79,
+      "end": 895.19,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap, R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "2d28dd6ec5bd71ba706b1bbecb543a3326a1f40dc16b40298f4ed8898250a995",
+  "audio_duration_sec": 898.742857,
+  "elapsed_sec": 9.0,
+  "created": "2026-11-16T03:28:45+00:00"
+}

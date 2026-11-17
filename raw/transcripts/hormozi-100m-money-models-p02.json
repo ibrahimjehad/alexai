@@ -1,0 +1,1172 @@
+{
+  "source_id": "hormozi-100m-money-models-p02",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 1.92,
+      "text": "Section 1: What's a money model?"
+    },
+    {
+      "start": 1.92,
+      "end": 8.28,
+      "text": "\"Hermozi has the highest return on advertising of any business using our advertising tracking platform by a mile."
+    },
+    {
+      "start": 8.62,
+      "end": 15.74,
+      "text": "He has the biggest discrepancy between dollars spent and dollars earned, and we only work with businesses spending at least 250,000 per year on marketing or more."
+    },
+    {
+      "start": 16.14,
+      "end": 19.94,
+      "text": "So these are the cream of the crop marketers, and his numbers are in the stratosphere by comparison.\""
+    },
+    {
+      "start": 20.48,
+      "end": 22.14,
+      "text": "Alex Becker, CEO, Hyros."
+    },
+    {
+      "start": 22.82,
+      "end": 23.64,
+      "text": "December 2019."
+    },
+    {
+      "start": 23.66,
+      "end": 24.86,
+      "text": "\"Hello, sir."
+    },
+    {
+      "start": 25.38,
+      "end": 27.24,
+      "text": "Can I have your ID so I can look up your reservation?\""
+    },
+    {
+      "start": 27.78,
+      "end": 29.36,
+      "text": "The car rental agent said, smiling."
+    },
+    {
+      "start": 30.4,
+      "end": 34.04,
+      "text": "I already had my ID in hand, ready, so I slid it across the counter."
+    },
+    {
+      "start": 34.04,
+      "end": 37.32,
+      "text": "\"Hmm, it looks like we don't have your car reserved."
+    },
+    {
+      "start": 38.02,
+      "end": 40.42,
+      "text": "We have an equivalent car though, and you're a big guy."
+    },
+    {
+      "start": 40.66,
+      "end": 42.5,
+      "text": "Would you prefer a roomier pickup instead?\""
+    },
+    {
+      "start": 43.1,
+      "end": 43.94,
+      "text": "Blinking a few times."
+    },
+    {
+      "start": 44.02,
+      "end": 47.6,
+      "text": "\"Yeah, that sounds nice,\" I said."
+    },
+    {
+      "start": 47.62,
+      "end": 50.5,
+      "text": "\"I've got you down here for three days.\""
+    },
+    {
+      "start": 50.74,
+      "end": 52.32,
+      "text": "She cocked her head to the side a bit."
+    },
+    {
+      "start": 52.32,
+      "end": 58.54,
+      "text": "\"Would you like to have a late return so you can turn in the vehicle at any time during the day without worrying about late fees?\""
+    },
+    {
+      "start": 59.42,
+      "end": 60.52,
+      "text": "I pulled up my schedule on my phone."
+    },
+    {
+      "start": 60.52,
+      "end": 62.98,
+      "text": "\"Yeah, we have an evening flight, so that sounds good.\""
+    },
+    {
+      "start": 62.98,
+      "end": 64.24,
+      "text": "\"Great."
+    },
+    {
+      "start": 64.4,
+      "end": 65.04,
+      "text": "Give me a second."
+    },
+    {
+      "start": 65.38,
+      "end": 66.14,
+      "text": "Just putting that in."
+    },
+    {
+      "start": 67.12,
+      "end": 69.82,
+      "text": "So would you like better insurance to cover any bumps and scratches on the car?"
+    },
+    {
+      "start": 70.2,
+      "end": 72.2,
+      "text": "It covers any and all damage to the vehicle during your time.\""
+    },
+    {
+      "start": 72.28,
+      "end": 73.86,
+      "text": "\"Nope, I'm good."
+    },
+    {
+      "start": 74.28,
+      "end": 76.34,
+      "text": "No plans on drag racing while I'm here,\" I joked."
+    },
+    {
+      "start": 76.34,
+      "end": 79.22,
+      "text": "\"So only the minimum insurance then?\""
+    },
+    {
+      "start": 79.68,
+      "end": 80.5,
+      "text": "\"Yeah, that's all I need.\""
+    },
+    {
+      "start": 80.56,
+      "end": 81.68,
+      "text": "\"Okay then."
+    },
+    {
+      "start": 82.46,
+      "end": 83.44,
+      "text": "I'll have your keys in a second."
+    },
+    {
+      "start": 83.94,
+      "end": 86.4,
+      "text": "Did you want us to take care of fuel so you don't have to worry about filling it up?"
+    },
+    {
+      "start": 86.6,
+      "end": 88.9,
+      "text": "You can return it on empty and not worrying about paying a fee."
+    },
+    {
+      "start": 89.84,
+      "end": 91.66,
+      "text": "We do it for 3 dollars 75 cents a gallon.\""
+    },
+    {
+      "start": 91.66,
+      "end": 93.22,
+      "text": "\"What's gas cost around here?\""
+    },
+    {
+      "start": 93.7,
+      "end": 93.98,
+      "text": "I asked."
+    },
+    {
+      "start": 94.36,
+      "end": 96.08,
+      "text": "\"About 3.50 a gallon,\" she replied cheerfully."
+    },
+    {
+      "start": 96.16,
+      "end": 97.44,
+      "text": "\"Sure, why not?"
+    },
+    {
+      "start": 97.88,
+      "end": 99.62,
+      "text": "I hate filling it up when I'm rushing to catch a flight.\""
+    },
+    {
+      "start": 99.62,
+      "end": 100.84,
+      "text": "\"All righty then."
+    },
+    {
+      "start": 101.04,
+      "end": 101.6,
+      "text": "Here's your receipt."
+    },
+    {
+      "start": 101.66,
+      "end": 103.86,
+      "text": "Just go around the corner, and your truck should be halfway down to the left."
+    },
+    {
+      "start": 104.02,
+      "end": 104.62,
+      "text": "Enjoy your trip.\""
+    },
+    {
+      "start": 106.08,
+      "end": 107.52,
+      "text": "As I walked, I glanced at the receipt."
+    },
+    {
+      "start": 108.06,
+      "end": 109.0,
+      "text": "It stopped me in my tracks."
+    },
+    {
+      "start": 109.7,
+      "end": 110.7,
+      "text": "I could only laugh at myself."
+    },
+    {
+      "start": 111.5,
+      "end": 116.44,
+      "text": "I came for a 19 dollar a day car, and I left paying 100 dollars a day, a 5X difference."
+    },
+    {
+      "start": 117.18,
+      "end": 119.1,
+      "text": "And that's the power of a well-designed money model."
+    },
+    {
+      "start": 119.98,
+      "end": 125.58,
+      "text": "They knew everything I wanted before I asked, and when they asked to solve problems I didn't even know I would have, I accepted."
+    },
+    {
+      "start": 126.7,
+      "end": 127.6,
+      "text": "A money model happened."
+    },
+    {
+      "start": 128.3,
+      "end": 129.82,
+      "text": "A money model is a sequence of offers."
+    },
+    {
+      "start": 130.2,
+      "end": 134.32,
+      "text": "At their core, we find every opportunity to solve a customer's problems and then offer to solve it."
+    },
+    {
+      "start": 134.94,
+      "end": 137.9,
+      "text": "For that reason, money models tend to have many offers in a specific order."
+    },
+    {
+      "start": 138.58,
+      "end": 142.16,
+      "text": "If you offer the right thing when customers realize they need it, you can make as many offers as you like."
+    },
+    {
+      "start": 142.9,
+      "end": 145.28,
+      "text": "This is the rental car company's money model stated plainly."
+    },
+    {
+      "start": 145.76,
+      "end": 147.22,
+      "text": "Offer one: vehicle upgrade."
+    },
+    {
+      "start": 147.52,
+      "end": 148.8,
+      "text": "Offer two: late return."
+    },
+    {
+      "start": 149.24,
+      "end": 150.52,
+      "text": "Offer three: premium insurance."
+    },
+    {
+      "start": 151.02,
+      "end": 152.9,
+      "text": "Offer four: minimum insurance downsell."
+    },
+    {
+      "start": 153.46,
+      "end": 154.76,
+      "text": "Offer five: prepaid gas."
+    },
+    {
+      "start": 155.32,
+      "end": 158.04,
+      "text": "So yeah, I paid more, but it also solved more problems."
+    },
+    {
+      "start": 158.8,
+      "end": 160.1,
+      "text": "Let's break down the problems she solved."
+    },
+    {
+      "start": 161.2,
+      "end": 165.48,
+      "text": "First, she solved my big man in small car problem by offering a vehicle that had more space."
+    },
+    {
+      "start": 166.36,
+      "end": 170.26,
+      "text": "Then she solved my late checkout problem by offering the flexibility to keep vehicle longer."
+    },
+    {
+      "start": 171.2,
+      "end": 176.3,
+      "text": "Then she solved my worries about dinging the car problem by offering insurance to protect against it."
+    },
+    {
+      "start": 177.6,
+      "end": 183.06,
+      "text": "Then she solved my risk of missing my flight problem by offering a way to prepay for the gas ahead of time, so I wouldn't have to do it on my ride back."
+    },
+    {
+      "start": 183.56,
+      "end": 186.5,
+      "text": "And all of those things cost money that I was happy to pay."
+    },
+    {
+      "start": 187.56,
+      "end": 189.28,
+      "text": "The rental car company thought out every nuance."
+    },
+    {
+      "start": 189.8,
+      "end": 192.28,
+      "text": "They thought about every problem, then made their solution available to me."
+    },
+    {
+      "start": 192.88,
+      "end": 197.44,
+      "text": "They offer solutions for higher fees and hassles I might have had later for smaller fees in total right now."
+    },
+    {
+      "start": 198.4,
+      "end": 200.92,
+      "text": "As a result, my 19 dollar rental became a 100 dollar rental."
+    },
+    {
+      "start": 201.46,
+      "end": 207.9,
+      "text": "I paid more money faster, and now we can see why rental car industry brings in billions in the United States alone per month."
+    },
+    {
+      "start": 208.6,
+      "end": 209.48,
+      "text": "A successful money model."
+    },
+    {
+      "start": 210.76,
+      "end": 213.34,
+      "text": "Beware, bad money models kill businesses."
+    },
+    {
+      "start": 214.2,
+      "end": 217.88,
+      "text": "It costs many businesses more to get somebody to buy a thing than they make in profit off the thing."
+    },
+    {
+      "start": 218.2,
+      "end": 220.04,
+      "text": "In other words, they lose money getting new customers."
+    },
+    {
+      "start": 220.3,
+      "end": 221.14,
+      "text": "That's a big problem."
+    },
+    {
+      "start": 221.66,
+      "end": 222.44,
+      "text": "And here's what happens."
+    },
+    {
+      "start": 223.02,
+      "end": 224.3,
+      "text": "They spend money to get customers."
+    },
+    {
+      "start": 224.72,
+      "end": 226.84,
+      "text": "At the end of the month, they realize they spent more than they made."
+    },
+    {
+      "start": 227.4,
+      "end": 228.5,
+      "text": "They cut back on advertising."
+    },
+    {
+      "start": 229.16,
+      "end": 231.44,
+      "text": "They get fewer customers than they can handle because they can't afford them."
+    },
+    {
+      "start": 232.08,
+      "end": 233.26,
+      "text": "Then cut advertising altogether."
+    },
+    {
+      "start": 233.92,
+      "end": 237.06,
+      "text": "Float the business with personal cash, loans, credit, and then pray for profit."
+    },
+    {
+      "start": 237.64,
+      "end": 239.76,
+      "text": "Sell percentages of their business just to keep the lights on."
+    },
+    {
+      "start": 240.5,
+      "end": 243.06,
+      "text": "Wait months or years to make their money back, if ever."
+    },
+    {
+      "start": 243.42,
+      "end": 246.16,
+      "text": "Fall further and further behind until finally they lose it all."
+    },
+    {
+      "start": 247.0,
+      "end": 247.88,
+      "text": "But it doesn't have to be that way."
+    },
+    {
+      "start": 248.26,
+      "end": 248.92,
+      "text": "There's plenty of money."
+    },
+    {
+      "start": 249.24,
+      "end": 250.28,
+      "text": "You just have to go get it."
+    },
+    {
+      "start": 250.96,
+      "end": 255.56,
+      "text": "In traditional business, the slow drip of profits from lots of customers eventually pays for a single customer."
+    },
+    {
+      "start": 256.3,
+      "end": 258.12,
+      "text": "This drip starves the business of cash."
+    },
+    {
+      "start": 258.74,
+      "end": 263.14,
+      "text": "It means they can only get customers through advertising if they already have lots of customers."
+    },
+    {
+      "start": 263.8,
+      "end": 267.58,
+      "text": "Big companies or small companies with investors can do this because they have the money to burn."
+    },
+    {
+      "start": 268.26,
+      "end": 268.92,
+      "text": "Think about it this way."
+    },
+    {
+      "start": 269.44,
+      "end": 273.94,
+      "text": "If you spend 100 dollars in advertising to get a customer and make 500 dollars in profit from them, that's a great deal."
+    },
+    {
+      "start": 274.16,
+      "end": 275.0,
+      "text": "You should take it all day."
+    },
+    {
+      "start": 275.74,
+      "end": 277.72,
+      "text": "But what if it takes you two years to make your cash back?"
+    },
+    {
+      "start": 278.48,
+      "end": 281.04,
+      "text": "It's a great business if you already have tons of cash in the bank."
+    },
+    {
+      "start": 281.44,
+      "end": 282.88,
+      "text": "Otherwise, you're going to run out of money."
+    },
+    {
+      "start": 283.48,
+      "end": 284.54,
+      "text": "That leaves you with two options."
+    },
+    {
+      "start": 285.0,
+      "end": 288.14,
+      "text": "Option one, wait two years to get paid and pray you don't run out of money."
+    },
+    {
+      "start": 288.68,
+      "end": 291.6,
+      "text": "Option two, get paid fast and grow as much as you darn well please."
+    },
+    {
+      "start": 292.12,
+      "end": 293.64,
+      "text": "A good money model is option two."
+    },
+    {
+      "start": 295.0,
+      "end": 298.12,
+      "text": "Author note: Make enough profit to cover your costs in 30 days or less."
+    },
+    {
+      "start": 298.88,
+      "end": 301.2,
+      "text": "I like to cover my cost of getting a customer within 30 days."
+    },
+    {
+      "start": 301.52,
+      "end": 305.36,
+      "text": "Main reason: any business can get interest-free money for 30 days in the form of credit card."
+    },
+    {
+      "start": 305.92,
+      "end": 308.54,
+      "text": "If you clear your balance before the end of the month, it works just like normal money."
+    },
+    {
+      "start": 309.04,
+      "end": 313.18,
+      "text": "So you can use credit to get a customer, pay it back, and then use it again to get the next customer."
+    },
+    {
+      "start": 313.56,
+      "end": 316.22,
+      "text": "And if you can pay it off before 30 days, you can do it again."
+    },
+    {
+      "start": 316.88,
+      "end": 317.62,
+      "text": "Rinse and repeat."
+    },
+    {
+      "start": 318.38,
+      "end": 319.8,
+      "text": "Good money models make millionaires."
+    },
+    {
+      "start": 321.74,
+      "end": 324.24,
+      "text": "If you make more offers and people buy them, you make more money."
+    },
+    {
+      "start": 324.84,
+      "end": 327.0,
+      "text": "If you make more money, you can use it to get more customers."
+    },
+    {
+      "start": 327.58,
+      "end": 331.32,
+      "text": "If they pay you that money faster, the faster you can get those customers and stay profitable."
+    },
+    {
+      "start": 332.66,
+      "end": 334.54,
+      "text": "But what if you make your customers twice as valuable?"
+    },
+    {
+      "start": 334.92,
+      "end": 338.26,
+      "text": "You get twice as many of them, and you get those customers at twice the speed."
+    },
+    {
+      "start": 338.76,
+      "end": 340.66,
+      "text": "Your business grows eight times faster."
+    },
+    {
+      "start": 341.24,
+      "end": 343.98,
+      "text": "And if you triple them, your business grows 27 times faster."
+    },
+    {
+      "start": 344.64,
+      "end": 345.44,
+      "text": "See where I'm going with this?"
+    },
+    {
+      "start": 346.1,
+      "end": 352.44,
+      "text": "You can get really big, really profitable, really fast with just a few changes, and that's exactly what I'm going to show you how to do."
+    },
+    {
+      "start": 353.34,
+      "end": 356.18,
+      "text": "Next up, money models are a sequence of offers."
+    },
+    {
+      "start": 356.56,
+      "end": 358.02,
+      "text": "Different offers solve different problems."
+    },
+    {
+      "start": 358.52,
+      "end": 361.6,
+      "text": "So if you want to win, you have to figure out what to offer next."
+    },
+    {
+      "start": 362.28,
+      "end": 364.92,
+      "text": "To figure that out, you've got to understand the four types of offers."
+    },
+    {
+      "start": 365.96,
+      "end": 367.96,
+      "text": "The four types of offers that make money models."
+    },
+    {
+      "start": 369.17,
+      "end": 369.91,
+      "text": "Stop being poor."
+    },
+    {
+      "start": 370.73,
+      "end": 371.25,
+      "text": "Paris Hilton."
+    },
+    {
+      "start": 372.03,
+      "end": 372.97,
+      "text": "The limit does not exist."
+    },
+    {
+      "start": 373.81,
+      "end": 376.23,
+      "text": "Lindsay Lohan as Cady Heron in Mean Girls."
+    },
+    {
+      "start": 377.73,
+      "end": 382.61,
+      "text": "Making one offer works better than making none, and making more offers works better than making one."
+    },
+    {
+      "start": 383.33,
+      "end": 385.39,
+      "text": "Combining offers in a sequence makes a money model."
+    },
+    {
+      "start": 386.29,
+      "end": 388.49,
+      "text": "My money models combine four different types of offers."
+    },
+    {
+      "start": 389.41,
+      "end": 390.25,
+      "text": "Four types of offers."
+    },
+    {
+      "start": 391.07,
+      "end": 397.27,
+      "text": "Here are four types of offers: attraction offers, upsell offers, downsell offers, and continuity offers."
+    },
+    {
+      "start": 398.03,
+      "end": 400.69,
+      "text": "All improve our money model, but they do it differently."
+    },
+    {
+      "start": 401.53,
+      "end": 405.07,
+      "text": "They work great on their own, but together, they make your business unstoppable."
+    },
+    {
+      "start": 405.77,
+      "end": 410.29,
+      "text": "If you look at a great business, you'll see different versions of these offers as core components of their money-making machine."
+    },
+    {
+      "start": 410.83,
+      "end": 413.71,
+      "text": "You can use one, two, multiples of one, or all four together."
+    },
+    {
+      "start": 414.41,
+      "end": 415.69,
+      "text": "You can combine them however you want."
+    },
+    {
+      "start": 416.07,
+      "end": 419.31,
+      "text": "But when I look at my most profitable businesses, I use all four."
+    },
+    {
+      "start": 419.97,
+      "end": 420.47,
+      "text": "Here's why."
+    },
+    {
+      "start": 421.49,
+      "end": 423.93,
+      "text": "If you don't have an offer for getting customers, you won't get as many."
+    },
+    {
+      "start": 424.43,
+      "end": 425.21,
+      "text": "But let's say you do."
+    },
+    {
+      "start": 425.91,
+      "end": 429.37,
+      "text": "If you only have that one thing to offer, you won't make nearly as much money as you could."
+    },
+    {
+      "start": 429.85,
+      "end": 433.09,
+      "text": "So if you have something to offer next, an upsell, you'll finally get some cash."
+    },
+    {
+      "start": 433.57,
+      "end": 436.67,
+      "text": "But you still won't make as much money as you could because lots of people still say no."
+    },
+    {
+      "start": 436.89,
+      "end": 440.09,
+      "text": "So we turn those nos into yeses with downsells, and that works fine."
+    },
+    {
+      "start": 440.53,
+      "end": 444.37,
+      "text": "But it would be even better if we get that extra cash guaranteed to come in month after month."
+    },
+    {
+      "start": 444.91,
+      "end": 446.81,
+      "text": "So, you make a continuity offer to top it off."
+    },
+    {
+      "start": 447.37,
+      "end": 448.25,
+      "text": "That's how I like to do it."
+    },
+    {
+      "start": 449.17,
+      "end": 450.59,
+      "text": "So that's how I structured these sections."
+    },
+    {
+      "start": 451.03,
+      "end": 454.19,
+      "text": "I start with attraction offers because if you're not getting customers, you need one of those first."
+    },
+    {
+      "start": 454.85,
+      "end": 458.01,
+      "text": "Then we cover upsell offers, followed by downsell offers."
+    },
+    {
+      "start": 458.39,
+      "end": 462.29,
+      "text": "Then to finish the four types, I show you my favorite continuity offers, exactly how I learned them."
+    },
+    {
+      "start": 463.41,
+      "end": 464.51,
+      "text": "How each chapter is structured."
+    },
+    {
+      "start": 464.99,
+      "end": 466.15,
+      "text": "Here's how the rest of the book reads."
+    },
+    {
+      "start": 466.89,
+      "end": 469.11,
+      "text": "One, the story of how I first learned this money model."
+    },
+    {
+      "start": 469.89,
+      "end": 471.83,
+      "text": "Two, a description of how the money model works."
+    },
+    {
+      "start": 472.59,
+      "end": 475.53,
+      "text": "Three, a few examples of how this money model works in different industries."
+    },
+    {
+      "start": 475.81,
+      "end": 477.51,
+      "text": "Think of how you could use money model in your business."
+    },
+    {
+      "start": 478.27,
+      "end": 480.87,
+      "text": "Four, important notes and tactics that make the money model work."
+    },
+    {
+      "start": 481.43,
+      "end": 485.49,
+      "text": "These tidbits help you execute the play like it's your hundredth time doing it on your first try."
+    },
+    {
+      "start": 486.51,
+      "end": 487.61,
+      "text": "Five, a summary."
+    },
+    {
+      "start": 488.03,
+      "end": 493.19,
+      "text": "All the important points about the money model, plus some extra thoughts sprinkled in about how to make the money model work even more profitably."
+    },
+    {
+      "start": 495.19,
+      "end": 495.77,
+      "text": "Important notes."
+    },
+    {
+      "start": 496.39,
+      "end": 496.69,
+      "text": "All right."
+    },
+    {
+      "start": 497.15,
+      "end": 499.75,
+      "text": "Before I release this pile of golden nuggets, I need to make a few things clear."
+    },
+    {
+      "start": 500.41,
+      "end": 502.33,
+      "text": "Number one, all businesses have money models."
+    },
+    {
+      "start": 502.89,
+      "end": 504.11,
+      "text": "It makes a business a business."
+    },
+    {
+      "start": 504.81,
+      "end": 510.51,
+      "text": "Switch the poor person mantra of, \"This won't work for my business,\" to the rich person mantra of, \"How will I make this work for my business?\""
+    },
+    {
+      "start": 511.09,
+      "end": 511.57,
+      "text": "They all work."
+    },
+    {
+      "start": 512.19,
+      "end": 512.69,
+      "text": "Be creative."
+    },
+    {
+      "start": 513.89,
+      "end": 516.93,
+      "text": "Two, some money models work better in some businesses than others."
+    },
+    {
+      "start": 517.49,
+      "end": 518.73,
+      "text": "They're just different ways to offer stuff."
+    },
+    {
+      "start": 519.57,
+      "end": 522.57,
+      "text": "If you just try and copy what they do, you'll be disappointed."
+    },
+    {
+      "start": 523.33,
+      "end": 525.77,
+      "text": "To make it work for your business, you have to design your own."
+    },
+    {
+      "start": 526.17,
+      "end": 527.35,
+      "text": "But don't worry, I'll show you how."
+    },
+    {
+      "start": 528.27,
+      "end": 531.23,
+      "text": "Three, if a customer asks for their money back, give it back."
+    },
+    {
+      "start": 531.77,
+      "end": 532.45,
+      "text": "Avoid the headache."
+    },
+    {
+      "start": 533.03,
+      "end": 534.81,
+      "text": "And if you made a goof, fix the goof."
+    },
+    {
+      "start": 535.11,
+      "end": 536.03,
+      "text": "Don't be a silly goose."
+    },
+    {
+      "start": 536.55,
+      "end": 537.31,
+      "text": "Treat customers well."
+    },
+    {
+      "start": 537.87,
+      "end": 540.47,
+      "text": "Spend the time and resources getting a customer better fit for your business."
+    },
+    {
+      "start": 541.53,
+      "end": 543.93,
+      "text": "Four, hard selling is for weak products."
+    },
+    {
+      "start": 544.55,
+      "end": 546.27,
+      "text": "If someone doesn't want something, that's okay."
+    },
+    {
+      "start": 546.73,
+      "end": 548.09,
+      "text": "Don't convince someone against their will."
+    },
+    {
+      "start": 548.47,
+      "end": 551.77,
+      "text": "Make offers available at the time your customer has a problem, and you'll be ahead of the competition."
+    },
+    {
+      "start": 552.09,
+      "end": 553.33,
+      "text": "And if they don't want it, no sweat."
+    },
+    {
+      "start": 553.67,
+      "end": 554.35,
+      "text": "Find somebody who does."
+    },
+    {
+      "start": 554.73,
+      "end": 555.39,
+      "text": "It's a numbers game."
+    },
+    {
+      "start": 556.77,
+      "end": 558.01,
+      "text": "Five, obey the law."
+    },
+    {
+      "start": 558.51,
+      "end": 564.15,
+      "text": "I learned these plays in different situations from different people using it on different platforms in different times, in different places, following different rules."
+    },
+    {
+      "start": 564.79,
+      "end": 569.71,
+      "text": "Advertising laws change all the time, and they tend to only get tighter, especially when it comes to the word free."
+    },
+    {
+      "start": 570.35,
+      "end": 573.35,
+      "text": "Check with lawyers to see if an offer you want to make is legal or not."
+    },
+    {
+      "start": 573.47,
+      "end": 576.59,
+      "text": "This book is intended to be money models inspiration, so use it that way."
+    },
+    {
+      "start": 577.59,
+      "end": 578.77,
+      "text": "Six, be transparent."
+    },
+    {
+      "start": 579.33,
+      "end": 584.95,
+      "text": "State the facts, and if the facts aren't compelling, change reality to make them compelling or learn to frame them in a way that is."
+    },
+    {
+      "start": 585.57,
+      "end": 586.01,
+      "text": "Don't lie."
+    },
+    {
+      "start": 586.25,
+      "end": 587.49,
+      "text": "You'll shortchange yourself long term."
+    },
+    {
+      "start": 587.81,
+      "end": 591.13,
+      "text": "And unlike credit card debt, you can't file bankruptcy to erase a bad reputation."
+    },
+    {
+      "start": 591.39,
+      "end": 592.93,
+      "text": "Once you have a bad one, it sticks for life."
+    },
+    {
+      "start": 594.03,
+      "end": 597.09,
+      "text": "Number seven, any offer can be used on its own at any time in any order."
+    },
+    {
+      "start": 597.65,
+      "end": 599.37,
+      "text": "A business works as long as it makes a profit."
+    },
+    {
+      "start": 599.97,
+      "end": 603.11,
+      "text": "Most offers in this book could meet the minimum requirement on their own."
+    },
+    {
+      "start": 603.75,
+      "end": 607.33,
+      "text": "When used in the right sequence and at the right time, they make a 100 million dollar money model."
+    },
+    {
+      "start": 608.09,
+      "end": 610.19,
+      "text": "I've got big dreams, and I bet you do too."
+    },
+    {
+      "start": 610.55,
+      "end": 611.59,
+      "text": "So, we're going to use them all."
+    },
+    {
+      "start": 612.17,
+      "end": 613.69,
+      "text": "With that said, let's go for a ride."
+    },
+    {
+      "start": 614.47,
+      "end": 615.65,
+      "text": "First up, attraction offers."
+    },
+    {
+      "start": 616.51,
+      "end": 619.15,
+      "text": "Most businesses spend too much to get customers and make too little from them."
+    },
+    {
+      "start": 619.59,
+      "end": 620.53,
+      "text": "They are cash constrained."
+    },
+    {
+      "start": 621.21,
+      "end": 626.73,
+      "text": "But you use cash to get more customers, and I like more customers, so I always solve this first with an attraction offer."
+    },
+    {
+      "start": 628.57,
+      "end": 628.99,
+      "text": "Free gift."
+    },
+    {
+      "start": 629.57,
+      "end": 631.47,
+      "text": "Bonus tutorial on the four types of offers."
+    },
+    {
+      "start": 632.61,
+      "end": 639.07,
+      "text": "If you want a more in-depth look at how we think through layering different offers, go to acquisition.com/training/money."
+    },
+    {
+      "start": 639.51,
+      "end": 640.85,
+      "text": "It's free and publicly available."
+    },
+    {
+      "start": 641.59,
+      "end": 644.71,
+      "text": "My goal is to earn your trust, and trust is built brick by brick."
+    },
+    {
+      "start": 645.27,
+      "end": 646.93,
+      "text": "Allow this training to be the first of many bricks."
+    },
+    {
+      "start": 647.23,
+      "end": 647.59,
+      "text": "Enjoy."
+    },
+    {
+      "start": 649.31,
+      "end": 649.81,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 650.11,
+      "end": 655.25,
+      "text": "I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 655.93,
+      "end": 661.23,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 661.33,
+      "end": 666.87,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 666.93,
+      "end": 673.03,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 673.37,
+      "end": 677.39,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 677.55,
+      "end": 680.97,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 681.07,
+      "end": 683.49,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 683.63,
+      "end": 688.61,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 688.65,
+      "end": 694.83,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 695.47,
+      "end": 699.57,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap."
+    },
+    {
+      "start": 700.03,
+      "end": 701.87,
+      "text": "R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "377ece7c75c57fbf5f5098a1e354ced46451a6ace6a6b9cc5101ae4fde1c3c54",
+  "audio_duration_sec": 705.123265,
+  "elapsed_sec": 8.4,
+  "created": "2026-11-16T03:29:07+00:00"
+}

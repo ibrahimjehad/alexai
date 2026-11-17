@@ -1,0 +1,161 @@
+# Evaluation questions for Alex AI.
+# Each entry:
+#   id:        kebab-case, unique
+#   mode:      strategy | feed
+#   question:  what the user asks
+#   expect_notes: brain note ids a good answer should retrieve/cite
+#   must:      checks a grader applies to the answer
+# Re-run after every feed: each expect_notes id should appear in the top results of
+# `python -m alexai brain search "<question>"` and be cited in the answer.
+
+- id: value-equation-basic
+  mode: strategy
+  question: "My coaching offer at $2,000 isn't selling. How do I make it more valuable without lowering the price?"
+  expect_notes: [offers-value-equation, offers-price-to-value-discrepancy]
+  must:
+    - names the framework applied
+    - cites at least one brain note and source part
+    - asks for missing numbers before recommending
+
+- id: first-lead-channel
+  mode: strategy
+  question: "I run a local gym with no marketing budget. Which lead channel should I start with?"
+  expect_notes: [leads-core-four, leads-warm-outreach]
+  must:
+    - recommends one channel with reasons
+    - labels any non-brain claim as general knowledge
+
+- id: lead-magnet-design
+  mode: strategy
+  question: "What should I give away for free to get leads for my accounting firm?"
+  expect_notes: [leads-lead-magnet, leads-lead-magnet-seven-steps, leads-lead-magnet-types]
+  must:
+    - walks through the lead magnet steps for this business
+    - ties the lead magnet to the core offer
+
+- id: guarantee-choice
+  mode: strategy
+  question: "Which guarantee should I attach to my agency retainer?"
+  expect_notes: [offers-guarantees, offers-conditional-guarantees, offers-guarantee-math]
+  must:
+    - compares guarantee types
+    - asks for refund/close-rate numbers or states assumptions
+
+- id: unprofitable-ads
+  mode: strategy
+  question: "My paid ads are losing money. What do I check first?"
+  expect_notes: [leads-ltgp-cac-ratio, leads-sales-problem-vs-ad-problem, leads-paid-ads-three-phases]
+  must:
+    - asks for LTGP and CAC
+    - separates an ad problem from a sales problem
+
+- id: referrals
+  mode: strategy
+  question: "How do I get my existing customers to refer others?"
+  expect_notes: [leads-seven-ways-to-ask-for-referrals, leads-six-value-levers-for-referrals, leads-referral-growth-equation]
+  must:
+    - covers both giving more value and asking
+    - cites brain notes
+
+- id: offer-naming
+  mode: strategy
+  question: "Help me name my 6-week fat-loss program for busy dads."
+  expect_notes: [offers-magic-naming-formula]
+  must:
+    - applies the naming formula and gives several options
+
+- id: out-of-brain-gap
+  mode: strategy
+  question: "How should I structure equity for my first hire?"
+  expect_notes: []
+  must:
+    - states the brain does not cover this
+    - suggests what source to feed
+
+- id: sales-scripts-gap
+  mode: strategy
+  question: "Give me Hormozi's full closing script for a sales call."
+  expect_notes: []
+  must:
+    - gives the closing steps from the brain and cites them
+    - labels anything else as general knowledge
+
+- id: cash-flow-30-days
+  mode: strategy
+  question: "My gym's front-end offer gets leads but I don't recover my ad spend for months. How do I fix cash flow in the first 30 days?"
+  expect_notes: [models-client-financed-in-30-days, models-three-stages-of-money-model]
+  must:
+    - asks for CAC and 30-day gross profit
+    - proposes an attraction offer plus an upsell
+
+- id: too-expensive-downsell
+  mode: strategy
+  question: "A prospect says my $3,000 program is too expensive. What should I offer next without discounting?"
+  expect_notes: [models-downsell-offers-overview, models-downsell-payment-plan, models-downsell-feature]
+  must:
+    - sequences downsells rather than cutting the price of the same thing
+
+- id: continuity-vs-one-time
+  mode: strategy
+  question: "How do I price a one-time option next to my $199/month membership so most people choose the subscription?"
+  expect_notes: [models-continuity-vs-standalone-pricing, models-continuity-bonus]
+  must:
+    - gives concrete price multipliers
+
+- id: churn-month-four
+  mode: strategy
+  question: "Members keep cancelling around month four. What continuity tactics reduce churn?"
+  expect_notes: [models-lifetime-discount-at-churn-point, models-exit-interview-save, models-billing-cadence-churn]
+  must:
+    - cites brain notes
+    - asks for churn numbers
+
+- id: first-upsell
+  mode: strategy
+  question: "What can I sell right after a customer's first purchase to raise profit per customer?"
+  expect_notes: [models-upsell-classic, models-upsell-menu, models-upsell-anchor, models-upsell-rollover]
+  must:
+    - compares upsell types and recommends one
+
+- id: attraction-offer-coaching
+  mode: strategy
+  question: "I want a free offer that brings in leads but still makes money up front. Which attraction offer fits a coaching business?"
+  expect_notes: [models-attraction-offers-overview, models-attraction-decoy-offer, models-attraction-win-your-money-back]
+  must:
+    - recommends one attraction offer with reasons
+
+- id: sales-first-script
+  mode: strategy
+  question: "What's a simple step-by-step script for a sales call if I've never sold before?"
+  expect_notes: [sales-closer-framework, sales-three-pillar-pitch]
+  must:
+    - gives the call steps in order
+
+- id: sales-think-about-it
+  mode: strategy
+  question: "A prospect says 'I need to think about it' or 'it's a lot of money'. What do I say without sounding pushy?"
+  expect_notes: [sales-aaa-framework, sales-five-objection-categories, sales-think-about-it-three-questions]
+  must:
+    - gives words to say
+    - keeps rapport
+
+- id: sales-ask-husband
+  mode: strategy
+  question: "A prospect says they need to talk to their husband before buying. What do I say?"
+  expect_notes: [sales-decision-maker-past-agreements, sales-spouse-cooling-off-guarantee]
+  must:
+    - cites brain notes
+
+- id: sales-close-rate-pricing
+  mode: strategy
+  question: "I close about 80% of the people I talk to. Am I charging too little?"
+  expect_notes: [sales-close-rate-price-headroom]
+  must:
+    - uses the close-rate bands
+
+- id: sales-pay-on-call
+  mode: strategy
+  question: "Leads say yes on the phone but never pay or start. How do I close them on the call?"
+  expect_notes: [sales-take-payment-on-the-call, sales-time-anchor-urgency]
+  must:
+    - takes payment before the call ends

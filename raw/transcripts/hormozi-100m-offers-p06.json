@@ -1,0 +1,2562 @@
+{
+  "source_id": "hormozi-100m-offers-p06",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 2.06,
+      "end": 6.82,
+      "text": "Hey guys, welcome to 100 Million Dollar Offers, the audiobook special edition with the Game Podcast."
+    },
+    {
+      "start": 6.86,
+      "end": 9.1,
+      "text": "Today we're going over two chapters, Bonuses and Guarantees."
+    },
+    {
+      "start": 9.62,
+      "end": 15.78,
+      "text": "Bonuses are the thing that you give on top of the thing you're already selling to get more people to want to buy it at the same price."
+    },
+    {
+      "start": 16.14,
+      "end": 18.02,
+      "text": "And this is the best thing to do that I've ever had."
+    },
+    {
+      "start": 18.28,
+      "end": 19.6,
+      "text": "When someone says, \"Hey, can I have a discount?\""
+    },
+    {
+      "start": 19.8,
+      "end": 22.68,
+      "text": "Instead of offering a discount, add more value, and that's where bonuses come in."
+    },
+    {
+      "start": 23.2,
+      "end": 28.92,
+      "text": "Guarantees are the single greatest way to overcome the number one obstacle in sales, which is risk."
+    },
+    {
+      "start": 29.44,
+      "end": 35.66,
+      "text": "And so if you have an intelligently structured original guarantee, you can unbelievably increase your sales."
+    },
+    {
+      "start": 35.8,
+      "end": 37.44,
+      "text": "It's staggering when you do it right."
+    },
+    {
+      "start": 37.84,
+      "end": 44.0,
+      "text": "And I know for many of you, this-- these next two chapters may be the ones that really take you over the edge and really change things for you."
+    },
+    {
+      "start": 44.22,
+      "end": 45.1,
+      "text": "So I hope you enjoy."
+    },
+    {
+      "start": 48.86,
+      "end": 51.48,
+      "text": "Chapter 13, Enhancing the Offer: Bonuses."
+    },
+    {
+      "start": 52.06,
+      "end": 53.18,
+      "text": "It's all gravy, baby."
+    },
+    {
+      "start": 53.86,
+      "end": 55.22,
+      "text": "Play on an old English saying."
+    },
+    {
+      "start": 56.46,
+      "end": 60.6,
+      "text": "I have to give special thanks to Jason Fladlien for my renewed appreciation for bonuses."
+    },
+    {
+      "start": 61.1,
+      "end": 63.48,
+      "text": "They are so powerful that they earned an entire chapter."
+    },
+    {
+      "start": 64.32,
+      "end": 69.18,
+      "text": "In this chapter, I'm going to cover what to offer, how to pick them, how to value them, how to present them, and how to price them."
+    },
+    {
+      "start": 70.56,
+      "end": 82.44,
+      "text": "The main point I want you to take away from this is that a single offer is less valuable than the same offer broken into its component parts and stacked as bonuses, AKA, the entirety of the offer we came up with at the end of the last section."
+    },
+    {
+      "start": 83.16,
+      "end": 85.96,
+      "text": "This section is about how to present those pieces in what order."
+    },
+    {
+      "start": 86.66,
+      "end": 91.78,
+      "text": "For example, I may in fact do lots of things with my service, but until I enumerate them, they are unknown."
+    },
+    {
+      "start": 92.36,
+      "end": 96.0,
+      "text": "This is why every infomercial of all time continues with, \"But wait, there's more.\""
+    },
+    {
+      "start": 97.18,
+      "end": 102.94,
+      "text": "They would not use these techniques unless they were effective, as every second of airtime costs money and must be justified with ROI."
+    },
+    {
+      "start": 103.56,
+      "end": 114.14,
+      "text": "You'll also notice that if you watch those old infomercials, they would sell one knife for 38 dollars 95 cents, and then include 37 other knives, sharpeners, pans, and guarantees to beat the prospect into submission."
+    },
+    {
+      "start": 114.92,
+      "end": 120.22,
+      "text": "They establish the price, and then they expand upon it until you feel like it's such a good deal, it would be stupid to pass it up."
+    },
+    {
+      "start": 120.68,
+      "end": 128.46,
+      "text": "The reason this works is that we are increasing the prospect's price-to-value discrepancy by increasing the value delivered instead of cutting the price."
+    },
+    {
+      "start": 128.86,
+      "end": 130.78,
+      "text": "We anchor the price we tell them to the core offer."
+    },
+    {
+      "start": 131.32,
+      "end": 141.12,
+      "text": "Then with each increasingly valuable bonus, that discrepancy grows wider and wider until it's too big to bear, and we snap the rubber band in their mind that is holding their wallet in their pocket."
+    },
+    {
+      "start": 141.86,
+      "end": 146.9,
+      "text": "We are now going to present that stack of deliverables that we assembled earlier in a way that makes them irresistible."
+    },
+    {
+      "start": 147.82,
+      "end": 152.32,
+      "text": "Pro tip: add bonuses instead of discounting whenever possible on core offers."
+    },
+    {
+      "start": 153.16,
+      "end": 155.58,
+      "text": "Whenever you're trying to close a deal, never discount the main offer."
+    },
+    {
+      "start": 155.8,
+      "end": 158.58,
+      "text": "It teaches your customers that your prices are negotiable, which is terrible."
+    },
+    {
+      "start": 159.22,
+      "end": 162.6,
+      "text": "Adding bonuses to increase value to close the deal is far superior to cutting prices."
+    },
+    {
+      "start": 163.16,
+      "end": 166.16,
+      "text": "It puts you in a position of strength and goodwill rather than weakness."
+    },
+    {
+      "start": 167.1,
+      "end": 169.04,
+      "text": "Presenting bonuses 101 versus group selling."
+    },
+    {
+      "start": 169.76,
+      "end": 172.7,
+      "text": "There are key differences between pitching to a group versus a single person."
+    },
+    {
+      "start": 173.36,
+      "end": 179.44,
+      "text": "Group selling is beyond the scope of this book, but I want to at least address when a bonus would be brought up in a one-on-one selling scenario."
+    },
+    {
+      "start": 180.2,
+      "end": 184.48,
+      "text": "When selling one-on-one, you ask for the sale first before offering the bonuses."
+    },
+    {
+      "start": 184.98,
+      "end": 189.58,
+      "text": "If they say yes, then after they have signed up, you let them know the additional bonuses they're going to get."
+    },
+    {
+      "start": 190.14,
+      "end": 193.12,
+      "text": "This creates a wow experience and reinforces their decision to buy."
+    },
+    {
+      "start": 193.82,
+      "end": 201.16,
+      "text": "On the other hand, if the person does not buy after the first ask, then you present a bonus that matches their perceived obstacle, then ask again."
+    },
+    {
+      "start": 201.72,
+      "end": 203.12,
+      "text": "Don't feel weird about asking again."
+    },
+    {
+      "start": 203.64,
+      "end": 207.88,
+      "text": "You simply agree with the prospect, add the bonus, and then ask if this consolation was fair enough."
+    },
+    {
+      "start": 208.46,
+      "end": 215.58,
+      "text": "People have a hard time rejecting reciprocity, so adding a bonus to accommodate, then another, then another, and people will feel almost obligated to buy from you."
+    },
+    {
+      "start": 216.38,
+      "end": 221.72,
+      "text": "If you recall from our Trim and Stack chapter, each of those deliverables is now being weaponized and presented at the perfect time."
+    },
+    {
+      "start": 222.34,
+      "end": 228.74,
+      "text": "We're going to provide all these bonuses to them anyways, but it increases the perception of our offer's value by laying these bonuses one at a time."
+    },
+    {
+      "start": 229.26,
+      "end": 229.94,
+      "text": "Bonus bullets."
+    },
+    {
+      "start": 230.62,
+      "end": 233.56,
+      "text": "That being said, there are a few key things to remember when offering bonuses."
+    },
+    {
+      "start": 234.28,
+      "end": 235.5,
+      "text": "One, always offer them."
+    },
+    {
+      "start": 236.34,
+      "end": 239.12,
+      "text": "You can use the bulleted bundle we came up with at the end of section three."
+    },
+    {
+      "start": 239.82,
+      "end": 242.66,
+      "text": "Two, give them a special name that has a benefit in the title."
+    },
+    {
+      "start": 243.56,
+      "end": 257.84,
+      "text": "Three, tell them, A, how it relates to their issue, B, what it is, C, how you discovered it or what you had to do to create it, D, how it will specifically improve their lives or make their experience faster, easier, or less effort and sacrifice."
+    },
+    {
+      "start": 258.66,
+      "end": 259.78,
+      "text": "Just looking at the value equation."
+    },
+    {
+      "start": 260.62,
+      "end": 262.7,
+      "text": "Four, provide some proof."
+    },
+    {
+      "start": 263.1,
+      "end": 267.24,
+      "text": "This can be a stat, a past client, or a personal experience to prove that this thing is valuable."
+    },
+    {
+      "start": 268.16,
+      "end": 275.36,
+      "text": "Five, paint a vivid mental image of what their life will be like assuming they have already used it and are experiencing the benefits."
+    },
+    {
+      "start": 276.38,
+      "end": 279.7,
+      "text": "Six, always ascribe a price tag to them and justify it."
+    },
+    {
+      "start": 280.34,
+      "end": 287.12,
+      "text": "Seven, tools and checklists are better than additional trainings, as the effort and time are lower with the former, so the value is higher."
+    },
+    {
+      "start": 287.6,
+      "end": 289.4,
+      "text": "The value equation still reigns supreme."
+    },
+    {
+      "start": 290.26,
+      "end": 296.4,
+      "text": "Eight, they should each address a specific concern or obstacle in the prospect's mind about why they can't or won't be successful."
+    },
+    {
+      "start": 296.9,
+      "end": 298.6,
+      "text": "The bonus should prove their belief incorrect."
+    },
+    {
+      "start": 299.48,
+      "end": 304.74,
+      "text": "Nine, this can also be what they would logically realize they would need next."
+    },
+    {
+      "start": 305.12,
+      "end": 307.4,
+      "text": "You want to solve their next problem before they even encounter it."
+    },
+    {
+      "start": 308.9,
+      "end": 312.66,
+      "text": "Ten, the value of the bonuses should eclipse the value of the core offer."
+    },
+    {
+      "start": 313.32,
+      "end": 318.46,
+      "text": "Psychologically, as you continue to add offers, it continues to expand the price-to-value discrepancy."
+    },
+    {
+      "start": 318.96,
+      "end": 326.7,
+      "text": "It also subconsciously communicates that the core offer must be valuable because if these are the bonuses, the main thing has to be more valuable than the bonuses, right?"
+    },
+    {
+      "start": 327.4,
+      "end": 330.9,
+      "text": "No, but you can use this psychological bias to make your offer seem wildly compelling."
+    },
+    {
+      "start": 331.74,
+      "end": 339.88,
+      "text": "Eleven, you can further enhance the value of your bonuses by adding scarcity and urgency to the bonuses themselves, which takes this technique and puts it on steroids."
+    },
+    {
+      "start": 340.94,
+      "end": 342.64,
+      "text": "A, bonuses with scarcity."
+    },
+    {
+      "start": 343.02,
+      "end": 351.36,
+      "text": "Version one, only people who sign up for my XYZ program will have access to my bonus 123 that are never for sale or available anywhere else other than through this program."
+    },
+    {
+      "start": 352.32,
+      "end": 356.18,
+      "text": "Version two, I have three tickets left to my 5,000 dollar virtual event."
+    },
+    {
+      "start": 356.24,
+      "end": 359.32,
+      "text": "If you buy this program, you can get one of those last three tickets as a bonus."
+    },
+    {
+      "start": 360.86,
+      "end": 363.4,
+      "text": "B, bonuses with urgency, version one."
+    },
+    {
+      "start": 363.88,
+      "end": 370.44,
+      "text": "If you buy today, I will add in XYZ bonus that normally costs a thousand dollars for free, and I'll do that because I want to reward action takers."
+    },
+    {
+      "start": 371.42,
+      "end": 374.24,
+      "text": "C, with hope, you can see the subtle differences."
+    },
+    {
+      "start": 374.78,
+      "end": 376.64,
+      "text": "The first two examples aren't constrained by time."
+    },
+    {
+      "start": 377.08,
+      "end": 380.82,
+      "text": "They state that if you buy the program, you will get the things you normally would not be able to."
+    },
+    {
+      "start": 381.38,
+      "end": 385.96,
+      "text": "The bonus with urgency is about them buying today, and if they do not buy today, they will lose the bonuses."
+    },
+    {
+      "start": 386.24,
+      "end": 387.48,
+      "text": "Minor difference, but worth noting."
+    },
+    {
+      "start": 388.88,
+      "end": 390.04,
+      "text": "Advanced level bonuses."
+    },
+    {
+      "start": 390.68,
+      "end": 392.06,
+      "text": "Other people's products and services."
+    },
+    {
+      "start": 393.38,
+      "end": 399.34,
+      "text": "You can get other businesses to give you their services and products as a part of your bonuses in exchange for exposure to your clients for free."
+    },
+    {
+      "start": 400.0,
+      "end": 403.66,
+      "text": "This is free marketing for them and high-value products for you at no cost."
+    },
+    {
+      "start": 404.12,
+      "end": 410.22,
+      "text": "Businesses will do this because you're going to give their business exposure for free to the highest quality prospects, your customers."
+    },
+    {
+      "start": 410.94,
+      "end": 419.2,
+      "text": "As long as they are not direct competitors, you can get some brownie points, secure some future referral IOUs, and make your offer more valuable at the same time."
+    },
+    {
+      "start": 419.78,
+      "end": 426.38,
+      "text": "If you secure enough of these relationships, you can literally justify your entire price in the savings and additional true-to-price bonuses."
+    },
+    {
+      "start": 426.94,
+      "end": 433.66,
+      "text": "For example, if I owned a pain clinic, I might get a massage therapist to give me one to two free massages to incorporate into my offer."
+    },
+    {
+      "start": 434.22,
+      "end": 460.92,
+      "text": "On top of that, I might get, one, a chiropractor to give me two free adjustments, valued at a hundred dollars, a low-inflammation food company to give me discounts for their products, 50 dollars savings, discounts for braces and orthotics, 150 dollars of savings, a local health club down the street to give me a personal training session for free and a free month membership to their pool, 100 dollars value, discounts on all pharmaceutical drugs from the local pharmacist, 100 dollars per month in savings, repeat the above for multiple service providers."
+    },
+    {
+      "start": 461.26,
+      "end": 463.88,
+      "text": "So perhaps I get 10 chiropractors to give me a free adjustment."
+    },
+    {
+      "start": 464.04,
+      "end": 466.4,
+      "text": "Now I have 10 adjustments in my bundle, et cetera."
+    },
+    {
+      "start": 466.96,
+      "end": 472.04,
+      "text": "Now, if my offer were 400 dollars, then the value of these free bonuses alone is worth more than the 400 dollars."
+    },
+    {
+      "start": 473.0,
+      "end": 479.24,
+      "text": "As if that weren't already awesome enough, if you really want to be a Jedi, negotiate a group discount and a commission for yourself."
+    },
+    {
+      "start": 479.8,
+      "end": 481.82,
+      "text": "This is exactly what we did with our supplement company."
+    },
+    {
+      "start": 482.4,
+      "end": 485.32,
+      "text": "Our gym owner clients use our sister company, Prestige Labs."
+    },
+    {
+      "start": 485.82,
+      "end": 493.42,
+      "text": "Sponsored athletes get 30% discount on all our products, and on top of that, the sponsored athlete gets 40% of all sales netted after the applied discount."
+    },
+    {
+      "start": 493.64,
+      "end": 494.74,
+      "text": "So it's a win-win for everyone."
+    },
+    {
+      "start": 495.02,
+      "end": 502.28,
+      "text": "Their clients get it for 30% less than our main site, they get paid for giving away exclusive discounts, and we get customers in exchange for a commission paid."
+    },
+    {
+      "start": 502.82,
+      "end": 503.36,
+      "text": "Everyone wins."
+    },
+    {
+      "start": 503.8,
+      "end": 514.22,
+      "text": "If you're following along, each of these bonuses can become revenue streams for you indirectly by getting clients to say yes more easily, and directly because you can negotiate that each of these businesses can pay you for the people you send their way."
+    },
+    {
+      "start": 514.88,
+      "end": 519.76,
+      "text": "So let's say we negotiated the following affiliate commission for making an introduction to these businesses."
+    },
+    {
+      "start": 520.3,
+      "end": 523.24,
+      "text": "The chiropractor gives you 100 dollars per person who comes into their office."
+    },
+    {
+      "start": 523.68,
+      "end": 524.96,
+      "text": "The food company gives you free food."
+    },
+    {
+      "start": 525.4,
+      "end": 527.68,
+      "text": "Orthotics company gives you 100 dollars per person referred."
+    },
+    {
+      "start": 528.04,
+      "end": 531.0,
+      "text": "The health club gives you a free membership or 50 dollars per month who signs up."
+    },
+    {
+      "start": 531.28,
+      "end": 532.9,
+      "text": "Pharmacy gives you 100 dollars per person."
+    },
+    {
+      "start": 533.38,
+      "end": 534.8,
+      "text": "Now let's look at how much money we made."
+    },
+    {
+      "start": 535.22,
+      "end": 540.34,
+      "text": "Our 400 dollars offer now has the possibility to make us an extra 350 dollars of pure profit."
+    },
+    {
+      "start": 540.84,
+      "end": 542.2,
+      "text": "That's the beauty of these relationships."
+    },
+    {
+      "start": 542.64,
+      "end": 549.1,
+      "text": "The other businesses will pay you, and you don't have to do anything but refer customers to them that you already have spent the money to acquire."
+    },
+    {
+      "start": 549.42,
+      "end": 560.56,
+      "text": "And if you really want to get crazy, come up with a grand slam offer with these partners' businesses by using the same concepts in this book so that each of the bonuses themselves become even more valuable than a simple commoditized service."
+    },
+    {
+      "start": 561.04,
+      "end": 563.58,
+      "text": "Free gift number eight, bonus on bonuses."
+    },
+    {
+      "start": 564.16,
+      "end": 566.56,
+      "text": "There are a million and one ways to use bonuses in your offers."
+    },
+    {
+      "start": 567.02,
+      "end": 568.3,
+      "text": "You can get people to act faster."
+    },
+    {
+      "start": 568.54,
+      "end": 570.82,
+      "text": "You can price anchor and product anchor, little known."
+    },
+    {
+      "start": 571.36,
+      "end": 573.42,
+      "text": "You can get more people to say yes than you otherwise would."
+    },
+    {
+      "start": 573.76,
+      "end": 581.34,
+      "text": "And if you want a live deep dive with me, you can go to acquisition.com/training/offers and select Bonus Creation to watch a short video tutorial."
+    },
+    {
+      "start": 581.84,
+      "end": 586.74,
+      "text": "I also have a free bonus checklist that I use when creating offers, so you can swipe it and use it for your business on the house."
+    },
+    {
+      "start": 587.38,
+      "end": 587.64,
+      "text": "Summary."
+    },
+    {
+      "start": 588.44,
+      "end": 593.88,
+      "text": "We want to employ bonuses because they expand the price-to-value discrepancy and get people to purchase who otherwise wouldn't."
+    },
+    {
+      "start": 594.46,
+      "end": 598.32,
+      "text": "They massively increase the prospect's perception of the value of our offer."
+    },
+    {
+      "start": 598.72,
+      "end": 599.6,
+      "text": "So here's what to do."
+    },
+    {
+      "start": 600.26,
+      "end": 608.8,
+      "text": "One, create checklists, tools, swipe files, scripts, templates, and anything else that would take lots of time and effort to create on one's own, but is easy to use once created."
+    },
+    {
+      "start": 609.36,
+      "end": 616.18,
+      "text": "Anything that you can invest in one time that clearly costs time or money to create, but can be given away endless time, is a perfect fit for bonuses."
+    },
+    {
+      "start": 616.7,
+      "end": 626.14,
+      "text": "Two, beyond that, make a habit to record every workshop, every webinar, every event, every interview, and use them as additional bonuses as needed to crush a perceived obstacle."
+    },
+    {
+      "start": 627.08,
+      "end": 634.4,
+      "text": "Three, proactively negotiate group discounts and a referral commission with adjacent businesses that solve needs your customer will have as a result of beginning this process with you."
+    },
+    {
+      "start": 635.2,
+      "end": 637.08,
+      "text": "What's the next natural thing they might want?"
+    },
+    {
+      "start": 637.7,
+      "end": 644.16,
+      "text": "Go to those businesses, get a deal for them they could never get for themselves because you are negotiating with the purchasing power of all your customers at once."
+    },
+    {
+      "start": 644.58,
+      "end": 645.18,
+      "text": "Very powerful."
+    },
+    {
+      "start": 645.94,
+      "end": 646.3,
+      "text": "Author note."
+    },
+    {
+      "start": 647.08,
+      "end": 650.72,
+      "text": "The longer you are in business, the more of these bonus assets you will have at your disposal."
+    },
+    {
+      "start": 651.4,
+      "end": 652.4,
+      "text": "All of these things are valuable."
+    },
+    {
+      "start": 652.88,
+      "end": 657.14,
+      "text": "Put them in a vault and keep them in your back pocket to sprinkle into an offer to get the deal closed."
+    },
+    {
+      "start": 657.8,
+      "end": 663.74,
+      "text": "Information products work very well here because they have high perceived value, low cost, and zero operational effort besides an additional login."
+    },
+    {
+      "start": 664.52,
+      "end": 666.58,
+      "text": "Tickets to virtual experience or events work too."
+    },
+    {
+      "start": 667.22,
+      "end": 677.08,
+      "text": "Same goes for a higher level of service that has a fixed cost, like giving someone a VIP service for a month, which also, by the way, doubles as a way of upselling them into that level of service to keep them on it."
+    },
+    {
+      "start": 677.44,
+      "end": 678.38,
+      "text": "More on that in book two."
+    },
+    {
+      "start": 679.5,
+      "end": 683.02,
+      "text": "Which should be a bonus versus part of the core offer if I am the one fulfilling it?"
+    },
+    {
+      "start": 683.46,
+      "end": 684.78,
+      "text": "Short answer, wow factor."
+    },
+    {
+      "start": 685.24,
+      "end": 687.54,
+      "text": "In other words, something you wouldn't want someone to miss."
+    },
+    {
+      "start": 687.98,
+      "end": 694.06,
+      "text": "Many times you have so much cool stuff that you'll be providing your customers, which is a good thing, that valuable nuggets can get lost in the mix."
+    },
+    {
+      "start": 694.6,
+      "end": 698.58,
+      "text": "You want to take the most distinct ones that can almost stand on their own and pull those out to highlight them."
+    },
+    {
+      "start": 699.18,
+      "end": 703.18,
+      "text": "This is especially true for things that are short in length but high in quality or value."
+    },
+    {
+      "start": 703.72,
+      "end": 707.48,
+      "text": "Checklists or infographics can condense a lot of information into a small space."
+    },
+    {
+      "start": 708.06,
+      "end": 714.26,
+      "text": "Someone might not feel justified paying lots of money for a product launch map, for example, but as a bonus, will be perceived as very valuable."
+    },
+    {
+      "start": 714.92,
+      "end": 716.66,
+      "text": "Next up, we have our core offer."
+    },
+    {
+      "start": 717.12,
+      "end": 721.62,
+      "text": "We are presenting it in a way to increase scarcity and urgency to increase the likelihood that they want it even more."
+    },
+    {
+      "start": 722.16,
+      "end": 727.5,
+      "text": "We stack the bonuses of our offer to make the price-to-value discrepancy out of this world and break our prospects' minds."
+    },
+    {
+      "start": 728.04,
+      "end": 731.6,
+      "text": "Next on our magical journey, we'll be addressing the big elephant in the room, risk."
+    },
+    {
+      "start": 732.14,
+      "end": 736.32,
+      "text": "We will completely obliterate it using a combination of guarantees so they have no reason not to buy."
+    },
+    {
+      "start": 738.6,
+      "end": 751.74,
+      "text": "Hey guys, real quick, if you've been enjoying, uh, the 100 million dollar offers series on the podcast, uh, if you could share it with a friend or leave a review, uh, either one would mean a lot to me, and, uh, it would also make you an amazing human being."
+    },
+    {
+      "start": 752.16,
+      "end": 756.2,
+      "text": "Uh, I took a year of my life to put into this, and that was just in the actual writing process."
+    },
+    {
+      "start": 756.26,
+      "end": 761.26,
+      "text": "It took me years to put this information in a, in a simple, succinct manner so that people could understand it."
+    },
+    {
+      "start": 761.78,
+      "end": 764.06,
+      "text": "Um, and so it would just mean a lot to me."
+    },
+    {
+      "start": 764.54,
+      "end": 765.24,
+      "text": "That's, that's it."
+    },
+    {
+      "start": 765.28,
+      "end": 765.84,
+      "text": "It's just an ask."
+    },
+    {
+      "start": 765.86,
+      "end": 767.22,
+      "text": "It would mean a lot to me if, if you shared it."
+    },
+    {
+      "start": 767.62,
+      "end": 768.6,
+      "text": "So that's all I got."
+    },
+    {
+      "start": 768.64,
+      "end": 769.1,
+      "text": "Enjoy the rest."
+    },
+    {
+      "start": 771.8,
+      "end": 774.48,
+      "text": "Chapter 14, Enhancing the Offer: Guarantees."
+    },
+    {
+      "start": 774.5,
+      "end": 776.4,
+      "text": "\"You're going to like the way you look."
+    },
+    {
+      "start": 776.9,
+      "end": 777.48,
+      "text": "I guarantee it.\""
+    },
+    {
+      "start": 778.38,
+      "end": 779.96,
+      "text": "Men's Warehouse ad that ran forever."
+    },
+    {
+      "start": 781.02,
+      "end": 782.62,
+      "text": "Guarantees worth their weight in gold."
+    },
+    {
+      "start": 783.86,
+      "end": 788.58,
+      "text": "The single greatest objection for any product or service being sold is, drum roll, risk."
+    },
+    {
+      "start": 789.46,
+      "end": 791.46,
+      "text": "Risk that it doesn't do what it's supposed to do for them."
+    },
+    {
+      "start": 792.0,
+      "end": 796.34,
+      "text": "Therefore, reversing risk is an immediate way to make any offer more attractive."
+    },
+    {
+      "start": 797.02,
+      "end": 800.66,
+      "text": "You will want to spend a disproportionate amount of time figuring out how you want to reverse it."
+    },
+    {
+      "start": 801.22,
+      "end": 804.54,
+      "text": "That being said, how much more attractive can a guarantee make an offer?"
+    },
+    {
+      "start": 804.94,
+      "end": 812.92,
+      "text": "Jason Fladlien, who I referenced earlier, once stated that he had seen the conversion on an offer 2 to 4X simply by changing the quality of the guarantee."
+    },
+    {
+      "start": 813.5,
+      "end": 814.3,
+      "text": "It's that important."
+    },
+    {
+      "start": 814.86,
+      "end": 821.42,
+      "text": "From an overarching perspective, there are four types of guarantees: unconditional, conditional, anti-guarantee, and implied guarantees."
+    },
+    {
+      "start": 821.94,
+      "end": 825.02,
+      "text": "You must always hit your guarantee hard, even if you don't have one."
+    },
+    {
+      "start": 825.58,
+      "end": 827.18,
+      "text": "Say it boldly and give the reason why."
+    },
+    {
+      "start": 828.02,
+      "end": 829.94,
+      "text": "But won't people take advantage of a crazy guarantee?"
+    },
+    {
+      "start": 830.52,
+      "end": 831.76,
+      "text": "Sometimes, but not usually."
+    },
+    {
+      "start": 832.14,
+      "end": 833.84,
+      "text": "That being said, you must understand the math."
+    },
+    {
+      "start": 834.28,
+      "end": 845.22,
+      "text": "If you close 130% as many people and your refund percentage doubles from 5% to 10%, you've still made 1.23X the money or 23% more, and that all goes to the bottom line."
+    },
+    {
+      "start": 845.56,
+      "end": 851.1,
+      "text": "Example: 100 sales with 5 refunds, which is 5%, equals 95 net sales."
+    },
+    {
+      "start": 851.66,
+      "end": 858.98,
+      "text": "The guarantee offer might get 130 sales, 13 refunds, which would be 10%, and net 117 sales."
+    },
+    {
+      "start": 859.5,
+      "end": 866.24,
+      "text": "So 117 over 95 is 1.23X or a 23% increase."
+    },
+    {
+      "start": 866.76,
+      "end": 868.24,
+      "text": "Don't be emotional, just do the math."
+    },
+    {
+      "start": 868.8,
+      "end": 873.7,
+      "text": "For a guarantee to not be worth it, the increase in sales would have to be 100% offset by people who refund."
+    },
+    {
+      "start": 874.2,
+      "end": 879.8,
+      "text": "So an absolute increase in sales of 5% would need to be offset by an absolute increase in refunds of 5%."
+    },
+    {
+      "start": 880.36,
+      "end": 882.88,
+      "text": "But that would be a doubling of refunds, which is unlikely."
+    },
+    {
+      "start": 883.14,
+      "end": 889.94,
+      "text": "So for the most part, the stronger the guarantee, the higher the net increase in total purchases, even if the refund rate increases alongside it."
+    },
+    {
+      "start": 890.32,
+      "end": 896.66,
+      "text": "Warning: while guarantees can be effective sellers, people who buy because of guarantees can become very shitty customers."
+    },
+    {
+      "start": 897.14,
+      "end": 903.18,
+      "text": "A person who only buys because of a guarantee is a person who may not be willing to put in the work necessary to see success with your product or service."
+    },
+    {
+      "start": 903.76,
+      "end": 911.88,
+      "text": "In a world where you want to reverse risk and get customers the best outcome, tying your guarantee to the things they need to do to be successful can help all parties."
+    },
+    {
+      "start": 912.58,
+      "end": 914.96,
+      "text": "Pro tip: high-cost services warning."
+    },
+    {
+      "start": 915.58,
+      "end": 925.44,
+      "text": "If you have a tremendous amount of cost associated with your product or service, you will likely want to employ a conditional guarantee or anti-guarantee, as you'll have to eat the cost of the refund and the cost of fulfilling."
+    },
+    {
+      "start": 926.96,
+      "end": 927.78,
+      "text": "Types of guarantees."
+    },
+    {
+      "start": 928.44,
+      "end": 930.98,
+      "text": "If you don't achieve X in Y time, we will."
+    },
+    {
+      "start": 931.98,
+      "end": 934.56,
+      "text": "What makes a guarantee have power is a conditional statement."
+    },
+    {
+      "start": 935.08,
+      "end": 938.46,
+      "text": "If you do not get X result in Y period of time, we will Z."
+    },
+    {
+      "start": 939.26,
+      "end": 944.12,
+      "text": "To give a guarantee teeth, you have to decide what you'll do if they don't get the result."
+    },
+    {
+      "start": 944.7,
+      "end": 948.52,
+      "text": "Without the \"or what\" portion of the guarantee, it sounds weak and diluted."
+    },
+    {
+      "start": 948.9,
+      "end": 950.82,
+      "text": "Note, this is what most marketers do."
+    },
+    {
+      "start": 951.38,
+      "end": 954.06,
+      "text": "Bad example: we will get you 20 clients guaranteed."
+    },
+    {
+      "start": 954.46,
+      "end": 960.18,
+      "text": "Better example: you will get 20 clients in your first 30 days, or we will give your money back plus your advertising dollars you spent with us."
+    },
+    {
+      "start": 960.72,
+      "end": 962.36,
+      "text": "This is a simple but strong guarantee."
+    },
+    {
+      "start": 962.7,
+      "end": 963.98,
+      "text": "Here are the four types of guarantees."
+    },
+    {
+      "start": 964.5,
+      "end": 966.42,
+      "text": "I'll go over them in theory, and we'll apply them."
+    },
+    {
+      "start": 967.22,
+      "end": 969.0,
+      "text": "One, unconditional guarantees."
+    },
+    {
+      "start": 969.56,
+      "end": 973.22,
+      "text": "As I stated earlier, there are unconditional, conditional, and anti-guarantees."
+    },
+    {
+      "start": 973.82,
+      "end": 975.58,
+      "text": "Unconditional are the strongest guarantees."
+    },
+    {
+      "start": 975.92,
+      "end": 979.18,
+      "text": "They're basically a trial where they pay first and see if they like it."
+    },
+    {
+      "start": 979.55,
+      "end": 987.26,
+      "text": "This gets a lot more people to buy, but you will have some people refund, especially as consumer culture continues to shift towards entitlement and zero accountability."
+    },
+    {
+      "start": 988.26,
+      "end": 990.02,
+      "text": "Two, conditional guarantees."
+    },
+    {
+      "start": 990.72,
+      "end": 993.5,
+      "text": "Conditional guarantees include terms and conditions to the guarantee."
+    },
+    {
+      "start": 994.24,
+      "end": 996.38,
+      "text": "These are the ones that you can get very creative on."
+    },
+    {
+      "start": 996.98,
+      "end": 1006.42,
+      "text": "In general, you want these to be, quote, \"better than money back\" guarantees, because if they're going to make an investment, you want to match their investment psychologically with an equal or higher perceived commitment."
+    },
+    {
+      "start": 1007.1,
+      "end": 1010.14,
+      "text": "These also can have a very powerful effect on getting clients."
+    },
+    {
+      "start": 1010.78,
+      "end": 1015.96,
+      "text": "If you know the key action someone must take in order to be successful, make those part of the conditional guarantee."
+    },
+    {
+      "start": 1016.5,
+      "end": 1023.66,
+      "text": "In a perfect world, 100% of your customers would qualify for a conditional guarantee, but will have achieved their result and therefore would not want to take it."
+    },
+    {
+      "start": 1024.46,
+      "end": 1026.52,
+      "text": "That is an ideal we can all aspire towards."
+    },
+    {
+      "start": 1026.78,
+      "end": 1033.16,
+      "text": "And just FYI, if given the option of getting a refund or getting the outcome they were promised, the vast majority of people would take the outcome."
+    },
+    {
+      "start": 1033.38,
+      "end": 1034.86,
+      "text": "That's why they bought it in the first place."
+    },
+    {
+      "start": 1035.86,
+      "end": 1037.76,
+      "text": "Three, anti-guarantees."
+    },
+    {
+      "start": 1038.86,
+      "end": 1041.96,
+      "text": "Anti-guarantees are when you explicitly state all sales are final."
+    },
+    {
+      "start": 1042.52,
+      "end": 1044.02,
+      "text": "You will want to own this position."
+    },
+    {
+      "start": 1044.52,
+      "end": 1047.74,
+      "text": "You must come up with a creative, quote, \"reason why\" the sales are final."
+    },
+    {
+      "start": 1048.22,
+      "end": 1055.2,
+      "text": "Typically, you'll want to show a massive exposure or vulnerability on your part that a consumer could immediately understand and think, \"Yes, that makes sense.\""
+    },
+    {
+      "start": 1055.78,
+      "end": 1060.9,
+      "text": "These types of guarantees are especially important with items that are consumable or massively diminished in value once given."
+    },
+    {
+      "start": 1061.72,
+      "end": 1063.34,
+      "text": "Four, implied guarantees."
+    },
+    {
+      "start": 1063.98,
+      "end": 1066.94,
+      "text": "Implied guarantees are any offer that is a performance-based offer."
+    },
+    {
+      "start": 1067.42,
+      "end": 1068.74,
+      "text": "This comes in many different forms."
+    },
+    {
+      "start": 1069.26,
+      "end": 1074.18,
+      "text": "Rev share, profit share, triggers, ratchets, monetary bonuses, et cetera, are all examples."
+    },
+    {
+      "start": 1074.88,
+      "end": 1076.26,
+      "text": "The end-all concept is the same."
+    },
+    {
+      "start": 1076.54,
+      "end": 1078.42,
+      "text": "If I don't perform, I don't get paid."
+    },
+    {
+      "start": 1079.12,
+      "end": 1085.86,
+      "text": "Unique to this particular structure is it also confers the upside of, if I do a great job, I will be very well compensated."
+    },
+    {
+      "start": 1086.38,
+      "end": 1093.36,
+      "text": "These only work in situations where you have transparency for measuring the outcome and trust or control that you will get compensated when you perform."
+    },
+    {
+      "start": 1094.16,
+      "end": 1095.06,
+      "text": "Stacking guarantees."
+    },
+    {
+      "start": 1095.8,
+      "end": 1100.02,
+      "text": "An experienced salesman understands that, like bonuses, you can actually stack guarantees."
+    },
+    {
+      "start": 1100.6,
+      "end": 1108.6,
+      "text": "For example, you could give an unconditional 30-day no questions asked guarantee, then on top of that, give a conditional triple your money back 90-day guarantee."
+    },
+    {
+      "start": 1109.22,
+      "end": 1112.3,
+      "text": "That would be an example of stacking unconditional with a conditional guarantee."
+    },
+    {
+      "start": 1112.94,
+      "end": 1116.58,
+      "text": "You can also stack two conditional guarantees around different or sequential outcomes."
+    },
+    {
+      "start": 1116.9,
+      "end": 1123.2,
+      "text": "For example, you'll make 10,000 dollars by 60 days, 30,000 dollars by 90 days, as long as you do thing one, two, and three."
+    },
+    {
+      "start": 1123.72,
+      "end": 1131.1,
+      "text": "This future paces the prospect into an outcome they now believe is far more likely, since you will be deliberately spelling it out in a conditional guarantee with a timeline for achievement."
+    },
+    {
+      "start": 1131.66,
+      "end": 1135.3,
+      "text": "Doing this shows the prospect you are serious about getting the results and convinced they will achieve what they want."
+    },
+    {
+      "start": 1135.8,
+      "end": 1139.68,
+      "text": "This shifts the burden of risk back from them onto us, a very powerful strategy."
+    },
+    {
+      "start": 1140.26,
+      "end": 1142.2,
+      "text": "Let's go through some different guarantee examples."
+    },
+    {
+      "start": 1142.74,
+      "end": 1143.9,
+      "text": "These are some of my favorites."
+    },
+    {
+      "start": 1144.8,
+      "end": 1148.42,
+      "text": "Guarantee, if you don't achieve X in Y time, we will insert offer."
+    },
+    {
+      "start": 1148.88,
+      "end": 1151.06,
+      "text": "Unconditional, no questions asked guarantee."
+    },
+    {
+      "start": 1151.68,
+      "end": 1165.12,
+      "text": "What the client gets, A, a full refund, B, 50% refund, C, refund of ad spend or any ancillary cost, D, you pay for competitor's program, E, you return their money plus any additional money on top of it, like an extra 1,000 dollars."
+    },
+    {
+      "start": 1165.88,
+      "end": 1168.02,
+      "text": "My take, this is about as simple as it gets."
+    },
+    {
+      "start": 1168.18,
+      "end": 1169.06,
+      "text": "It's also very risky."
+    },
+    {
+      "start": 1169.24,
+      "end": 1174.36,
+      "text": "You put yourself in a situation where if someone does not achieve the results, whether because of your fault or not, you will still be held accountable."
+    },
+    {
+      "start": 1174.84,
+      "end": 1177.42,
+      "text": "Obviously, this is a strong but unoriginal guarantee."
+    },
+    {
+      "start": 1178.0,
+      "end": 1181.42,
+      "text": "You can add conditions, but the more conditions you add, the faster this guarantee loses teeth."
+    },
+    {
+      "start": 1182.18,
+      "end": 1182.44,
+      "text": "Wording."
+    },
+    {
+      "start": 1183.52,
+      "end": 1188.3,
+      "text": "I heard Jason Fladlien, who I referenced earlier, pitch his unconditional guarantee on a webinar, and I thought it was unbelievable."
+    },
+    {
+      "start": 1188.58,
+      "end": 1190.46,
+      "text": "These are 100% his words and not my own."
+    },
+    {
+      "start": 1190.92,
+      "end": 1193.5,
+      "text": "I take no credit for this, but have included it for completeness."
+    },
+    {
+      "start": 1194.56,
+      "end": 1196.56,
+      "text": "I'm not asking you to decide yes or no today."
+    },
+    {
+      "start": 1197.14,
+      "end": 1199.02,
+      "text": "I'm asking you to make a fully informed decision."
+    },
+    {
+      "start": 1199.32,
+      "end": 1199.76,
+      "text": "That is all."
+    },
+    {
+      "start": 1200.32,
+      "end": 1203.96,
+      "text": "The only way you can make a fully informed decision is on the inside, not the outside."
+    },
+    {
+      "start": 1204.52,
+      "end": 1208.34,
+      "text": "So you get on the inside and see if everything we say on this webinar is true and valuable to you."
+    },
+    {
+      "start": 1208.86,
+      "end": 1211.06,
+      "text": "Then, if it is, that's when you decide to keep it."
+    },
+    {
+      "start": 1211.34,
+      "end": 1213.1,
+      "text": "If it's not for you, no hard feelings."
+    },
+    {
+      "start": 1213.48,
+      "end": 1218.54,
+      "text": "You will then, after signing up at XYZ URL, be able to make a fully informed decision that this isn't for you."
+    },
+    {
+      "start": 1219.04,
+      "end": 1223.9,
+      "text": "But you can't make the decision right now for the same reason you don't buy a house without first looking at the inside of it."
+    },
+    {
+      "start": 1224.14,
+      "end": 1228.72,
+      "text": "And know this, whether it's 29 minutes or 29 days from now, if you ain't happy, I ain't happy."
+    },
+    {
+      "start": 1229.06,
+      "end": 1233.72,
+      "text": "For any reason whatsoever, if you want your money back, you can get it because I don't want to keep your money if you're happy."
+    },
+    {
+      "start": 1234.16,
+      "end": 1239.76,
+      "text": "All you have to do is go to support at xyz.com and tell us, \"Give me your money,\" and you got it."
+    },
+    {
+      "start": 1240.14,
+      "end": 1245.92,
+      "text": "In short order, our response times to any support requests average 61 minutes over a 24/7 time period."
+    },
+    {
+      "start": 1246.5,
+      "end": 1255.48,
+      "text": "You can only make such a guarantee when you're confident that what you have is the real deal, and I'm fairly confident when you sign up at URL, you're going to get exactly what you need to benefit, right?"
+    },
+    {
+      "start": 1255.9,
+      "end": 1256.6,
+      "text": "Insert dream outcome."
+    },
+    {
+      "start": 1257.24,
+      "end": 1258.18,
+      "text": "Pretty crazy guarantee."
+    },
+    {
+      "start": 1258.86,
+      "end": 1260.8,
+      "text": "Pro tip, name your guarantee something cool."
+    },
+    {
+      "start": 1261.38,
+      "end": 1263.18,
+      "text": "If you're going to give a guarantee, spice it up."
+    },
+    {
+      "start": 1263.44,
+      "end": 1266.8,
+      "text": "Instead of using satisfaction or some other vanilla word, describe it more strongly."
+    },
+    {
+      "start": 1267.34,
+      "end": 1268.7,
+      "text": "Generic example, bad."
+    },
+    {
+      "start": 1269.34,
+      "end": 1271.36,
+      "text": "30-day money back satisfaction guarantee."
+    },
+    {
+      "start": 1271.88,
+      "end": 1273.84,
+      "text": "Creative imagery example one, good."
+    },
+    {
+      "start": 1274.18,
+      "end": 1278.62,
+      "text": "In 30 days, if you wouldn't jump into shark-infested waters to get our product back, we will return every dollar you paid."
+    },
+    {
+      "start": 1279.6,
+      "end": 1281.76,
+      "text": "Creative imagery example number two, great."
+    },
+    {
+      "start": 1282.22,
+      "end": 1284.5,
+      "text": "You'll get our infamous club a baby seal guarantee."
+    },
+    {
+      "start": 1285.0,
+      "end": 1289.84,
+      "text": "After 30 days of using our services, if you wouldn't club a baby seal to stay on as a customer, you don't have to pay a penny."
+    },
+    {
+      "start": 1290.2,
+      "end": 1293.68,
+      "text": "Unconditional satisfaction-based refund guarantee, expanded on from above."
+    },
+    {
+      "start": 1294.22,
+      "end": 1300.62,
+      "text": "What the client gets, if at any time they're not satisfied with the level of service they're receiving from you, they can request a refund at any time for the program."
+    },
+    {
+      "start": 1301.04,
+      "end": 1304.5,
+      "text": "My take, believe it or not, this was my guarantee when I sold weight loss programs."
+    },
+    {
+      "start": 1304.98,
+      "end": 1307.64,
+      "text": "Beside being an irresistible offer, I guaranteed satisfaction."
+    },
+    {
+      "start": 1307.82,
+      "end": 1310.08,
+      "text": "I used the strength of my guarantee to close a lot of deals."
+    },
+    {
+      "start": 1310.76,
+      "end": 1314.48,
+      "text": "Do you think I'd still be in business if I gave a crazy guarantee like that and wasn't good at what I did?"
+    },
+    {
+      "start": 1314.98,
+      "end": 1319.5,
+      "text": "Now, I'm not guaranteeing you're going to hit this goal in six weeks, after all, because I can't eat the food for you."
+    },
+    {
+      "start": 1319.92,
+      "end": 1324.38,
+      "text": "But I am guaranteeing that you will get 500 dollars worth of value and the service from us to support you."
+    },
+    {
+      "start": 1324.9,
+      "end": 1329.68,
+      "text": "If you don't feel like we gave you that level of service, I'll write you a check the day you tell me we suck."
+    },
+    {
+      "start": 1330.42,
+      "end": 1332.7,
+      "text": "It works perfectly with a best case, worst case close."
+    },
+    {
+      "start": 1333.68,
+      "end": 1338.92,
+      "text": "Best case, you get the body of your dreams, and we give you all your money towards staying with us to hit your long-term goal."
+    },
+    {
+      "start": 1339.56,
+      "end": 1343.16,
+      "text": "Worst case, you tell me I suck, I write you a check, and you get six weeks of free training."
+    },
+    {
+      "start": 1343.68,
+      "end": 1348.32,
+      "text": "Both options are risk-free, but the only thing guaranteed not to help you is walking out of here today."
+    },
+    {
+      "start": 1349.0,
+      "end": 1353.22,
+      "text": "If you're good at what you do, you can use a guarantee like this to push a lot of people over the edge."
+    },
+    {
+      "start": 1353.56,
+      "end": 1356.04,
+      "text": "That line that I just said made me a lot of money."
+    },
+    {
+      "start": 1356.72,
+      "end": 1361.04,
+      "text": "I had two people take me up on that refund out of 4,000 sales in three and a half years."
+    },
+    {
+      "start": 1361.72,
+      "end": 1362.18,
+      "text": "It's worth it."
+    },
+    {
+      "start": 1362.46,
+      "end": 1365.52,
+      "text": "Satisfaction/no questions asked is the highest form of guarantee."
+    },
+    {
+      "start": 1366.08,
+      "end": 1368.5,
+      "text": "It means we could do everything right, and you could still ask for your money back."
+    },
+    {
+      "start": 1369.04,
+      "end": 1375.5,
+      "text": "As long as you know the math, you will typically make up for the refunds in spades with higher and faster closing on the sales side."
+    },
+    {
+      "start": 1375.86,
+      "end": 1377.84,
+      "text": "But you have to be good at fulfilling on your promises."
+    },
+    {
+      "start": 1378.24,
+      "end": 1379.38,
+      "text": "If not, steer clear."
+    },
+    {
+      "start": 1380.0,
+      "end": 1382.74,
+      "text": "I believe this offer works much better in lower ticket situations."
+    },
+    {
+      "start": 1383.12,
+      "end": 1387.0,
+      "text": "It becomes very risky as you go into higher ticket services with higher costs of fulfillment."
+    },
+    {
+      "start": 1387.56,
+      "end": 1390.4,
+      "text": "Pro tip, unconditional versus conditional based on business type."
+    },
+    {
+      "start": 1391.42,
+      "end": 1395.56,
+      "text": "Bigger, broader guarantees work better with lower ticket B2C businesses."
+    },
+    {
+      "start": 1395.86,
+      "end": 1397.66,
+      "text": "Many people just won't bother taking the time."
+    },
+    {
+      "start": 1398.26,
+      "end": 1407.82,
+      "text": "The higher the ticket, the more business-oriented it is, the more you will want to steer towards specific guarantees that may or may not include refunds and may or may not have conditions."
+    },
+    {
+      "start": 1408.34,
+      "end": 1410.26,
+      "text": "Conditional outsized refund guarantee."
+    },
+    {
+      "start": 1410.66,
+      "end": 1419.44,
+      "text": "What the client gets, double or triple their money back or a no strings attached payment of XXX or another amount that's far more than what they paid."
+    },
+    {
+      "start": 1420.02,
+      "end": 1426.32,
+      "text": "My take, this is for when you sell something with high margins, and this is a guarantee to add with a consumption condition."
+    },
+    {
+      "start": 1426.82,
+      "end": 1429.8,
+      "text": "That means that they must do a variety of things to qualify for this guarantee."
+    },
+    {
+      "start": 1430.22,
+      "end": 1436.04,
+      "text": "Jason Fladlien, who I mentioned earlier, did 27 million in a day, recently used an amazing guarantee for a course he sold."
+    },
+    {
+      "start": 1436.3,
+      "end": 1444.84,
+      "text": "He said, \"If you buy this course and spend X on advertising in your e-commerce store using the methods herein and don't make money, I will buy your store from you for 25,000 dollars, no questions asked.\""
+    },
+    {
+      "start": 1445.46,
+      "end": 1451.1,
+      "text": "He claimed that an additional 3 million dollars in sales came from this crazy guarantee on a 2997 course."
+    },
+    {
+      "start": 1451.54,
+      "end": 1455.66,
+      "text": "What's more, he only gave 10 of those 25,000 dollar refunds out."
+    },
+    {
+      "start": 1456.15,
+      "end": 1460.15,
+      "text": "So the refund generated 2.75 million in extra sales."
+    },
+    {
+      "start": 1460.67,
+      "end": 1462.37,
+      "text": "That's what a crazy guarantee does for you."
+    },
+    {
+      "start": 1463.27,
+      "end": 1466.75,
+      "text": "In general, a very strong guarantee like this will definitely drive more sales."
+    },
+    {
+      "start": 1467.31,
+      "end": 1474.91,
+      "text": "This really serves the purpose when you need a lot of stuff to be done by your prospect, and assuming those things are done, there's a low chance of the result not being achieved."
+    },
+    {
+      "start": 1475.49,
+      "end": 1478.45,
+      "text": "Sometimes a guarantee like this can actually get clients better results on top."
+    },
+    {
+      "start": 1478.97,
+      "end": 1484.81,
+      "text": "This guarantee will typically outperform a traditional 30-day money-back guarantee in terms of net conversions, sales minus refunds."
+    },
+    {
+      "start": 1485.73,
+      "end": 1486.85,
+      "text": "Conditional service guarantee."
+    },
+    {
+      "start": 1487.11,
+      "end": 1491.17,
+      "text": "What the client gets: you keep working for them free of charge until X is achieved."
+    },
+    {
+      "start": 1491.71,
+      "end": 1495.25,
+      "text": "My take: this is probably my personal favorite guarantee of all time."
+    },
+    {
+      "start": 1495.87,
+      "end": 1499.87,
+      "text": "It essentially guarantees that they will achieve their goal, but it eliminates the element of time."
+    },
+    {
+      "start": 1500.01,
+      "end": 1501.93,
+      "text": "You are never at risk for losing the money."
+    },
+    {
+      "start": 1502.57,
+      "end": 1504.27,
+      "text": "The guarantee is around the outcome."
+    },
+    {
+      "start": 1504.79,
+      "end": 1510.23,
+      "text": "To add further flavor to it, you can make this guarantee conditional on them doing key actions linked with the success."
+    },
+    {
+      "start": 1510.83,
+      "end": 1515.15,
+      "text": "Setting up a web page, attending calls, showing up to workouts, weighing in, reporting data, etc."
+    },
+    {
+      "start": 1516.19,
+      "end": 1523.99,
+      "text": "Real talk: since I've been advising businesses to use this particular guarantee, I have yet to have a single person say a client took them up on it."
+    },
+    {
+      "start": 1524.53,
+      "end": 1531.37,
+      "text": "Realistically, if someone actually does everything you ask them to do and doesn't achieve the result by the time you said, one of two things usually happens."
+    },
+    {
+      "start": 1531.97,
+      "end": 1536.47,
+      "text": "One, seeing your client's commitment, you happily keep working with them until they achieve the desired result."
+    },
+    {
+      "start": 1537.25,
+      "end": 1538.21,
+      "text": "Two, it gets dropped."
+    },
+    {
+      "start": 1538.33,
+      "end": 1541.25,
+      "text": "Your client is very likely close to the goal, which means they're satisfied."
+    },
+    {
+      "start": 1541.69,
+      "end": 1544.91,
+      "text": "Also, it's likely the sales conversation with the guarantee was months earlier."
+    },
+    {
+      "start": 1545.39,
+      "end": 1550.45,
+      "text": "What may have been important in the sales conversation is a distant memory now, replaced by their affection towards you and your business."
+    },
+    {
+      "start": 1551.31,
+      "end": 1553.15,
+      "text": "Conditional modified service guarantee."
+    },
+    {
+      "start": 1553.53,
+      "end": 1559.67,
+      "text": "What the client gets: you give them another Y long period of service or access to your product or services free of charge."
+    },
+    {
+      "start": 1560.13,
+      "end": 1563.25,
+      "text": "Generally, Y should give them at least twice the duration."
+    },
+    {
+      "start": 1563.73,
+      "end": 1569.23,
+      "text": "My take: this is like the service guarantee, but it ties a specific duration to your extended work or involvement."
+    },
+    {
+      "start": 1569.89,
+      "end": 1573.39,
+      "text": "So instead of being on the hook forever, you're only on the hook for the additional Y period of time."
+    },
+    {
+      "start": 1573.87,
+      "end": 1583.17,
+      "text": "I've seen it work magically and keep the business on the hook for a finite period of time, which may be an easier place for you to start before doing an all-out service guarantee like the above."
+    },
+    {
+      "start": 1583.61,
+      "end": 1585.17,
+      "text": "Conditional credit-based guarantee."
+    },
+    {
+      "start": 1585.53,
+      "end": 1590.97,
+      "text": "What the client gets: you give them back what they paid, but in a credit towards any service you offer."
+    },
+    {
+      "start": 1591.39,
+      "end": 1596.55,
+      "text": "My take: this is best used during an upsell process to seal the deal on a service they are unsure they will like."
+    },
+    {
+      "start": 1597.11,
+      "end": 1600.13,
+      "text": "They already like what they have, and you are trying to sell them on more of that."
+    },
+    {
+      "start": 1600.43,
+      "end": 1604.21,
+      "text": "Worst case, they can apply it to the thing they already like, so it maintains goodwill with the customer."
+    },
+    {
+      "start": 1604.63,
+      "end": 1606.25,
+      "text": "Conditional personal service guarantee."
+    },
+    {
+      "start": 1606.67,
+      "end": 1612.37,
+      "text": "What the client gets: you personally work with them one-on-one free of charge until they reach X objective or result."
+    },
+    {
+      "start": 1612.83,
+      "end": 1616.15,
+      "text": "My take: this is absolutely one of the strongest guarantees in existence."
+    },
+    {
+      "start": 1616.35,
+      "end": 1617.89,
+      "text": "It's like a service guarantee on crack."
+    },
+    {
+      "start": 1618.25,
+      "end": 1619.99,
+      "text": "You will definitely want to add conditions to this."
+    },
+    {
+      "start": 1621.03,
+      "end": 1626.19,
+      "text": "For example, they must respond back in 24 hours, they must use the products you tell them to, they must XYZ."
+    },
+    {
+      "start": 1626.67,
+      "end": 1629.05,
+      "text": "Only if they do that will you keep working with them one-on-one."
+    },
+    {
+      "start": 1629.71,
+      "end": 1632.83,
+      "text": "This is especially powerful as you scale and become more edified as a business owner."
+    },
+    {
+      "start": 1633.51,
+      "end": 1638.57,
+      "text": "Can you imagine for a moment if one of my salespeople said, \"Alex will personally work with you until your offer converts.\""
+    },
+    {
+      "start": 1638.99,
+      "end": 1639.15,
+      "text": "Right."
+    },
+    {
+      "start": 1639.71,
+      "end": 1640.19,
+      "text": "It would work."
+    },
+    {
+      "start": 1640.49,
+      "end": 1641.29,
+      "text": "It would also be a nightmare."
+    },
+    {
+      "start": 1641.91,
+      "end": 1650.13,
+      "text": "So I would probably put contingencies like, provided you've already spent 10,000 dollars on your existing offer using our offer structure, the offer you ran was for lead generation, and it was a free offer."
+    },
+    {
+      "start": 1650.61,
+      "end": 1652.61,
+      "text": "These are things that would make it unlikely to not succeed."
+    },
+    {
+      "start": 1653.13,
+      "end": 1658.45,
+      "text": "If for some reason they hadn't with those stipulations in place, I could probably fix the problem in 10 minutes just looking at it."
+    },
+    {
+      "start": 1659.13,
+      "end": 1661.89,
+      "text": "Conditional hotel plus airfare perks guarantee."
+    },
+    {
+      "start": 1662.39,
+      "end": 1667.87,
+      "text": "What the client gets: if you don't receive value, we will reimburse your product and your hotel and airfare."
+    },
+    {
+      "start": 1668.29,
+      "end": 1672.61,
+      "text": "My take: this is technically a refund of ancillary costs from our first example."
+    },
+    {
+      "start": 1673.19,
+      "end": 1675.77,
+      "text": "I just love it a lot for workshops and in-person experiences."
+    },
+    {
+      "start": 1675.99,
+      "end": 1681.85,
+      "text": "Normally, the event would cost more than the hotel and airfare, so it's like adding an extra 1,000 dollars to a guarantee, but way more tangible."
+    },
+    {
+      "start": 1682.21,
+      "end": 1683.71,
+      "text": "It's original enough that people like it."
+    },
+    {
+      "start": 1684.67,
+      "end": 1686.29,
+      "text": "Conditional wage payment guarantees."
+    },
+    {
+      "start": 1687.03,
+      "end": 1693.49,
+      "text": "What the client gets: you offer to pay their hourly rate, whatever that may be, if they don't find your call or session with them valuable."
+    },
+    {
+      "start": 1693.97,
+      "end": 1698.21,
+      "text": "My take: this is also an ancillary cost guarantee, just a very original one."
+    },
+    {
+      "start": 1698.59,
+      "end": 1708.57,
+      "text": "If someone ever actually asks for their wage payment, just ask them for their tax return and divide it by 1,960, AKA the number of working hours at 40 hours a week per year."
+    },
+    {
+      "start": 1709.37,
+      "end": 1714.73,
+      "text": "But no one asking for a refund will actually do that, so you never actually have to give out one of these refunds, like ever."
+    },
+    {
+      "start": 1715.11,
+      "end": 1715.43,
+      "text": "Kind of cool."
+    },
+    {
+      "start": 1716.11,
+      "end": 1717.53,
+      "text": "Conditional release of service guarantee."
+    },
+    {
+      "start": 1718.23,
+      "end": 1721.33,
+      "text": "What the client gets: you let them out of their contract free of charge."
+    },
+    {
+      "start": 1721.57,
+      "end": 1724.09,
+      "text": "My take: this voids a commitment or cancellation fee."
+    },
+    {
+      "start": 1724.51,
+      "end": 1728.93,
+      "text": "If you have a business that has enforceable commitments, contracts, or clauses, this can be a powerful guarantee."
+    },
+    {
+      "start": 1729.39,
+      "end": 1734.15,
+      "text": "Better yet, if you're in a business that does not enforce your contracts, then you have nothing to lose by adding this guarantee."
+    },
+    {
+      "start": 1735.19,
+      "end": 1737.09,
+      "text": "Conditional delayed second payment guarantee."
+    },
+    {
+      "start": 1737.51,
+      "end": 1742.25,
+      "text": "What the client gets: you won't bill them again until after they make or get their first outcome."
+    },
+    {
+      "start": 1742.47,
+      "end": 1747.19,
+      "text": "Example: lose your first five pounds, make your first sale, get your website live, etc."
+    },
+    {
+      "start": 1748.13,
+      "end": 1753.17,
+      "text": "My take: I like this a lot, especially if you have a very systematized process for getting the first result."
+    },
+    {
+      "start": 1753.65,
+      "end": 1756.65,
+      "text": "It gets the prospect thinking in fact action terms and gets them moving."
+    },
+    {
+      "start": 1757.35,
+      "end": 1759.71,
+      "text": "It will also focus your team on activating your client."
+    },
+    {
+      "start": 1760.13,
+      "end": 1766.83,
+      "text": "This is a great one when you know what metric or action drives activation, AKA a predicting indicator of long-term retention of a client."
+    },
+    {
+      "start": 1767.43,
+      "end": 1769.81,
+      "text": "I've successfully used this guarantee loads of times."
+    },
+    {
+      "start": 1770.31,
+      "end": 1771.63,
+      "text": "Conditional first outcome guarantee."
+    },
+    {
+      "start": 1772.21,
+      "end": 1777.79,
+      "text": "What the client gets: you continue to pay their ancillary cost, ad spend, hotel, etc., until they reach their first outcome."
+    },
+    {
+      "start": 1777.93,
+      "end": 1782.49,
+      "text": "Example: example, if you don't make your first sale in 14 days, we will pay for your ad spend until you do."
+    },
+    {
+      "start": 1783.15,
+      "end": 1787.01,
+      "text": "My take: just like the delayed second payment, just centered around a different cost."
+    },
+    {
+      "start": 1787.53,
+      "end": 1788.97,
+      "text": "I personally like this setup a lot."
+    },
+    {
+      "start": 1789.47,
+      "end": 1792.17,
+      "text": "It keeps everyone focused on getting that first dollar over the bridge."
+    },
+    {
+      "start": 1792.61,
+      "end": 1795.33,
+      "text": "Once that one comes across, the second comes soon after."
+    },
+    {
+      "start": 1796.27,
+      "end": 1797.11,
+      "text": "Anti-guarantee."
+    },
+    {
+      "start": 1797.51,
+      "end": 1798.33,
+      "text": "All sales are final."
+    },
+    {
+      "start": 1798.95,
+      "end": 1803.85,
+      "text": "What the client gets: access to super exclusive, very valuable service or product."
+    },
+    {
+      "start": 1804.13,
+      "end": 1809.37,
+      "text": "Likely, this is a very powerful thing that once seen cannot be unseen, or once used cannot be taken away."
+    },
+    {
+      "start": 1810.09,
+      "end": 1813.49,
+      "text": "Example: a line of code to improve your checkout experience on a website."
+    },
+    {
+      "start": 1814.03,
+      "end": 1822.27,
+      "text": "Once someone received the code, they could try and use it without paying you, or a series of opening messages for picking up girls or opening sentences for messaging cold prospects."
+    },
+    {
+      "start": 1822.8,
+      "end": 1827.06,
+      "text": "These are things that are very valuable, but incredibly easy to steal after they've been seen or understood."
+    },
+    {
+      "start": 1827.78,
+      "end": 1828.14,
+      "text": "My take."
+    },
+    {
+      "start": 1828.74,
+      "end": 1832.74,
+      "text": "This can enhance the persuasiveness of a sale and the value of the product or service."
+    },
+    {
+      "start": 1833.6,
+      "end": 1840.26,
+      "text": "It essentially implies that the client is going to use it and see an immense benefit, thereby exposing the business to vulnerability."
+    },
+    {
+      "start": 1840.74,
+      "end": 1842.32,
+      "text": "It acts as a damaging admission."
+    },
+    {
+      "start": 1842.78,
+      "end": 1850.32,
+      "text": "We have an all sales are final policy, but that is because our product is so exclusive and so powerful that once it's used, it cannot be unused."
+    },
+    {
+      "start": 1850.98,
+      "end": 1855.84,
+      "text": "Since it is so standard to have some sort of guarantee, not having one is also attention worthy."
+    },
+    {
+      "start": 1856.42,
+      "end": 1862.5,
+      "text": "So instead of being wishy-washy, lean into the fact that this thing works so well and is so easy to copy, you must make all sales final."
+    },
+    {
+      "start": 1862.96,
+      "end": 1865.18,
+      "text": "They'll believe you even more if you take this position."
+    },
+    {
+      "start": 1865.66,
+      "end": 1872.22,
+      "text": "We're going to show you our proprietary process that we are using right now to generate leads in our business, our funnels, ads, metrics, etc."
+    },
+    {
+      "start": 1872.88,
+      "end": 1876.64,
+      "text": "We're going to be exposing the inner workings of our business, and as a result, all sales are final."
+    },
+    {
+      "start": 1877.18,
+      "end": 1879.34,
+      "text": "Note, strong reason why is needed here."
+    },
+    {
+      "start": 1879.74,
+      "end": 1881.12,
+      "text": "Just make one up that sounds compelling."
+    },
+    {
+      "start": 1881.52,
+      "end": 1884.2,
+      "text": "The more you can show real exposure, the more effective this will be."
+    },
+    {
+      "start": 1884.96,
+      "end": 1889.94,
+      "text": "Anti-guarantees can also work very well with high ticket products and services that require a lot of work or customization."
+    },
+    {
+      "start": 1890.5,
+      "end": 1895.3,
+      "text": "If you're the type of customer who needs a guarantee before taking a jump, then you're not the type of person we want to work with."
+    },
+    {
+      "start": 1895.7,
+      "end": 1900.32,
+      "text": "We want motivated self-starters who can follow instructions and are not looking for a way out before they even begin."
+    },
+    {
+      "start": 1900.88,
+      "end": 1902.44,
+      "text": "If you're not serious, don't buy it."
+    },
+    {
+      "start": 1902.58,
+      "end": 1905.04,
+      "text": "But if you are, boy, are you going to make a killing."
+    },
+    {
+      "start": 1905.44,
+      "end": 1907.28,
+      "text": "From these examples, you should get the idea."
+    },
+    {
+      "start": 1908.28,
+      "end": 1909.3,
+      "text": "Implied guarantees."
+    },
+    {
+      "start": 1909.72,
+      "end": 1911.7,
+      "text": "Performance models, rev shares, and profit sharing."
+    },
+    {
+      "start": 1912.48,
+      "end": 1913.06,
+      "text": "Performance."
+    },
+    {
+      "start": 1913.34,
+      "end": 1918.96,
+      "text": "A, only pay me XXX per sale, or YYY per show, or XX per pound lost."
+    },
+    {
+      "start": 1919.6,
+      "end": 1920.0,
+      "text": "Rev share."
+    },
+    {
+      "start": 1920.88,
+      "end": 1926.24,
+      "text": "A, 10% of top line revenue, 20% profit share, 25% of revenue growth from baseline."
+    },
+    {
+      "start": 1927.22,
+      "end": 1927.7,
+      "text": "Profit share."
+    },
+    {
+      "start": 1928.0,
+      "end": 1929.98,
+      "text": "X percent of profit, Y percent of gross profit."
+    },
+    {
+      "start": 1930.48,
+      "end": 1930.9,
+      "text": "Ratchets."
+    },
+    {
+      "start": 1931.44,
+      "end": 1934.96,
+      "text": "10% if over X, 20% if over Y, 30% if over Z."
+    },
+    {
+      "start": 1935.62,
+      "end": 1936.48,
+      "text": "Bonuses and triggers."
+    },
+    {
+      "start": 1936.7,
+      "end": 1938.14,
+      "text": "I get X when Y occurs."
+    },
+    {
+      "start": 1938.92,
+      "end": 1939.72,
+      "text": "What the client gets."
+    },
+    {
+      "start": 1940.52,
+      "end": 1942.7,
+      "text": "If you do not perform, they do not have to pay."
+    },
+    {
+      "start": 1943.08,
+      "end": 1947.9,
+      "text": "If you perform, your compensation has been determined based on an agreement decided upon before you begin working."
+    },
+    {
+      "start": 1948.52,
+      "end": 1948.96,
+      "text": "My take."
+    },
+    {
+      "start": 1949.78,
+      "end": 1955.72,
+      "text": "Performance, rev share, and profit share aren't guarantees per se, but for all intents and purposes, they are."
+    },
+    {
+      "start": 1956.34,
+      "end": 1960.68,
+      "text": "This is an implied guarantee whenever you enter a rev share or performance partnership."
+    },
+    {
+      "start": 1961.16,
+      "end": 1963.08,
+      "text": "If you don't make money, you don't have to pay me."
+    },
+    {
+      "start": 1963.44,
+      "end": 1967.2,
+      "text": "In my opinion, this is one of, if not the most desirable setups."
+    },
+    {
+      "start": 1967.78,
+      "end": 1969.86,
+      "text": "First, because it makes you accountable to your client's results."
+    },
+    {
+      "start": 1970.42,
+      "end": 1971.94,
+      "text": "Second, it weeds out low performers."
+    },
+    {
+      "start": 1972.5,
+      "end": 1977.1,
+      "text": "Perfect alignment between client and service provider fosters collaboration and a long-term relationship."
+    },
+    {
+      "start": 1977.5,
+      "end": 1978.26,
+      "text": "I'm a big fan."
+    },
+    {
+      "start": 1978.78,
+      "end": 1980.66,
+      "text": "The drawbacks are tracking and collection."
+    },
+    {
+      "start": 1981.22,
+      "end": 1983.38,
+      "text": "So if you can find a way around that, you've hit a gold mine."
+    },
+    {
+      "start": 1983.7,
+      "end": 1986.52,
+      "text": "This is a part of the offer we teach our agencies who use our software."
+    },
+    {
+      "start": 1987.32,
+      "end": 1992.86,
+      "text": "We help them switch from retainer model to a performance model and wrap that into a grand slam offer, the one I walked through earlier."
+    },
+    {
+      "start": 1993.24,
+      "end": 1998.82,
+      "text": "I've seen countless agencies go from 20K a month to 200K a month in a matter of a few months using this guarantee."
+    },
+    {
+      "start": 1999.2,
+      "end": 2002.04,
+      "text": "You can also pair a rev share or performance setup with a minimum."
+    },
+    {
+      "start": 2002.64,
+      "end": 2007.16,
+      "text": "It would be like saying, we get the greater of 1,000 dollars or 10% of revenue generated."
+    },
+    {
+      "start": 2007.54,
+      "end": 2011.54,
+      "text": "So if the client doesn't generate money because of whatever reason, this at least covers your cost of services, etc."
+    },
+    {
+      "start": 2012.34,
+      "end": 2017.5,
+      "text": "Or saying, we get 1,000 dollars for the first three months, then after that, it switches to 100% performance."
+    },
+    {
+      "start": 2018.0,
+      "end": 2020.5,
+      "text": "This would be the ideal setup if it takes a long time to get going."
+    },
+    {
+      "start": 2021.12,
+      "end": 2023.66,
+      "text": "These types of offers work well when you have quantifiable outcomes."
+    },
+    {
+      "start": 2024.1,
+      "end": 2026.88,
+      "text": "The stronger, of course, is no payment without performance."
+    },
+    {
+      "start": 2028.02,
+      "end": 2029.14,
+      "text": "Create your own winning guarantee."
+    },
+    {
+      "start": 2029.4,
+      "end": 2031.96,
+      "text": "Reversing risk is the number one way to increase conversion of an offer."
+    },
+    {
+      "start": 2032.4,
+      "end": 2036.12,
+      "text": "Experienced marketers spend as much time crafting their guarantees as the deliverables themselves."
+    },
+    {
+      "start": 2036.26,
+      "end": 2037.0,
+      "text": "It's that important."
+    },
+    {
+      "start": 2037.58,
+      "end": 2042.5,
+      "text": "I have personally used all the guarantees listed above, except for the hotel and phone call one, which I just liked and saw."
+    },
+    {
+      "start": 2043.3,
+      "end": 2044.38,
+      "text": "But you can come up with your own."
+    },
+    {
+      "start": 2044.96,
+      "end": 2048.16,
+      "text": "The key is to identify a client's biggest fear, pain, and perceived obstacle."
+    },
+    {
+      "start": 2048.74,
+      "end": 2051.62,
+      "text": "What do they not want to have happen if they pay you?"
+    },
+    {
+      "start": 2051.82,
+      "end": 2053.02,
+      "text": "What are they most afraid of?"
+    },
+    {
+      "start": 2053.6,
+      "end": 2055.18,
+      "text": "Reverse their fears into a guarantee."
+    },
+    {
+      "start": 2055.52,
+      "end": 2058.78,
+      "text": "Think of time, emotion, outside cost associated with any program."
+    },
+    {
+      "start": 2059.14,
+      "end": 2061.84,
+      "text": "The more specific and creative the guarantee is, the better."
+    },
+    {
+      "start": 2062.36,
+      "end": 2064.64,
+      "text": "That being said, guarantees are enhancers."
+    },
+    {
+      "start": 2064.76,
+      "end": 2068.78,
+      "text": "They can enhance the magnetism or attraction of any offer, but they cannot make a business."
+    },
+    {
+      "start": 2069.26,
+      "end": 2073.64,
+      "text": "If a guarantee is used to cover up a poor sales team or a poor product, it will backfire to lots of refunds."
+    },
+    {
+      "start": 2073.76,
+      "end": 2074.2,
+      "text": "No bueno."
+    },
+    {
+      "start": 2074.6,
+      "end": 2079.62,
+      "text": "My advice, start selling service-based guarantees or setting up some sort of performance partnerships."
+    },
+    {
+      "start": 2080.14,
+      "end": 2082.58,
+      "text": "This will make all sales final, so you have no fear from refunds."
+    },
+    {
+      "start": 2082.98,
+      "end": 2086.72,
+      "text": "And most importantly, it will commit you to your customer's results and keep you honest."
+    },
+    {
+      "start": 2087.14,
+      "end": 2094.22,
+      "text": "From there, either keep that guarantee in scale, which is perfectly fine, or move up the food chain to less restrictive guarantees to increase volume."
+    },
+    {
+      "start": 2094.74,
+      "end": 2097.3,
+      "text": "We now have a core offer built and guarantees chosen."
+    },
+    {
+      "start": 2098.16,
+      "end": 2098.62,
+      "text": "Next up."
+    },
+    {
+      "start": 2099.22,
+      "end": 2101.72,
+      "text": "Now all we have to do is put a bow on this puppy and actually name it."
+    },
+    {
+      "start": 2102.24,
+      "end": 2111.1,
+      "text": "Naming an offer correctly determines how well your advertising converts, how big of a response you get from outbound emails, cold calls, and texts, and how many inbound responses you get from organic comments."
+    },
+    {
+      "start": 2111.5,
+      "end": 2112.22,
+      "text": "It matters."
+    },
+    {
+      "start": 2113.06,
+      "end": 2117.3,
+      "text": "That being said, I will show you how to generate unlimited names or wrapping paper for your offer."
+    },
+    {
+      "start": 2117.78,
+      "end": 2120.26,
+      "text": "That way, it never fatigues, no matter how small your market may be."
+    },
+    {
+      "start": 2120.7,
+      "end": 2122.64,
+      "text": "This is the key to evergreen lead generation."
+    },
+    {
+      "start": 2123.0,
+      "end": 2123.76,
+      "text": "Free gift number nine."
+    },
+    {
+      "start": 2124.22,
+      "end": 2125.46,
+      "text": "Create a winning guarantee with me."
+    },
+    {
+      "start": 2126.3,
+      "end": 2127.76,
+      "text": "Guarantees can make or break businesses."
+    },
+    {
+      "start": 2127.84,
+      "end": 2128.62,
+      "text": "They are like dynamite."
+    },
+    {
+      "start": 2128.66,
+      "end": 2130.88,
+      "text": "They can be incredibly powerful if in the hands of an expert."
+    },
+    {
+      "start": 2131.7,
+      "end": 2141.1,
+      "text": "If you want, go to acquisition.com/training/offers and select Creating Guarantees to watch a short video tutorial so you can start using this in your business to make more sales ASAP."
+    },
+    {
+      "start": 2141.62,
+      "end": 2144.2,
+      "text": "I also made a free guarantee checklist for you to use."
+    },
+    {
+      "start": 2144.26,
+      "end": 2144.94,
+      "text": "It's absolutely free."
+    },
+    {
+      "start": 2145.1,
+      "end": 2145.74,
+      "text": "You can go grab it."
+    },
+    {
+      "start": 2146.28,
+      "end": 2147.16,
+      "text": "Um, lots of love."
+    },
+    {
+      "start": 2147.92,
+      "end": 2148.62,
+      "text": "See you in the next chapter."
+    },
+    {
+      "start": 2151.24,
+      "end": 2155.4,
+      "text": "Hey guys, another free gift for you, and I hope you guys enjoy the bonuses and guarantees."
+    },
+    {
+      "start": 2155.68,
+      "end": 2164.42,
+      "text": "I have this as a full course with additional things and, uh, added context and visuals and slides that I fully prepared."
+    },
+    {
+      "start": 2164.9,
+      "end": 2172.78,
+      "text": "Um, it took me a full day of recording, uh, just to make the, the course version of this, and it's available for free to you, no opt-in required."
+    },
+    {
+      "start": 2173.38,
+      "end": 2175.96,
+      "text": "And for those of you who don't know what's coming up next, I'll tell you what's coming up next."
+    },
+    {
+      "start": 2176.4,
+      "end": 2179.06,
+      "text": "Uh, we go over naming, execution, and closing credits."
+    },
+    {
+      "start": 2179.12,
+      "end": 2180.84,
+      "text": "All right, execution is not Terminator style."
+    },
+    {
+      "start": 2181.38,
+      "end": 2183.88,
+      "text": "Uh, it's actually how to turn this, uh, real in the real world."
+    },
+    {
+      "start": 2184.16,
+      "end": 2185.56,
+      "text": "But the naming section is a sleeper."
+    },
+    {
+      "start": 2186.1,
+      "end": 2190.16,
+      "text": "Uh, I think it's, it's one of the big ones that you can sometimes..."
+    },
+    {
+      "start": 2190.2,
+      "end": 2201.88,
+      "text": "I mean, this is gonna sound crazy to you, but you can literally change the cover or the, the image that you have for an offer that you're selling and 5X the amount of people who buy it without changing anything about it."
+    },
+    {
+      "start": 2202.36,
+      "end": 2206.9,
+      "text": "That's how important naming it the right way is, and that's what we're gonna go over next episode."
+    },
+    {
+      "start": 2210.94,
+      "end": 2217.48,
+      "text": "Acquisition.com, Volume 1, 100 Million Dollar Offers: How to Make Offers So Good People Feel Stupid Saying No."
+    },
+    {
+      "start": 2218.12,
+      "end": 2220.28,
+      "text": "Written and performed by Alex Hormozi."
+    },
+    {
+      "start": 2220.94,
+      "end": 2223.94,
+      "text": "Copyright 2021, acquisition.com."
+    },
+    {
+      "start": 2224.28,
+      "end": 2227.6,
+      "text": "Audio production copyright 2021, acquisition.com."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "1fa4ac5f045aa1437f80fca99603261c6e808e1162340c674e0f0de6b27db07a",
+  "audio_duration_sec": 2231.484082,
+  "elapsed_sec": 18.8,
+  "created": "2026-11-16T03:09:29+00:00"
+}

@@ -1,0 +1,4247 @@
+{
+  "source_id": "hormozi-100m-leads-p06",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.06,
+      "end": 2.26,
+      "text": "Welcome to the Game Podcast."
+    },
+    {
+      "start": 2.32,
+      "end": 5.78,
+      "text": "This is a special edition, 100 Million Dollar Leads audiobook version."
+    },
+    {
+      "start": 6.42,
+      "end": 9.54,
+      "text": "Uh, the chapter Run Paid Ads Part 1 and Run Paid Ads Part 2."
+    },
+    {
+      "start": 9.6,
+      "end": 15.44,
+      "text": "This is about making ads, which is part 1, and monetizing ads efficiently, which is part 2."
+    },
+    {
+      "start": 16.04,
+      "end": 18.28,
+      "text": "Uh, I've run a lot of ads in my day."
+    },
+    {
+      "start": 18.46,
+      "end": 21.84,
+      "text": "I would say it's the primary channel that I've made the most money from in my life."
+    },
+    {
+      "start": 22.44,
+      "end": 27.44,
+      "text": "Uh, it's what I feel is I'm most native to, despite the fact that most of my personal branding reputation has come from organic content."
+    },
+    {
+      "start": 27.78,
+      "end": 33.18,
+      "text": "This is the thing that's made me the most money, and to this day, is probably the thing that makes, makes most of my portfolio companies money."
+    },
+    {
+      "start": 33.6,
+      "end": 55.06,
+      "text": "And so I outline the breakdown of how to structure ads, how I write copy, how I do call-outs, how I get attention, how I, how I contrast the, the message with the background of the ads, all the little nuances that it just takes hundreds, hundreds of dollars, hundreds of thousands of dollars, millions of dollars of mistakes to learn, um, and this way you can get the lesson without the scar."
+    },
+    {
+      "start": 55.1,
+      "end": 55.72,
+      "text": "Hope you enjoy."
+    },
+    {
+      "start": 58.48,
+      "end": 60.54,
+      "text": "Run Paid Ads Part 1: Making an Ad."
+    },
+    {
+      "start": 60.94,
+      "end": 62.6,
+      "text": "How to publicly advertise to strangers."
+    },
+    {
+      "start": 63.18,
+      "end": 66.52,
+      "text": "Advertising is the only casino where, with enough skill, you become the house."
+    },
+    {
+      "start": 67.8,
+      "end": 68.72,
+      "text": "July 2013."
+    },
+    {
+      "start": 68.72,
+      "end": 71.34,
+      "text": "\"Let's try some Facebook ads for the gym,\" I spouted."
+    },
+    {
+      "start": 72.04,
+      "end": 73.0,
+      "text": "Sam's eyebrow went up."
+    },
+    {
+      "start": 73.36,
+      "end": 73.82,
+      "text": "\"They don't work."
+    },
+    {
+      "start": 74.06,
+      "end": 74.56,
+      "text": "I already tried.\""
+    },
+    {
+      "start": 75.4,
+      "end": 78.58,
+      "text": "Now, this was the brief time between quitting my, quote, \"real job\" and starting my first gym."
+    },
+    {
+      "start": 79.32,
+      "end": 82.88,
+      "text": "I wanted some experience, so I cold emailed more than 40 gym owners for a chance to shadow them."
+    },
+    {
+      "start": 83.5,
+      "end": 85.78,
+      "text": "Sam was the only one who responded to my pleas for mentorship."
+    },
+    {
+      "start": 85.98,
+      "end": 88.6,
+      "text": "He let me work at his gym with him for minimum wage."
+    },
+    {
+      "start": 88.92,
+      "end": 90.38,
+      "text": "I'm forever grateful for that opportunity."
+    },
+    {
+      "start": 90.38,
+      "end": 93.16,
+      "text": "\"I promise, I really think they'll work,\" I said."
+    },
+    {
+      "start": 93.16,
+      "end": 96.46,
+      "text": "\"Let me give it a shot with the stuff I learned from that workshop last weekend."
+    },
+    {
+      "start": 96.6,
+      "end": 97.18,
+      "text": "I'll do everything.\""
+    },
+    {
+      "start": 97.72,
+      "end": 99.54,
+      "text": "That workshop took most of my puny savings."
+    },
+    {
+      "start": 100.66,
+      "end": 102.26,
+      "text": "Sam leaned back in his chair, crossing his arms."
+    },
+    {
+      "start": 102.26,
+      "end": 103.4,
+      "text": "\"I'll tell you what."
+    },
+    {
+      "start": 103.82,
+      "end": 105.16,
+      "text": "I'll give you a thousand bucks to play with."
+    },
+    {
+      "start": 105.44,
+      "end": 107.72,
+      "text": "If you lose it, then you have to shut up about this Facebook stuff."
+    },
+    {
+      "start": 108.54,
+      "end": 110.48,
+      "text": "If you make more, I'll split the profit with you.\""
+    },
+    {
+      "start": 110.58,
+      "end": 111.6,
+      "text": "\"Deal.\""
+    },
+    {
+      "start": 113.06,
+      "end": 114.68,
+      "text": "I worked with a freelancer to get everything set up."
+    },
+    {
+      "start": 114.84,
+      "end": 116.54,
+      "text": "We went back and forth until it was perfect."
+    },
+    {
+      "start": 117.0,
+      "end": 119.6,
+      "text": "A few days later, I marched into Sam's office to show him what I'd made."
+    },
+    {
+      "start": 119.6,
+      "end": 121.34,
+      "text": "\"It's ready,\" I said."
+    },
+    {
+      "start": 122.1,
+      "end": 123.32,
+      "text": "He spun his laptop to face me."
+    },
+    {
+      "start": 123.88,
+      "end": 125.28,
+      "text": "\"All right, Hormozi, show me what you got.\""
+    },
+    {
+      "start": 126.0,
+      "end": 128.12,
+      "text": "I placed the ugliest ad you've ever seen."
+    },
+    {
+      "start": 129.22,
+      "end": 130.48,
+      "text": "Picture this in all caps."
+    },
+    {
+      "start": 130.48,
+      "end": 136.04,
+      "text": "\"I'm looking for five Chino Hills residents to take place in a free six-week challenge."
+    },
+    {
+      "start": 136.54,
+      "end": 140.2,
+      "text": "You must let us use your before and after pictures in our marketing in exchange for the program."
+    },
+    {
+      "start": 140.8,
+      "end": 141.8,
+      "text": "Click the link to sign up.\""
+    },
+    {
+      "start": 142.22,
+      "end": 142.44,
+      "text": "Link."
+    },
+    {
+      "start": 143.16,
+      "end": 148.86,
+      "text": "Again, no images, no videos, no frills, just words, all caps."
+    },
+    {
+      "start": 149.64,
+      "end": 150.44,
+      "text": "The ad went live."
+    },
+    {
+      "start": 151.64,
+      "end": 153.06,
+      "text": "We got leads within hours."
+    },
+    {
+      "start": 153.8,
+      "end": 156.04,
+      "text": "I called them all and booked appointments as fast as I could."
+    },
+    {
+      "start": 156.64,
+      "end": 162.68,
+      "text": "I also texted them about an hour before to remind them of our appointment, and as soon as they walked in, I started yapping about our six-week challenge."
+    },
+    {
+      "start": 162.96,
+      "end": 164.22,
+      "text": "I had zero sales skills."
+    },
+    {
+      "start": 164.82,
+      "end": 166.6,
+      "text": "My conviction made up for my lack of skill."
+    },
+    {
+      "start": 167.06,
+      "end": 167.56,
+      "text": "They bought."
+    },
+    {
+      "start": 168.2,
+      "end": 170.38,
+      "text": "I sold 19 people at 299 dollars each."
+    },
+    {
+      "start": 170.88,
+      "end": 174.18,
+      "text": "We made just under 5,700 dollars from the 1,000 dollar investment."
+    },
+    {
+      "start": 174.76,
+      "end": 177.6,
+      "text": "True to his word, Sam cut me a check and handed it over."
+    },
+    {
+      "start": 178.24,
+      "end": 180.8,
+      "text": "He made it out for 2,500 dollars, more than my share."
+    },
+    {
+      "start": 180.8,
+      "end": 182.1,
+      "text": "\"Sam, this is...\""
+    },
+    {
+      "start": 182.32,
+      "end": 182.88,
+      "text": "He cut me off."
+    },
+    {
+      "start": 183.18,
+      "end": 184.08,
+      "text": "\"Nice work, Hormozi."
+    },
+    {
+      "start": 184.38,
+      "end": 184.94,
+      "text": "Do it again.\""
+    },
+    {
+      "start": 186.0,
+      "end": 190.16,
+      "text": "The six-week challenge became the biggest promotion in the gym industry for seven years."
+    },
+    {
+      "start": 190.88,
+      "end": 194.54,
+      "text": "It drove at least 1.5 billion dollars in revenue, more by now."
+    },
+    {
+      "start": 195.26,
+      "end": 201.36,
+      "text": "I taught it to over 4,500 gyms, and I bet more than 10,000 gyms used variations of the promotion without licensing it."
+    },
+    {
+      "start": 201.96,
+      "end": 203.8,
+      "text": "Maybe you saw ads for it in your local market."
+    },
+    {
+      "start": 204.02,
+      "end": 207.06,
+      "text": "And yes, if you're curious, it got more sophisticated as time went on."
+    },
+    {
+      "start": 208.68,
+      "end": 209.72,
+      "text": "How paid ads work."
+    },
+    {
+      "start": 211.08,
+      "end": 215.64,
+      "text": "Paid ads are a way to advertise one-to-many to cold audiences, AKA people who don't know you."
+    },
+    {
+      "start": 216.32,
+      "end": 220.28,
+      "text": "Paid ads work by paying another person or business to put your offer in front of their audience."
+    },
+    {
+      "start": 220.86,
+      "end": 222.64,
+      "text": "Think of it like renting eyeballs or earballs."
+    },
+    {
+      "start": 223.0,
+      "end": 227.92,
+      "text": "And because you don't need to spend time building an audience, paid ads are the fastest way to get the most people to see your stuff."
+    },
+    {
+      "start": 228.36,
+      "end": 232.14,
+      "text": "You trade money for reach, a considerable advantage when you know what you're doing."
+    },
+    {
+      "start": 232.92,
+      "end": 236.9,
+      "text": "Ads are riskier, but when done right, they can get you more leads than any other method."
+    },
+    {
+      "start": 237.24,
+      "end": 240.44,
+      "text": "With warm and cold outreach, we have to do more stuff to reach more people."
+    },
+    {
+      "start": 241.1,
+      "end": 245.92,
+      "text": "To reach more people with free content, we depend on the platform or audience sharing it if they feel like it."
+    },
+    {
+      "start": 246.48,
+      "end": 247.5,
+      "text": "Paid ads are different."
+    },
+    {
+      "start": 247.8,
+      "end": 251.14,
+      "text": "The reach is guaranteed, but getting your money back isn't."
+    },
+    {
+      "start": 251.42,
+      "end": 253.38,
+      "text": "So it's a game of efficiency rather than reach."
+    },
+    {
+      "start": 253.72,
+      "end": 254.44,
+      "text": "Let me explain."
+    },
+    {
+      "start": 254.72,
+      "end": 258.54,
+      "text": "In principle, if you paid enough money, you could get every person in the world to see your ad."
+    },
+    {
+      "start": 259.08,
+      "end": 263.56,
+      "text": "And if every person in the world saw your ad, someone would buy, even if only by accident."
+    },
+    {
+      "start": 263.74,
+      "end": 263.94,
+      "text": "Ha."
+    },
+    {
+      "start": 264.76,
+      "end": 266.5,
+      "text": "So the question isn't, do ads work?"
+    },
+    {
+      "start": 266.66,
+      "end": 268.36,
+      "text": "It's how well can you make them work?"
+    },
+    {
+      "start": 268.78,
+      "end": 272.46,
+      "text": "In other words, it's a push and pull between how much you spend and how much they buy."
+    },
+    {
+      "start": 273.28,
+      "end": 276.76,
+      "text": "And like cold outreach, paid ads go to colder, lower trust audiences."
+    },
+    {
+      "start": 277.16,
+      "end": 280.3,
+      "text": "So even with good offers, a smaller percentage of people will respond."
+    },
+    {
+      "start": 281.0,
+      "end": 285.56,
+      "text": "And like cold outreach, paid ads get over this hurdle by putting your offer in front of more people."
+    },
+    {
+      "start": 285.8,
+      "end": 289.92,
+      "text": "And if an ad isn't profitable, most of the time it's because the right people never saw it."
+    },
+    {
+      "start": 290.2,
+      "end": 292.84,
+      "text": "So to make an ad profitable, the right people have to see it."
+    },
+    {
+      "start": 293.24,
+      "end": 294.6,
+      "text": "This keeps our ads efficient."
+    },
+    {
+      "start": 295.3,
+      "end": 299.54,
+      "text": "This chapter reveals how I create more efficient paid ads by finding needles in the haystack."
+    },
+    {
+      "start": 300.04,
+      "end": 306.4,
+      "text": "I start with the entire world as my audience, the haystack, then narrow down to get a higher percentage of engaged leads, the needle."
+    },
+    {
+      "start": 307.2,
+      "end": 309.5,
+      "text": "First, I pick a platform that contains my ideal audience."
+    },
+    {
+      "start": 309.96,
+      "end": 313.44,
+      "text": "Second, I use whatever targeting methods that exist within that platform to find them."
+    },
+    {
+      "start": 314.02,
+      "end": 316.66,
+      "text": "Third, I craft my ad in a way that repels anyone else."
+    },
+    {
+      "start": 317.24,
+      "end": 319.76,
+      "text": "Finally, I tell whoever's left standing to take the next step."
+    },
+    {
+      "start": 320.14,
+      "end": 322.2,
+      "text": "People overcomplicate it, but that's it."
+    },
+    {
+      "start": 322.5,
+      "end": 328.24,
+      "text": "That's all we're doing, narrowing down who sees our ad so we have the highest chance of getting the right type of people to respond."
+    },
+    {
+      "start": 328.86,
+      "end": 334.76,
+      "text": "Once we advertise profitably in a small puddle of an audience, we expand to a pond, then a lake, then an ocean."
+    },
+    {
+      "start": 335.16,
+      "end": 339.96,
+      "text": "And as the audience gets bigger, it does have more of the wrong people, but it has more of the right ones too."
+    },
+    {
+      "start": 340.54,
+      "end": 343.88,
+      "text": "So ads decrease in efficiency, but at that point, you can afford it."
+    },
+    {
+      "start": 344.22,
+      "end": 349.8,
+      "text": "In other words, the ratio between what you spend and how much they buy goes down, but the total amount of money you make goes up."
+    },
+    {
+      "start": 350.2,
+      "end": 359.32,
+      "text": "So instead of spending 1,000 dollars to make 10,000 dollars with 9,000 dollars in profit, you spend 100,000 dollars to make 300,000 dollars with 200,000 dollars in profit."
+    },
+    {
+      "start": 359.76,
+      "end": 361.88,
+      "text": "Your ratio goes down, but you make more money."
+    },
+    {
+      "start": 362.42,
+      "end": 365.26,
+      "text": "So the risk is higher because you spend more, but so is the reward."
+    },
+    {
+      "start": 365.7,
+      "end": 369.16,
+      "text": "This means we want to make the audience as big as possible while still turning a profit."
+    },
+    {
+      "start": 369.74,
+      "end": 371.68,
+      "text": "Paid ads give us four new problems to solve."
+    },
+    {
+      "start": 372.14,
+      "end": 373.1,
+      "text": "Let's break them down together."
+    },
+    {
+      "start": 373.9,
+      "end": 375.92,
+      "text": "Number one, knowing where to advertise."
+    },
+    {
+      "start": 376.34,
+      "end": 378.42,
+      "text": "Number two, getting the right audience to see it."
+    },
+    {
+      "start": 378.8,
+      "end": 381.1,
+      "text": "Number three, making the best ad for them to see."
+    },
+    {
+      "start": 381.54,
+      "end": 383.6,
+      "text": "Number four, getting permission to contact them."
+    },
+    {
+      "start": 383.96,
+      "end": 385.74,
+      "text": "Step one, but where do I advertise?"
+    },
+    {
+      "start": 386.36,
+      "end": 388.34,
+      "text": "Find a platform where these four things are true."
+    },
+    {
+      "start": 388.98,
+      "end": 390.8,
+      "text": "Platforms distribute content to an audience."
+    },
+    {
+      "start": 391.1,
+      "end": 394.54,
+      "text": "If you're not familiar with any available platforms, I invite you to come join me on planet Earth."
+    },
+    {
+      "start": 395.04,
+      "end": 400.54,
+      "text": "If you've ever consumed content, which you have, you've directly or indirectly used a platform and been a member of its audience."
+    },
+    {
+      "start": 401.02,
+      "end": 403.32,
+      "text": "And wherever there's an audience, you can usually advertise."
+    },
+    {
+      "start": 403.72,
+      "end": 406.08,
+      "text": "So if you want to become a great entrepreneur, you have to learn about them."
+    },
+    {
+      "start": 406.72,
+      "end": 408.78,
+      "text": "Here's what I look for in a platform I want to advertise on."
+    },
+    {
+      "start": 409.18,
+      "end": 413.2,
+      "text": "One, I've used it and gotten value from it as a consumer, so I have some idea how it works."
+    },
+    {
+      "start": 413.84,
+      "end": 416.48,
+      "text": "Two, I can target people on the platform interested in my stuff."
+    },
+    {
+      "start": 417.44,
+      "end": 421.26,
+      "text": "Three, I know how to format ads specific to the platform, which I'll dive into in step three."
+    },
+    {
+      "start": 422.2,
+      "end": 425.62,
+      "text": "Four, I have the minimum amount of money to spend to place an ad."
+    },
+    {
+      "start": 425.92,
+      "end": 429.02,
+      "text": "And yes, platforms change all the time, but these principles stay the same."
+    },
+    {
+      "start": 429.7,
+      "end": 433.14,
+      "text": "Pro tip, place ads where competitors place ads to start."
+    },
+    {
+      "start": 433.4,
+      "end": 434.96,
+      "text": "Platforms often have different ad types."
+    },
+    {
+      "start": 435.12,
+      "end": 438.04,
+      "text": "For example, on LinkedIn, you can send message ads or you can run newsfeed ads."
+    },
+    {
+      "start": 438.54,
+      "end": 440.6,
+      "text": "On Instagram, you can run ads to the newsfeed or stories."
+    },
+    {
+      "start": 440.92,
+      "end": 443.4,
+      "text": "On YouTube, you can run ads on the sidebar, midstream, or pre-roll."
+    },
+    {
+      "start": 443.6,
+      "end": 444.76,
+      "text": "So how do you know where to start?"
+    },
+    {
+      "start": 445.38,
+      "end": 447.8,
+      "text": "Look at the ad placement of other people in your space and start there."
+    },
+    {
+      "start": 448.06,
+      "end": 449.56,
+      "text": "If they can make it work, so can you."
+    },
+    {
+      "start": 449.92,
+      "end": 451.04,
+      "text": "Replicate before you iterate."
+    },
+    {
+      "start": 452.34,
+      "end": 459.12,
+      "text": "Action step, start with one platform that meets the four requirements and start watching, listening, or reading ads on the platform as a first step to learning how to make one."
+    },
+    {
+      "start": 459.54,
+      "end": 462.24,
+      "text": "Step two, but how do I get the right people to see it?"
+    },
+    {
+      "start": 462.96,
+      "end": 463.5,
+      "text": "Target them."
+    },
+    {
+      "start": 464.02,
+      "end": 468.2,
+      "text": "So if we start with the entire world, which we kind of do, we need to be a bit more specific."
+    },
+    {
+      "start": 468.6,
+      "end": 474.32,
+      "text": "For example, if you choose a platform that has 100 million users, you've already cut out 99% of the world right off the bat."
+    },
+    {
+      "start": 474.98,
+      "end": 479.76,
+      "text": "And if everyone who buys from you speaks English, you'd also want to exclude the audience within the platform who don't."
+    },
+    {
+      "start": 480.28,
+      "end": 484.98,
+      "text": "If that's half the platform's users, you're already down to 99.5% of the world excluded."
+    },
+    {
+      "start": 485.44,
+      "end": 486.28,
+      "text": "Specific is good."
+    },
+    {
+      "start": 487.06,
+      "end": 489.34,
+      "text": "The right message to the wrong audience will fall on deaf ears."
+    },
+    {
+      "start": 489.52,
+      "end": 490.82,
+      "text": "It doesn't matter how good your ads are."
+    },
+    {
+      "start": 491.16,
+      "end": 495.12,
+      "text": "If you're marketing to people in Florida about a local business in Iowa, it's probably not going to work."
+    },
+    {
+      "start": 495.36,
+      "end": 500.2,
+      "text": "You only have one goal when targeting, get the highest number of people you think will buy your stuff to see your ad."
+    },
+    {
+      "start": 501.3,
+      "end": 503.52,
+      "text": "We did our first round of targeting by selecting our platform."
+    },
+    {
+      "start": 504.04,
+      "end": 506.16,
+      "text": "We do the second round within the platform itself."
+    },
+    {
+      "start": 506.74,
+      "end": 508.9,
+      "text": "Modern advertising platforms have two ways to target."
+    },
+    {
+      "start": 509.3,
+      "end": 511.06,
+      "text": "You can use them separately or combine them."
+    },
+    {
+      "start": 512.16,
+      "end": 514.38,
+      "text": "Number one, target a lookalike audience."
+    },
+    {
+      "start": 514.94,
+      "end": 519.22,
+      "text": "Modern platforms can show your ad to an audience that is similar to and much bigger than a list you provide."
+    },
+    {
+      "start": 519.86,
+      "end": 521.68,
+      "text": "Advertisers call this a lookalike audience."
+    },
+    {
+      "start": 522.44,
+      "end": 526.88,
+      "text": "Modern platforms will make a lookalike audience for you so long as you upload their minimum list size."
+    },
+    {
+      "start": 527.44,
+      "end": 531.52,
+      "text": "The bigger the list and the higher quality of the contacts, the more responsive the lookalike audience will be."
+    },
+    {
+      "start": 532.16,
+      "end": 533.98,
+      "text": "Start with your list of current and previous customers."
+    },
+    {
+      "start": 534.46,
+      "end": 537.72,
+      "text": "If your customer list is big enough to meet the platform minimum, use it."
+    },
+    {
+      "start": 538.06,
+      "end": 540.4,
+      "text": "If it's not big enough, add your warm reach out list to it."
+    },
+    {
+      "start": 540.86,
+      "end": 543.62,
+      "text": "If it's still not big enough, add your cold reach outs to hit the minimum."
+    },
+    {
+      "start": 544.02,
+      "end": 545.26,
+      "text": "This is exactly what I do."
+    },
+    {
+      "start": 545.78,
+      "end": 551.56,
+      "text": "Forcing the list size to the right size sometimes make the lookalike audience too broad, and that's okay because you can."
+    },
+    {
+      "start": 551.94,
+      "end": 554.48,
+      "text": "Number two, target with factors of your choosing."
+    },
+    {
+      "start": 555.2,
+      "end": 558.94,
+      "text": "Targeting options include age, income, gender, interests, time, location, etc."
+    },
+    {
+      "start": 559.64,
+      "end": 565.96,
+      "text": "For example, if you know no one over 45 or below 25 has ever bought your thing, then exclude anyone outside that range."
+    },
+    {
+      "start": 566.38,
+      "end": 570.22,
+      "text": "If you sell car parts, then show your ad during car shows and on car channels."
+    },
+    {
+      "start": 570.7,
+      "end": 573.74,
+      "text": "If only people with pets buy your thing, then include pets as an interest."
+    },
+    {
+      "start": 574.26,
+      "end": 579.64,
+      "text": "Basic filters on top of platform-generated lookalike audiences are a simple way to get more of the right people to see your ads."
+    },
+    {
+      "start": 580.14,
+      "end": 582.2,
+      "text": "End result, more efficient ads."
+    },
+    {
+      "start": 583.16,
+      "end": 584.54,
+      "text": "Pro tip, local targeting."
+    },
+    {
+      "start": 585.08,
+      "end": 590.16,
+      "text": "Since local markets are tiny in comparison to national markets, you won't want to add many more filters."
+    },
+    {
+      "start": 590.44,
+      "end": 592.56,
+      "text": "Be as specific as possible, but no further."
+    },
+    {
+      "start": 593.06,
+      "end": 598.04,
+      "text": "The local market on its own is already 0.1% of a nation, so you're already pretty narrow."
+    },
+    {
+      "start": 598.54,
+      "end": 600.94,
+      "text": "The more filters you use, the more specific the list."
+    },
+    {
+      "start": 601.28,
+      "end": 605.2,
+      "text": "The more specific the list, the more efficient your ads, but the faster you'll, quote, \"burn through it.\""
+    },
+    {
+      "start": 605.58,
+      "end": 609.46,
+      "text": "However, this specificity sets you up to get more wins early on."
+    },
+    {
+      "start": 609.92,
+      "end": 615.22,
+      "text": "Wins from smaller specific audiences now give you the money to advertise to larger and broader audiences later."
+    },
+    {
+      "start": 615.74,
+      "end": 616.74,
+      "text": "This is how you scale."
+    },
+    {
+      "start": 617.62,
+      "end": 621.08,
+      "text": "Action steps, bring all your lead lists together into one place."
+    },
+    {
+      "start": 621.64,
+      "end": 625.38,
+      "text": "Separate them by past and previous customers, warm outreach, and cold outreach."
+    },
+    {
+      "start": 625.74,
+      "end": 630.76,
+      "text": "Eventually, you'll have a list of people that engage with your paid ads by giving you contact information but didn't buy."
+    },
+    {
+      "start": 631.22,
+      "end": 632.12,
+      "text": "That'll come in handy."
+    },
+    {
+      "start": 632.66,
+      "end": 637.14,
+      "text": "Then, if the platform allows, use these lists in order of quality to create your lookalike audience."
+    },
+    {
+      "start": 637.62,
+      "end": 644.72,
+      "text": "Then, if the platform also allows, add filters on top of your lookalike audience to target an even higher percentage of people to engage with your ad."
+    },
+    {
+      "start": 645.34,
+      "end": 649.56,
+      "text": "If you're incapable of making a lookalike audience, then simply start by targeting interests."
+    },
+    {
+      "start": 650.14,
+      "end": 652.7,
+      "text": "Step three, but what should my ad say?"
+    },
+    {
+      "start": 653.64,
+      "end": 655.82,
+      "text": "Call out plus value plus call to action."
+    },
+    {
+      "start": 657.2,
+      "end": 659.62,
+      "text": "To this day, I don't change the channel when I see an ad."
+    },
+    {
+      "start": 660.2,
+      "end": 661.66,
+      "text": "I rarely mute or skip ads."
+    },
+    {
+      "start": 662.16,
+      "end": 665.94,
+      "text": "In fact, I have no premium subscriptions that remove ads on any media platform either."
+    },
+    {
+      "start": 666.32,
+      "end": 668.6,
+      "text": "Main reason, I want to consume the ads."
+    },
+    {
+      "start": 669.04,
+      "end": 671.1,
+      "text": "I want to see how businesses do three things."
+    },
+    {
+      "start": 671.64,
+      "end": 673.48,
+      "text": "One, how they call out their ideal customers."
+    },
+    {
+      "start": 674.02,
+      "end": 676.06,
+      "text": "Two, how they present the value elements."
+    },
+    {
+      "start": 676.78,
+      "end": 679.1,
+      "text": "Three, how they give their audience a call to action."
+    },
+    {
+      "start": 679.44,
+      "end": 685.0,
+      "text": "When I look at ads this way, it turns what was once an everyday nuisance, ads, into a continuous learning experience."
+    },
+    {
+      "start": 685.6,
+      "end": 691.68,
+      "text": "Consuming ads on purpose with the core elements in mind make me a better advertiser, and it'll make you a better one too."
+    },
+    {
+      "start": 692.3,
+      "end": 694.16,
+      "text": "Let's use the three chunks to make an ad."
+    },
+    {
+      "start": 694.56,
+      "end": 695.9,
+      "text": "Number one, call outs."
+    },
+    {
+      "start": 696.32,
+      "end": 697.7,
+      "text": "I need to get them to notice my ad."
+    },
+    {
+      "start": 698.22,
+      "end": 699.24,
+      "text": "Two, value."
+    },
+    {
+      "start": 699.44,
+      "end": 701.24,
+      "text": "I need to get them interested in what I have to offer."
+    },
+    {
+      "start": 701.7,
+      "end": 702.78,
+      "text": "Three, calls to action."
+    },
+    {
+      "start": 703.12,
+      "end": 704.32,
+      "text": "I need to tell them what to do next."
+    },
+    {
+      "start": 704.6,
+      "end": 705.86,
+      "text": "Number one, call out."
+    },
+    {
+      "start": 706.7,
+      "end": 711.22,
+      "text": "People noticing your ad is the most important part of the ad by a lot."
+    },
+    {
+      "start": 711.62,
+      "end": 717.44,
+      "text": "The purpose of each second of the ad is to sell the next second of the ad, and the headline is the first sale."
+    },
+    {
+      "start": 717.7,
+      "end": 722.94,
+      "text": "As David Ogilvy says, \"After you've written your headline, you've spent 80 cents of your advertising dollar.\""
+    },
+    {
+      "start": 723.7,
+      "end": 725.12,
+      "text": "Focus your effort front to back."
+    },
+    {
+      "start": 725.66,
+      "end": 734.68,
+      "text": "As crazy as this sounds, and all the pros are nodding their heads right now, my advertising became 20 times more efficient when I focused the majority of my effort on the first five seconds."
+    },
+    {
+      "start": 735.49,
+      "end": 740.17,
+      "text": "We need the audience's eyes and ears just long enough for them to realize, \"This is for me."
+    },
+    {
+      "start": 740.49,
+      "end": 741.43,
+      "text": "I'll keep paying attention.\""
+    },
+    {
+      "start": 741.67,
+      "end": 744.81,
+      "text": "This first impression is the part of the ad I test the most."
+    },
+    {
+      "start": 745.25,
+      "end": 747.21,
+      "text": "Imagine you're at a cocktail party in a big ballroom."
+    },
+    {
+      "start": 747.81,
+      "end": 750.77,
+      "text": "Lots of people talking in groups, loud music playing in the background."
+    },
+    {
+      "start": 751.19,
+      "end": 754.41,
+      "text": "In all that noise, a single sound pierces through it all, and you turn around."
+    },
+    {
+      "start": 754.85,
+      "end": 755.57,
+      "text": "Want to know the sound?"
+    },
+    {
+      "start": 756.17,
+      "end": 756.63,
+      "text": "Your name."
+    },
+    {
+      "start": 756.97,
+      "end": 759.17,
+      "text": "You hear it and instantly look for the source."
+    },
+    {
+      "start": 760.13,
+      "end": 761.91,
+      "text": "Scientists call it the cocktail party effect."
+    },
+    {
+      "start": 762.33,
+      "end": 767.49,
+      "text": "In simple terms, even when there's lots of stuff going on, a single thing can still catch and hold our attention."
+    },
+    {
+      "start": 767.75,
+      "end": 771.91,
+      "text": "So our goal with call-outs is to harness the cocktail party effect and cut through all the noise."
+    },
+    {
+      "start": 772.39,
+      "end": 775.67,
+      "text": "After all, if they never notice your ad, nothing else matters."
+    },
+    {
+      "start": 776.75,
+      "end": 779.57,
+      "text": "A call-out is whatever you have to do to get the attention of your audience."
+    },
+    {
+      "start": 780.17,
+      "end": 785.39,
+      "text": "Call-outs go from hyper-specific to get one person's attention, to not at all specific to get everyone's attention."
+    },
+    {
+      "start": 785.83,
+      "end": 786.49,
+      "text": "Let me explain."
+    },
+    {
+      "start": 787.13,
+      "end": 789.61,
+      "text": "If someone drops a tray of dishes, everyone looks."
+    },
+    {
+      "start": 790.27,
+      "end": 792.61,
+      "text": "If a child yells, \"Mom,\" then moms look."
+    },
+    {
+      "start": 792.97,
+      "end": 795.07,
+      "text": "If someone says your name, only you look."
+    },
+    {
+      "start": 795.81,
+      "end": 802.79,
+      "text": "But again, they all get attention, and I try to make my call-outs specific enough to get the right people and broad enough to get as many of them as I can."
+    },
+    {
+      "start": 803.63,
+      "end": 807.57,
+      "text": "So pay close attention to how advertisers use call-outs, especially the ones targeting your audience."
+    },
+    {
+      "start": 808.57,
+      "end": 812.35,
+      "text": "Here's what I look for with verbal call-outs, using words to get attention."
+    },
+    {
+      "start": 813.37,
+      "end": 814.27,
+      "text": "One, labels."
+    },
+    {
+      "start": 814.83,
+      "end": 817.37,
+      "text": "A word or set of words putting people into a group."
+    },
+    {
+      "start": 818.01,
+      "end": 821.43,
+      "text": "These include features, traits, titles, places, and other descriptors."
+    },
+    {
+      "start": 821.79,
+      "end": 828.35,
+      "text": "Example: Clark County moms, gym owners, remote workers, I'm looking for XYZ, etc."
+    },
+    {
+      "start": 829.03,
+      "end": 833.25,
+      "text": "To be most effective, your ideal customers need to identify with this label."
+    },
+    {
+      "start": 833.69,
+      "end": 837.13,
+      "text": "A, people automatically identify with their local area."
+    },
+    {
+      "start": 837.59,
+      "end": 840.29,
+      "text": "So with local ads, the more local, the better."
+    },
+    {
+      "start": 840.85,
+      "end": 848.49,
+      "text": "A local ad with local area plus type of person call-out is still one of my favorite all-time ways to get someone's attention."
+    },
+    {
+      "start": 848.97,
+      "end": 852.69,
+      "text": "It worked 200 years ago, it works today, and it'll work tomorrow."
+    },
+    {
+      "start": 853.05,
+      "end": 860.99,
+      "text": "So think Americans is not as specific as Texans, is not as specific as Dallas residents, is not as specific as Irving residents."
+    },
+    {
+      "start": 861.47,
+      "end": 866.39,
+      "text": "If you live in Irving, you'll immediately think this ad could affect you, so it catches your attention."
+    },
+    {
+      "start": 867.65,
+      "end": 868.71,
+      "text": "Two, yes questions."
+    },
+    {
+      "start": 869.71,
+      "end": 871.73,
+      "text": "Questions where people answer, \"Yes, that's me.\""
+    },
+    {
+      "start": 871.85,
+      "end": 873.23,
+      "text": "They qualify themselves for the offer."
+    },
+    {
+      "start": 873.53,
+      "end": 875.95,
+      "text": "Example: Do you wake up to pee more than once a night?"
+    },
+    {
+      "start": 876.41,
+      "end": 877.69,
+      "text": "Do you have trouble tying your shoes?"
+    },
+    {
+      "start": 878.13,
+      "end": 879.91,
+      "text": "Do you have a home worth over 400,000 dollars?"
+    },
+    {
+      "start": 880.51,
+      "end": 881.97,
+      "text": "Three, if-then statements."
+    },
+    {
+      "start": 882.71,
+      "end": 885.47,
+      "text": "If they meet your conditions, then you help them make a decision."
+    },
+    {
+      "start": 886.07,
+      "end": 889.61,
+      "text": "If you run over 100,000 dollars a month in ads, we can save you 20% or more."
+    },
+    {
+      "start": 890.11,
+      "end": 895.81,
+      "text": "If you were born between 1978 and 1986 in Muskogee, Oklahoma, you may qualify for a class action lawsuit."
+    },
+    {
+      "start": 896.29,
+      "end": 898.51,
+      "text": "If you want XYZ, then pay attention."
+    },
+    {
+      "start": 898.81,
+      "end": 900.37,
+      "text": "Four, ridiculous results."
+    },
+    {
+      "start": 900.89,
+      "end": 903.93,
+      "text": "Bizarre, rare, or out of the ordinary stuff someone would want."
+    },
+    {
+      "start": 904.27,
+      "end": 906.79,
+      "text": "Massage studio books out two years in advance."
+    },
+    {
+      "start": 907.09,
+      "end": 907.91,
+      "text": "Client's furious."
+    },
+    {
+      "start": 908.49,
+      "end": 911.31,
+      "text": "This woman lost 50 pounds eating pizza and fired her trainer."
+    },
+    {
+      "start": 912.01,
+      "end": 915.91,
+      "text": "The government is handing out 1,000 dollar checks to anyone who can answer these three questions, etc."
+    },
+    {
+      "start": 916.39,
+      "end": 917.97,
+      "text": "Call-outs don't have to be just words."
+    },
+    {
+      "start": 918.35,
+      "end": 920.69,
+      "text": "They can also be noises or visuals in the environment."
+    },
+    {
+      "start": 921.33,
+      "end": 922.61,
+      "text": "Let's go back to the cocktail party."
+    },
+    {
+      "start": 923.23,
+      "end": 929.69,
+      "text": "Sure, a dropped tray of dishes would get everyone's attention, but so would the cling, cling, cling of a knife against a champagne flute."
+    },
+    {
+      "start": 930.23,
+      "end": 932.37,
+      "text": "They both get everyone's attention for different reasons."
+    },
+    {
+      "start": 932.97,
+      "end": 936.87,
+      "text": "One signals an embarrassing disaster, and the other signals important news."
+    },
+    {
+      "start": 937.77,
+      "end": 940.77,
+      "text": "But in either case, everyone still wants to know what happens next."
+    },
+    {
+      "start": 941.25,
+      "end": 945.51,
+      "text": "So if the platform allows, good advertisers use verbal and non-verbal call-outs together."
+    },
+    {
+      "start": 946.43,
+      "end": 951.79,
+      "text": "Here's what I look for with non-verbal call-outs, using the setting and spokesperson to get attention."
+    },
+    {
+      "start": 952.23,
+      "end": 953.15,
+      "text": "One, contrast."
+    },
+    {
+      "start": 953.55,
+      "end": 957.17,
+      "text": "Any stuff that sticks out in the first few seconds, the colors, the sounds, the movements, etc."
+    },
+    {
+      "start": 957.97,
+      "end": 959.17,
+      "text": "Note what catches your attention."
+    },
+    {
+      "start": 959.37,
+      "end": 963.21,
+      "text": "Example: A bright shirt always gets more attention than a black or dull shirt."
+    },
+    {
+      "start": 963.71,
+      "end": 966.47,
+      "text": "Attractive people almost always get more attention than plain-looking people."
+    },
+    {
+      "start": 967.17,
+      "end": 970.09,
+      "text": "Moving stuff always gets more attention than still stuff."
+    },
+    {
+      "start": 970.99,
+      "end": 972.29,
+      "text": "Two, likeness."
+    },
+    {
+      "start": 973.05,
+      "end": 978.47,
+      "text": "Think visually showing labels, features, traits, titles, places, and other descriptors that people identify with."
+    },
+    {
+      "start": 978.71,
+      "end": 986.55,
+      "text": "People want to work with people who look, talk, and act in ways familiar to them, and you may not look, talk, or act in ways familiar to them."
+    },
+    {
+      "start": 987.11,
+      "end": 992.73,
+      "text": "So if you serve a broad customer base, use more ethnicities, ages, genders, personalities, etc., in your ads."
+    },
+    {
+      "start": 993.29,
+      "end": 998.47,
+      "text": "If you serve a narrow customer base, example, medical devices for seniors, then use people who look like them."
+    },
+    {
+      "start": 999.09,
+      "end": 999.79,
+      "text": "Quack like a duck."
+    },
+    {
+      "start": 1000.65,
+      "end": 1004.83,
+      "text": "If you want to attract ducks, look like a duck, walk like a duck, and quack like a duck."
+    },
+    {
+      "start": 1005.29,
+      "end": 1009.83,
+      "text": "If you want to attract plumbers, then dress like a plumber, talk like a plumber, and be in a plumbing environment."
+    },
+    {
+      "start": 1010.39,
+      "end": 1014.83,
+      "text": "Even with the same message, your ad will do far better if you look the part or find people who do."
+    },
+    {
+      "start": 1016.19,
+      "end": 1018.67,
+      "text": "If you see an ad for doctors, notice the spokesperson."
+    },
+    {
+      "start": 1019.29,
+      "end": 1019.97,
+      "text": "What age are they?"
+    },
+    {
+      "start": 1020.27,
+      "end": 1020.67,
+      "text": "Gender?"
+    },
+    {
+      "start": 1020.75,
+      "end": 1021.29,
+      "text": "Ethnicity?"
+    },
+    {
+      "start": 1022.25,
+      "end": 1023.25,
+      "text": "Are they wearing a lab coat?"
+    },
+    {
+      "start": 1023.45,
+      "end": 1024.37,
+      "text": "A stethoscope?"
+    },
+    {
+      "start": 1024.79,
+      "end": 1025.89,
+      "text": "Are they in a medical facility?"
+    },
+    {
+      "start": 1026.51,
+      "end": 1032.25,
+      "text": "All these things get a specific type of person interested in health-related products and services to pay more attention than they would otherwise."
+    },
+    {
+      "start": 1033.65,
+      "end": 1038.99,
+      "text": "Mascots also work well because they don't age, never ask for more money, and never take days off."
+    },
+    {
+      "start": 1039.39,
+      "end": 1044.99,
+      "text": "Think Mickey Mouse for Disney, the Geico Gecko, Tony the Tiger for Kellogg's, the Michelin Man, etc."
+    },
+    {
+      "start": 1045.71,
+      "end": 1048.67,
+      "text": "A mascot is a great way to create an enduring spokesperson for your business."
+    },
+    {
+      "start": 1049.53,
+      "end": 1050.03,
+      "text": "Advanced."
+    },
+    {
+      "start": 1050.41,
+      "end": 1055.63,
+      "text": "Whichever likeness you choose, if it's not you, the business becomes less dependent on you and therefore more sellable."
+    },
+    {
+      "start": 1056.25,
+      "end": 1058.03,
+      "text": "You may also just be an ugly son of a gun."
+    },
+    {
+      "start": 1058.45,
+      "end": 1060.51,
+      "text": "Plus, pretty people convert better anyways."
+    },
+    {
+      "start": 1060.91,
+      "end": 1064.23,
+      "text": "Good news is, it doesn't cost much to get a pretty person to say stuff to a camera."
+    },
+    {
+      "start": 1064.63,
+      "end": 1065.95,
+      "text": "Three, the scene."
+    },
+    {
+      "start": 1066.55,
+      "end": 1069.81,
+      "text": "Think showing the yes questions and if-then statements."
+    },
+    {
+      "start": 1070.39,
+      "end": 1076.63,
+      "text": "Example: An ad with, A, a person tossing and turning in a bed calls out to people with sleep troubles."
+    },
+    {
+      "start": 1077.07,
+      "end": 1080.55,
+      "text": "B, a pear next to an hourglass can call out to people with a pear-shaped body."
+    },
+    {
+      "start": 1080.93,
+      "end": 1085.61,
+      "text": "C, a room full of stuff stacked to the ceiling calls out to people with too much junk."
+    },
+    {
+      "start": 1086.29,
+      "end": 1089.27,
+      "text": "D, a rock hitting a window calls out to people with broken windows."
+    },
+    {
+      "start": 1089.85,
+      "end": 1091.15,
+      "text": "E, a local landmark."
+    },
+    {
+      "start": 1091.23,
+      "end": 1093.49,
+      "text": "Locals think, \"Hey, I know that place,\" and pay attention."
+    },
+    {
+      "start": 1094.31,
+      "end": 1096.13,
+      "text": "Now, this isn't an exhaustive list."
+    },
+    {
+      "start": 1096.47,
+      "end": 1096.99,
+      "text": "Far from it."
+    },
+    {
+      "start": 1097.49,
+      "end": 1098.93,
+      "text": "I show you these to pull back the curtain."
+    },
+    {
+      "start": 1099.39,
+      "end": 1103.23,
+      "text": "This way, you can see the infinite ways advertisers cut through the noise, so you can too."
+    },
+    {
+      "start": 1103.94,
+      "end": 1105.4,
+      "text": "Pro tip, infinite ads."
+    },
+    {
+      "start": 1106.0,
+      "end": 1108.56,
+      "text": "Here's one of the highest ROI tips I can give you about making ads."
+    },
+    {
+      "start": 1109.08,
+      "end": 1115.66,
+      "text": "Record 10 or so new ads every week, but 30 or more first sentences or questions to begin the ad."
+    },
+    {
+      "start": 1116.1,
+      "end": 1117.14,
+      "text": "Think five-second clips."
+    },
+    {
+      "start": 1117.74,
+      "end": 1120.26,
+      "text": "These are the call-outs people consume before deciding to watch more."
+    },
+    {
+      "start": 1120.74,
+      "end": 1125.14,
+      "text": "With 30 call-outs and 10 main ads, you can make 300 variations in a matter of hours."
+    },
+    {
+      "start": 1125.56,
+      "end": 1127.9,
+      "text": "Once you know the best call-out, you apply it to all the ads."
+    },
+    {
+      "start": 1128.8,
+      "end": 1129.28,
+      "text": "Action step."
+    },
+    {
+      "start": 1129.84,
+      "end": 1133.66,
+      "text": "I'm always impressed with the clever and innovative ways advertisers call out their prospects."
+    },
+    {
+      "start": 1134.14,
+      "end": 1136.82,
+      "text": "So instead of muting or hitting skip ad, look for the call-outs."
+    },
+    {
+      "start": 1137.12,
+      "end": 1138.32,
+      "text": "Become a student of the game."
+    },
+    {
+      "start": 1138.64,
+      "end": 1142.08,
+      "text": "My goal is that for the rest of your life, when you see an ad, you turn up the volume."
+    },
+    {
+      "start": 1142.58,
+      "end": 1145.82,
+      "text": "Now, once they've noticed our ad, it takes us to the second chunk of the ad."
+    },
+    {
+      "start": 1146.3,
+      "end": 1147.48,
+      "text": "We need to get them interested."
+    },
+    {
+      "start": 1147.98,
+      "end": 1149.4,
+      "text": "Two, get them interested."
+    },
+    {
+      "start": 1150.18,
+      "end": 1154.28,
+      "text": "If people think an offer or lead magnet has big benefits and tiny costs, they value it."
+    },
+    {
+      "start": 1154.62,
+      "end": 1156.92,
+      "text": "They'll exchange money or contact information to get it."
+    },
+    {
+      "start": 1157.28,
+      "end": 1160.44,
+      "text": "But if the cost outweighs the benefits, they don't value it, and they won't."
+    },
+    {
+      "start": 1160.92,
+      "end": 1165.26,
+      "text": "So the best ads make the benefits look as big as possible and the costs look as small as possible."
+    },
+    {
+      "start": 1165.82,
+      "end": 1170.16,
+      "text": "This makes an offer or lead magnet as valuable as it can be and gets the most engaged leads because of it."
+    },
+    {
+      "start": 1170.48,
+      "end": 1176.2,
+      "text": "A good advertisement, paid or not, uses clear and simple ways to answer the question, \"Why should I be interested in your thing?\""
+    },
+    {
+      "start": 1176.8,
+      "end": 1179.38,
+      "text": "It tells people why they should want your lead magnet or offer."
+    },
+    {
+      "start": 1179.78,
+      "end": 1184.6,
+      "text": "Now, there are a million ways to do this, but I'll share with you my what, who, when framework."
+    },
+    {
+      "start": 1185.2,
+      "end": 1188.4,
+      "text": "This mental framework hinges on knowing the value equation forwards and backwards."
+    },
+    {
+      "start": 1188.86,
+      "end": 1196.1,
+      "text": "So all you have to do is know eight things about your own product or service, how it fulfills each value element for your prospect, and how it helps them avoid their hidden costs."
+    },
+    {
+      "start": 1196.26,
+      "end": 1196.74,
+      "text": "Remember those?"
+    },
+    {
+      "start": 1197.56,
+      "end": 1202.38,
+      "text": "Think of them like carrots versus sticks, how your offer delivers more good stuff and less bad stuff."
+    },
+    {
+      "start": 1202.86,
+      "end": 1205.98,
+      "text": "Then think of the perspectives of the people who would experience them, the who."
+    },
+    {
+      "start": 1206.42,
+      "end": 1210.86,
+      "text": "And then finally, what time period, when, they'd have these experiences, positive or negative."
+    },
+    {
+      "start": 1211.24,
+      "end": 1212.34,
+      "text": "The what, who, when framework."
+    },
+    {
+      "start": 1214.0,
+      "end": 1216.42,
+      "text": "In the words of David Ogilvy, \"The customer isn't a moron."
+    },
+    {
+      "start": 1216.6,
+      "end": 1217.18,
+      "text": "She's your wife.\""
+    },
+    {
+      "start": 1217.86,
+      "end": 1218.58,
+      "text": "So you know what that means?"
+    },
+    {
+      "start": 1219.0,
+      "end": 1219.54,
+      "text": "Write to her."
+    },
+    {
+      "start": 1220.42,
+      "end": 1225.92,
+      "text": "Ads cause the prospect to think questions to themselves, and a good ad answers their questions at the precise time they think them."
+    },
+    {
+      "start": 1226.58,
+      "end": 1230.98,
+      "text": "So, if you can answer what they're thinking with your ad using the words they'd use, you've won."
+    },
+    {
+      "start": 1231.7,
+      "end": 1234.46,
+      "text": "So let's start with the what, eight key elements."
+    },
+    {
+      "start": 1235.04,
+      "end": 1236.4,
+      "text": "Number one, dream outcome."
+    },
+    {
+      "start": 1236.92,
+      "end": 1241.26,
+      "text": "A good ad will show and tell the maximum benefit the prospect can achieve using the thing you sell."
+    },
+    {
+      "start": 1241.68,
+      "end": 1245.1,
+      "text": "It should align with the ideal prospect's dream outcome for that sort of product or service."
+    },
+    {
+      "start": 1245.52,
+      "end": 1247.54,
+      "text": "These are the results they experience after buying the thing."
+    },
+    {
+      "start": 1248.44,
+      "end": 1250.12,
+      "text": "The opposite of that is a nightmare."
+    },
+    {
+      "start": 1250.54,
+      "end": 1255.5,
+      "text": "A good ad will also show them the worst possible hassles, pain, et cetera, of going without your solution."
+    },
+    {
+      "start": 1255.8,
+      "end": 1258.88,
+      "text": "In short, the bad stuff they'll experience if they don't buy."
+    },
+    {
+      "start": 1259.72,
+      "end": 1262.16,
+      "text": "Two, perceived likelihood of achievement."
+    },
+    {
+      "start": 1262.88,
+      "end": 1267.24,
+      "text": "Because of past failures, we assume that even when we buy, there's a risk that we don't get what we want."
+    },
+    {
+      "start": 1267.88,
+      "end": 1281.44,
+      "text": "Lower perceived risk by minimizing or explaining away past failures, emphasizing the success of people like them, giving assurances by authority guarantees, and how what you have to offer will at least give them a better chance of success than what they currently do."
+    },
+    {
+      "start": 1282.22,
+      "end": 1284.02,
+      "text": "The opposite, risk."
+    },
+    {
+      "start": 1284.62,
+      "end": 1287.54,
+      "text": "A good ad will also show them how risky it is not to act."
+    },
+    {
+      "start": 1288.42,
+      "end": 1291.1,
+      "text": "What will their life be like if they carried on as they always have?"
+    },
+    {
+      "start": 1291.8,
+      "end": 1295.82,
+      "text": "Show how they will repeat their past failures and how their problems will become bigger and worse."
+    },
+    {
+      "start": 1296.52,
+      "end": 1297.98,
+      "text": "Three, time delay."
+    },
+    {
+      "start": 1298.7,
+      "end": 1304.3,
+      "text": "A good ad will show them how slow their current trajectory is or that they'll never get what they want at their current rate."
+    },
+    {
+      "start": 1305.02,
+      "end": 1306.48,
+      "text": "The opposite of that is speed."
+    },
+    {
+      "start": 1307.22,
+      "end": 1310.62,
+      "text": "To get things we want, we know we have to spend time getting them."
+    },
+    {
+      "start": 1310.86,
+      "end": 1314.82,
+      "text": "A good ad will show and tell how much faster they will get the thing they want."
+    },
+    {
+      "start": 1315.44,
+      "end": 1317.28,
+      "text": "Four, effort and sacrifice."
+    },
+    {
+      "start": 1318.3,
+      "end": 1328.64,
+      "text": "A good ad will also show them the amount of work and skill they'll need to get the result without your solution, and how they'll be forced to keep giving things up they love and continue suffering from things they hate."
+    },
+    {
+      "start": 1329.32,
+      "end": 1334.1,
+      "text": "Or worse, that they work hard and sacrifice a ton right now and have gotten nowhere."
+    },
+    {
+      "start": 1334.52,
+      "end": 1339.48,
+      "text": "In other words, they waste more time and money doing what they currently do than if they just bought our darn solution."
+    },
+    {
+      "start": 1340.7,
+      "end": 1342.2,
+      "text": "The opposite of that is ease."
+    },
+    {
+      "start": 1342.78,
+      "end": 1349.24,
+      "text": "To get things we want, we have to change something, but then we assume that we have to do stuff we hate and give up stuff we love."
+    },
+    {
+      "start": 1349.78,
+      "end": 1352.8,
+      "text": "And ease comes from a lack of needed work or skill."
+    },
+    {
+      "start": 1353.36,
+      "end": 1355.24,
+      "text": "A good ad disproves that assumption."
+    },
+    {
+      "start": 1355.76,
+      "end": 1365.62,
+      "text": "It tells and shows how you can avoid the stuff you hate doing, do more of the stuff you love doing, without working hard or having lots of skill, and still get the dream outcome."
+    },
+    {
+      "start": 1368.44,
+      "end": 1370.22,
+      "text": "Those are the eight key elements."
+    },
+    {
+      "start": 1371.16,
+      "end": 1379.02,
+      "text": "Now that we fully understand the what, how we deliver the four value elements, and how we avoid their four opposites, we now go to the next W, the who."
+    },
+    {
+      "start": 1380.46,
+      "end": 1380.7,
+      "text": "Who."
+    },
+    {
+      "start": 1381.96,
+      "end": 1386.9,
+      "text": "Humans are primarily status-driven, and the status of one human comes from how other humans treat them."
+    },
+    {
+      "start": 1387.42,
+      "end": 1392.88,
+      "text": "So if your product or service changes how other people treat your customer, which it does in some way, it pays to show how."
+    },
+    {
+      "start": 1393.52,
+      "end": 1398.34,
+      "text": "And talking about the value elements from someone else's perspective shows all the ways it'll improve the status of your customer."
+    },
+    {
+      "start": 1398.88,
+      "end": 1400.46,
+      "text": "So we want to outline two groups of people."
+    },
+    {
+      "start": 1400.86,
+      "end": 1403.54,
+      "text": "The first group is the people gaining status, your customers."
+    },
+    {
+      "start": 1403.94,
+      "end": 1411.52,
+      "text": "The second group is the people giving it to them, spouses, kids, parents, extended family, colleagues, bosses, friends, rivals, competitors, et cetera."
+    },
+    {
+      "start": 1412.42,
+      "end": 1419.46,
+      "text": "All of these perspectives gives us different opportunities to show how the prospect's status may improve, and they give us a ton of bonus benefits."
+    },
+    {
+      "start": 1419.76,
+      "end": 1422.66,
+      "text": "As in, if you lose weight, do your kids have a new role model?"
+    },
+    {
+      "start": 1423.08,
+      "end": 1424.82,
+      "text": "Does your spouse now decide to get healthy too?"
+    },
+    {
+      "start": 1425.3,
+      "end": 1426.92,
+      "text": "Are you more likely to get promoted at work?"
+    },
+    {
+      "start": 1427.24,
+      "end": 1428.1,
+      "text": "Science says yes."
+    },
+    {
+      "start": 1428.66,
+      "end": 1430.86,
+      "text": "Does your frenemy no longer make those little jabs at dinner?"
+    },
+    {
+      "start": 1431.92,
+      "end": 1433.04,
+      "text": "Let's do business examples."
+    },
+    {
+      "start": 1433.8,
+      "end": 1439.7,
+      "text": "If I said something was risk-free, I want to spell out how their spouse won't nag them about the purchase since there's no risk."
+    },
+    {
+      "start": 1440.16,
+      "end": 1452.3,
+      "text": "I talk about how their kids would notice they weren't as stressed or distracted anymore about work, how their competitors notice their phones don't ring as much because all their customers are flowing to your new customer, how their business owner buddies say, \"Business must be good,\" when they pull up in a new car at the golf range."
+    },
+    {
+      "start": 1452.66,
+      "end": 1453.28,
+      "text": "You get the idea."
+    },
+    {
+      "start": 1453.68,
+      "end": 1458.3,
+      "text": "These are all the added benefits to the prospect we'd miss out on if we only looked at it from their own perspective."
+    },
+    {
+      "start": 1459.4,
+      "end": 1463.58,
+      "text": "And we can apply each new who perspective to each value driver."
+    },
+    {
+      "start": 1463.92,
+      "end": 1468.36,
+      "text": "This is how you get so many different stories, examples, and angles, et cetera, to describe the benefits."
+    },
+    {
+      "start": 1468.88,
+      "end": 1470.42,
+      "text": "More carrot and less stick."
+    },
+    {
+      "start": 1471.48,
+      "end": 1475.14,
+      "text": "That leads to the third lens of the what, who, when framework, the when."
+    },
+    {
+      "start": 1475.68,
+      "end": 1475.96,
+      "text": "When."
+    },
+    {
+      "start": 1476.76,
+      "end": 1480.14,
+      "text": "People often only think of how their decisions affect the here and now."
+    },
+    {
+      "start": 1480.72,
+      "end": 1488.26,
+      "text": "But if we want to be extra compelling, and we do, we should also explain what their decisions led to in the past and what their decisions could lead to in the future."
+    },
+    {
+      "start": 1488.82,
+      "end": 1492.86,
+      "text": "We do this by getting them to visualize through their own timeline, past, present, future."
+    },
+    {
+      "start": 1493.46,
+      "end": 1498.1,
+      "text": "This way, we help them see the consequences of their decision or indecision right now."
+    },
+    {
+      "start": 1498.54,
+      "end": 1501.74,
+      "text": "Let's use the weight loss example from earlier from their perspective."
+    },
+    {
+      "start": 1502.34,
+      "end": 1511.16,
+      "text": "We show them getting teased as a kid, past, struggling to button their favorite pair of jeans, present, or moving up yet another belt loop, future."
+    },
+    {
+      "start": 1511.96,
+      "end": 1514.76,
+      "text": "What does that nightmare look like to their spouse, to their rivals?"
+    },
+    {
+      "start": 1515.12,
+      "end": 1515.86,
+      "text": "How embarrassing."
+    },
+    {
+      "start": 1516.84,
+      "end": 1520.38,
+      "text": "Remember, we can also run the same timeline through someone else's perspective."
+    },
+    {
+      "start": 1520.78,
+      "end": 1525.2,
+      "text": "Their kid asking why other kids made fun of them because they passed on bad food habits, past."
+    },
+    {
+      "start": 1525.88,
+      "end": 1530.36,
+      "text": "Or how their kids complain now that other kids' dads participate in practice when they don't, present."
+    },
+    {
+      "start": 1531.02,
+      "end": 1535.12,
+      "text": "Or how their doctor said they might not be able to walk their daughter down the aisle at her wedding, future."
+    },
+    {
+      "start": 1535.6,
+      "end": 1538.26,
+      "text": "Note, this is all the bad stuff they want to avoid."
+    },
+    {
+      "start": 1538.8,
+      "end": 1544.78,
+      "text": "Our next copy elements would contrast those with the good stuff that could happen, present and future, if they buy our thing."
+    },
+    {
+      "start": 1545.98,
+      "end": 1555.36,
+      "text": "We use both towards good stuff and away from bad stuff, then combine it with past, present, and future of the prospect's life to create powerful motivators in our copy."
+    },
+    {
+      "start": 1556.18,
+      "end": 1560.56,
+      "text": "Putting the what, the who, and the when together, we answer the why they should be interested."
+    },
+    {
+      "start": 1561.14,
+      "end": 1572.4,
+      "text": "If I continued on with the weight loss example, I might talk about how their spouse, who, will perceive how fast, what, they fit into that suit your wife loves that didn't fit but does now in the future, when."
+    },
+    {
+      "start": 1572.86,
+      "end": 1580.22,
+      "text": "Or how their kids, the who, month after month, the when, got more interested in eating healthy and tagging along during workouts, the what."
+    },
+    {
+      "start": 1580.72,
+      "end": 1589.36,
+      "text": "Or how they, the who, catch a look at themselves in a reflection in the mall a few months, the when, and realize, \"Stuff actually fits me in this store,\" the what."
+    },
+    {
+      "start": 1590.0,
+      "end": 1594.4,
+      "text": "Pro tip: make your ads as specific as you can, but no specific-er."
+    },
+    {
+      "start": 1595.2,
+      "end": 1599.76,
+      "text": "The more specific your copy, the more efficient it can get, but also the longer it tends to get."
+    },
+    {
+      "start": 1600.12,
+      "end": 1602.6,
+      "text": "And if it gets too long for the platform, it lowers efficiency."
+    },
+    {
+      "start": 1603.02,
+      "end": 1607.72,
+      "text": "So make the ad in its entirety as specific as you can in the most efficient space you've got."
+    },
+    {
+      "start": 1608.22,
+      "end": 1614.06,
+      "text": "If you've got audio and visuals at your disposal, then use contrast, likeness, and the scene itself to match your copy."
+    },
+    {
+      "start": 1614.38,
+      "end": 1619.16,
+      "text": "It becomes more specific without getting any longer, and this makes your ad even more efficient and profitable."
+    },
+    {
+      "start": 1619.8,
+      "end": 1635.26,
+      "text": "When we combine everything we can to get the prospects moving towards the four value drivers while also getting them away from their opposites, the many perspectives we can show them gaining status from, and the timelines for each, this adds up to why they should be interested."
+    },
+    {
+      "start": 1635.82,
+      "end": 1637.68,
+      "text": "And now we have lots of ways to get them interested."
+    },
+    {
+      "start": 1638.1,
+      "end": 1640.72,
+      "text": "And the more angles we cover, the more interested they'll become."
+    },
+    {
+      "start": 1641.48,
+      "end": 1648.04,
+      "text": "Also, since you asked, the only difference between long ads and short ads is how many angles we have time to cover from the copywriting framework."
+    },
+    {
+      "start": 1648.5,
+      "end": 1657.58,
+      "text": "Longer ads use more, shorter ads use fewer, so add or take away based on the platform, but keep the call-outs the first few seconds and the CTAs, what to do next, the same."
+    },
+    {
+      "start": 1658.8,
+      "end": 1661.22,
+      "text": "Pro tip: get unlimited inspiration."
+    },
+    {
+      "start": 1661.94,
+      "end": 1664.36,
+      "text": "Many platforms have a database of ads past and present."
+    },
+    {
+      "start": 1664.74,
+      "end": 1671.06,
+      "text": "As of this moment, if you search platform ad library in a search engine, in a few clicks, you will find them."
+    },
+    {
+      "start": 1671.58,
+      "end": 1674.86,
+      "text": "If you see an ad that runs for a long time, a month or more, assume it's profitable."
+    },
+    {
+      "start": 1675.3,
+      "end": 1679.78,
+      "text": "Then take notes on the call-outs they use, how they illustrate the value elements, and their CTAs."
+    },
+    {
+      "start": 1680.52,
+      "end": 1682.68,
+      "text": "Look for the words they use and how they demonstrate them."
+    },
+    {
+      "start": 1683.34,
+      "end": 1686.72,
+      "text": "Break down 50 or so ads, and you will have a massive head start to creating winners of your own."
+    },
+    {
+      "start": 1688.04,
+      "end": 1693.86,
+      "text": "Action steps: get as many advertising angles with your core offer as you can with the what, who, when framework."
+    },
+    {
+      "start": 1694.64,
+      "end": 1700.9,
+      "text": "What: know the eight key things about your own product or service, how it fulfills each element of value, and how it helps avoid their opposites."
+    },
+    {
+      "start": 1701.44,
+      "end": 1705.52,
+      "text": "Who: show how the eight key things about your product or service can change your prospect's status."
+    },
+    {
+      "start": 1705.86,
+      "end": 1710.84,
+      "text": "Then show how the people they know give status to the prospect when they buy your thing or take status away if they don't."
+    },
+    {
+      "start": 1711.46,
+      "end": 1719.86,
+      "text": "When: get the prospects to see the consequences of buying and not buying through their past, present, and future, especially their change in status with the people they know."
+    },
+    {
+      "start": 1720.34,
+      "end": 1724.06,
+      "text": "This way, we help them see the value of their decision or indecision at this very moment."
+    },
+    {
+      "start": 1724.52,
+      "end": 1727.02,
+      "text": "Author note: you don't need to become a copywriting expert."
+    },
+    {
+      "start": 1727.58,
+      "end": 1728.3,
+      "text": "I'm certainly not."
+    },
+    {
+      "start": 1728.72,
+      "end": 1731.52,
+      "text": "And though I thought copy was the limiter for most, I'd have spent more time on it."
+    },
+    {
+      "start": 1731.9,
+      "end": 1738.7,
+      "text": "Sure, world-class entrepreneurs have world-class copywriting skills, but world-class copywriters don't necessarily have entrepreneurial skills."
+    },
+    {
+      "start": 1739.18,
+      "end": 1740.26,
+      "text": "Don't sacrifice one for the other."
+    },
+    {
+      "start": 1740.72,
+      "end": 1749.6,
+      "text": "If you explain your offer clearly using the what, who, when framework, you'll have enough skill to remove copywriting as the limiter on your growth, and that's all you have to do, get good enough to grow."
+    },
+    {
+      "start": 1750.24,
+      "end": 1755.02,
+      "text": "After all, if you call out the right people and have an amazing offer, you barely need any copy to begin with."
+    },
+    {
+      "start": 1755.42,
+      "end": 1756.6,
+      "text": "You just got to explain your offer."
+    },
+    {
+      "start": 1757.04,
+      "end": 1760.28,
+      "text": "Get good enough to make your ads profitable, then scale and see what breaks next."
+    },
+    {
+      "start": 1761.22,
+      "end": 1764.98,
+      "text": "I also include a few more ad tips and tricks that have served me well in the lessons at the end of this chapter."
+    },
+    {
+      "start": 1765.46,
+      "end": 1770.08,
+      "text": "But even if you never use them, there's only one more thing you'll need to turn these interested folks into engaged leads."
+    },
+    {
+      "start": 1770.96,
+      "end": 1772.48,
+      "text": "Three: the CTA."
+    },
+    {
+      "start": 1772.96,
+      "end": 1773.88,
+      "text": "Tell them what to do next."
+    },
+    {
+      "start": 1774.72,
+      "end": 1778.4,
+      "text": "If your ad got them interested, then your audience will have huge motivation for tiny time."
+    },
+    {
+      "start": 1779.0,
+      "end": 1779.6,
+      "text": "Take advantage."
+    },
+    {
+      "start": 1779.96,
+      "end": 1781.74,
+      "text": "Tell them exactly what to do next."
+    },
+    {
+      "start": 1782.26,
+      "end": 1783.64,
+      "text": "Spell it out."
+    },
+    {
+      "start": 1784.08,
+      "end": 1787.88,
+      "text": "Click this button, call this number, reply with yes, go to this website, scan this QR code, wink."
+    },
+    {
+      "start": 1788.48,
+      "end": 1790.1,
+      "text": "So many ads still don't do this."
+    },
+    {
+      "start": 1790.38,
+      "end": 1793.1,
+      "text": "Your audience can only know what to do if you tell them."
+    },
+    {
+      "start": 1793.72,
+      "end": 1795.24,
+      "text": "Make CTAs quick and easy."
+    },
+    {
+      "start": 1795.56,
+      "end": 1797.88,
+      "text": "Easy phone numbers, obvious buttons, simple websites."
+    },
+    {
+      "start": 1797.96,
+      "end": 1801.38,
+      "text": "For example, a common CTA is to direct the audience to a website."
+    },
+    {
+      "start": 1801.74,
+      "end": 1803.8,
+      "text": "So make your website address short and memorable."
+    },
+    {
+      "start": 1804.18,
+      "end": 1811.9,
+      "text": "Instead of alexsprivateequityfirm.com/freebookandcourses2782, use acquisition.com/training."
+    },
+    {
+      "start": 1812.52,
+      "end": 1820.34,
+      "text": "Note, this comes from a guy who spent 370,000 dollars on a single-word domain, acquisition.com, so I may overvalue easy domains, but I don't think I do."
+    },
+    {
+      "start": 1820.7,
+      "end": 1822.04,
+      "text": "I think everyone else just undervalues them."
+    },
+    {
+      "start": 1822.44,
+      "end": 1823.04,
+      "text": "Just my two cents."
+    },
+    {
+      "start": 1823.56,
+      "end": 1828.48,
+      "text": "Assume the audience has no idea who you are, what you do, how it works, they're in a rush, and they have a third-grade education."
+    },
+    {
+      "start": 1829.04,
+      "end": 1838.02,
+      "text": "Beyond these basics, which most still forget, you can also use all the tactics like urgency, scarcity, and bonuses from step seven from the Engager Leads chapter to make even stronger CTAs."
+    },
+    {
+      "start": 1838.69,
+      "end": 1841.61,
+      "text": "They apply here and everywhere else you tell your audience to do something."
+    },
+    {
+      "start": 1842.09,
+      "end": 1847.47,
+      "text": "So we can now pick a platform to advertise on, target who we show our ads to, make the ads they see, and tell them what to do next."
+    },
+    {
+      "start": 1848.03,
+      "end": 1850.47,
+      "text": "All we have to do now is get their contact information."
+    },
+    {
+      "start": 1851.41,
+      "end": 1853.13,
+      "text": "Step four, get permission to contact them."
+    },
+    {
+      "start": 1854.13,
+      "end": 1856.93,
+      "text": "After they take action, get their contact information."
+    },
+    {
+      "start": 1857.31,
+      "end": 1859.95,
+      "text": "My favorite way to get contact information is a simple landing page."
+    },
+    {
+      "start": 1860.27,
+      "end": 1860.95,
+      "text": "Don't overthink it."
+    },
+    {
+      "start": 1861.37,
+      "end": 1863.39,
+      "text": "The simpler your landing page, the easier it is to test."
+    },
+    {
+      "start": 1863.87,
+      "end": 1865.11,
+      "text": "Focus on the words and the image."
+    },
+    {
+      "start": 1865.41,
+      "end": 1866.77,
+      "text": "Here are my three favorite templates."
+    },
+    {
+      "start": 1866.97,
+      "end": 1868.05,
+      "text": "Pick one and start testing."
+    },
+    {
+      "start": 1869.15,
+      "end": 1870.55,
+      "text": "I will describe the three layouts to you."
+    },
+    {
+      "start": 1870.97,
+      "end": 1875.37,
+      "text": "Layout one is headline, subheadline, and then an opt-in thing where they can put their email in."
+    },
+    {
+      "start": 1875.91,
+      "end": 1881.69,
+      "text": "Layout two is headline, subheadline, and then an image, and then opt-in where they can put their contact information."
+    },
+    {
+      "start": 1882.01,
+      "end": 1893.97,
+      "text": "And then layout three is headline, subheadline, image, where they put their contact information, a submit button, and then a few bullets that give them more benefits that are below the fold, as in they would have to scroll in order to see it to further sell them."
+    },
+    {
+      "start": 1894.31,
+      "end": 1896.05,
+      "text": "Those are the three layouts I use the most."
+    },
+    {
+      "start": 1896.37,
+      "end": 1897.93,
+      "text": "And make your landing pages match your ads."
+    },
+    {
+      "start": 1898.19,
+      "end": 1900.19,
+      "text": "People click an ad because you promised them some benefit."
+    },
+    {
+      "start": 1900.63,
+      "end": 1903.07,
+      "text": "So carry that same look and language over to your landing page."
+    },
+    {
+      "start": 1903.59,
+      "end": 1905.77,
+      "text": "Make sure what you promised in your ad is what you deliver."
+    },
+    {
+      "start": 1906.19,
+      "end": 1909.35,
+      "text": "This sounds simple, but a lot of people forget and waste money until they remember it."
+    },
+    {
+      "start": 1909.83,
+      "end": 1912.51,
+      "text": "You don't want to end up with some Frankenstein experience where everything looks different."
+    },
+    {
+      "start": 1912.87,
+      "end": 1915.13,
+      "text": "You want a continuous experience from click to close."
+    },
+    {
+      "start": 1916.53,
+      "end": 1917.99,
+      "text": "Get more people through more steps."
+    },
+    {
+      "start": 1918.91,
+      "end": 1923.11,
+      "text": "In Robert Cialdini's seminal work, Influence, he shows that people like to think of themselves as consistent."
+    },
+    {
+      "start": 1923.69,
+      "end": 1932.57,
+      "text": "So if you remind them of the action they just took, the CTA, and show them how taking the next action aligns with it, you'll get even more people to take the second action, AKA contact info."
+    },
+    {
+      "start": 1932.99,
+      "end": 1937.65,
+      "text": "For example, now that you just did A, you need to do B to get the most of A."
+    },
+    {
+      "start": 1938.17,
+      "end": 1940.77,
+      "text": "Or doing A makes you a doing A kind of person."
+    },
+    {
+      "start": 1941.07,
+      "end": 1942.77,
+      "text": "Doing A kind of people do B."
+    },
+    {
+      "start": 1943.31,
+      "end": 1944.77,
+      "text": "To be clear, we aren't selling anything."
+    },
+    {
+      "start": 1945.09,
+      "end": 1949.51,
+      "text": "We're asking if they're interested in the stuff we sell, and if they're interested, they'll give us a way to tell them more about it."
+    },
+    {
+      "start": 1949.75,
+      "end": 1951.65,
+      "text": "And when they do, they become engaged leads."
+    },
+    {
+      "start": 1952.15,
+      "end": 1952.43,
+      "text": "Woo."
+    },
+    {
+      "start": 1953.09,
+      "end": 1955.29,
+      "text": "Action step, build your first landing page."
+    },
+    {
+      "start": 1955.83,
+      "end": 1960.43,
+      "text": "I wasted four years feeling too scared to make a landing page, and when I finally tried, I finished before lunch."
+    },
+    {
+      "start": 1960.93,
+      "end": 1963.75,
+      "text": "Nowadays, there are tons of drag-and-drop tools to build websites in minutes."
+    },
+    {
+      "start": 1964.11,
+      "end": 1968.63,
+      "text": "And if you're still worried about it, freelancers will build a site probably using the same drag-and-drop tools on the cheap."
+    },
+    {
+      "start": 1968.91,
+      "end": 1969.69,
+      "text": "So just get it done."
+    },
+    {
+      "start": 1970.91,
+      "end": 1972.41,
+      "text": "Now you have engaged leads from paid ads."
+    },
+    {
+      "start": 1972.61,
+      "end": 1973.57,
+      "text": "Hooray, we did it."
+    },
+    {
+      "start": 1974.75,
+      "end": 1976.17,
+      "text": "Run paid ads part one conclusion."
+    },
+    {
+      "start": 1976.81,
+      "end": 1978.95,
+      "text": "What has to happen for advertising to work?"
+    },
+    {
+      "start": 1979.43,
+      "end": 1981.25,
+      "text": "Well, we have to show our ad to the right people."
+    },
+    {
+      "start": 1981.65,
+      "end": 1985.69,
+      "text": "So we pick the right platform and target people within that platform that have the highest percentage of our audience."
+    },
+    {
+      "start": 1986.17,
+      "end": 1988.41,
+      "text": "Once we do that, we have to get them to notice our ad."
+    },
+    {
+      "start": 1988.85,
+      "end": 1993.09,
+      "text": "Once they notice it, they have to consume it to get a reason to take action now rather than later."
+    },
+    {
+      "start": 1993.57,
+      "end": 1999.31,
+      "text": "We do that using the value equation and demonstrate it in the past, present, and future from their perspective and the perspective of the people they know."
+    },
+    {
+      "start": 2000.07,
+      "end": 2003.79,
+      "text": "And once they have a reason to take action, they have to have a way to give us permission to contact them."
+    },
+    {
+      "start": 2004.27,
+      "end": 2005.99,
+      "text": "That action turns them into an engaged lead."
+    },
+    {
+      "start": 2006.39,
+      "end": 2010.97,
+      "text": "And since those things got to happen, they slowly but surely became the three core elements of every ad I create."
+    },
+    {
+      "start": 2011.55,
+      "end": 2017.05,
+      "text": "Call-outs for them to notice it, value elements to give them a reason to do something, calls to action to give them a way to do it."
+    },
+    {
+      "start": 2017.81,
+      "end": 2019.21,
+      "text": "Now, only one question remains."
+    },
+    {
+      "start": 2019.71,
+      "end": 2020.47,
+      "text": "How efficient are we?"
+    },
+    {
+      "start": 2020.91,
+      "end": 2022.13,
+      "text": "So let's talk about money stuff."
+    },
+    {
+      "start": 2024.89,
+      "end": 2028.21,
+      "text": "Hey, I hope you're enjoying the book chapter that you're listening to right now of 100 Million Dollar Leads."
+    },
+    {
+      "start": 2028.71,
+      "end": 2030.95,
+      "text": "I took a long time putting it together for you."
+    },
+    {
+      "start": 2031.39,
+      "end": 2036.85,
+      "text": "Uh, and so my only ask is that you just take a quick second and leave a review for the book on Amazon."
+    },
+    {
+      "start": 2037.01,
+      "end": 2042.01,
+      "text": "It's the number one way that people find books, um, and this is a way of getting more people into our world."
+    },
+    {
+      "start": 2042.07,
+      "end": 2048.15,
+      "text": "And so our mission at acquisition.com is to make real business education accessible to everyone, and I need your help."
+    },
+    {
+      "start": 2048.37,
+      "end": 2056.07,
+      "text": "And so if you could do that, just that one, one small action, um, and it has a trade for the two years that I took putting this book together for you, uh, it would mean the world to me."
+    },
+    {
+      "start": 2056.33,
+      "end": 2057.15,
+      "text": "So thank you."
+    },
+    {
+      "start": 2059.35,
+      "end": 2061.75,
+      "text": "Run paid ads part two, money stuff."
+    },
+    {
+      "start": 2061.75,
+      "end": 2064.81,
+      "text": "\"I'm just trying to buy a dollar and sell it for two.\""
+    },
+    {
+      "start": 2065.21,
+      "end": 2066.57,
+      "text": "Proposition Joe, The Wire."
+    },
+    {
+      "start": 2067.93,
+      "end": 2072.65,
+      "text": "We focus on efficiency with paid ads throughout this chapter and the last one because efficiency matters more than creativity."
+    },
+    {
+      "start": 2073.27,
+      "end": 2074.25,
+      "text": "All advertising works."
+    },
+    {
+      "start": 2074.83,
+      "end": 2077.61,
+      "text": "The only thing that differs between advertisements is how well they work."
+    },
+    {
+      "start": 2077.83,
+      "end": 2085.41,
+      "text": "Maybe people get crazy about making paid ads because they have words like copy and creative and media, then get hyper-focused on getting all that stuff perfect as if you can."
+    },
+    {
+      "start": 2086.31,
+      "end": 2088.41,
+      "text": "You can tweak all day and night until the cows come home."
+    },
+    {
+      "start": 2088.73,
+      "end": 2092.97,
+      "text": "The reality is that paid ads, any advertising really, is all about the return on your investment."
+    },
+    {
+      "start": 2093.39,
+      "end": 2098.99,
+      "text": "And with paid ads, it gets clear as day because you put X dollars in for people to see the ad and Y dollars out if they buy your stuff."
+    },
+    {
+      "start": 2099.45,
+      "end": 2104.37,
+      "text": "So if you want a 100 million dollar leads machine, you need to get it good enough to scale."
+    },
+    {
+      "start": 2104.99,
+      "end": 2105.23,
+      "text": "Why?"
+    },
+    {
+      "start": 2105.51,
+      "end": 2107.03,
+      "text": "Because good enough is good enough."
+    },
+    {
+      "start": 2107.25,
+      "end": 2111.37,
+      "text": "Since efficiency matters most, we want to be as efficient as possible so we can scale as much as possible."
+    },
+    {
+      "start": 2111.79,
+      "end": 2114.05,
+      "text": "That way, we get as many leads as our little hearts desire."
+    },
+    {
+      "start": 2114.33,
+      "end": 2118.85,
+      "text": "That being said, there's enough nuance to scaling paid ads that it felt better to break it into its own chapter."
+    },
+    {
+      "start": 2119.11,
+      "end": 2121.69,
+      "text": "This chapter answers four big questions about ads as I understand them."
+    },
+    {
+      "start": 2122.23,
+      "end": 2123.15,
+      "text": "One, how much do I spend?"
+    },
+    {
+      "start": 2123.93,
+      "end": 2125.19,
+      "text": "The three phases of scaling ads."
+    },
+    {
+      "start": 2125.99,
+      "end": 2127.63,
+      "text": "Two, how do I know how well I'm doing?"
+    },
+    {
+      "start": 2128.25,
+      "end": 2129.05,
+      "text": "Cost and benchmarks."
+    },
+    {
+      "start": 2129.53,
+      "end": 2131.51,
+      "text": "Three, if my ads aren't profitable, how do I fix them?"
+    },
+    {
+      "start": 2131.79,
+      "end": 2132.85,
+      "text": "Client finance acquisition."
+    },
+    {
+      "start": 2133.31,
+      "end": 2135.69,
+      "text": "Four, what do I wish I had known before I ran my first paid ad?"
+    },
+    {
+      "start": 2136.11,
+      "end": 2136.47,
+      "text": "Lessons."
+    },
+    {
+      "start": 2137.09,
+      "end": 2138.43,
+      "text": "But how much do I spend on paid ads?"
+    },
+    {
+      "start": 2139.07,
+      "end": 2140.49,
+      "text": "The three phases of scaling paid ads."
+    },
+    {
+      "start": 2141.19,
+      "end": 2143.59,
+      "text": "There are three stages to spending money on ads as I see it."
+    },
+    {
+      "start": 2143.85,
+      "end": 2145.01,
+      "text": "Phase one, track money."
+    },
+    {
+      "start": 2145.29,
+      "end": 2146.29,
+      "text": "Phase two, lose money."
+    },
+    {
+      "start": 2146.61,
+      "end": 2147.71,
+      "text": "Phase three, print money."
+    },
+    {
+      "start": 2148.39,
+      "end": 2149.19,
+      "text": "Let's break them down together."
+    },
+    {
+      "start": 2149.95,
+      "end": 2151.03,
+      "text": "Phase one, track money."
+    },
+    {
+      "start": 2151.57,
+      "end": 2154.93,
+      "text": "Before spending a dollar on ads, set everything up so you can accurately track your returns."
+    },
+    {
+      "start": 2155.19,
+      "end": 2156.81,
+      "text": "If you don't track, you're going to get cleaned out."
+    },
+    {
+      "start": 2157.35,
+      "end": 2161.67,
+      "text": "It would be like going to a casino and playing your favorite game for as long as you felt like rather than for as long as you could afford it."
+    },
+    {
+      "start": 2162.11,
+      "end": 2166.27,
+      "text": "But once you have tracking, you can do more of the stuff that makes you money and less of the stuff that doesn't."
+    },
+    {
+      "start": 2166.81,
+      "end": 2168.33,
+      "text": "It rigs the game in your favor."
+    },
+    {
+      "start": 2168.89,
+      "end": 2171.39,
+      "text": "So get a consultant, watch the tutorials, and get it set up."
+    },
+    {
+      "start": 2171.51,
+      "end": 2172.11,
+      "text": "End of story."
+    },
+    {
+      "start": 2172.93,
+      "end": 2175.31,
+      "text": "Once you have the tracking, you can start losing money like a pro."
+    },
+    {
+      "start": 2175.57,
+      "end": 2175.79,
+      "text": "Wink."
+    },
+    {
+      "start": 2177.07,
+      "end": 2178.47,
+      "text": "Phase two, lose money."
+    },
+    {
+      "start": 2178.79,
+      "end": 2179.35,
+      "text": "Half joking."
+    },
+    {
+      "start": 2180.05,
+      "end": 2182.15,
+      "text": "I prefer to call it investing in a money printing machine."
+    },
+    {
+      "start": 2182.33,
+      "end": 2186.33,
+      "text": "After all, when running paid ads, you pay first, so your bank account has to go down before it comes up."
+    },
+    {
+      "start": 2187.13,
+      "end": 2188.71,
+      "text": "I emphasize this because I'd rather prepare you."
+    },
+    {
+      "start": 2188.97,
+      "end": 2189.93,
+      "text": "You're going to lose money."
+    },
+    {
+      "start": 2190.29,
+      "end": 2193.61,
+      "text": "In fact, I've lost money more times than I've made money running paid ads."
+    },
+    {
+      "start": 2194.03,
+      "end": 2198.25,
+      "text": "But every time I make money with paid ads, I make back everything I lost and then a bunch more."
+    },
+    {
+      "start": 2198.75,
+      "end": 2202.65,
+      "text": "So the number of times I lose is high, but the amount I lose is low because I know when to shut it down."
+    },
+    {
+      "start": 2203.04,
+      "end": 2207.56,
+      "text": "And my number of wins is low because the amount I win is very high because I know when to hit the gas."
+    },
+    {
+      "start": 2207.88,
+      "end": 2208.86,
+      "text": "So think of it like this."
+    },
+    {
+      "start": 2209.24,
+      "end": 2212.48,
+      "text": "Imagine I spend 100 dollars on 10 ads, 1,000 dollars in total."
+    },
+    {
+      "start": 2213.08,
+      "end": 2214.72,
+      "text": "Nine of them lose all 100 dollars."
+    },
+    {
+      "start": 2214.9,
+      "end": 2217.76,
+      "text": "Then one of them makes back 500 dollars for the 100 dollars I spent."
+    },
+    {
+      "start": 2218.34,
+      "end": 2219.64,
+      "text": "I'm still down 500 dollars."
+    },
+    {
+      "start": 2220.2,
+      "end": 2223.44,
+      "text": "Many people stop here because they see a 500 dollar loss, but not us."
+    },
+    {
+      "start": 2223.58,
+      "end": 2224.14,
+      "text": "We see a winner."
+    },
+    {
+      "start": 2224.62,
+      "end": 2226.42,
+      "text": "So now we buckle up and 100x down."
+    },
+    {
+      "start": 2226.72,
+      "end": 2229.54,
+      "text": "We spend 10,000 dollars on the winning ad and make 50,000 back."
+    },
+    {
+      "start": 2230.12,
+      "end": 2234.68,
+      "text": "Note, I still lost nine times, but the one time I won, I won big."
+    },
+    {
+      "start": 2234.96,
+      "end": 2239.72,
+      "text": "And this is important because you might lose 9 or 99 times in a row before you win big."
+    },
+    {
+      "start": 2240.1,
+      "end": 2245.06,
+      "text": "But to win big, you have to see the winners and double, triple, quadruple, 10x down on them."
+    },
+    {
+      "start": 2245.52,
+      "end": 2247.76,
+      "text": "This is why paid advertising is a lot like a casino."
+    },
+    {
+      "start": 2248.12,
+      "end": 2252.26,
+      "text": "You'll often lose in the beginning to learn the game, but with enough skill, you eventually become the house."
+    },
+    {
+      "start": 2252.6,
+      "end": 2256.04,
+      "text": "That being said, during this lose money phase, you can still be smart about it."
+    },
+    {
+      "start": 2256.26,
+      "end": 2256.94,
+      "text": "Here's how I do it."
+    },
+    {
+      "start": 2257.38,
+      "end": 2262.64,
+      "text": "I budget two times the cash I collect from a customer in 30 days, not LTGP, when testing new ads."
+    },
+    {
+      "start": 2263.08,
+      "end": 2266.9,
+      "text": "I've wasted tons of money letting ads run too long before I realized they sucked."
+    },
+    {
+      "start": 2267.26,
+      "end": 2271.02,
+      "text": "But on the flip side, I've lost even more money by giving up on ads before I gave them a chance."
+    },
+    {
+      "start": 2271.52,
+      "end": 2276.82,
+      "text": "Eventually, I hit a sweet spot by budgeting two times the cash I collect from a new customer in the first 30 days to test an ad."
+    },
+    {
+      "start": 2277.18,
+      "end": 2285.5,
+      "text": "For example, if I know I make 100 dollars in profit from a customer in the first 30 days, I'll let an ad go up to 200 dollars in spend before shutting it off, as long as I'm getting leads."
+    },
+    {
+      "start": 2285.92,
+      "end": 2292.28,
+      "text": "If I'm not getting any leads from the ad at all, before I spend 1x in 30 days of cash, I shut it off, 100 bucks in the example."
+    },
+    {
+      "start": 2292.64,
+      "end": 2294.38,
+      "text": "It costs money to build an advertising machine."
+    },
+    {
+      "start": 2295.08,
+      "end": 2297.84,
+      "text": "I worked with a business that took a year to get paid ads profitable."
+    },
+    {
+      "start": 2298.0,
+      "end": 2301.96,
+      "text": "It was tough, but other businesses in their space ran profitable ads, which meant we could too."
+    },
+    {
+      "start": 2302.6,
+      "end": 2307.0,
+      "text": "Once they were profitable, they made their year's worth of wasted money back the next month."
+    },
+    {
+      "start": 2307.48,
+      "end": 2310.36,
+      "text": "It costs money to build an advertising machine, and that's normal."
+    },
+    {
+      "start": 2310.76,
+      "end": 2314.48,
+      "text": "Just make sure you measure the returns over a long time horizon, not next week."
+    },
+    {
+      "start": 2314.82,
+      "end": 2317.0,
+      "text": "Can you think of anything more valuable than a machine that prints money?"
+    },
+    {
+      "start": 2317.44,
+      "end": 2319.64,
+      "text": "It would be unreasonable for it to be cheap or easy."
+    },
+    {
+      "start": 2320.28,
+      "end": 2322.98,
+      "text": "Once you start making more money than it costs you to make it, you're in phase three."
+    },
+    {
+      "start": 2323.72,
+      "end": 2325.08,
+      "text": "Phase three, print money."
+    },
+    {
+      "start": 2325.9,
+      "end": 2328.24,
+      "text": "If you're making back more than you spend, the answer is simple."
+    },
+    {
+      "start": 2328.68,
+      "end": 2329.66,
+      "text": "Spend as much as you can."
+    },
+    {
+      "start": 2330.08,
+      "end": 2334.34,
+      "text": "After all, if you had a magic machine that gave you 10 dollars back for every 1 dollar you put in, what would your budget be?"
+    },
+    {
+      "start": 2334.58,
+      "end": 2335.58,
+      "text": "Right, all the money."
+    },
+    {
+      "start": 2335.86,
+      "end": 2340.24,
+      "text": "But realistically, you probably have some other constraint on your business that prevents you from unlimited customers coming in."
+    },
+    {
+      "start": 2340.76,
+      "end": 2342.06,
+      "text": "So here's how I scale my budget."
+    },
+    {
+      "start": 2342.6,
+      "end": 2344.96,
+      "text": "Instead of asking, \"How much money should I spend on an ad?\""
+    },
+    {
+      "start": 2345.52,
+      "end": 2347.3,
+      "text": "I ask, \"How many customers do I want?\""
+    },
+    {
+      "start": 2347.9,
+      "end": 2349.44,
+      "text": "Or, \"How many customers can I handle?\""
+    },
+    {
+      "start": 2350.0,
+      "end": 2353.62,
+      "text": "So once ads break even or better, I reverse my budget from my sales goal."
+    },
+    {
+      "start": 2354.1,
+      "end": 2359.56,
+      "text": "If I can only handle 100 customers next month and customers cost me 100 dollars to get, I need to spend 10,000 dollars to get them."
+    },
+    {
+      "start": 2359.62,
+      "end": 2361.12,
+      "text": "That's 100 customers times 100 dollars."
+    },
+    {
+      "start": 2361.76,
+      "end": 2365.64,
+      "text": "But since ads get less efficient as they scale, I usually pad my budget by 20%."
+    },
+    {
+      "start": 2366.0,
+      "end": 2369.92,
+      "text": "So that means 12,000 dollars over 30 days, or 400 dollars per day in ad spend."
+    },
+    {
+      "start": 2370.52,
+      "end": 2374.16,
+      "text": "I reverse my daily ad budget from my lead-getting goal, then I commit to it."
+    },
+    {
+      "start": 2374.62,
+      "end": 2376.54,
+      "text": "If the number terrifies you, then you're doing it right."
+    },
+    {
+      "start": 2376.84,
+      "end": 2377.46,
+      "text": "Trust the data."
+    },
+    {
+      "start": 2377.72,
+      "end": 2380.08,
+      "text": "This is how you scale, and that's why most people never do."
+    },
+    {
+      "start": 2381.66,
+      "end": 2382.46,
+      "text": "How well am I doing?"
+    },
+    {
+      "start": 2383.08,
+      "end": 2385.08,
+      "text": "Cost and returns, efficiency benchmarks."
+    },
+    {
+      "start": 2386.28,
+      "end": 2388.1,
+      "text": "Efficient paid ads make more money than they cost."
+    },
+    {
+      "start": 2388.26,
+      "end": 2389.98,
+      "text": "If that sounds painfully obvious, good."
+    },
+    {
+      "start": 2390.2,
+      "end": 2391.2,
+      "text": "You've already got most people beat."
+    },
+    {
+      "start": 2391.7,
+      "end": 2397.68,
+      "text": "I measure paid ad efficiency by comparing the lifetime gross profit of a customer, LTGP, with the cost to acquire a customer, CAC."
+    },
+    {
+      "start": 2398.42,
+      "end": 2400.72,
+      "text": "I express this ratio as LTGP to CAC."
+    },
+    {
+      "start": 2401.46,
+      "end": 2404.54,
+      "text": "I measure LTGP instead of, quote, \"lifetime value\" or LTV."
+    },
+    {
+      "start": 2405.62,
+      "end": 2406.14,
+      "text": "Here's why."
+    },
+    {
+      "start": 2407.14,
+      "end": 2411.74,
+      "text": "Lifetime gross profit is all the money a customer ever spends on your stuff minus all the money it takes to deliver it."
+    },
+    {
+      "start": 2412.24,
+      "end": 2417.9,
+      "text": "For example, if a customer buys something for 15 dollars and it costs 5 dollars to deliver it, your gross profit is 10 dollars."
+    },
+    {
+      "start": 2418.54,
+      "end": 2426.2,
+      "text": "So if that customer buys 10 things over their lifetime, then they bought a total of 150 dollars in stuff, but it cost you a total of 50 dollars to deliver that stuff."
+    },
+    {
+      "start": 2426.6,
+      "end": 2428.56,
+      "text": "That makes the lifetime gross profit 100 dollars."
+    },
+    {
+      "start": 2429.6,
+      "end": 2435.74,
+      "text": "Gross profit is important in general because it's the actual money you use to acquire customers, pay rent, cover payroll, and everything else to run your business."
+    },
+    {
+      "start": 2436.02,
+      "end": 2440.62,
+      "text": "So if you've ever heard me say, \"I'm getting three to one on this,\" I refer to my LTGP to CAC ratio."
+    },
+    {
+      "start": 2441.32,
+      "end": 2443.18,
+      "text": "I compare how much I made against how much I spent."
+    },
+    {
+      "start": 2443.72,
+      "end": 2447.88,
+      "text": "So if the LTGP is greater than CAC, you have profitable advertising."
+    },
+    {
+      "start": 2448.12,
+      "end": 2450.26,
+      "text": "If it's lower than CAC, you're losing money."
+    },
+    {
+      "start": 2451.42,
+      "end": 2453.52,
+      "text": "What's a good LTGP to CAC ratio?"
+    },
+    {
+      "start": 2454.38,
+      "end": 2457.4,
+      "text": "Every business I invest in that struggles to scale has at least one thing in common."
+    },
+    {
+      "start": 2457.92,
+      "end": 2460.12,
+      "text": "Their LTGP to CAC ratio was less than three to one."
+    },
+    {
+      "start": 2460.68,
+      "end": 2465.22,
+      "text": "As soon as they get it above three to one, either through decreasing CAC or increasing LTGP, they take off."
+    },
+    {
+      "start": 2465.64,
+      "end": 2467.6,
+      "text": "This is a pattern I personally observed, not a rule."
+    },
+    {
+      "start": 2468.32,
+      "end": 2471.02,
+      "text": "You have two big levers to improving LTGP to CAC."
+    },
+    {
+      "start": 2471.82,
+      "end": 2474.26,
+      "text": "One, make CAC lower, get cheaper customers."
+    },
+    {
+      "start": 2474.34,
+      "end": 2476.78,
+      "text": "We do this through more efficient ads following the steps we just outlined."
+    },
+    {
+      "start": 2477.48,
+      "end": 2481.12,
+      "text": "Or two, make LTGP bigger, increase how much you make per customer."
+    },
+    {
+      "start": 2481.48,
+      "end": 2483.02,
+      "text": "We do this with a better business model."
+    },
+    {
+      "start": 2483.56,
+      "end": 2485.54,
+      "text": "For maximum money, I prefer to do both."
+    },
+    {
+      "start": 2486.08,
+      "end": 2493.22,
+      "text": "For example, if you made a billion dollars per customer, then you could spend 999 million dollars to get a customer and still have a million dollars left over."
+    },
+    {
+      "start": 2493.5,
+      "end": 2495.38,
+      "text": "You could spend pretty much whatever it takes to get a customer."
+    },
+    {
+      "start": 2495.84,
+      "end": 2497.92,
+      "text": "No matter how crappy your ads, you'd still probably win."
+    },
+    {
+      "start": 2498.36,
+      "end": 2503.62,
+      "text": "On the flip side, if you made 1 cent per customer, you'd have to get each customer for less than a penny to make it work."
+    },
+    {
+      "start": 2503.98,
+      "end": 2505.42,
+      "text": "Even with the best ads, you'd fail."
+    },
+    {
+      "start": 2506.02,
+      "end": 2508.34,
+      "text": "I bring this up because we speak to hundreds of entrepreneurs every month."
+    },
+    {
+      "start": 2508.7,
+      "end": 2515.58,
+      "text": "They often think they have crappy ads, AKA high CAC, when in reality, they have crappy business model, AKA low LTGP."
+    },
+    {
+      "start": 2516.64,
+      "end": 2519.12,
+      "text": "Here's a finding that will probably surprise you as much as it surprised me."
+    },
+    {
+      "start": 2519.74,
+      "end": 2523.66,
+      "text": "The cost to acquire customers between competitors in the same industry is much closer than you think."
+    },
+    {
+      "start": 2524.18,
+      "end": 2527.28,
+      "text": "The difference between the winners and the losers is how much they make off each customer."
+    },
+    {
+      "start": 2528.08,
+      "end": 2530.48,
+      "text": "So how do you know if it's your ads or your business model that needs work?"
+    },
+    {
+      "start": 2531.18,
+      "end": 2532.82,
+      "text": "I use industry average CAC as my guide."
+    },
+    {
+      "start": 2533.34,
+      "end": 2535.52,
+      "text": "Research your industry averages for the cost to acquire customers."
+    },
+    {
+      "start": 2536.02,
+      "end": 2539.1,
+      "text": "If your CAC is below 3x your industry average, that's good."
+    },
+    {
+      "start": 2539.7,
+      "end": 2540.84,
+      "text": "Focus on your business model then."
+    },
+    {
+      "start": 2541.32,
+      "end": 2543.9,
+      "text": "If your CAC is above 3x the industry average, that's bad."
+    },
+    {
+      "start": 2544.38,
+      "end": 2545.48,
+      "text": "Then focus on your advertising."
+    },
+    {
+      "start": 2546.66,
+      "end": 2547.82,
+      "text": "Things can only get so cheap."
+    },
+    {
+      "start": 2548.2,
+      "end": 2549.86,
+      "text": "Eventually, you just got to make more money."
+    },
+    {
+      "start": 2550.18,
+      "end": 2550.86,
+      "text": "Think about it like this."
+    },
+    {
+      "start": 2551.3,
+      "end": 2555.92,
+      "text": "Lowering the cost of getting a customer by 100 dollars will eventually take more work than making an extra 100 dollars from them."
+    },
+    {
+      "start": 2556.36,
+      "end": 2558.78,
+      "text": "So once your cost is low enough, focus on your business model."
+    },
+    {
+      "start": 2559.24,
+      "end": 2562.14,
+      "text": "Cost can only approach zero, but how much you make can go up to infinity."
+    },
+    {
+      "start": 2562.64,
+      "end": 2566.62,
+      "text": "Increasing advertising efficiency beyond a certain point is like trying to save your way to a billion dollars."
+    },
+    {
+      "start": 2567.0,
+      "end": 2569.2,
+      "text": "You feel like you're making progress, but you're never really going to get there."
+    },
+    {
+      "start": 2569.5,
+      "end": 2570.88,
+      "text": "Never have cash flow problems again."
+    },
+    {
+      "start": 2571.44,
+      "end": 2572.5,
+      "text": "Client financed acquisition."
+    },
+    {
+      "start": 2573.28,
+      "end": 2575.64,
+      "text": "For many businesses, LTGP is bigger than CAC."
+    },
+    {
+      "start": 2576.22,
+      "end": 2578.3,
+      "text": "Yay, but not after the first purchase."
+    },
+    {
+      "start": 2578.68,
+      "end": 2579.0,
+      "text": "Boo."
+    },
+    {
+      "start": 2579.44,
+      "end": 2582.52,
+      "text": "The profit from the customer's first purchase is often less than the cost to get them."
+    },
+    {
+      "start": 2583.08,
+      "end": 2587.32,
+      "text": "It can take many months to collect the full LTGP, so you get your money later instead of now."
+    },
+    {
+      "start": 2587.74,
+      "end": 2591.12,
+      "text": "This cash flow problem cripples your ability to scale ads and get more customers."
+    },
+    {
+      "start": 2591.4,
+      "end": 2591.92,
+      "text": "Boo again."
+    },
+    {
+      "start": 2592.56,
+      "end": 2599.02,
+      "text": "But if your customer spends more than it costs you to get and fulfill them in the first 30 days, then you have the funds to scale now and forever."
+    },
+    {
+      "start": 2599.42,
+      "end": 2601.1,
+      "text": "I call this client financed acquisition."
+    },
+    {
+      "start": 2601.7,
+      "end": 2605.52,
+      "text": "I pick 30 days because any business can get interest-free money for 30 days in the form of a credit card."
+    },
+    {
+      "start": 2605.76,
+      "end": 2610.08,
+      "text": "And if we make more than the cost to get and fulfill the customer in the first 30 days, we square our balance."
+    },
+    {
+      "start": 2610.58,
+      "end": 2614.36,
+      "text": "Now, we have zero debt and a new customer, which we can keep profiting from forever."
+    },
+    {
+      "start": 2614.88,
+      "end": 2616.04,
+      "text": "Then we repeat the process."
+    },
+    {
+      "start": 2616.42,
+      "end": 2617.76,
+      "text": "Money is no longer a bottleneck."
+    },
+    {
+      "start": 2618.14,
+      "end": 2619.46,
+      "text": "This is the key to limitless scale."
+    },
+    {
+      "start": 2619.94,
+      "end": 2621.94,
+      "text": "Let's see client financed acquisition in action."
+    },
+    {
+      "start": 2623.06,
+      "end": 2625.94,
+      "text": "Say we have a 15 dollar per month membership that costs us 5 dollars to deliver."
+    },
+    {
+      "start": 2626.26,
+      "end": 2628.28,
+      "text": "That leaves us 10 dollars gross profit left over."
+    },
+    {
+      "start": 2628.88,
+      "end": 2632.42,
+      "text": "15 dollar membership minus 5 dollar cost equals 10 dollars gross profit per month."
+    },
+    {
+      "start": 2633.2,
+      "end": 2635.04,
+      "text": "And let's say our average member stays for 10 months."
+    },
+    {
+      "start": 2635.44,
+      "end": 2637.58,
+      "text": "That makes our lifetime gross profit 100 dollars."
+    },
+    {
+      "start": 2637.98,
+      "end": 2641.92,
+      "text": "10 dollars gross profit per month times 10 months equals 100 dollars LTGP."
+    },
+    {
+      "start": 2642.84,
+      "end": 2649.28,
+      "text": "If the cost to get a customer is 30 dollars, so CAC equals 30 dollars, then we have a 3.3 to 1 LTGP to CAC ratio."
+    },
+    {
+      "start": 2649.92,
+      "end": 2656.18,
+      "text": "That's 100 dollars LTGP divided by 30 dollars CAC equals 3.3, and it's 3.3 to 1."
+    },
+    {
+      "start": 2657.14,
+      "end": 2657.78,
+      "text": "Our ads make money."
+    },
+    {
+      "start": 2658.18,
+      "end": 2658.44,
+      "text": "Hooray."
+    },
+    {
+      "start": 2659.06,
+      "end": 2660.28,
+      "text": "But wait, there's a problem."
+    },
+    {
+      "start": 2660.88,
+      "end": 2663.7,
+      "text": "You spend 30 dollars in ads and only get 10 dollars back."
+    },
+    {
+      "start": 2664.34,
+      "end": 2668.34,
+      "text": "10 bucks trickles in one month at a time until you finally break even two months later."
+    },
+    {
+      "start": 2668.56,
+      "end": 2669.08,
+      "text": "That's tough."
+    },
+    {
+      "start": 2669.42,
+      "end": 2673.48,
+      "text": "Make no mistake, you should 100% make that trade, but now we have a cash flow problem."
+    },
+    {
+      "start": 2674.18,
+      "end": 2675.1,
+      "text": "Here's the way I fix it."
+    },
+    {
+      "start": 2675.62,
+      "end": 2676.8,
+      "text": "I immediately sell more stuff."
+    },
+    {
+      "start": 2677.42,
+      "end": 2683.58,
+      "text": "If I offer a 100 dollar upsell with 100% margins that one in five new customers take, that adds 20 dollars of gross profit per customer."
+    },
+    {
+      "start": 2684.34,
+      "end": 2688.12,
+      "text": "100 dollar upsell divided by five customers equals 20 dollars average upsell per customer."
+    },
+    {
+      "start": 2688.92,
+      "end": 2693.76,
+      "text": "This takes us from 10 dollars to 30 dollars in the first 30 days, our break-even window."
+    },
+    {
+      "start": 2694.26,
+      "end": 2698.04,
+      "text": "The first purchase is 10 dollars, but now the average upsell adds 20 dollars."
+    },
+    {
+      "start": 2698.48,
+      "end": 2704.62,
+      "text": "So 10 dollars plus 20 dollars equals 30 dollars gross profit per customer in less than 30 days."
+    },
+    {
+      "start": 2705.24,
+      "end": 2707.78,
+      "text": "And since it costs 30 dollars to acquire them, we break even."
+    },
+    {
+      "start": 2708.18,
+      "end": 2708.44,
+      "text": "Great."
+    },
+    {
+      "start": 2709.0,
+      "end": 2713.28,
+      "text": "30 dollar CAC minus 30 dollars cash collected within 30 days equals free customers."
+    },
+    {
+      "start": 2713.86,
+      "end": 2716.34,
+      "text": "Every 10 dollars a month that comes in thereafter is gravy."
+    },
+    {
+      "start": 2717.1,
+      "end": 2721.94,
+      "text": "Now I can go get another customer while I keep collecting that 10 dollars profit per month for the next nine months."
+    },
+    {
+      "start": 2722.38,
+      "end": 2723.54,
+      "text": "This is how you print money."
+    },
+    {
+      "start": 2723.9,
+      "end": 2725.86,
+      "text": "The things you can sell or upsell are unlimited."
+    },
+    {
+      "start": 2726.64,
+      "end": 2730.76,
+      "text": "If I cover the cost to get and fulfill a customer in the first 30 days, I can pay off my credit card, then do it again."
+    },
+    {
+      "start": 2731.22,
+      "end": 2737.24,
+      "text": "It's how I've scaled every company I've started for the past seven years, past a million dollars per month in the first 12 months without outside funding."
+    },
+    {
+      "start": 2737.72,
+      "end": 2739.94,
+      "text": "With efficiency out of the way, creativity is your only limit."
+    },
+    {
+      "start": 2740.54,
+      "end": 2746.18,
+      "text": "Bottom line, figure out a way to get your customers to pay you back in the first 30 days so you can recycle your cash to get more customers."
+    },
+    {
+      "start": 2746.74,
+      "end": 2747.9,
+      "text": "Personal lessons from paid ads."
+    },
+    {
+      "start": 2749.5,
+      "end": 2752.46,
+      "text": "Number one, don't confuse sales problems with advertising problems."
+    },
+    {
+      "start": 2753.08,
+      "end": 2756.38,
+      "text": "The cost to get customers doesn't only come from advertising, it just mostly does."
+    },
+    {
+      "start": 2756.76,
+      "end": 2761.12,
+      "text": "For example, a company I invested in spent 12 weeks and 150,000 dollars to run paid ads."
+    },
+    {
+      "start": 2761.66,
+      "end": 2764.32,
+      "text": "They were getting the right leads on the phone, but they weren't buying."
+    },
+    {
+      "start": 2764.68,
+      "end": 2767.98,
+      "text": "The owner said advertising wasn't work, but the ads worked fine, great even."
+    },
+    {
+      "start": 2768.14,
+      "end": 2768.92,
+      "text": "Their sales sucked."
+    },
+    {
+      "start": 2769.48,
+      "end": 2772.04,
+      "text": "The owner threw up his hands and gave up six inches from gold."
+    },
+    {
+      "start": 2772.34,
+      "end": 2772.84,
+      "text": "Frustrating."
+    },
+    {
+      "start": 2773.2,
+      "end": 2777.22,
+      "text": "Confusing an advertising problem with a sales problem cost them an estimated 30 million dollars in enterprise value."
+    },
+    {
+      "start": 2777.56,
+      "end": 2781.76,
+      "text": "If your engaged leads have the problem you solve and the money to spend and they're not buying, then your ads work fine."
+    },
+    {
+      "start": 2782.08,
+      "end": 2782.78,
+      "text": "You have a sales problem."
+    },
+    {
+      "start": 2783.88,
+      "end": 2787.2,
+      "text": "Two, your best free content can make the best paid ads."
+    },
+    {
+      "start": 2787.64,
+      "end": 2790.14,
+      "text": "Some of the best paid ads I've ever run come from free content."
+    },
+    {
+      "start": 2790.66,
+      "end": 2795.6,
+      "text": "If you make a free content piece that generates sales or performs very well, nine times out of 10, it'll make a great paid ad."
+    },
+    {
+      "start": 2797.2,
+      "end": 2799.66,
+      "text": "Note on user-generated content, or UGC."
+    },
+    {
+      "start": 2800.76,
+      "end": 2804.64,
+      "text": "If you can get your customers to create testimonials or reviews using your product, post them."
+    },
+    {
+      "start": 2805.16,
+      "end": 2808.76,
+      "text": "If they perform well as free content, they'll often make killer ads too."
+    },
+    {
+      "start": 2809.32,
+      "end": 2814.58,
+      "text": "Having a system in place to encourage these public posts from our customers is my favorite way to get a steady stream of potential ads."
+    },
+    {
+      "start": 2814.82,
+      "end": 2816.58,
+      "text": "And the best part is, it's no extra work."
+    },
+    {
+      "start": 2817.84,
+      "end": 2821.32,
+      "text": "Three, if you say you suck at something, you probably will suck at it."
+    },
+    {
+      "start": 2821.8,
+      "end": 2824.22,
+      "text": "Never say, \"I'm not techy,\" or, \"I hate tech stuff.\""
+    },
+    {
+      "start": 2824.68,
+      "end": 2826.08,
+      "text": "It just keeps you poorer than you should be."
+    },
+    {
+      "start": 2826.52,
+      "end": 2829.16,
+      "text": "I said it for, wait for it, four years."
+    },
+    {
+      "start": 2829.48,
+      "end": 2833.12,
+      "text": "Then one day, I snapped because I hated my website designer more than I hated tech itself."
+    },
+    {
+      "start": 2833.4,
+      "end": 2834.94,
+      "text": "I was like, \"If this idiot can do it, so can I.\""
+    },
+    {
+      "start": 2835.46,
+      "end": 2839.2,
+      "text": "Four years of wasting time and lost money reversed with four hours of concentrated effort."
+    },
+    {
+      "start": 2840.64,
+      "end": 2841.16,
+      "text": "Your turn."
+    },
+    {
+      "start": 2842.08,
+      "end": 2843.78,
+      "text": "I can teach you how to place an ad in 20 minutes."
+    },
+    {
+      "start": 2844.04,
+      "end": 2845.0,
+      "text": "It'll cost you 100 bucks."
+    },
+    {
+      "start": 2845.34,
+      "end": 2845.62,
+      "text": "Worth it?"
+    },
+    {
+      "start": 2846.02,
+      "end": 2846.54,
+      "text": "I hope so."
+    },
+    {
+      "start": 2846.9,
+      "end": 2847.64,
+      "text": "It's an important skill."
+    },
+    {
+      "start": 2847.8,
+      "end": 2851.22,
+      "text": "It won't make you money, but you will learn a lesson worth far more than 100 bucks."
+    },
+    {
+      "start": 2851.7,
+      "end": 2853.04,
+      "text": "Running ads is easier than you think."
+    },
+    {
+      "start": 2853.6,
+      "end": 2857.9,
+      "text": "In fact, platforms spend zillions to make it as easy as possible so they can make more money."
+    },
+    {
+      "start": 2858.52,
+      "end": 2859.36,
+      "text": "Here's all you gotta do."
+    },
+    {
+      "start": 2860.14,
+      "end": 2865.38,
+      "text": "Search how to place a, insert the name of the platform, ad."
+    },
+    {
+      "start": 2866.24,
+      "end": 2868.14,
+      "text": "Then place one for 100 dollars."
+    },
+    {
+      "start": 2868.7,
+      "end": 2870.52,
+      "text": "Don't go all the way to the end, then chicken out."
+    },
+    {
+      "start": 2870.94,
+      "end": 2872.16,
+      "text": "Spend the gosh darn money."
+    },
+    {
+      "start": 2872.48,
+      "end": 2873.4,
+      "text": "Rip off the Band-Aid."
+    },
+    {
+      "start": 2873.54,
+      "end": 2876.6,
+      "text": "As soon as you do, you're no longer an observer, you're in the game."
+    },
+    {
+      "start": 2878.08,
+      "end": 2880.02,
+      "text": "Once you've put all these pieces together, it's time to send it."
+    },
+    {
+      "start": 2880.42,
+      "end": 2880.94,
+      "text": "Spend money."
+    },
+    {
+      "start": 2881.26,
+      "end": 2883.1,
+      "text": "Start with an acceptable amount you're willing to lose each month."
+    },
+    {
+      "start": 2883.34,
+      "end": 2884.18,
+      "text": "Expect to lose it."
+    },
+    {
+      "start": 2884.24,
+      "end": 2885.66,
+      "text": "You won't be earning, you'll be learning."
+    },
+    {
+      "start": 2886.2,
+      "end": 2890.3,
+      "text": "If you recall from our advertising checklist, you'll need to pick each line to fill out your action card."
+    },
+    {
+      "start": 2890.76,
+      "end": 2893.42,
+      "text": "This kicks off your journey in paid ads to get even more engaged leads."
+    },
+    {
+      "start": 2893.76,
+      "end": 2895.08,
+      "text": "Here's a sample paid ads checklist."
+    },
+    {
+      "start": 2896.06,
+      "end": 2896.3,
+      "text": "Who?"
+    },
+    {
+      "start": 2896.54,
+      "end": 2896.96,
+      "text": "Yourself."
+    },
+    {
+      "start": 2897.22,
+      "end": 2897.38,
+      "text": "What?"
+    },
+    {
+      "start": 2897.64,
+      "end": 2898.06,
+      "text": "Your offer."
+    },
+    {
+      "start": 2898.36,
+      "end": 2898.68,
+      "text": "Where?"
+    },
+    {
+      "start": 2898.74,
+      "end": 2900.52,
+      "text": "Any platform or audience you can buy access to."
+    },
+    {
+      "start": 2900.84,
+      "end": 2901.16,
+      "text": "To whom?"
+    },
+    {
+      "start": 2901.48,
+      "end": 2902.94,
+      "text": "Target the audience or lookalike audience."
+    },
+    {
+      "start": 2903.3,
+      "end": 2903.52,
+      "text": "When?"
+    },
+    {
+      "start": 2903.82,
+      "end": 2904.7,
+      "text": "Every day, seven days a week."
+    },
+    {
+      "start": 2904.88,
+      "end": 2905.14,
+      "text": "Why?"
+    },
+    {
+      "start": 2905.54,
+      "end": 2906.64,
+      "text": "Get engaged leads to sell."
+    },
+    {
+      "start": 2906.84,
+      "end": 2907.06,
+      "text": "How?"
+    },
+    {
+      "start": 2907.4,
+      "end": 2909.82,
+      "text": "Call out plus three Ws plus CTA."
+    },
+    {
+      "start": 2910.3,
+      "end": 2910.72,
+      "text": "How much?"
+    },
+    {
+      "start": 2911.08,
+      "end": 2913.1,
+      "text": "A learning budget, then reverse to your sales goal."
+    },
+    {
+      "start": 2913.38,
+      "end": 2913.88,
+      "text": "How many?"
+    },
+    {
+      "start": 2914.52,
+      "end": 2917.22,
+      "text": "30 plus call outs times 10 main ads."
+    },
+    {
+      "start": 2917.56,
+      "end": 2918.1,
+      "text": "How long?"
+    },
+    {
+      "start": 2918.36,
+      "end": 2919.16,
+      "text": "As long as it takes."
+    },
+    {
+      "start": 2920.06,
+      "end": 2921.26,
+      "text": "Paid ads part two conclusion."
+    },
+    {
+      "start": 2922.06,
+      "end": 2924.26,
+      "text": "Paid ads are the fastest way to scale how many leads you get."
+    },
+    {
+      "start": 2924.68,
+      "end": 2930.36,
+      "text": "We spent the lion's share of this chapter talking about efficiency, because once you understand how ads really make money, it becomes much easier to win."
+    },
+    {
+      "start": 2930.92,
+      "end": 2934.66,
+      "text": "I've been very successful with paid ads, but it wasn't because I was the most creative or had the best copy."
+    },
+    {
+      "start": 2934.96,
+      "end": 2935.9,
+      "text": "It was because I knew the numbers."
+    },
+    {
+      "start": 2936.3,
+      "end": 2937.48,
+      "text": "So follow the steps outlined."
+    },
+    {
+      "start": 2938.06,
+      "end": 2940.1,
+      "text": "I recommend doing paid ads last for two reasons."
+    },
+    {
+      "start": 2940.4,
+      "end": 2943.62,
+      "text": "First, the skills from the other three methods transfer to this one."
+    },
+    {
+      "start": 2943.94,
+      "end": 2945.56,
+      "text": "And second, paid ads cost money."
+    },
+    {
+      "start": 2946.1,
+      "end": 2948.34,
+      "text": "Money you will have if you start with the other three methods first."
+    },
+    {
+      "start": 2948.8,
+      "end": 2953.24,
+      "text": "So learn the skills and make the money from the other three methods so that you have the shortest learning curve on this one."
+    },
+    {
+      "start": 2953.8,
+      "end": 2955.64,
+      "text": "And once we have all that, we scale it."
+    },
+    {
+      "start": 2956.02,
+      "end": 2959.74,
+      "text": "We expect to lose money more times than we win, and once we win, we scale the hell out of it."
+    },
+    {
+      "start": 2960.06,
+      "end": 2960.8,
+      "text": "And that's how we do it."
+    },
+    {
+      "start": 2961.6,
+      "end": 2965.62,
+      "text": "Paid ads is the last of the core four ways a single person can let other people know about their stuff."
+    },
+    {
+      "start": 2966.14,
+      "end": 2969.88,
+      "text": "But before we transition to the second half of the book, I want to show you how to put these strategies on steroids."
+    },
+    {
+      "start": 2970.76,
+      "end": 2972.84,
+      "text": "Free gift, paid ads fast track."
+    },
+    {
+      "start": 2973.68,
+      "end": 2975.16,
+      "text": "Running paid ads is the fast track."
+    },
+    {
+      "start": 2975.32,
+      "end": 2976.34,
+      "text": "It's high risk, high reward."
+    },
+    {
+      "start": 2977.14,
+      "end": 2980.98,
+      "text": "I recorded a deeper breakdown of paid ads frameworks that have served me across industries and price points."
+    },
+    {
+      "start": 2981.3,
+      "end": 2985.6,
+      "text": "You can find it here for free, as always, acquisition.com/training/leads."
+    },
+    {
+      "start": 2986.12,
+      "end": 2988.72,
+      "text": "My gift to you, money you'll make in the future."
+    },
+    {
+      "start": 2991.58,
+      "end": 2998.26,
+      "text": "Hey, if you think you now know how to run ads, or at least you can take your first shot at it and it demystified that for you, then there's somebody else who also would feel that way too."
+    },
+    {
+      "start": 2998.72,
+      "end": 3011.68,
+      "text": "And if you could take the two seconds, uh, in exchange for the two years that it took me to write this chapter and make it as clean and as efficient as it was and send it to somebody else, um, that's, that's, that's the best way that you can give back to me in this community."
+    },
+    {
+      "start": 3011.76,
+      "end": 3013.4,
+      "text": "So, um, it would mean the world to me."
+    },
+    {
+      "start": 3013.74,
+      "end": 3018.2,
+      "text": "And next up on our, on our adventure together is the core four on steroids."
+    },
+    {
+      "start": 3018.24,
+      "end": 3026.96,
+      "text": "So this concludes the section of the core four, which is the only four ways that any one person can advertise, meaning the only four ways that any one person can let another person know about their stuff."
+    },
+    {
+      "start": 3027.4,
+      "end": 3030.66,
+      "text": "And the next chapter talk about how I amplify those things."
+    },
+    {
+      "start": 3030.88,
+      "end": 3031.74,
+      "text": "You're not gonna wanna miss it."
+    },
+    {
+      "start": 3031.78,
+      "end": 3035.04,
+      "text": "It's definitely one of the most valuable chapters, and it's also how we scale companies."
+    },
+    {
+      "start": 3037.68,
+      "end": 3042.64,
+      "text": "This has been \"100 Million Dollar Leads,\" written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 3042.84,
+      "end": 3045.34,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 3045.6,
+      "end": 3049.38,
+      "text": "Audio production copyright 2023, acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "5ce3adc5e3d3d5381a1555b422a9d63ffda405f5dbb5efcfa4ef397d51dabae4",
+  "audio_duration_sec": 3054.942041,
+  "elapsed_sec": 24.5,
+  "created": "2026-11-16T03:06:17+00:00"
+}

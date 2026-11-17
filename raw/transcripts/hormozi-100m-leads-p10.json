@@ -1,0 +1,3222 @@
+{
+  "source_id": "hormozi-100m-leads-p10",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 13.78,
+      "text": "Welcome to another special edition 100 Million Dollar Leads audiobook podcast collaboration, self-licking ice cream cone, me working with me, handshaking myself, um, promoting this book for free on my podcast."
+    },
+    {
+      "start": 14.16,
+      "end": 19.68,
+      "text": "Um, and so if, uh, me being an affiliate of myself, uh, today we talk about affiliates and partners."
+    },
+    {
+      "start": 19.78,
+      "end": 20.7,
+      "text": "It's going to be a heater episode."
+    },
+    {
+      "start": 20.72,
+      "end": 34.2,
+      "text": "This is 35 minutes, one single chapter, and then we have a, a section conclusion, which you, uh, will definitely enjoy because if, if this-- if you've been watching this or listening to this a few weeks apart, then you'll want to have the recap so you can put it all together in your head into one simple framework."
+    },
+    {
+      "start": 34.46,
+      "end": 49.56,
+      "text": "But today with affiliates, I'm going to be talking about how you pick the right affiliates, what kind of offer to make them, how to get them advertising, how to keep them advertising, and the many lessons I've learned along the way to doing over 75 million dollars in sales, not spending a dollar of advertising on my own, but letting other people advertise for me."
+    },
+    {
+      "start": 50.12,
+      "end": 50.76,
+      "text": "Hope you enjoy."
+    },
+    {
+      "start": 54.42,
+      "end": 55.34,
+      "text": "Affiliates and partners."
+    },
+    {
+      "start": 55.78,
+      "end": 57.06,
+      "text": "Nothing makes friends like money."
+    },
+    {
+      "start": 58.02,
+      "end": 59.18,
+      "text": "December 1st, 2018."
+    },
+    {
+      "start": 59.56,
+      "end": 61.6,
+      "text": "I had no idea how the Prestige Labs launch would go."
+    },
+    {
+      "start": 61.88,
+      "end": 63.36,
+      "text": "I had no idea if our clients would like it."
+    },
+    {
+      "start": 63.58,
+      "end": 65.34,
+      "text": "I had no idea if the technology we built would work."
+    },
+    {
+      "start": 65.76,
+      "end": 67.34,
+      "text": "I had no idea if payouts would happen on time."
+    },
+    {
+      "start": 67.82,
+      "end": 69.36,
+      "text": "I had no idea if our warehouse would mess up orders."
+    },
+    {
+      "start": 69.86,
+      "end": 72.22,
+      "text": "But I did know over a year of preparation went into this launch."
+    },
+    {
+      "start": 72.78,
+      "end": 74.66,
+      "text": "We put everything we had into creating a top-tier product."
+    },
+    {
+      "start": 75.18,
+      "end": 81.9,
+      "text": "We spent over a million dollars custom building affiliate software and training, and we bought 3 million dollars of inventory for sales that may never happen."
+    },
+    {
+      "start": 82.54,
+      "end": 88.52,
+      "text": "It took every business skill I had to make Prestige Labs real, and in just a few hours, we would roll it out to our gym owner affiliates."
+    },
+    {
+      "start": 89.16,
+      "end": 92.74,
+      "text": "I felt like a kid on Christmas Eve, and if it didn't work, it wouldn't be for lack of effort."
+    },
+    {
+      "start": 93.4,
+      "end": 93.84,
+      "text": "Author note."
+    },
+    {
+      "start": 94.7,
+      "end": 97.82,
+      "text": "The Game podcast, episode 98, titled \"I Remember.\""
+    },
+    {
+      "start": 98.68,
+      "end": 102.92,
+      "text": "If you want to go back in time, you can hear young me talk about my thoughts and concerns the night before the launch."
+    },
+    {
+      "start": 103.42,
+      "end": 104.28,
+      "text": "You can be right there with me."
+    },
+    {
+      "start": 104.92,
+      "end": 107.46,
+      "text": "It's episode 98 on my podcast, The Game with Alex Hormozi."
+    },
+    {
+      "start": 107.64,
+      "end": 108.66,
+      "text": "I titled it \"I Remember.\""
+    },
+    {
+      "start": 108.9,
+      "end": 110.96,
+      "text": "This is before I knew the success it would become."
+    },
+    {
+      "start": 111.44,
+      "end": 114.54,
+      "text": "To find it, just go wherever you listen to podcasts and search Alex Hormozi."
+    },
+    {
+      "start": 114.8,
+      "end": 115.26,
+      "text": "It'll come up."
+    },
+    {
+      "start": 115.66,
+      "end": 116.2,
+      "text": "Launch day."
+    },
+    {
+      "start": 117.18,
+      "end": 119.02,
+      "text": "I finished the two-hour presentation soaked in sweat."
+    },
+    {
+      "start": 119.48,
+      "end": 119.88,
+      "text": "It's done."
+    },
+    {
+      "start": 120.24,
+      "end": 122.92,
+      "text": "I sold the opportunity to sell my supplement line at their gyms."
+    },
+    {
+      "start": 123.5,
+      "end": 126.42,
+      "text": "I would train the new affiliates to promote Prestige Labs at their gyms."
+    },
+    {
+      "start": 126.96,
+      "end": 129.48,
+      "text": "So for this to work, they would have to go through the training and use it."
+    },
+    {
+      "start": 129.7,
+      "end": 131.3,
+      "text": "But if they did, everyone would profit."
+    },
+    {
+      "start": 131.84,
+      "end": 132.84,
+      "text": "I had no idea if it would work."
+    },
+    {
+      "start": 133.5,
+      "end": 136.74,
+      "text": "Three weeks later, we made 150,000 dollars in total sales."
+    },
+    {
+      "start": 136.94,
+      "end": 140.12,
+      "text": "Meanwhile, 3 million dollars of the product sat in an air-conditioned warehouse."
+    },
+    {
+      "start": 140.46,
+      "end": 141.06,
+      "text": "It didn't work."
+    },
+    {
+      "start": 141.76,
+      "end": 146.22,
+      "text": "At this rate, including operating costs and affiliate payouts, it would take five years to break even."
+    },
+    {
+      "start": 147.04,
+      "end": 150.3,
+      "text": "Even if we could stick it out, our premium product would expire well before then."
+    },
+    {
+      "start": 150.76,
+      "end": 151.74,
+      "text": "We were all but screwed."
+    },
+    {
+      "start": 152.2,
+      "end": 152.92,
+      "text": "I felt miserable."
+    },
+    {
+      "start": 153.12,
+      "end": 153.78,
+      "text": "It was terrible."
+    },
+    {
+      "start": 154.22,
+      "end": 155.62,
+      "text": "Who am I to think we would sell that stuff?"
+    },
+    {
+      "start": 155.96,
+      "end": 157.02,
+      "text": "I just wasted millions."
+    },
+    {
+      "start": 157.12,
+      "end": 158.16,
+      "text": "How could I be so stupid?"
+    },
+    {
+      "start": 158.64,
+      "end": 160.84,
+      "text": "But on the fourth week, something wild happened."
+    },
+    {
+      "start": 161.28,
+      "end": 163.08,
+      "text": "Boom, a hundred grand on a Monday."
+    },
+    {
+      "start": 163.46,
+      "end": 165.54,
+      "text": "Boom, 110,000 on a Tuesday."
+    },
+    {
+      "start": 165.8,
+      "end": 167.38,
+      "text": "Boom, 92,000 on a Wednesday."
+    },
+    {
+      "start": 167.66,
+      "end": 170.48,
+      "text": "We did over 450,000 in sales the fourth week alone."
+    },
+    {
+      "start": 170.7,
+      "end": 171.48,
+      "text": "The trend continued."
+    },
+    {
+      "start": 172.0,
+      "end": 176.66,
+      "text": "429,000, 383,000, 411,000, 452,000."
+    },
+    {
+      "start": 177.08,
+      "end": 180.38,
+      "text": "We averaged more than 300 orders per day across 400 plus active affiliates."
+    },
+    {
+      "start": 180.84,
+      "end": 181.92,
+      "text": "Orders just kept coming in."
+    },
+    {
+      "start": 182.34,
+      "end": 184.6,
+      "text": "Check out the snapshot of our internal report below."
+    },
+    {
+      "start": 184.94,
+      "end": 186.92,
+      "text": "It shows from left to right revenue by week."
+    },
+    {
+      "start": 187.24,
+      "end": 188.16,
+      "text": "I couldn't believe the results."
+    },
+    {
+      "start": 188.56,
+      "end": 189.62,
+      "text": "Sometimes I still can't."
+    },
+    {
+      "start": 189.86,
+      "end": 198.22,
+      "text": "For everyone listening, it was 429, 383, 411, 404, 452 in terms of revenue per week through this launch."
+    },
+    {
+      "start": 198.76,
+      "end": 201.88,
+      "text": "The best part is, I didn't advertise or sell any of the products at all."
+    },
+    {
+      "start": 202.28,
+      "end": 204.56,
+      "text": "No paid ads, no sales teams, nothing."
+    },
+    {
+      "start": 204.82,
+      "end": 209.02,
+      "text": "The affiliates did everything, and the affiliate machine I built still prints money to this day."
+    },
+    {
+      "start": 209.42,
+      "end": 213.18,
+      "text": "So if that sounds like something you're interested in, hang tight, because I'm going to show you exactly how I built it."
+    },
+    {
+      "start": 213.44,
+      "end": 214.24,
+      "text": "How affiliates work."
+    },
+    {
+      "start": 214.9,
+      "end": 215.96,
+      "text": "An affiliate is a lead getter."
+    },
+    {
+      "start": 216.36,
+      "end": 218.66,
+      "text": "They are an independent business that tells their audience to buy your stuff."
+    },
+    {
+      "start": 219.18,
+      "end": 221.98,
+      "text": "Affiliates seem like referrals on the outside, but are much different under the hood."
+    },
+    {
+      "start": 222.56,
+      "end": 224.58,
+      "text": "First, they have their own business and do their own advertising."
+    },
+    {
+      "start": 224.84,
+      "end": 229.66,
+      "text": "Second, they agree to offer your stuff to their engaged leads in exchange for money, free stuff, or both."
+    },
+    {
+      "start": 230.24,
+      "end": 234.1,
+      "text": "Now, you get affiliates by advertising and then making them offers just like you would customers."
+    },
+    {
+      "start": 234.54,
+      "end": 236.2,
+      "text": "But affiliates demand a unique type of offer."
+    },
+    {
+      "start": 236.58,
+      "end": 241.0,
+      "text": "Instead of offering your product, you offer a fast, simple, and easy way to make commissions promoting it."
+    },
+    {
+      "start": 241.54,
+      "end": 243.98,
+      "text": "And that can mean literally millions of engaged leads to your business."
+    },
+    {
+      "start": 244.36,
+      "end": 246.72,
+      "text": "So this makes affiliates one of the highest leverage lead getters out there."
+    },
+    {
+      "start": 247.08,
+      "end": 248.32,
+      "text": "Why you want an affiliate army."
+    },
+    {
+      "start": 249.04,
+      "end": 251.9,
+      "text": "Each affiliate you get adds another stream of leads and customers."
+    },
+    {
+      "start": 252.2,
+      "end": 256.9,
+      "text": "So recruiting, activating, and then integrating with an army of affiliates causes crazy scaling fast."
+    },
+    {
+      "start": 257.16,
+      "end": 257.66,
+      "text": "That's good."
+    },
+    {
+      "start": 257.88,
+      "end": 258.44,
+      "text": "We want that."
+    },
+    {
+      "start": 258.64,
+      "end": 259.68,
+      "text": "Compare these two scenarios."
+    },
+    {
+      "start": 260.3,
+      "end": 264.16,
+      "text": "Scenario number one, you sell 10 customers per month worth 10,000 dollars each."
+    },
+    {
+      "start": 264.62,
+      "end": 266.7,
+      "text": "Your business caps at 100,000 dollars per month."
+    },
+    {
+      "start": 266.9,
+      "end": 268.66,
+      "text": "In 12 months, you've made 1.2 million."
+    },
+    {
+      "start": 269.14,
+      "end": 271.32,
+      "text": "Assuming no other advertising, your business plateaus."
+    },
+    {
+      "start": 271.66,
+      "end": 272.26,
+      "text": "Low leverage."
+    },
+    {
+      "start": 272.64,
+      "end": 276.08,
+      "text": "Scenario two, for the same effort, you sell 10 affiliates per month."
+    },
+    {
+      "start": 276.44,
+      "end": 279.68,
+      "text": "Each month, those affiliates bring one of those 10,000 dollar customers."
+    },
+    {
+      "start": 280.08,
+      "end": 283.52,
+      "text": "Now, every single month, you add an extra 100,000 dollars in revenue."
+    },
+    {
+      "start": 283.88,
+      "end": 288.62,
+      "text": "In 12 months, you've made 7.8 million dollars, and it grows every month thereafter."
+    },
+    {
+      "start": 289.08,
+      "end": 291.2,
+      "text": "Same work, more money, high leverage."
+    },
+    {
+      "start": 291.66,
+      "end": 295.18,
+      "text": "Let's use Alan, my software company I grew with affiliates, to show how this works in the real world."
+    },
+    {
+      "start": 295.86,
+      "end": 297.4,
+      "text": "Alan grew with three levels of affiliates."
+    },
+    {
+      "start": 297.9,
+      "end": 304.22,
+      "text": "Agency super affiliates who brought agency leads, agencies who brought local business leads, local businesses who brought in end consumer leads."
+    },
+    {
+      "start": 304.76,
+      "end": 306.86,
+      "text": "One super affiliate added 10 agencies per month."
+    },
+    {
+      "start": 307.3,
+      "end": 310.94,
+      "text": "The 10 agencies brought in a combined 50 or so local businesses per month."
+    },
+    {
+      "start": 311.34,
+      "end": 314.68,
+      "text": "Those local businesses brought in a combined 2,500 leads per month."
+    },
+    {
+      "start": 315.5,
+      "end": 320.4,
+      "text": "Alan worked those leads for about five bucks a pop, a cool 12,500 dollars per month."
+    },
+    {
+      "start": 320.9,
+      "end": 321.82,
+      "text": "But it didn't stop there."
+    },
+    {
+      "start": 322.52,
+      "end": 329.44,
+      "text": "Each super affiliate brought in more agencies, who brought in more local businesses, who brought in more leads every month after that."
+    },
+    {
+      "start": 329.8,
+      "end": 338.3,
+      "text": "So every super affiliate we signed on brought in 12,500 the first month, 25,000 the second month, 37,500 the third, and so on."
+    },
+    {
+      "start": 338.58,
+      "end": 343.74,
+      "text": "With only a few agency super affiliates, we scaled to 1.7 million dollars per month within six months of launching."
+    },
+    {
+      "start": 344.26,
+      "end": 345.6,
+      "text": "That's why you want an affiliate army."
+    },
+    {
+      "start": 345.9,
+      "end": 346.7,
+      "text": "So let's build one."
+    },
+    {
+      "start": 347.32,
+      "end": 349.0,
+      "text": "How to build an affiliate army in six steps."
+    },
+    {
+      "start": 349.64,
+      "end": 351.58,
+      "text": "Affiliates are among the most advanced way to get leads."
+    },
+    {
+      "start": 352.04,
+      "end": 354.0,
+      "text": "First, you have to convince them to advertise someone else's stuff."
+    },
+    {
+      "start": 354.5,
+      "end": 356.62,
+      "text": "Second, you have to convince them to advertise your stuff."
+    },
+    {
+      "start": 357.12,
+      "end": 360.14,
+      "text": "Third, you have to keep them advertising to make them a long-term lead source."
+    },
+    {
+      "start": 360.28,
+      "end": 362.42,
+      "text": "It seems like a lot, and it is, but I have good news."
+    },
+    {
+      "start": 362.92,
+      "end": 365.48,
+      "text": "I built two companies with affiliates, Alan and Prestige Labs."
+    },
+    {
+      "start": 365.54,
+      "end": 368.88,
+      "text": "Together, they've done more than 75 million in revenue from 5,000 affiliates."
+    },
+    {
+      "start": 369.44,
+      "end": 373.04,
+      "text": "And the affiliate strategies I share work for me, so they can work for you."
+    },
+    {
+      "start": 373.48,
+      "end": 374.42,
+      "text": "I'll break down each step."
+    },
+    {
+      "start": 375.04,
+      "end": 377.36,
+      "text": "Step one, find your ideal affiliates."
+    },
+    {
+      "start": 377.56,
+      "end": 378.82,
+      "text": "Step two, make them an offer."
+    },
+    {
+      "start": 379.02,
+      "end": 380.22,
+      "text": "Step three, qualify them."
+    },
+    {
+      "start": 380.28,
+      "end": 381.5,
+      "text": "Step four, figure out what to pay them."
+    },
+    {
+      "start": 381.78,
+      "end": 383.2,
+      "text": "Step five, get them advertising."
+    },
+    {
+      "start": 383.46,
+      "end": 385.1,
+      "text": "Step six, keep them advertising."
+    },
+    {
+      "start": 385.68,
+      "end": 386.14,
+      "text": "That's it."
+    },
+    {
+      "start": 386.6,
+      "end": 387.18,
+      "text": "Let's dive in."
+    },
+    {
+      "start": 387.88,
+      "end": 389.76,
+      "text": "Step one, find your ideal affiliate."
+    },
+    {
+      "start": 390.24,
+      "end": 393.54,
+      "text": "The ideal affiliate has a business with a warm audience full of people like your customers."
+    },
+    {
+      "start": 394.02,
+      "end": 395.44,
+      "text": "Start making a list of those businesses."
+    },
+    {
+      "start": 395.86,
+      "end": 398.52,
+      "text": "If none come to mind, answer these questions about your best customers."
+    },
+    {
+      "start": 399.04,
+      "end": 399.72,
+      "text": "What do they buy?"
+    },
+    {
+      "start": 400.24,
+      "end": 401.16,
+      "text": "Who provides that stuff?"
+    },
+    {
+      "start": 401.38,
+      "end": 402.1,
+      "text": "Where do they go?"
+    },
+    {
+      "start": 402.3,
+      "end": 404.22,
+      "text": "What businesses are in those surrounding areas?"
+    },
+    {
+      "start": 404.74,
+      "end": 405.7,
+      "text": "What do they like to do?"
+    },
+    {
+      "start": 405.98,
+      "end": 407.14,
+      "text": "Who provides those services?"
+    },
+    {
+      "start": 407.72,
+      "end": 411.94,
+      "text": "If direct to consumer, the employees of your consumers could also make great affiliates."
+    },
+    {
+      "start": 412.46,
+      "end": 414.02,
+      "text": "What type of businesses do they work for?"
+    },
+    {
+      "start": 414.38,
+      "end": 415.64,
+      "text": "What kind of jobs do they have?"
+    },
+    {
+      "start": 415.9,
+      "end": 417.86,
+      "text": "In a nutshell, who's got my leads?"
+    },
+    {
+      "start": 418.36,
+      "end": 425.88,
+      "text": "For example, when I started Alan, agency owners were my ideal affiliate, so I made a list of 200 products and services for agencies and the businesses that delivered them."
+    },
+    {
+      "start": 426.34,
+      "end": 433.12,
+      "text": "After a little bit of work, I realized they fit pretty neatly into categories: softwares, products, equipment, services, groups they belong to, and events they attended."
+    },
+    {
+      "start": 433.4,
+      "end": 436.72,
+      "text": "Every time I create a new affiliate hit list, I start with these categories."
+    },
+    {
+      "start": 437.16,
+      "end": 442.06,
+      "text": "Note, if you find a business that falls into multiple categories, there's a high chance they've got a lot of good leads for you."
+    },
+    {
+      "start": 442.42,
+      "end": 446.16,
+      "text": "Now that I know the businesses that had my leads, I knew exactly where to put my advertising efforts."
+    },
+    {
+      "start": 446.5,
+      "end": 448.14,
+      "text": "It wasn't fancy, so don't overthink it."
+    },
+    {
+      "start": 448.6,
+      "end": 451.54,
+      "text": "Action step, make a sheet with each of the questions and categories."
+    },
+    {
+      "start": 451.96,
+      "end": 453.02,
+      "text": "Search online to fill it in."
+    },
+    {
+      "start": 453.28,
+      "end": 455.62,
+      "text": "If you struggle, call up your customers and ask them."
+    },
+    {
+      "start": 455.88,
+      "end": 458.62,
+      "text": "End result, create a lead list of your highest potential affiliates."
+    },
+    {
+      "start": 459.62,
+      "end": 460.92,
+      "text": "Step two, make them an offer."
+    },
+    {
+      "start": 461.46,
+      "end": 464.62,
+      "text": "We make the affiliate offer and advertise it the same way we would any other offer."
+    },
+    {
+      "start": 465.04,
+      "end": 467.86,
+      "text": "We call out our audience, show our value elements, then call them to action."
+    },
+    {
+      "start": 468.38,
+      "end": 470.94,
+      "text": "But affiliates will only sign up if we give them a strong reason."
+    },
+    {
+      "start": 471.24,
+      "end": 472.26,
+      "text": "Thankfully, it's pretty simple."
+    },
+    {
+      "start": 472.64,
+      "end": 477.22,
+      "text": "Since affiliates are businesses or start businesses by signing up, you offer them a new way to make money."
+    },
+    {
+      "start": 477.68,
+      "end": 478.52,
+      "text": "We'll start with the call-out."
+    },
+    {
+      "start": 478.94,
+      "end": 479.34,
+      "text": "Call-out."
+    },
+    {
+      "start": 479.78,
+      "end": 490.06,
+      "text": "Call-outs for potential affiliates often include the affiliate business owners themselves, AKA attention spot owners, the affiliate's customers, AKA, \"Do you work with busy professionals who spend all day in meetings?\""
+    },
+    {
+      "start": 490.6,
+      "end": 494.7,
+      "text": "Results the affiliate business's promise, AKA, \"To the heroes who heal the stress of others.\""
+    },
+    {
+      "start": 495.9,
+      "end": 497.52,
+      "text": "Products and services the affiliates deliver."
+    },
+    {
+      "start": 497.52,
+      "end": 500.62,
+      "text": "\"If you sell lotions or scented oils, this is for you.\""
+    },
+    {
+      "start": 501.22,
+      "end": 503.92,
+      "text": "To our own customers, \"Do you know anyone who owns a spa?\""
+    },
+    {
+      "start": 504.36,
+      "end": 507.54,
+      "text": "Now that we can grab a potential affiliate's attention, let's make it worth their while."
+    },
+    {
+      "start": 508.0,
+      "end": 508.78,
+      "text": "Elements of value."
+    },
+    {
+      "start": 508.98,
+      "end": 514.02,
+      "text": "There's an unlimited number of ways to show value, but all money-making offers follow a similar structure."
+    },
+    {
+      "start": 514.48,
+      "end": 515.1,
+      "text": "That's good news."
+    },
+    {
+      "start": 515.32,
+      "end": 516.6,
+      "text": "We don't need to reinvent the wheel."
+    },
+    {
+      "start": 517.0,
+      "end": 519.26,
+      "text": "Most affiliate money-making offers show value like this."
+    },
+    {
+      "start": 520.04,
+      "end": 536.86,
+      "text": "Make more money from your current customers and get more leads than your current offer, dream outcome, with a high chance of working since your customers already want the product, perceived likelihood of achievement, without needing to build, deliver, or provide customer support for the product itself, effort and sacrifice, so you can start selling it tomorrow, time delay."
+    },
+    {
+      "start": 537.48,
+      "end": 540.6,
+      "text": "Action step, explore the different value elements and fill in the blanks."
+    },
+    {
+      "start": 540.98,
+      "end": 542.8,
+      "text": "I won't go deeper on this since we've covered it already."
+    },
+    {
+      "start": 543.1,
+      "end": 545.74,
+      "text": "You simply need to make affiliates the customer you're advertising to."
+    },
+    {
+      "start": 546.32,
+      "end": 549.26,
+      "text": "Now that we've got the potential affiliates interested in our offer, let's qualify them."
+    },
+    {
+      "start": 549.64,
+      "end": 550.74,
+      "text": "Step three, qualify them."
+    },
+    {
+      "start": 551.38,
+      "end": 555.04,
+      "text": "Potential affiliates become actual affiliates when they understand and agree to your terms."
+    },
+    {
+      "start": 555.44,
+      "end": 561.36,
+      "text": "And just like customers, we want to get them their first win as fast as possible, so we set up our terms to force them to win as fast as possible."
+    },
+    {
+      "start": 561.94,
+      "end": 563.36,
+      "text": "I do that by getting them to invest."
+    },
+    {
+      "start": 563.8,
+      "end": 566.56,
+      "text": "I prefer they invest their time, their money, and in the product itself."
+    },
+    {
+      "start": 567.14,
+      "end": 570.48,
+      "text": "Any can work, but nine times out of 10, if they pay, they'll pay attention."
+    },
+    {
+      "start": 571.0,
+      "end": 573.42,
+      "text": "Here are the two ways I get my affiliates invested and winning."
+    },
+    {
+      "start": 573.66,
+      "end": 575.24,
+      "text": "Make them a customer and make them an expert."
+    },
+    {
+      "start": 575.5,
+      "end": 576.22,
+      "text": "Let's dive into each."
+    },
+    {
+      "start": 577.04,
+      "end": 578.8,
+      "text": "Way number one, make them a customer."
+    },
+    {
+      "start": 579.32,
+      "end": 582.3,
+      "text": "Make them buy and preferably use the product to keep affiliate status."
+    },
+    {
+      "start": 582.68,
+      "end": 584.98,
+      "text": "This is the lowest barrier investment that's worked for me."
+    },
+    {
+      "start": 585.4,
+      "end": 588.02,
+      "text": "I found the more money an affiliate invests in your product, the more money they make."
+    },
+    {
+      "start": 588.36,
+      "end": 589.1,
+      "text": "This should make sense."
+    },
+    {
+      "start": 589.3,
+      "end": 591.9,
+      "text": "If they don't believe in your stuff enough to buy it, they probably shouldn't sell it."
+    },
+    {
+      "start": 592.06,
+      "end": 593.02,
+      "text": "You can tell them I said so."
+    },
+    {
+      "start": 593.68,
+      "end": 595.06,
+      "text": "Pro tip, bulk purchases."
+    },
+    {
+      "start": 595.64,
+      "end": 598.38,
+      "text": "If you need to make more money per affiliate, you can require them to buy it in bulk."
+    },
+    {
+      "start": 598.82,
+      "end": 600.96,
+      "text": "This was huge for Prestige Labs' affiliate success."
+    },
+    {
+      "start": 601.44,
+      "end": 604.52,
+      "text": "Once they bought a big package up front, they started following through and winning more."
+    },
+    {
+      "start": 604.82,
+      "end": 607.26,
+      "text": "The bigger investment also made them and us more money."
+    },
+    {
+      "start": 607.76,
+      "end": 609.94,
+      "text": "If you have physical products, then try bulk purchases."
+    },
+    {
+      "start": 610.38,
+      "end": 614.68,
+      "text": "If your company has a line of products like Prestige Labs does, then toy around with different big bundles."
+    },
+    {
+      "start": 615.0,
+      "end": 616.22,
+      "text": "Here's how you phrase the offer."
+    },
+    {
+      "start": 616.22,
+      "end": 619.16,
+      "text": "\"So you want anything extra or you just want the minimum order?\""
+    },
+    {
+      "start": 619.46,
+      "end": 625.32,
+      "text": "By presenting a minimum purchase, they will at least buy that, and more often than you think, they'll buy more than the minimum."
+    },
+    {
+      "start": 625.76,
+      "end": 626.22,
+      "text": "Bada boom."
+    },
+    {
+      "start": 626.72,
+      "end": 628.27,
+      "text": "Way number two, make them an expert."
+    },
+    {
+      "start": 628.84,
+      "end": 631.98,
+      "text": "I make them pay for the onboarding and training that certifies them as a product expert."
+    },
+    {
+      "start": 632.44,
+      "end": 639.66,
+      "text": "If you have them buy a product to become an affiliate, you can have them use that as a credit towards certification, as in the certification comes with the products they bought."
+    },
+    {
+      "start": 640.12,
+      "end": 643.96,
+      "text": "Now, aside from actually making the affiliate useful, certifying them does two things."
+    },
+    {
+      "start": 644.26,
+      "end": 645.72,
+      "text": "First, it covers the cost of advertising."
+    },
+    {
+      "start": 646.06,
+      "end": 649.12,
+      "text": "Second, it means I can afford proper onboarding and training of every single affiliate."
+    },
+    {
+      "start": 649.9,
+      "end": 650.72,
+      "text": "How much do I charge?"
+    },
+    {
+      "start": 651.3,
+      "end": 654.6,
+      "text": "I recommend 10 to 20% of what the average affiliate makes in the first 12 months."
+    },
+    {
+      "start": 655.02,
+      "end": 659.72,
+      "text": "So if your average affiliate makes 40,000 dollars per year selling your stuff, then charge 4 to 8,000 dollars to onboard and train them."
+    },
+    {
+      "start": 660.24,
+      "end": 661.74,
+      "text": "Too low, and you won't get them invested."
+    },
+    {
+      "start": 662.08,
+      "end": 663.66,
+      "text": "Too high, and you won't get enough affiliates."
+    },
+    {
+      "start": 664.18,
+      "end": 668.22,
+      "text": "I found 10 to 20% maximizes the number of people who become active affiliates."
+    },
+    {
+      "start": 668.78,
+      "end": 672.54,
+      "text": "If you're just getting started and have physical products, then use the bulk purchasing strategy from the pro tip."
+    },
+    {
+      "start": 673.0,
+      "end": 678.52,
+      "text": "Otherwise, you can use the strategy from our reach-out chapter and raise the minimum investment every five sign-ups until you hit the sweet spot."
+    },
+    {
+      "start": 679.4,
+      "end": 683.14,
+      "text": "Action step, make your affiliates customers, experts, or both, which is my favorite way."
+    },
+    {
+      "start": 683.64,
+      "end": 685.84,
+      "text": "If you don't get enough people to start, lower the commitment."
+    },
+    {
+      "start": 686.08,
+      "end": 688.1,
+      "text": "If you don't get enough people to follow through, raise it."
+    },
+    {
+      "start": 688.78,
+      "end": 690.84,
+      "text": "Step four, figure out what to pay them."
+    },
+    {
+      "start": 691.28,
+      "end": 693.58,
+      "text": "The first biggest problem to solve with affiliates is getting them bought in."
+    },
+    {
+      "start": 693.98,
+      "end": 696.26,
+      "text": "But the second biggest problem is how to keep them bought in."
+    },
+    {
+      "start": 696.64,
+      "end": 701.04,
+      "text": "And no matter how you slice it, keeping your affiliates bought in depends on how you reward them for advertising your stuff."
+    },
+    {
+      "start": 701.66,
+      "end": 706.04,
+      "text": "I prefer to reward people that do things I like with money and free stuff, especially if they make me money first."
+    },
+    {
+      "start": 706.46,
+      "end": 707.44,
+      "text": "So let's talk about that."
+    },
+    {
+      "start": 707.7,
+      "end": 710.38,
+      "text": "When I figure out ways to pay affiliates, I look at two basic things."
+    },
+    {
+      "start": 710.82,
+      "end": 711.84,
+      "text": "One, what they get paid for."
+    },
+    {
+      "start": 711.9,
+      "end": 712.88,
+      "text": "Two, how much they get paid."
+    },
+    {
+      "start": 713.7,
+      "end": 715.1,
+      "text": "Number one, what they get paid for."
+    },
+    {
+      "start": 715.52,
+      "end": 718.94,
+      "text": "Before I do any affiliate payout money math, I ask myself a simple question."
+    },
+    {
+      "start": 719.52,
+      "end": 721.48,
+      "text": "What exactly do I want the affiliate to do?"
+    },
+    {
+      "start": 722.06,
+      "end": 724.36,
+      "text": "Once I figured that out, that is what I pay them for."
+    },
+    {
+      "start": 724.86,
+      "end": 729.74,
+      "text": "Then, more often than not, how much they get paid and how often they get paid nearly solve themselves."
+    },
+    {
+      "start": 730.24,
+      "end": 731.7,
+      "text": "I pay affiliates for two basic things."
+    },
+    {
+      "start": 732.18,
+      "end": 733.74,
+      "text": "New customers and repeat customers."
+    },
+    {
+      "start": 734.16,
+      "end": 743.2,
+      "text": "Over time, if you track your metrics better, you can pay them for steps before someone becomes a customer, like for lead magnets downloaded, appointment set, or anything else you know reliably turns into sales for you."
+    },
+    {
+      "start": 743.74,
+      "end": 745.8,
+      "text": "Number two, how much they get paid."
+    },
+    {
+      "start": 746.4,
+      "end": 749.56,
+      "text": "I suggest paying affiliates based on your maximum allowable cost to acquire a customer."
+    },
+    {
+      "start": 749.92,
+      "end": 752.16,
+      "text": "For example, choosing your maximum allowable CAC."
+    },
+    {
+      "start": 752.68,
+      "end": 756.5,
+      "text": "Let's say we sell a single-use product for 200 dollars, and it costs 40 dollars to fulfill."
+    },
+    {
+      "start": 757.18,
+      "end": 760.3,
+      "text": "This gives us 160 dollars to pay the affiliate and run the business."
+    },
+    {
+      "start": 761.16,
+      "end": 768.22,
+      "text": "If we want an LGP to CAC ratio of 3 to 1, then three parts go to the business, 120 dollars, and one part, 40 dollars, goes to the affiliate."
+    },
+    {
+      "start": 768.56,
+      "end": 771.38,
+      "text": "This means we will pay up to 40 dollars for an affiliate to get a new customer."
+    },
+    {
+      "start": 771.62,
+      "end": 772.76,
+      "text": "But here's where things get interesting."
+    },
+    {
+      "start": 773.46,
+      "end": 775.08,
+      "text": "I used to give away the farm, the whole CAC."
+    },
+    {
+      "start": 775.52,
+      "end": 778.44,
+      "text": "I suppose I still do, but I got pickier about who I give it to."
+    },
+    {
+      "start": 778.88,
+      "end": 782.6,
+      "text": "Not all affiliates are created equal, so I suggest having a three-tier payout structure."
+    },
+    {
+      "start": 783.06,
+      "end": 788.62,
+      "text": "Using the example above with a 40 dollar maximum allowable CAC, a three-tier payout structure might look something like this."
+    },
+    {
+      "start": 789.12,
+      "end": 793.56,
+      "text": "Tier one, 25% CAC equals 10 dollar payout."
+    },
+    {
+      "start": 794.16,
+      "end": 797.02,
+      "text": "Anyone who agrees to my initial terms would qualify."
+    },
+    {
+      "start": 797.32,
+      "end": 800.38,
+      "text": "Example, they sign up and buy products or certification."
+    },
+    {
+      "start": 800.76,
+      "end": 805.82,
+      "text": "Tier two, 50% CAC equals 20 dollar payout once they activate."
+    },
+    {
+      "start": 806.52,
+      "end": 812.18,
+      "text": "Example, actually finishing the certification they bought, doing a specific number of posts and outreach, doing a launch, etc."
+    },
+    {
+      "start": 813.1,
+      "end": 816.22,
+      "text": "This gives a nice reward, twice the pay for activating."
+    },
+    {
+      "start": 816.68,
+      "end": 821.16,
+      "text": "Tier three, 100% of CAC equals a 40 dollar payout."
+    },
+    {
+      "start": 821.7,
+      "end": 824.8,
+      "text": "They qualify for this once they sustain a certain level of performance."
+    },
+    {
+      "start": 825.2,
+      "end": 828.46,
+      "text": "Example, they maintain five customers per month on subscription."
+    },
+    {
+      "start": 828.86,
+      "end": 832.06,
+      "text": "This tiered method also has a hidden and very profitable side effect."
+    },
+    {
+      "start": 832.5,
+      "end": 835.42,
+      "text": "The average payout is much less than your maximum allowable CAC."
+    },
+    {
+      "start": 835.94,
+      "end": 841.5,
+      "text": "This means if we leave the maximum payouts for top affiliates, then we get to keep the leftover profit from the others."
+    },
+    {
+      "start": 841.8,
+      "end": 847.06,
+      "text": "We can use the leftover money to run huge contests, advertise to get more affiliates, incentivize rising stars, etc."
+    },
+    {
+      "start": 847.6,
+      "end": 849.32,
+      "text": "Or I suppose we can just plain pocket it."
+    },
+    {
+      "start": 849.74,
+      "end": 859.32,
+      "text": "For example, if 20% of sales come from tier one, 20% from tier two, and 60% from tier three, your blended payout is 30 dollars instead of your maximum allowable CAC of 40 dollars."
+    },
+    {
+      "start": 859.66,
+      "end": 863.16,
+      "text": "This means your LGP to CAC ratio just went from 3 to 1 to 4 to 1."
+    },
+    {
+      "start": 863.86,
+      "end": 872.42,
+      "text": "And often, cutting marketing costs by 33% can translate into a 10 to 20% increase in net profit at the end of the year, a massive jump."
+    },
+    {
+      "start": 873.06,
+      "end": 875.6,
+      "text": "Pro tip: pay with product if possible."
+    },
+    {
+      "start": 876.2,
+      "end": 877.36,
+      "text": "Sell three, get it free."
+    },
+    {
+      "start": 878.32,
+      "end": 881.7,
+      "text": "Everyone likes free stuff, often more than what it would cost them to get it."
+    },
+    {
+      "start": 882.36,
+      "end": 885.58,
+      "text": "Rewarding performance with product is a cheap and effective way to keep them winning."
+    },
+    {
+      "start": 886.1,
+      "end": 890.6,
+      "text": "They value it at retail, but it only costs you your cost, a nice arbitrage of value."
+    },
+    {
+      "start": 891.18,
+      "end": 894.64,
+      "text": "Set sales tiers and bonus your affiliate with product or credit toward the retail cost."
+    },
+    {
+      "start": 894.96,
+      "end": 898.54,
+      "text": "At lower tiers, you can even compensate exclusively with free stuff."
+    },
+    {
+      "start": 898.78,
+      "end": 904.76,
+      "text": "For example, if your affiliate sends you tons of massage clients, it's totally acceptable to reward your affiliates with free massages."
+    },
+    {
+      "start": 905.16,
+      "end": 911.34,
+      "text": "At low volume, a massage is often worth more to them than sending them a check for 30 dollars, your cost."
+    },
+    {
+      "start": 911.74,
+      "end": 914.98,
+      "text": "But as affiliates send you more customers, they'll usually opt for more money."
+    },
+    {
+      "start": 915.14,
+      "end": 917.86,
+      "text": "After all, cashing in 100 massages becomes unrealistic."
+    },
+    {
+      "start": 918.68,
+      "end": 924.44,
+      "text": "At Prestige Labs, offered anyone who sold more than three packages per month a free 200 dollar bundle of their choosing."
+    },
+    {
+      "start": 924.98,
+      "end": 927.36,
+      "text": "This also made every affiliate a sponsored athlete."
+    },
+    {
+      "start": 927.76,
+      "end": 931.54,
+      "text": "They got free products for life as long as they kept three clients per month buying."
+    },
+    {
+      "start": 931.86,
+      "end": 933.86,
+      "text": "I called it sell three to get it free."
+    },
+    {
+      "start": 934.24,
+      "end": 939.8,
+      "text": "Action step: figure out what you want to pay affiliates for so you can plan out how much to pay them, with what, and how often."
+    },
+    {
+      "start": 940.4,
+      "end": 941.92,
+      "text": "Step five, get them advertising."
+    },
+    {
+      "start": 942.22,
+      "end": 942.52,
+      "text": "Launch."
+    },
+    {
+      "start": 943.2,
+      "end": 947.32,
+      "text": "Like referrers, how much value affiliates get from you determines how much they advertise your stuff."
+    },
+    {
+      "start": 947.88,
+      "end": 949.08,
+      "text": "So treat them like customers."
+    },
+    {
+      "start": 949.62,
+      "end": 954.1,
+      "text": "Give them something good fast, and nothing does that for affiliates like big launches and lots of cash."
+    },
+    {
+      "start": 954.52,
+      "end": 955.46,
+      "text": "Here's how launches work."
+    },
+    {
+      "start": 955.74,
+      "end": 959.96,
+      "text": "Affiliates advertise your lead magnet or core offer to their audience before they can buy it."
+    },
+    {
+      "start": 960.72,
+      "end": 965.88,
+      "text": "They post, they do warm reach-outs, they run paid ads, they may even do cold outreach."
+    },
+    {
+      "start": 966.22,
+      "end": 969.2,
+      "text": "They do as much advertising as they can until the day of the launch."
+    },
+    {
+      "start": 969.52,
+      "end": 972.5,
+      "text": "When the product is available, they sell to all the engaged leads they assembled."
+    },
+    {
+      "start": 973.3,
+      "end": 977.8,
+      "text": "Some sell one-to-one, some pitch the whole group, and others simply make the product available."
+    },
+    {
+      "start": 978.42,
+      "end": 982.0,
+      "text": "So if you're going to do launches to activate affiliates, which you should, you may as well do them right."
+    },
+    {
+      "start": 982.66,
+      "end": 984.26,
+      "text": "I use the whisper tea shop method."
+    },
+    {
+      "start": 984.66,
+      "end": 986.84,
+      "text": "I can't remember where I first heard this, but the name stuck."
+    },
+    {
+      "start": 987.22,
+      "end": 987.78,
+      "text": "Let's launch."
+    },
+    {
+      "start": 990.74,
+      "end": 994.06,
+      "text": "Hey, I hope you're enjoying the book chapter that you're listening to right now, 100 Million Dollar Leads."
+    },
+    {
+      "start": 994.54,
+      "end": 996.78,
+      "text": "I took a long time putting together for you."
+    },
+    {
+      "start": 997.24,
+      "end": 1002.7,
+      "text": "Uh, and so my only ask is that you just take a quick second and leave a review for the book on Amazon."
+    },
+    {
+      "start": 1002.86,
+      "end": 1007.86,
+      "text": "It's the number one way that people find books, um, and this is a way of getting more people into our world."
+    },
+    {
+      "start": 1007.92,
+      "end": 1013.98,
+      "text": "And so our mission at acquisition.com is to make real business education accessible to everyone, and I need your help."
+    },
+    {
+      "start": 1014.2,
+      "end": 1021.92,
+      "text": "And so if you could do that, just that one, one small action, um, and it has a trade for the two years that I took putting this book together for you, uh, it would mean the world to me."
+    },
+    {
+      "start": 1022.16,
+      "end": 1023.0,
+      "text": "So thank you."
+    },
+    {
+      "start": 1025.28,
+      "end": 1028.96,
+      "text": "Before we get launching, remember, good launches have the work done ahead of time."
+    },
+    {
+      "start": 1029.44,
+      "end": 1032.16,
+      "text": "So do all the work for them, then they can plug and play."
+    },
+    {
+      "start": 1032.66,
+      "end": 1037.3,
+      "text": "Let's break down each launch phase, and I'll give an example of my book launch to drive each point home."
+    },
+    {
+      "start": 1037.74,
+      "end": 1040.52,
+      "text": "Note, this is how you launch anything, not just affiliates."
+    },
+    {
+      "start": 1040.94,
+      "end": 1044.36,
+      "text": "I put it in the affiliate section because I haven't found a better way to activate affiliates than launches."
+    },
+    {
+      "start": 1045.2,
+      "end": 1045.54,
+      "text": "Whisper."
+    },
+    {
+      "start": 1045.76,
+      "end": 1046.62,
+      "text": "Think call-outs."
+    },
+    {
+      "start": 1046.88,
+      "end": 1049.62,
+      "text": "Like an ad, the key to the whisper phase is curiosity."
+    },
+    {
+      "start": 1050.04,
+      "end": 1053.36,
+      "text": "Keep the product itself mysterious and hint at how big of a deal it is."
+    },
+    {
+      "start": 1053.88,
+      "end": 1057.96,
+      "text": "Keep whispers short, and bonus points if you show behind the scenes of making your product."
+    },
+    {
+      "start": 1058.56,
+      "end": 1061.72,
+      "text": "If you have something in the works, you can start the whisper phase a few years out."
+    },
+    {
+      "start": 1062.18,
+      "end": 1064.88,
+      "text": "The further out you start whispering, the bigger deal it becomes to your audience."
+    },
+    {
+      "start": 1065.36,
+      "end": 1069.48,
+      "text": "We start this early because the longer something appears to take, the more an audience will value it."
+    },
+    {
+      "start": 1069.52,
+      "end": 1075.02,
+      "text": "For example, all other things being equal, an audience will value a product that took 10 years to make more than one that took 10 days."
+    },
+    {
+      "start": 1075.44,
+      "end": 1076.4,
+      "text": "So show your work."
+    },
+    {
+      "start": 1076.88,
+      "end": 1079.9,
+      "text": "Remember, curiosity comes from wanting to know what happens next."
+    },
+    {
+      "start": 1080.34,
+      "end": 1082.56,
+      "text": "So embed questions about the product in their minds."
+    },
+    {
+      "start": 1082.98,
+      "end": 1087.28,
+      "text": "We need to tell them about something they want to know more about, and then say, \"Not yet.\""
+    },
+    {
+      "start": 1087.98,
+      "end": 1095.08,
+      "text": "For example, during the whisper phase of my book launch, I posted content, reached out to friends, emailed my list, told potential affiliates about major updates to the book."
+    },
+    {
+      "start": 1095.51,
+      "end": 1104.69,
+      "text": "I showed what draft I was on, I took pictures behind the scenes of me printing out drafts, I showed the many versions of the frameworks I drew, I shared videos of myself editing the book clearly in the early morning and late at night, et cetera."
+    },
+    {
+      "start": 1105.11,
+      "end": 1108.13,
+      "text": "All that made people who want to get leads get curious and pay attention."
+    },
+    {
+      "start": 1108.93,
+      "end": 1113.11,
+      "text": "Action step: start whispering every four to six weeks until you get 60 days out."
+    },
+    {
+      "start": 1113.45,
+      "end": 1116.61,
+      "text": "Then whisper every two to three weeks until you get 30 days out."
+    },
+    {
+      "start": 1117.09,
+      "end": 1118.09,
+      "text": "Then start teasing."
+    },
+    {
+      "start": 1119.23,
+      "end": 1119.65,
+      "text": "Tease."
+    },
+    {
+      "start": 1120.61,
+      "end": 1121.99,
+      "text": "Think elements of value."
+    },
+    {
+      "start": 1122.85,
+      "end": 1126.37,
+      "text": "It's time to start satisfying all the curiosity you created during the whisper phase."
+    },
+    {
+      "start": 1126.93,
+      "end": 1130.97,
+      "text": "Reveal your product, make the date of the launch public, and start showing the elements of value."
+    },
+    {
+      "start": 1131.75,
+      "end": 1134.69,
+      "text": "Use the what, who, when framework from the paid ads chapter."
+    },
+    {
+      "start": 1135.29,
+      "end": 1140.79,
+      "text": "For example, during my book launch, the tease phase, I was more specific and revealed more hard information about the book."
+    },
+    {
+      "start": 1141.31,
+      "end": 1148.05,
+      "text": "I started advertising how the book satisfied the dream of limitless leads, of doing less work, and getting it done faster than they could imagine."
+    },
+    {
+      "start": 1148.27,
+      "end": 1150.97,
+      "text": "I also showed dozens of examples using the book to its potential."
+    },
+    {
+      "start": 1151.89,
+      "end": 1154.91,
+      "text": "Action step: start teasing once per week until 14 days out."
+    },
+    {
+      "start": 1155.39,
+      "end": 1157.87,
+      "text": "Then tease twice per week until three days out."
+    },
+    {
+      "start": 1158.31,
+      "end": 1160.45,
+      "text": "Three days out, it's time to shout from the rooftops."
+    },
+    {
+      "start": 1162.21,
+      "end": 1162.55,
+      "text": "Shout."
+    },
+    {
+      "start": 1162.87,
+      "end": 1163.97,
+      "text": "Think call to action."
+    },
+    {
+      "start": 1164.63,
+      "end": 1167.63,
+      "text": "Give specific actions for the audience to take when the product launches."
+    },
+    {
+      "start": 1168.17,
+      "end": 1172.73,
+      "text": "Now you start pounding the audience with bonuses, scarcity, urgency, and guarantees around being the first ones."
+    },
+    {
+      "start": 1173.21,
+      "end": 1175.67,
+      "text": "You shout to get as many people exposed to your offer as you can."
+    },
+    {
+      "start": 1176.05,
+      "end": 1182.77,
+      "text": "For example, during my book launch, the shout phase, I gave specific calls to action, short, sweet, clear reminders to register for the book launch."
+    },
+    {
+      "start": 1183.19,
+      "end": 1187.17,
+      "text": "I reminded everyone of the exclusive bonuses only for people who bought during the launch."
+    },
+    {
+      "start": 1187.97,
+      "end": 1191.67,
+      "text": "Action step: shout at least twice a day starting three days out."
+    },
+    {
+      "start": 1192.11,
+      "end": 1195.73,
+      "text": "On the day of, start shouting every few hours until two hours out."
+    },
+    {
+      "start": 1196.19,
+      "end": 1199.11,
+      "text": "Then shout every 30 minutes until you launch the product."
+    },
+    {
+      "start": 1199.63,
+      "end": 1201.05,
+      "text": "Pro tip: movie releases."
+    },
+    {
+      "start": 1201.67,
+      "end": 1204.83,
+      "text": "The best real-world example of whisper, tease, shout is movie releases."
+    },
+    {
+      "start": 1205.23,
+      "end": 1211.39,
+      "text": "They do five-second trailers a year out, then 30-second trailers 90 days out, then longer trailers as the date approaches."
+    },
+    {
+      "start": 1211.53,
+      "end": 1214.01,
+      "text": "They drive curiosity, then interest, then action."
+    },
+    {
+      "start": 1214.55,
+      "end": 1217.07,
+      "text": "Action step: get your affiliates to launch."
+    },
+    {
+      "start": 1217.69,
+      "end": 1220.75,
+      "text": "Set them up with everything they need to whisper, tease, shout right."
+    },
+    {
+      "start": 1221.19,
+      "end": 1224.29,
+      "text": "They do the advertising, you get the engaged leads, everyone gets paid."
+    },
+    {
+      "start": 1224.87,
+      "end": 1226.83,
+      "text": "Step six: keep them advertising."
+    },
+    {
+      "start": 1227.45,
+      "end": 1231.25,
+      "text": "The strategy we use to start them advertising differs from the one that we use to keep them advertising."
+    },
+    {
+      "start": 1231.57,
+      "end": 1235.15,
+      "text": "In an ideal world, you sell an affiliate once, and they send engaged leads for life."
+    },
+    {
+      "start": 1235.69,
+      "end": 1237.03,
+      "text": "Integration gets us there."
+    },
+    {
+      "start": 1237.65,
+      "end": 1240.35,
+      "text": "I've got three ways you can integrate your product into their offer."
+    },
+    {
+      "start": 1240.79,
+      "end": 1242.45,
+      "text": "I order these from easiest to hardest."
+    },
+    {
+      "start": 1242.95,
+      "end": 1246.31,
+      "text": "First, you can get them to give away your lead magnet with every purchase of their stuff."
+    },
+    {
+      "start": 1246.95,
+      "end": 1250.05,
+      "text": "Second, you can get them to sell your lead magnet separately to their audience."
+    },
+    {
+      "start": 1250.55,
+      "end": 1253.03,
+      "text": "Third, you can get them to directly sell your core offer."
+    },
+    {
+      "start": 1253.97,
+      "end": 1259.55,
+      "text": "Number one: they give away your lead magnet for free, which makes their core offer more valuable for no extra cost."
+    },
+    {
+      "start": 1259.99,
+      "end": 1262.69,
+      "text": "Then you upsell your core offer and every offer thereafter."
+    },
+    {
+      "start": 1263.59,
+      "end": 1268.39,
+      "text": "Number one: affiliates give your lead magnet away when somebody buys their stuff."
+    },
+    {
+      "start": 1268.87,
+      "end": 1273.05,
+      "text": "The idea here is for your lead magnet to make the affiliate's offer more valuable."
+    },
+    {
+      "start": 1273.59,
+      "end": 1277.47,
+      "text": "This allows them to charge more for it and get more leads than they could without it."
+    },
+    {
+      "start": 1277.95,
+      "end": 1286.57,
+      "text": "Remember, the best lead magnets give away a free trial or sample of your thing, reveal a problem, or offer a single step of a multi-step solution."
+    },
+    {
+      "start": 1287.83,
+      "end": 1289.05,
+      "text": "Here are examples of each."
+    },
+    {
+      "start": 1289.65,
+      "end": 1290.51,
+      "text": "Samples and trials."
+    },
+    {
+      "start": 1291.13,
+      "end": 1295.13,
+      "text": "Say I sell massages and recruit the personal training studio next door as an affiliate."
+    },
+    {
+      "start": 1295.67,
+      "end": 1298.51,
+      "text": "Now everyone who buys personal training from them gets a free massage from me."
+    },
+    {
+      "start": 1298.95,
+      "end": 1303.45,
+      "text": "The personal training studio now has a stronger offer they can charge more for, and we get more massage leads."
+    },
+    {
+      "start": 1303.67,
+      "end": 1304.27,
+      "text": "Everybody wins."
+    },
+    {
+      "start": 1305.55,
+      "end": 1306.33,
+      "text": "Reveal a problem."
+    },
+    {
+      "start": 1307.07,
+      "end": 1313.13,
+      "text": "Instead of giving a free massage, we offer a free or discounted posture assessment with every training package they sell."
+    },
+    {
+      "start": 1313.61,
+      "end": 1317.87,
+      "text": "Assessments and discounts add less value to the affiliate's offer, but some people will still do it."
+    },
+    {
+      "start": 1318.15,
+      "end": 1322.41,
+      "text": "And to be clear, after assessing the customer, you make them an offer to solve the problem you revealed."
+    },
+    {
+      "start": 1323.59,
+      "end": 1325.25,
+      "text": "One step in a multi-step process."
+    },
+    {
+      "start": 1325.91,
+      "end": 1329.31,
+      "text": "Say you have a three-part treatment plan: massage, stretching, and adjustments."
+    },
+    {
+      "start": 1329.93,
+      "end": 1333.29,
+      "text": "People get enough value from one step, they fear missing out on the rest of the steps."
+    },
+    {
+      "start": 1333.71,
+      "end": 1337.71,
+      "text": "So the more they think the other steps will help them solve their larger problem, the more likely they are to buy them."
+    },
+    {
+      "start": 1338.93,
+      "end": 1342.95,
+      "text": "What I did, we'd get gym affiliates to give away a free nutrition consult to every new member."
+    },
+    {
+      "start": 1343.47,
+      "end": 1345.43,
+      "text": "Then we'd upsell our products at the consult."
+    },
+    {
+      "start": 1346.03,
+      "end": 1354.35,
+      "text": "They can market that they have nutrition consults included to get more leads, and they could charge more for the added value, and we would get the opportunity to sell those leads."
+    },
+    {
+      "start": 1354.75,
+      "end": 1355.31,
+      "text": "Everybody won."
+    },
+    {
+      "start": 1356.07,
+      "end": 1358.35,
+      "text": "Pro tip: white label lead magnets."
+    },
+    {
+      "start": 1358.93,
+      "end": 1363.73,
+      "text": "One of my favorite strategies is to let them use the lead magnets I've already made for my audience for theirs."
+    },
+    {
+      "start": 1364.25,
+      "end": 1368.25,
+      "text": "Just make sure your affiliates agree with how you give value and understand your call to action."
+    },
+    {
+      "start": 1368.69,
+      "end": 1372.13,
+      "text": "At most, a few tweaks in copy will make your lead magnet work for them."
+    },
+    {
+      "start": 1372.51,
+      "end": 1378.35,
+      "text": "For example, for gyms, I made white-labeled, no logo, meal plans, grocery lists, food prep instructions, et cetera."
+    },
+    {
+      "start": 1378.73,
+      "end": 1381.77,
+      "text": "I gave them to the gyms to use as lead magnets for their customers."
+    },
+    {
+      "start": 1382.23,
+      "end": 1389.03,
+      "text": "All they had to do was slap their logo on it, and boom, their audience got to benefit from all my work instantly, and we both got more leads."
+    },
+    {
+      "start": 1390.09,
+      "end": 1395.27,
+      "text": "Two: they sell their core offer, then they upsell your lead magnet."
+    },
+    {
+      "start": 1395.59,
+      "end": 1398.89,
+      "text": "Then you upsell your core offer and every offer thereafter."
+    },
+    {
+      "start": 1399.97,
+      "end": 1401.75,
+      "text": "Affiliates sell your lead magnet."
+    },
+    {
+      "start": 1402.39,
+      "end": 1406.53,
+      "text": "Basically, the affiliate can sell anything of yours that turns their customers into your customers."
+    },
+    {
+      "start": 1406.65,
+      "end": 1409.87,
+      "text": "It could be a book, an event, a service, a software, a sample product, et cetera."
+    },
+    {
+      "start": 1410.19,
+      "end": 1417.65,
+      "text": "Also, giving affiliates all the cash from selling a lead magnet that you fulfill becomes all profit and no work for them, an attractive proposition for any business."
+    },
+    {
+      "start": 1418.23,
+      "end": 1422.93,
+      "text": "Your money comes by selling your main thing for more than it costs you to deliver your lead magnet."
+    },
+    {
+      "start": 1423.33,
+      "end": 1427.29,
+      "text": "And if you do it this way, you don't need to split any money with them on your core offer."
+    },
+    {
+      "start": 1427.55,
+      "end": 1428.29,
+      "text": "Another win-win."
+    },
+    {
+      "start": 1428.93,
+      "end": 1432.97,
+      "text": "Example: they sell each of those things we gave away for free in the step above."
+    },
+    {
+      "start": 1433.33,
+      "end": 1435.37,
+      "text": "They sell your massage at a discounted price."
+    },
+    {
+      "start": 1435.69,
+      "end": 1439.37,
+      "text": "They sell your assessment, which you could do one-on-one or in a group format like a workshop."
+    },
+    {
+      "start": 1439.77,
+      "end": 1442.03,
+      "text": "They sell part one of your multi-step solution."
+    },
+    {
+      "start": 1443.05,
+      "end": 1447.51,
+      "text": "What I did: the gyms would sell a nutrition consult with us and keep the money."
+    },
+    {
+      "start": 1447.93,
+      "end": 1451.27,
+      "text": "They'd maybe charge 99 or 199 to sell an hour of our time."
+    },
+    {
+      "start": 1451.67,
+      "end": 1453.81,
+      "text": "If we were clever, we'd let them keep all the money."
+    },
+    {
+      "start": 1454.13,
+      "end": 1456.21,
+      "text": "If we do, they'll send even more leads."
+    },
+    {
+      "start": 1456.65,
+      "end": 1458.65,
+      "text": "Then we'd upsell our products during the consult."
+    },
+    {
+      "start": 1459.7,
+      "end": 1464.04,
+      "text": "Three, they sell their core offer, which is the same as your core offer."
+    },
+    {
+      "start": 1464.94,
+      "end": 1466.74,
+      "text": "You upsell more stuff from there."
+    },
+    {
+      "start": 1467.28,
+      "end": 1468.44,
+      "text": "Then you split the money."
+    },
+    {
+      "start": 1468.9,
+      "end": 1473.56,
+      "text": "Either you split the upfront cash, all the cash for a certain period of time, or all the cash forever."
+    },
+    {
+      "start": 1474.12,
+      "end": 1479.06,
+      "text": "I prefer to pay forever, so my affiliates stay motivated to keep my customer forever, and I never cap payouts."
+    },
+    {
+      "start": 1479.84,
+      "end": 1482.14,
+      "text": "Number three, affiliates sell your core offer."
+    },
+    {
+      "start": 1482.5,
+      "end": 1487.04,
+      "text": "An affiliate sells your core offer directly to their customers and adds another source of income without extra work."
+    },
+    {
+      "start": 1487.56,
+      "end": 1490.04,
+      "text": "For some affiliates, this is their entire source of income."
+    },
+    {
+      "start": 1490.56,
+      "end": 1496.68,
+      "text": "Many companies offer this structure as either a new business opportunity or a bolt-on to the affiliate's existing business."
+    },
+    {
+      "start": 1497.2,
+      "end": 1499.94,
+      "text": "Either way, anything you sell, they can sell."
+    },
+    {
+      "start": 1500.48,
+      "end": 1506.0,
+      "text": "When you do it this way, the affiliate will get a higher percentage of your lifetime gross profit, but you won't have to do anything but deliver."
+    },
+    {
+      "start": 1506.5,
+      "end": 1509.28,
+      "text": "Example, they sell your entire massage package."
+    },
+    {
+      "start": 1509.6,
+      "end": 1511.34,
+      "text": "They sell your entire program or services."
+    },
+    {
+      "start": 1511.7,
+      "end": 1515.46,
+      "text": "They bundle their services with your paid services and charge an even higher price."
+    },
+    {
+      "start": 1516.2,
+      "end": 1520.46,
+      "text": "What I did, we taught gyms to hold nutrition consultations with white label products."
+    },
+    {
+      "start": 1521.04,
+      "end": 1524.66,
+      "text": "We then taught them to upsell our supplements right to their members, and we split the money."
+    },
+    {
+      "start": 1525.22,
+      "end": 1526.28,
+      "text": "All three strategies work."
+    },
+    {
+      "start": 1526.44,
+      "end": 1527.14,
+      "text": "They're just different."
+    },
+    {
+      "start": 1527.4,
+      "end": 1533.08,
+      "text": "After testing, we continue to do strategy one twice per year as a big event and strategy three on an ongoing basis."
+    },
+    {
+      "start": 1533.3,
+      "end": 1537.3,
+      "text": "That being said, many similar businesses in our portfolio use strategy two."
+    },
+    {
+      "start": 1537.7,
+      "end": 1538.98,
+      "text": "I'm just sharing what worked for us."
+    },
+    {
+      "start": 1539.42,
+      "end": 1544.28,
+      "text": "Bottom line, integration is the long-term strategy for using affiliates to get enduring lead flow."
+    },
+    {
+      "start": 1544.72,
+      "end": 1545.98,
+      "text": "Treat affiliates like customers."
+    },
+    {
+      "start": 1546.28,
+      "end": 1547.8,
+      "text": "Make your offer make sense for their business."
+    },
+    {
+      "start": 1548.14,
+      "end": 1550.12,
+      "text": "Make it so good they'd feel stupid saying no."
+    },
+    {
+      "start": 1550.86,
+      "end": 1557.96,
+      "text": "Action step, integrate with your affiliates by choosing whether you want them to give away your lead magnet, to sell your lead magnet, or to sell your core offer directly."
+    },
+    {
+      "start": 1558.6,
+      "end": 1560.84,
+      "text": "Those are the six steps to recruiting an affiliate army."
+    },
+    {
+      "start": 1561.48,
+      "end": 1565.2,
+      "text": "Now that we covered that, let me give you three real-life case studies to drive this home."
+    },
+    {
+      "start": 1566.1,
+      "end": 1567.28,
+      "text": "Three case studies you can model."
+    },
+    {
+      "start": 1568.0,
+      "end": 1571.38,
+      "text": "Service business case study number one, national tax preparation services."
+    },
+    {
+      "start": 1572.12,
+      "end": 1577.08,
+      "text": "My friend's 50 million dollar business prepares LLCs, bank accounts, and articles of incorporation."
+    },
+    {
+      "start": 1577.58,
+      "end": 1582.02,
+      "text": "He focuses on people starting businesses for the first time, but he doesn't try to compete with LegalZoom."
+    },
+    {
+      "start": 1582.16,
+      "end": 1584.86,
+      "text": "Instead, he built it partnering with people who train new entrepreneurs."
+    },
+    {
+      "start": 1585.34,
+      "end": 1589.4,
+      "text": "His strategy is simple, help those people sell more of their stuff by also selling his stuff."
+    },
+    {
+      "start": 1589.96,
+      "end": 1592.8,
+      "text": "So he offers every affiliate's customer a free LLC setup."
+    },
+    {
+      "start": 1593.34,
+      "end": 1595.94,
+      "text": "Remember learning about the high-cost lead magnet from section two?"
+    },
+    {
+      "start": 1596.28,
+      "end": 1597.16,
+      "text": "This is one of those."
+    },
+    {
+      "start": 1597.9,
+      "end": 1598.2,
+      "text": "Launch."
+    },
+    {
+      "start": 1598.42,
+      "end": 1601.6,
+      "text": "He does a big blast-off seminar to his affiliate's audience to kick things off."
+    },
+    {
+      "start": 1601.78,
+      "end": 1603.98,
+      "text": "People happily take him up on his free LLC offer."
+    },
+    {
+      "start": 1604.28,
+      "end": 1605.24,
+      "text": "That's his lead magnet."
+    },
+    {
+      "start": 1605.74,
+      "end": 1606.12,
+      "text": "Integrate."
+    },
+    {
+      "start": 1606.7,
+      "end": 1610.32,
+      "text": "Once affiliates see the success of this launch, they integrate his lead magnet into their core offer."
+    },
+    {
+      "start": 1610.62,
+      "end": 1614.8,
+      "text": "Then my friend's team gets on the phone with the customers his affiliates bring him for free."
+    },
+    {
+      "start": 1615.24,
+      "end": 1616.32,
+      "text": "Here's how he makes his money."
+    },
+    {
+      "start": 1616.76,
+      "end": 1622.32,
+      "text": "He sells them what they'll need next, the services they'll need to start their business, bookkeeping, tax prep, etc."
+    },
+    {
+      "start": 1622.98,
+      "end": 1624.6,
+      "text": "He hasn't spent a dollar on paid ads."
+    },
+    {
+      "start": 1624.96,
+      "end": 1626.94,
+      "text": "His true advertising costs are two things."
+    },
+    {
+      "start": 1627.28,
+      "end": 1634.66,
+      "text": "One, delivering his free lead magnet, the LLC setup, and two, paying a percentage of every first sale to the affiliates that sent them."
+    },
+    {
+      "start": 1635.04,
+      "end": 1636.92,
+      "text": "That's it, and everybody wins."
+    },
+    {
+      "start": 1637.62,
+      "end": 1641.0,
+      "text": "Physical products case study number two, Prestige Labs, my supplement company."
+    },
+    {
+      "start": 1641.56,
+      "end": 1645.26,
+      "text": "We sell gym owners at Gym Launch and train them how to advertise and sell their gym memberships."
+    },
+    {
+      "start": 1645.88,
+      "end": 1648.42,
+      "text": "Prestige Labs has a line of supplements for active adults."
+    },
+    {
+      "start": 1648.96,
+      "end": 1651.58,
+      "text": "This makes Gym Launch a perfect affiliate for Prestige Labs."
+    },
+    {
+      "start": 1652.02,
+      "end": 1654.66,
+      "text": "It's a community of gym owners that also have active adult customers."
+    },
+    {
+      "start": 1655.12,
+      "end": 1658.72,
+      "text": "So when Gym Launch sells a new gym owner, they introduce the gym owners to Prestige Labs."
+    },
+    {
+      "start": 1659.08,
+      "end": 1662.44,
+      "text": "Then Prestige Labs' team follows the launch and integrate strategy above."
+    },
+    {
+      "start": 1662.72,
+      "end": 1663.5,
+      "text": "We really do this."
+    },
+    {
+      "start": 1664.2,
+      "end": 1664.52,
+      "text": "Launch."
+    },
+    {
+      "start": 1665.0,
+      "end": 1668.56,
+      "text": "We give the gym owners advertising materials so they can re-engage their current and former customers."
+    },
+    {
+      "start": 1668.74,
+      "end": 1671.7,
+      "text": "We focus on warm outreach and posting content for a free 28-day challenge."
+    },
+    {
+      "start": 1672.16,
+      "end": 1675.78,
+      "text": "When they come in for the free challenge, the gym owner sells them supplements to use with the program."
+    },
+    {
+      "start": 1676.18,
+      "end": 1680.02,
+      "text": "The gym owner gets more customers, they make money, we make money, everyone wins."
+    },
+    {
+      "start": 1680.58,
+      "end": 1680.98,
+      "text": "Integrate."
+    },
+    {
+      "start": 1681.54,
+      "end": 1684.18,
+      "text": "After the launch, we teach them to sell supplements to every new gym member."
+    },
+    {
+      "start": 1684.62,
+      "end": 1688.28,
+      "text": "So when new clients buy a membership package, the gym owner sets up a nutrition orientation."
+    },
+    {
+      "start": 1688.8,
+      "end": 1692.48,
+      "text": "At the nutrition orientation, the gym owner sells them 50 to 1,000 dollars of supplements."
+    },
+    {
+      "start": 1692.74,
+      "end": 1698.6,
+      "text": "So if a gym signs up 20 clients per month and gets 70% of them to buy supplements, we get 14 new customers per month per gym."
+    },
+    {
+      "start": 1698.84,
+      "end": 1705.48,
+      "text": "It doesn't sound like much, but when you multiply 4,000 gyms times 14 new sales per month times 200 dollar average order, it equals a lot of money every month."
+    },
+    {
+      "start": 1706.32,
+      "end": 1708.4,
+      "text": "Local business case study number three, chiropractors."
+    },
+    {
+      "start": 1708.84,
+      "end": 1713.1,
+      "text": "Chiropractors want new patients, and a portfolio company of ours teaches them to use an affiliate strategy to get them."
+    },
+    {
+      "start": 1713.5,
+      "end": 1714.24,
+      "text": "Their model is simple."
+    },
+    {
+      "start": 1714.7,
+      "end": 1717.46,
+      "text": "Go to high-volume businesses that have people that are in need of adjustments."
+    },
+    {
+      "start": 1717.98,
+      "end": 1719.16,
+      "text": "A gym fits the bill nicely."
+    },
+    {
+      "start": 1719.54,
+      "end": 1720.32,
+      "text": "Here's what they do."
+    },
+    {
+      "start": 1720.9,
+      "end": 1721.24,
+      "text": "Launch."
+    },
+    {
+      "start": 1721.64,
+      "end": 1727.2,
+      "text": "They get the gym owner to promote a three-hour workshop where they show correct exercises and posture to get more from their workouts."
+    },
+    {
+      "start": 1727.66,
+      "end": 1732.08,
+      "text": "The gym owner promotes the workshop for free or sells the workshop for 29 to 99 dollars a person."
+    },
+    {
+      "start": 1732.6,
+      "end": 1734.28,
+      "text": "The chiropractor splits the money with the gym owner."
+    },
+    {
+      "start": 1734.56,
+      "end": 1739.66,
+      "text": "Hint, if you give the affiliate, the gym owner in this case, 100% of the money, they'll want to do it more."
+    },
+    {
+      "start": 1740.02,
+      "end": 1746.8,
+      "text": "So if a gym owner gets 30 people to show up for 99 dollars, they make 2,970 dollars of profit for zero work besides a few emails and posts."
+    },
+    {
+      "start": 1747.26,
+      "end": 1751.18,
+      "text": "At the workshop, the chiropractor soft pitches their services and gets a bucket of new patients."
+    },
+    {
+      "start": 1751.7,
+      "end": 1753.0,
+      "text": "Easy peasy, lemon squeezy."
+    },
+    {
+      "start": 1753.42,
+      "end": 1753.84,
+      "text": "Integrate."
+    },
+    {
+      "start": 1754.3,
+      "end": 1759.72,
+      "text": "Long term, the chiropractor convinces the gym owner to include one to two adjustments with every new membership the gym signs up."
+    },
+    {
+      "start": 1760.42,
+      "end": 1768.08,
+      "text": "This increases the value of the gym membership compared to the guy down the street, and it shows the gym prioritizes its members' health and safety, a big concern for beginners."
+    },
+    {
+      "start": 1768.86,
+      "end": 1769.42,
+      "text": "Win-win."
+    },
+    {
+      "start": 1769.7,
+      "end": 1773.42,
+      "text": "Now, every new gym member becomes a lead for the chiropractor to follow up with."
+    },
+    {
+      "start": 1773.82,
+      "end": 1776.96,
+      "text": "They repeat this process with 30 gyms and get more patients than they can handle."
+    },
+    {
+      "start": 1777.64,
+      "end": 1779.92,
+      "text": "Pro tip, employees are leads too."
+    },
+    {
+      "start": 1780.46,
+      "end": 1782.6,
+      "text": "Companies that hire a lot of people make great affiliates."
+    },
+    {
+      "start": 1783.06,
+      "end": 1786.72,
+      "text": "This is huge for direct-to-consumer businesses and wildly underused."
+    },
+    {
+      "start": 1787.26,
+      "end": 1794.1,
+      "text": "Example, every new hire at a company gets a free massage in their new employee packet, or you can give free massages to their employees at lunch."
+    },
+    {
+      "start": 1794.3,
+      "end": 1797.44,
+      "text": "It's free, it's easy, and lots of companies want to provide more value to their teams."
+    },
+    {
+      "start": 1797.92,
+      "end": 1804.82,
+      "text": "They get free value, you get free leads, and since they're probably not in the same business as you, there's no risk of you, quote, \"competing\" with theirs."
+    },
+    {
+      "start": 1805.12,
+      "end": 1807.74,
+      "text": "So employers can be among the easiest affiliates to integrate with."
+    },
+    {
+      "start": 1808.34,
+      "end": 1809.24,
+      "text": "Cost and returns."
+    },
+    {
+      "start": 1809.24,
+      "end": 1812.2,
+      "text": "\"Affiliates can't work for my business,\" the loser said."
+    },
+    {
+      "start": 1812.2,
+      "end": 1815.02,
+      "text": "\"I have to make affiliates work for my business,\" the winner said."
+    },
+    {
+      "start": 1815.52,
+      "end": 1816.16,
+      "text": "Be a winner."
+    },
+    {
+      "start": 1816.84,
+      "end": 1822.24,
+      "text": "When calculating returns with other methods, we compared lifetime gross profit, LTGP, with cost to acquire customer, CAC."
+    },
+    {
+      "start": 1822.78,
+      "end": 1826.54,
+      "text": "So we spend money to get customers, and the customers in a profitable business give us more money back."
+    },
+    {
+      "start": 1827.12,
+      "end": 1828.26,
+      "text": "Affiliates work differently."
+    },
+    {
+      "start": 1828.78,
+      "end": 1833.3,
+      "text": "We spend money to get affiliates, sure, but we don't really make much back from affiliates themselves."
+    },
+    {
+      "start": 1833.46,
+      "end": 1837.38,
+      "text": "Instead, the money we spend to get an affiliate comes back from the customers they bring us."
+    },
+    {
+      "start": 1837.84,
+      "end": 1843.4,
+      "text": "So to calculate returns, we compare how much it costs us to get an affiliate with the gross profit of all the customers they send to our business."
+    },
+    {
+      "start": 1843.94,
+      "end": 1847.16,
+      "text": "Example: let's say we own a widget company that grows with affiliates."
+    },
+    {
+      "start": 1848.0,
+      "end": 1852.48,
+      "text": "It costs us 4,000 dollars in advertising to get an affiliate, so CAC equals 4,000."
+    },
+    {
+      "start": 1852.96,
+      "end": 1856.8,
+      "text": "Our average affiliate sells 10,000 dollars in widgets per month and stays for 12 months."
+    },
+    {
+      "start": 1857.36,
+      "end": 1861.3,
+      "text": "10,000 per month times 12 months equals 120,000 in total sales."
+    },
+    {
+      "start": 1861.98,
+      "end": 1863.88,
+      "text": "The widgets have a 75% gross margin."
+    },
+    {
+      "start": 1864.1,
+      "end": 1866.7,
+      "text": "In other words, they cost 25% of retail price to make."
+    },
+    {
+      "start": 1867.28,
+      "end": 1874.4,
+      "text": "So 120,000 in total sales times 25% of total cost of goods equals 30,000 dollars total cost of goods."
+    },
+    {
+      "start": 1875.26,
+      "end": 1883.74,
+      "text": "Now we take the 120,000 dollars total sales minus 30,000 dollars total cost of goods equals 90,000 dollars in gross profit from all the customers the affiliate brings."
+    },
+    {
+      "start": 1884.38,
+      "end": 1886.96,
+      "text": "We pay the affiliate 40% of gross profit."
+    },
+    {
+      "start": 1887.32,
+      "end": 1893.52,
+      "text": "So 90,000 dollars of gross profit times 40% payout equals 36,000 dollars to the affiliate as payment."
+    },
+    {
+      "start": 1894.44,
+      "end": 1897.7,
+      "text": "Here's the gross profit we have left over after cost of goods and payouts."
+    },
+    {
+      "start": 1898.36,
+      "end": 1904.86,
+      "text": "120,000 dollars total minus 30,000 dollars cost of goods minus 36,000 dollars payout equals 54,000 left over."
+    },
+    {
+      "start": 1905.42,
+      "end": 1908.74,
+      "text": "So let's find out our affiliate LTGP to CAC ratio."
+    },
+    {
+      "start": 1909.46,
+      "end": 1914.48,
+      "text": "54,000 dollars of gross profit left divided by 4,000 dollars to get an affiliate, 12 and a half to 1."
+    },
+    {
+      "start": 1914.96,
+      "end": 1915.86,
+      "text": "Not too shabby."
+    },
+    {
+      "start": 1916.74,
+      "end": 1920.2,
+      "text": "If you recall from earlier, we need at least 3 to 1 to have a decent business."
+    },
+    {
+      "start": 1920.6,
+      "end": 1924.26,
+      "text": "Like the example, we want the ratio to be even higher than that, 5 to 1, 10 to 1 plus."
+    },
+    {
+      "start": 1924.78,
+      "end": 1926.92,
+      "text": "Now, if we had these numbers, we'd just do more."
+    },
+    {
+      "start": 1927.26,
+      "end": 1931.14,
+      "text": "But if your actual LTGP to CAC is less than 3, here are three ways to improve it."
+    },
+    {
+      "start": 1931.66,
+      "end": 1933.02,
+      "text": "Number one, lower CAC."
+    },
+    {
+      "start": 1933.34,
+      "end": 1936.5,
+      "text": "We get affiliates for less by improving our ads, offer, and sales process."
+    },
+    {
+      "start": 1937.02,
+      "end": 1939.46,
+      "text": "Two, increase LTGP and decrease CAC."
+    },
+    {
+      "start": 1940.02,
+      "end": 1942.82,
+      "text": "Get more to activate by creating a launch process."
+    },
+    {
+      "start": 1943.4,
+      "end": 1945.16,
+      "text": "Three, increase LTGP."
+    },
+    {
+      "start": 1945.58,
+      "end": 1948.96,
+      "text": "We make them worth more by improving our integration process long term."
+    },
+    {
+      "start": 1949.76,
+      "end": 1954.86,
+      "text": "With affiliates, you have at least two layers of customers, your customers and the people who get you customers."
+    },
+    {
+      "start": 1955.36,
+      "end": 1959.58,
+      "text": "And if you've got super affiliates, you add a third, the people who get you the people who get you customers."
+    },
+    {
+      "start": 1960.0,
+      "end": 1962.88,
+      "text": "This adds complexity, but if you can manage it, it's worth it."
+    },
+    {
+      "start": 1963.42,
+      "end": 1968.02,
+      "text": "Now that you understand how to use affiliates to advertise and how to make them more profitable, let's bring it all home."
+    },
+    {
+      "start": 1968.58,
+      "end": 1969.08,
+      "text": "Conclusion."
+    },
+    {
+      "start": 1969.84,
+      "end": 1972.66,
+      "text": "Like referrals, affiliates aren't an advertising method you can do."
+    },
+    {
+      "start": 1972.98,
+      "end": 1975.4,
+      "text": "They're people who advertise your stuff to benefit you both."
+    },
+    {
+      "start": 1975.9,
+      "end": 1981.78,
+      "text": "You do the core four to get them, and if you want them to love you, then you treat them like customers, because in a lot of the ways, they are."
+    },
+    {
+      "start": 1982.18,
+      "end": 1987.44,
+      "text": "And if you deliver more value to them than it costs to get them, especially hitting costs, they'll get you more leads than you can handle."
+    },
+    {
+      "start": 1987.98,
+      "end": 1990.92,
+      "text": "And like we learned earlier, there are two ways to create a compounding business."
+    },
+    {
+      "start": 1991.34,
+      "end": 1996.68,
+      "text": "You can find more people that never stop buying your stuff, or you can find more people who never stop selling it for you."
+    },
+    {
+      "start": 1997.18,
+      "end": 1999.32,
+      "text": "Referrals are the former, affiliates are the latter."
+    },
+    {
+      "start": 1999.96,
+      "end": 2003.64,
+      "text": "In theory, once you build an affiliate army, you never need to advertise again."
+    },
+    {
+      "start": 2003.8,
+      "end": 2005.52,
+      "text": "They keep getting you leads month after month."
+    },
+    {
+      "start": 2005.76,
+      "end": 2007.6,
+      "text": "The main reason, it makes sense for them."
+    },
+    {
+      "start": 2007.88,
+      "end": 2011.32,
+      "text": "The way you do business, your leadership, the value of your product all comes into play."
+    },
+    {
+      "start": 2011.72,
+      "end": 2014.44,
+      "text": "You are only as good as the goodwill you have with your affiliate partners."
+    },
+    {
+      "start": 2014.94,
+      "end": 2017.62,
+      "text": "Arrange it right, and you should both be better off in the relationship."
+    },
+    {
+      "start": 2018.2,
+      "end": 2022.72,
+      "text": "And they should be able to spend more to acquire customers through a more compelling offer, higher profits, or both."
+    },
+    {
+      "start": 2023.02,
+      "end": 2025.02,
+      "text": "And in return, you get more engaged leads."
+    },
+    {
+      "start": 2025.38,
+      "end": 2026.52,
+      "text": "So why doesn't everyone do this?"
+    },
+    {
+      "start": 2026.86,
+      "end": 2028.02,
+      "text": "They don't know it's possible."
+    },
+    {
+      "start": 2028.56,
+      "end": 2030.9,
+      "text": "They don't know how, or they don't want to."
+    },
+    {
+      "start": 2031.2,
+      "end": 2031.82,
+      "text": "Simple as that."
+    },
+    {
+      "start": 2032.32,
+      "end": 2034.64,
+      "text": "Hopefully, we solved all three of those issues at once."
+    },
+    {
+      "start": 2035.08,
+      "end": 2036.74,
+      "text": "Remember, advertising always works."
+    },
+    {
+      "start": 2036.9,
+      "end": 2038.12,
+      "text": "It's only a matter of efficiency."
+    },
+    {
+      "start": 2038.48,
+      "end": 2040.66,
+      "text": "So once you start, keep going until it works."
+    },
+    {
+      "start": 2041.38,
+      "end": 2041.82,
+      "text": "Action step."
+    },
+    {
+      "start": 2042.1,
+      "end": 2045.04,
+      "text": "Advertise your affiliate offer until you get 10 to 20 affiliates."
+    },
+    {
+      "start": 2045.56,
+      "end": 2051.44,
+      "text": "Get results with those affiliates and use their feedback to work the kinks out of your offer, terms, launches, and integration strategy."
+    },
+    {
+      "start": 2051.86,
+      "end": 2056.18,
+      "text": "Then scale like crazy by turning their results into your first batch of affiliate lead magnets."
+    },
+    {
+      "start": 2057.22,
+      "end": 2057.66,
+      "text": "Free gift."
+    },
+    {
+      "start": 2057.84,
+      "end": 2059.24,
+      "text": "Build your affiliate army bonus."
+    },
+    {
+      "start": 2059.74,
+      "end": 2062.56,
+      "text": "As you can see, I'm a big fan of building affiliate programs when they're done right."
+    },
+    {
+      "start": 2063.1,
+      "end": 2066.72,
+      "text": "To help you do it right on your first try, I made an in-depth video training for you."
+    },
+    {
+      "start": 2067.2,
+      "end": 2070.28,
+      "text": "You can get it free at acquisition.com/training/leads."
+    },
+    {
+      "start": 2070.76,
+      "end": 2071.22,
+      "text": "Enjoy."
+    },
+    {
+      "start": 2075.24,
+      "end": 2076.4,
+      "text": "Section four conclusion."
+    },
+    {
+      "start": 2076.78,
+      "end": 2077.64,
+      "text": "Get lead getters."
+    },
+    {
+      "start": 2078.34,
+      "end": 2081.98,
+      "text": "The last skill you ever need to learn is how to get other people to do everything you need for you."
+    },
+    {
+      "start": 2083.18,
+      "end": 2088.28,
+      "text": "We do the core four to get engaged leads, warm outreach, post content, cold outreach, and paid ads."
+    },
+    {
+      "start": 2088.92,
+      "end": 2094.32,
+      "text": "And we use them to get two types of engaged leads, the ones that become customers or the ones we turn into lead getters."
+    },
+    {
+      "start": 2095.12,
+      "end": 2099.0,
+      "text": "Lead getters come in four flavors, referrers, employees, agencies, and affiliates."
+    },
+    {
+      "start": 2099.72,
+      "end": 2100.7,
+      "text": "Each have key strengths."
+    },
+    {
+      "start": 2101.3,
+      "end": 2104.26,
+      "text": "Customer referrals have the biggest potential for low-cost exponential growth."
+    },
+    {
+      "start": 2104.9,
+      "end": 2107.86,
+      "text": "Employees have your direct influence and run your business on your behalf."
+    },
+    {
+      "start": 2108.76,
+      "end": 2112.58,
+      "text": "Agencies teach skills you keep forever and can transfer to your team."
+    },
+    {
+      "start": 2113.26,
+      "end": 2116.44,
+      "text": "Affiliates, once you get them going, can operate entirely on their own."
+    },
+    {
+      "start": 2117.16,
+      "end": 2122.04,
+      "text": "You can either do the advertising or other people can, and there are more, quote, \"other people\" than there are of you."
+    },
+    {
+      "start": 2122.3,
+      "end": 2124.32,
+      "text": "You get more leads for the work you do when you have help."
+    },
+    {
+      "start": 2125.0,
+      "end": 2127.46,
+      "text": "So if you want to get a ton of leads, this is the way."
+    },
+    {
+      "start": 2128.34,
+      "end": 2129.6,
+      "text": "Maybe your head is officially spinning."
+    },
+    {
+      "start": 2130.36,
+      "end": 2133.38,
+      "text": "Now that you understand these advertising methods, you see leads everywhere you look."
+    },
+    {
+      "start": 2133.86,
+      "end": 2138.24,
+      "text": "We have so many ways to grow, and you'd be right, but you don't know which one to focus on."
+    },
+    {
+      "start": 2139.06,
+      "end": 2144.94,
+      "text": "Any or all of these lead methods can underpin a successful lead getting strategy, and I put them in the order of what happens naturally."
+    },
+    {
+      "start": 2145.64,
+      "end": 2149.26,
+      "text": "If you start on your own, you tend to get your first referrals before you start building a big team."
+    },
+    {
+      "start": 2150.12,
+      "end": 2155.0,
+      "text": "And when you start building a big team, employees, you'll probably start looking for professionals to help, agencies."
+    },
+    {
+      "start": 2155.56,
+      "end": 2162.82,
+      "text": "And only when a business owner has a handle on managing people inside of their business do they need to get the guts to try and manage people outside of their business, affiliates."
+    },
+    {
+      "start": 2163.42,
+      "end": 2166.94,
+      "text": "In any case, you have to forget the idea that everything is going to work out the first time."
+    },
+    {
+      "start": 2167.7,
+      "end": 2171.42,
+      "text": "If you think you're going to become a millionaire the first year you go out on your own, you're probably wrong."
+    },
+    {
+      "start": 2171.58,
+      "end": 2172.42,
+      "text": "It's very unlikely."
+    },
+    {
+      "start": 2172.94,
+      "end": 2176.36,
+      "text": "And an obsession with getting rich quick will likely ensure it never happens."
+    },
+    {
+      "start": 2176.82,
+      "end": 2181.22,
+      "text": "People try shortcuts for a decade until they realize they should have picked a strategy and stuck with it for a decade."
+    },
+    {
+      "start": 2181.66,
+      "end": 2183.72,
+      "text": "If you do that, success is inevitable."
+    },
+    {
+      "start": 2184.14,
+      "end": 2187.02,
+      "text": "Once you find something that works for you, stick with what you pick."
+    },
+    {
+      "start": 2187.53,
+      "end": 2189.53,
+      "text": "Those are the best words of encouragement I can offer."
+    },
+    {
+      "start": 2189.95,
+      "end": 2193.61,
+      "text": "The longer you play the game, the better you will get and the more success you will have."
+    },
+    {
+      "start": 2194.05,
+      "end": 2197.01,
+      "text": "Just don't quit or switch methods after seeing a few losses."
+    },
+    {
+      "start": 2197.43,
+      "end": 2198.75,
+      "text": "It's normal to lose in the beginning."
+    },
+    {
+      "start": 2199.19,
+      "end": 2204.09,
+      "text": "In fact, I expect to crack a new lead source in three to six months, and this isn't my first rodeo."
+    },
+    {
+      "start": 2204.71,
+      "end": 2208.07,
+      "text": "So if your expectations are faster than that, do you think your expectations are reasonable?"
+    },
+    {
+      "start": 2208.91,
+      "end": 2209.65,
+      "text": "We covered a lot here."
+    },
+    {
+      "start": 2210.15,
+      "end": 2211.65,
+      "text": "This section was how you scale."
+    },
+    {
+      "start": 2212.03,
+      "end": 2213.39,
+      "text": "You get other people to help you."
+    },
+    {
+      "start": 2213.81,
+      "end": 2214.77,
+      "text": "They are the missing link."
+    },
+    {
+      "start": 2215.29,
+      "end": 2217.23,
+      "text": "Each has their own strategy and best practices."
+    },
+    {
+      "start": 2217.73,
+      "end": 2218.95,
+      "text": "Use what applies to you now."
+    },
+    {
+      "start": 2219.61,
+      "end": 2222.11,
+      "text": "This leads us to section five, get started."
+    },
+    {
+      "start": 2222.61,
+      "end": 2226.21,
+      "text": "I want to put everything together for you in a nice bow so you know exactly what to do next."
+    },
+    {
+      "start": 2226.63,
+      "end": 2230.21,
+      "text": "Together, we'll eliminate leads as the bottleneck in your business forever."
+    },
+    {
+      "start": 2230.83,
+      "end": 2231.27,
+      "text": "Onwards."
+    },
+    {
+      "start": 2232.97,
+      "end": 2237.15,
+      "text": "That concludes the second to last episode of the 100 Million Dollar Leads podcast collab."
+    },
+    {
+      "start": 2237.55,
+      "end": 2243.37,
+      "text": "And in the spirit of affiliates and partners, I'm going to ask you to be an affiliate of mine, and not in the way that you might expect."
+    },
+    {
+      "start": 2243.49,
+      "end": 2246.71,
+      "text": "So you might not know this, but many people charge for audiobooks."
+    },
+    {
+      "start": 2246.81,
+      "end": 2247.63,
+      "text": "That's a common trait."
+    },
+    {
+      "start": 2247.67,
+      "end": 2248.43,
+      "text": "That's how most people do it."
+    },
+    {
+      "start": 2248.67,
+      "end": 2250.57,
+      "text": "And they don't even see that as like a, a brand ask."
+    },
+    {
+      "start": 2250.61,
+      "end": 2252.33,
+      "text": "It's like, of course, you're going to charge for an audiobook."
+    },
+    {
+      "start": 2252.83,
+      "end": 2259.97,
+      "text": "Um, but I chose not to do that despite spending probably more time on this book than most people spend on their books when they just have ghost writers pump them out so they can make 20 bucks on everybody."
+    },
+    {
+      "start": 2260.53,
+      "end": 2262.27,
+      "text": "Um, but here is my ask."
+    },
+    {
+      "start": 2262.77,
+      "end": 2272.35,
+      "text": "If you can be an affiliate of mine and send this chapter or any chapters or just the first chapter of this book to somebody else, it would mean the world to me and maybe to them."
+    },
+    {
+      "start": 2272.95,
+      "end": 2281.05,
+      "text": "And something that you may not know that I found out way too late in life is that when you introduce someone to something valuable, they associate you with the value that you gave them."
+    },
+    {
+      "start": 2281.09,
+      "end": 2285.39,
+      "text": "And so you can gain relational capital by introducing new people to valuable things."
+    },
+    {
+      "start": 2285.43,
+      "end": 2288.61,
+      "text": "And so I hope that I can be that channel for you."
+    },
+    {
+      "start": 2289.39,
+      "end": 2293.35,
+      "text": "And next, we'll have our very last episode that will conclude the 100 Million Dollar Leads book."
+    },
+    {
+      "start": 2293.55,
+      "end": 2294.85,
+      "text": "I'm not even going to tell you what's in it."
+    },
+    {
+      "start": 2295.25,
+      "end": 2299.55,
+      "text": "It's just going to be good because who gets 10 chapters in and doesn't finish the 11th?"
+    },
+    {
+      "start": 2299.75,
+      "end": 2300.85,
+      "text": "So I'll see you in the next one."
+    },
+    {
+      "start": 2303.07,
+      "end": 2308.05,
+      "text": "This has been 100 Million Dollar Leads, written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 2308.25,
+      "end": 2310.73,
+      "text": "Copyright 2023 acquisition.com."
+    },
+    {
+      "start": 2310.99,
+      "end": 2314.77,
+      "text": "Audio production copyright 2023 acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "7ed5266d2cdcc9a84d590c821c6ecb6d3aeec5da80c19963e9f9217b5975021f",
+  "audio_duration_sec": 2319.203265,
+  "elapsed_sec": 21.7,
+  "created": "2026-11-16T03:07:29+00:00"
+}

@@ -1,0 +1,2592 @@
+{
+  "source_id": "hormozi-100m-offers-p01",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.64,
+      "end": 1.3,
+      "text": "What's going on, guys?"
+    },
+    {
+      "start": 1.42,
+      "end": 3.78,
+      "text": "I have a special, special surprise for you."
+    },
+    {
+      "start": 4.02,
+      "end": 6.6,
+      "text": "Uh, this was not announced publicly, so you guys will be the first one to hear it."
+    },
+    {
+      "start": 7.16,
+      "end": 16.1,
+      "text": "Um, but I have actually made my 100 Million Dollar Offers audiobook, uh, which has been available on Amazon for the last two years and has been top 100, uh, throughout that whole time."
+    },
+    {
+      "start": 16.66,
+      "end": 18.96,
+      "text": "Uh, it's now here, free, for you guys."
+    },
+    {
+      "start": 19.38,
+      "end": 23.62,
+      "text": "Um, and I did that because I just want more people to have it and more people to share it."
+    },
+    {
+      "start": 23.7,
+      "end": 32.02,
+      "text": "So, uh, the next few chapters and episodes, uh, will be directly from the audiobook, uh, for your listening pleasure."
+    },
+    {
+      "start": 32.64,
+      "end": 35.38,
+      "text": "Um, and my, uh, my only ask is that, uh, that you share it."
+    },
+    {
+      "start": 35.56,
+      "end": 40.44,
+      "text": "Share it with somebody who you think it would benefit from, um, and it would just mean the world to me and hopefully to them."
+    },
+    {
+      "start": 41.64,
+      "end": 41.96,
+      "text": "Enjoy."
+    },
+    {
+      "start": 43.68,
+      "end": 46.98,
+      "text": "Welcome to the special edition of 100 Million Dollar Offers."
+    },
+    {
+      "start": 47.54,
+      "end": 56.34,
+      "text": "In this episode collab with The Game, we will be going over opening credits, dedication, start here, how we got here, and grand slam offers."
+    },
+    {
+      "start": 56.88,
+      "end": 60.54,
+      "text": "And I hope you enjoy this book as much as I enjoyed making it for you."
+    },
+    {
+      "start": 61.0,
+      "end": 64.22,
+      "text": "And if it does provide you value, I hope you'll share it with a friend."
+    },
+    {
+      "start": 67.66,
+      "end": 76.4,
+      "text": "Acquisition.com Publishing is proud to present Acquisition.com Volume 1: 100 Million Dollar Offers: How to Make Offers So Good People Feel Stupid Saying No."
+    },
+    {
+      "start": 77.02,
+      "end": 78.76,
+      "text": "Written and performed by Alex Hormozi."
+    },
+    {
+      "start": 81.8,
+      "end": 82.64,
+      "text": "Guiding principles."
+    },
+    {
+      "start": 83.26,
+      "end": 84.2,
+      "text": "There are no rules."
+    },
+    {
+      "start": 84.96,
+      "end": 85.48,
+      "text": "Dedication."
+    },
+    {
+      "start": 86.2,
+      "end": 86.56,
+      "text": "To Leila."
+    },
+    {
+      "start": 87.2,
+      "end": 95.72,
+      "text": "You are my ride or die, a term used to describe a person, usually a woman, that is willing to do anything for their partner, friend, or family, even in the face of danger."
+    },
+    {
+      "start": 96.46,
+      "end": 98.28,
+      "text": "Couldn't do this without you and wouldn't want to."
+    },
+    {
+      "start": 99.02,
+      "end": 101.2,
+      "text": "You make waking up every day worth it."
+    },
+    {
+      "start": 101.94,
+      "end": 103.52,
+      "text": "Thank you for being unapologetically you."
+    },
+    {
+      "start": 104.06,
+      "end": 104.92,
+      "text": "You're a down motherfucker."
+    },
+    {
+      "start": 105.52,
+      "end": 105.88,
+      "text": "To Trevor."
+    },
+    {
+      "start": 107.02,
+      "end": 108.44,
+      "text": "You're the best friend a guy could ask for."
+    },
+    {
+      "start": 108.96,
+      "end": 112.28,
+      "text": "Thank you for spending hours upon hours beating up the ideas that became this book with me."
+    },
+    {
+      "start": 113.04,
+      "end": 117.8,
+      "text": "It would not have been half as good as it is without your relentless drive for simplification and clarity."
+    },
+    {
+      "start": 118.48,
+      "end": 119.82,
+      "text": "Eternally grateful for our friendship."
+    },
+    {
+      "start": 120.34,
+      "end": 121.96,
+      "text": "You make me feel less alone in this world."
+    },
+    {
+      "start": 122.66,
+      "end": 124.16,
+      "text": "Cheers to becoming old and crotchety."
+    },
+    {
+      "start": 127.56,
+      "end": 128.0,
+      "text": "Start here."
+    },
+    {
+      "start": 129.44,
+      "end": 134.68,
+      "text": "Outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right."
+    },
+    {
+      "start": 135.5,
+      "end": 139.5,
+      "text": "Given a 10% chance of 100 times payoff, you should take that bet every time."
+    },
+    {
+      "start": 140.3,
+      "end": 142.68,
+      "text": "But you're still going to be wrong nine times out of 10."
+    },
+    {
+      "start": 143.62,
+      "end": 148.5,
+      "text": "We all know that if you swing for the fences, you're going to strike out a lot, but you're also going to hit some home runs."
+    },
+    {
+      "start": 149.34,
+      "end": 153.94,
+      "text": "The difference between baseball and business, however, is that baseball has a truncated outcome distribution."
+    },
+    {
+      "start": 154.64,
+      "end": 159.12,
+      "text": "When you swing, no matter how well you connect with the ball, the most runs you can get is four."
+    },
+    {
+      "start": 159.76,
+      "end": 164.96,
+      "text": "In business, every once in a while, when you step up to the plate, you can score a thousand runs."
+    },
+    {
+      "start": 165.74,
+      "end": 168.96,
+      "text": "This long tail distribution of returns is why it's important to be bold."
+    },
+    {
+      "start": 169.78,
+      "end": 171.56,
+      "text": "Big winners pay for so many experiments."
+    },
+    {
+      "start": 172.28,
+      "end": 172.86,
+      "text": "Jeff Bezos."
+    },
+    {
+      "start": 174.12,
+      "end": 175.78,
+      "text": "As entrepreneurs, we make bets every day."
+    },
+    {
+      "start": 176.52,
+      "end": 184.28,
+      "text": "We are gamblers, gambling our hard-earned money on labor, inventory, rent, marketing, et cetera, all with the hopes of a higher payout."
+    },
+    {
+      "start": 184.96,
+      "end": 188.78,
+      "text": "Oftentimes, we lose, but sometimes we win and win big."
+    },
+    {
+      "start": 189.64,
+      "end": 193.38,
+      "text": "However, there's a difference between gambling in business and gambling in a casino."
+    },
+    {
+      "start": 194.3,
+      "end": 196.72,
+      "text": "In a casino, the odds are stacked against you."
+    },
+    {
+      "start": 197.26,
+      "end": 199.76,
+      "text": "With skill, you can improve them, but never beat them."
+    },
+    {
+      "start": 200.34,
+      "end": 205.08,
+      "text": "In contrast, in business, you can improve your skills to shift the odds in your favor."
+    },
+    {
+      "start": 205.94,
+      "end": 208.9,
+      "text": "Simply stated, with enough skill, you can become the house."
+    },
+    {
+      "start": 209.88,
+      "end": 225.5,
+      "text": "After beginning a series of books on acquisition, it became apparent that I could not talk about any other topic without first addressing the offer, the starting point of any conversation to initiate a transaction with a customer, what you are literally providing them in exchange for their money."
+    },
+    {
+      "start": 226.26,
+      "end": 227.3,
+      "text": "That's where it all begins."
+    },
+    {
+      "start": 228.56,
+      "end": 240.08,
+      "text": "This book is about how to make profitable offers, specifically how to reliably turn advertising dollars into enormous profits using a combination of pricing, value, guarantees, and naming strategies."
+    },
+    {
+      "start": 240.88,
+      "end": 243.78,
+      "text": "I call the proper combination of these components a grand slam offer."
+    },
+    {
+      "start": 244.6,
+      "end": 254.06,
+      "text": "I chose this term partially in homage to the above quote from Amazon founder Jeff Bezos, and because, like a grand slam in baseball, a grand slam offer is both very good and very rare."
+    },
+    {
+      "start": 255.08,
+      "end": 260.28,
+      "text": "Additionally, to extend the baseball metaphor, it takes no more effort to make a grand slam offer than to strike out."
+    },
+    {
+      "start": 260.82,
+      "end": 266.14,
+      "text": "The difference is dictated by the skill of the marketer and how well he connects his offer with his audience's desires."
+    },
+    {
+      "start": 267.1,
+      "end": 273.56,
+      "text": "In business, you can have so-so offers, the singles and doubles that keep the game going, pay the bills, and keep the lights on."
+    },
+    {
+      "start": 274.38,
+      "end": 285.68,
+      "text": "But unlike baseball, where a grand slam scores a maximum of four runs, a grand slam offer in the business world can score you a thousand-fold payoff and a result in a world where you never need to work again."
+    },
+    {
+      "start": 286.56,
+      "end": 293.12,
+      "text": "It would be like connecting with the ball so well during one single at-bat that you automatically win every World Series for the next 100 years."
+    },
+    {
+      "start": 294.28,
+      "end": 299.16,
+      "text": "It takes years of practice to make something as complicated as hitting a major league fastball into the bleachers look effortless."
+    },
+    {
+      "start": 299.92,
+      "end": 305.16,
+      "text": "Your stance, vision, prediction, ball speed, bat speed, and hit placement all must be perfect."
+    },
+    {
+      "start": 306.22,
+      "end": 313.46,
+      "text": "In marketing and customer acquisition, the process of getting new customers, there are just as many variables that must all align to truly knock it out of the park."
+    },
+    {
+      "start": 314.3,
+      "end": 324.1,
+      "text": "But with enough practice and enough skill, you can turn the wild world of acquisition, which will throw curveballs at you every day, into a home run derby, knocking offer after offer out of the stadium."
+    },
+    {
+      "start": 325.14,
+      "end": 330.96,
+      "text": "To everyone else, your success will look unbelievable, but to you, it will just feel like just another day at work."
+    },
+    {
+      "start": 331.92,
+      "end": 338.12,
+      "text": "The greatest hitters of all time also have many strikeouts, just as there are many failed offers in the track record of great marketers."
+    },
+    {
+      "start": 339.02,
+      "end": 340.92,
+      "text": "We learn skills through failure and practice."
+    },
+    {
+      "start": 341.66,
+      "end": 344.34,
+      "text": "We do this knowing that nine times out of 10, we will be wrong."
+    },
+    {
+      "start": 344.92,
+      "end": 350.0,
+      "text": "We still act boldly, hoping for that offer we connect with so well that it results in our big payoff."
+    },
+    {
+      "start": 350.82,
+      "end": 355.1,
+      "text": "The good news is that in business, you only need to hit one grand slam offer to retire forever."
+    },
+    {
+      "start": 356.1,
+      "end": 357.86,
+      "text": "I have done this four or five times in my life."
+    },
+    {
+      "start": 358.7,
+      "end": 364.32,
+      "text": "As for my track record, I have a 36 to 1 lifetime return on my advertising dollars over my business career."
+    },
+    {
+      "start": 365.1,
+      "end": 367.3,
+      "text": "Consider this my lifetime batting average, if you will."
+    },
+    {
+      "start": 368.16,
+      "end": 374.08,
+      "text": "That means for every 1 dollar I spend on advertising, I get 36 dollars back, a 3600% return."
+    },
+    {
+      "start": 374.68,
+      "end": 378.6,
+      "text": "That is my average over eight years, and I continue to improve."
+    },
+    {
+      "start": 379.72,
+      "end": 386.64,
+      "text": "This book is my attempt to share that skill with you, with a specific focus on building grand slam offers, so you can experience the same levels of success."
+    },
+    {
+      "start": 387.66,
+      "end": 392.78,
+      "text": "It's also the first in a series of books meant to get entrepreneurs to financial freedom, in plain words, fuck you money."
+    },
+    {
+      "start": 393.88,
+      "end": 403.4,
+      "text": "Subsequent books in the series will look more deeply at getting more customers, converting more prospects into clients, making those clients worth more, and other lessons I wish I had learned earlier in scaling my businesses."
+    },
+    {
+      "start": 403.98,
+      "end": 407.4,
+      "text": "Pro tip: faster, deeper learning by reading and listening at the same time."
+    },
+    {
+      "start": 408.24,
+      "end": 409.9,
+      "text": "Here's a life hack I discovered a long time ago."
+    },
+    {
+      "start": 410.6,
+      "end": 415.78,
+      "text": "If you listen to the audiobook while reading the ebook or physical book, you will increase your reading speed and retain more information."
+    },
+    {
+      "start": 416.44,
+      "end": 418.42,
+      "text": "The contents are being stored in more places in your brain."
+    },
+    {
+      "start": 419.04,
+      "end": 420.62,
+      "text": "This is how I read most things worth reading."
+    },
+    {
+      "start": 421.26,
+      "end": 426.38,
+      "text": "I've priced my products as cheap as the platforms will allow me, so this isn't a ploy to make an extra 99 cents, promise."
+    },
+    {
+      "start": 427.1,
+      "end": 430.34,
+      "text": "If you want to give it a try, go ahead and grab the audio version and see for yourself."
+    },
+    {
+      "start": 430.84,
+      "end": 434.3,
+      "text": "You might find it as valuable as I have, as someone who struggles to stay focused."
+    },
+    {
+      "start": 435.24,
+      "end": 437.46,
+      "text": "It took two days to talk this book out loud and record it."
+    },
+    {
+      "start": 438.0,
+      "end": 444.12,
+      "text": "I figured I'd put this hack at the beginning of the book, so you had a chance to do it if you found the first chapter valuable enough to earn your attention."
+    },
+    {
+      "start": 446.56,
+      "end": 449.4,
+      "text": "Section 1: How we got here, the ugly truth."
+    },
+    {
+      "start": 450.86,
+      "end": 452.48,
+      "text": "Chapter 1: How we got here."
+    },
+    {
+      "start": 453.66,
+      "end": 456.76,
+      "text": "Magic will find those with pure hearts, even when all seems lost."
+    },
+    {
+      "start": 457.22,
+      "end": 457.8,
+      "text": "Morgan Rhodes."
+    },
+    {
+      "start": 458.8,
+      "end": 461.14,
+      "text": "December 24th, 2016, Christmas Eve."
+    },
+    {
+      "start": 462.32,
+      "end": 463.24,
+      "text": "The room was pitch black."
+    },
+    {
+      "start": 464.16,
+      "end": 467.58,
+      "text": "My shoes stuck to a floor covered in dried soda and crushed bits of candy."
+    },
+    {
+      "start": 468.4,
+      "end": 471.0,
+      "text": "My nostrils were full with the smell of stale popcorn."
+    },
+    {
+      "start": 471.54,
+      "end": 475.66,
+      "text": "We had just shown up too late to get good seats and ended up pressed near the front of the theater."
+    },
+    {
+      "start": 476.42,
+      "end": 480.88,
+      "text": "Just a few rows in front of me, the movie's blazing projection occupied my entire field of view."
+    },
+    {
+      "start": 481.72,
+      "end": 485.14,
+      "text": "In the reflected glow, I could see the outlines of Layla's family's faces."
+    },
+    {
+      "start": 485.54,
+      "end": 486.9,
+      "text": "They may as well have been hypnotized."
+    },
+    {
+      "start": 488.06,
+      "end": 488.48,
+      "text": "I envied them."
+    },
+    {
+      "start": 489.04,
+      "end": 492.44,
+      "text": "They sat, entranced, soaking in their paid time off for Christmas."
+    },
+    {
+      "start": 492.98,
+      "end": 493.52,
+      "text": "Must be nice."
+    },
+    {
+      "start": 495.1,
+      "end": 497.98,
+      "text": "Anybody else would have missed it, but Layla, my girlfriend at the time, knew me too well."
+    },
+    {
+      "start": 499.02,
+      "end": 504.7,
+      "text": "Anybody else would have thought I was watching the movie, but Layla could tell I was staring blankly at the screen, my eyes not tracking with the movie."
+    },
+    {
+      "start": 505.54,
+      "end": 506.22,
+      "text": "My face was pale."
+    },
+    {
+      "start": 506.62,
+      "end": 508.26,
+      "text": "My cheekbones and jawline appeared gone."
+    },
+    {
+      "start": 508.82,
+      "end": 510.58,
+      "text": "Weeks of chronic stress had killed my appetite."
+    },
+    {
+      "start": 510.58,
+      "end": 511.54,
+      "text": "\"What's wrong?\""
+    },
+    {
+      "start": 511.86,
+      "end": 512.24,
+      "text": "she asked."
+    },
+    {
+      "start": 512.84,
+      "end": 513.32,
+      "text": "I didn't answer."
+    },
+    {
+      "start": 514.36,
+      "end": 516.02,
+      "text": "She rested her hand on mine to get my attention."
+    },
+    {
+      "start": 516.62,
+      "end": 517.2,
+      "text": "I didn't react."
+    },
+    {
+      "start": 517.96,
+      "end": 521.88,
+      "text": "Within moments, her fingers tightened around my wrist, and she looked at me, her eyes searching for mine."
+    },
+    {
+      "start": 521.88,
+      "end": 524.96,
+      "text": "\"Your heart is racing,\" she whispered, concerned."
+    },
+    {
+      "start": 526.06,
+      "end": 527.7,
+      "text": "Without asking, she took my pulse."
+    },
+    {
+      "start": 528.64,
+      "end": 534.96,
+      "text": "It was 100 beats per minute, nearly twice what it should be for a fit 27-year-old male at rest in a cool, dark room."
+    },
+    {
+      "start": 534.96,
+      "end": 536.44,
+      "text": "\"What's going on?\""
+    },
+    {
+      "start": 536.94,
+      "end": 538.58,
+      "text": "she asked more forcibly, but still whispering."
+    },
+    {
+      "start": 539.46,
+      "end": 541.16,
+      "text": "The truth is, I was terrified."
+    },
+    {
+      "start": 542.42,
+      "end": 543.64,
+      "text": "A few hours earlier."
+    },
+    {
+      "start": 544.66,
+      "end": 545.4,
+      "text": "I looked like a giant."
+    },
+    {
+      "start": 545.96,
+      "end": 548.4,
+      "text": "I sat scrunched up in a children's miniature play chair."
+    },
+    {
+      "start": 548.82,
+      "end": 553.36,
+      "text": "My knees almost touched my chest, even with my feet firmly planted on the old beige carpeted floor."
+    },
+    {
+      "start": 554.2,
+      "end": 557.06,
+      "text": "My laptop felt hot sitting atop my steeply angled knees."
+    },
+    {
+      "start": 557.82,
+      "end": 559.5,
+      "text": "Dolls and toys were scattered around me."
+    },
+    {
+      "start": 560.3,
+      "end": 563.78,
+      "text": "They stared at me with wide eyes and toothy grins, motionless."
+    },
+    {
+      "start": 564.16,
+      "end": 565.88,
+      "text": "I had been their entertainment for the past few weeks."
+    },
+    {
+      "start": 566.6,
+      "end": 567.62,
+      "text": "I was in Layla's parents' house."
+    },
+    {
+      "start": 568.06,
+      "end": 572.44,
+      "text": "They had recently become grandparents and used this spare bedroom as a playroom when their children visited."
+    },
+    {
+      "start": 573.5,
+      "end": 578.36,
+      "text": "I didn't have a place to live, so they were letting Layla and I stay there, quote, \"As long as we needed,\" end quote."
+    },
+    {
+      "start": 579.2,
+      "end": 587.08,
+      "text": "They had let me use the children's playroom as my office for my business, which at this point felt almost as make-believe as the stories they had told their grandchildren in this room."
+    },
+    {
+      "start": 588.28,
+      "end": 591.86,
+      "text": "I literally felt like I was playing dress-up, except the stakes were real, and this was my life."
+    },
+    {
+      "start": 593.1,
+      "end": 596.3,
+      "text": "My ears were hot and red from the phone being pressed against them for what felt like hours."
+    },
+    {
+      "start": 596.84,
+      "end": 600.38,
+      "text": "I kept switching hands because my arms would tire from holding the phone up for so long."
+    },
+    {
+      "start": 600.38,
+      "end": 602.1,
+      "text": "\"I'm sorry, Mr."
+    },
+    {
+      "start": 602.26,
+      "end": 604.56,
+      "text": "Homosi,\" the voice on the other end of the line said."
+    },
+    {
+      "start": 604.58,
+      "end": 606.88,
+      "text": "\"We have to hold onto these funds for the next six months."
+    },
+    {
+      "start": 607.16,
+      "end": 610.1,
+      "text": "We've seen some irregular activity, so this is precautionary.\""
+    },
+    {
+      "start": 610.1,
+      "end": 611.86,
+      "text": "\"Are you fucking kidding me?"
+    },
+    {
+      "start": 612.16,
+      "end": 612.76,
+      "text": "120 grand?\""
+    },
+    {
+      "start": 613.04,
+      "end": 613.28,
+      "text": "I said."
+    },
+    {
+      "start": 613.42,
+      "end": 613.94,
+      "text": "\"A precaution?\""
+    },
+    {
+      "start": 613.94,
+      "end": 615.42,
+      "text": "\"I'm sorry, sir."
+    },
+    {
+      "start": 615.72,
+      "end": 618.7,
+      "text": "Our underwriting team-\" \"Yeah, yeah, I heard you,\" I said, cutting him off."
+    },
+    {
+      "start": 618.96,
+      "end": 619.62,
+      "text": "\"I don't accept that.\""
+    },
+    {
+      "start": 619.62,
+      "end": 621.32,
+      "text": "\"Sir, it's not up to me."
+    },
+    {
+      "start": 621.4,
+      "end": 623.28,
+      "text": "It's just our poli-\" \"What am I gonna tell my salesman?"
+    },
+    {
+      "start": 623.88,
+      "end": 625.32,
+      "text": "There's a baby on the way, and another one."
+    },
+    {
+      "start": 625.88,
+      "end": 629.34,
+      "text": "Are you gonna tell him he's not gonna buy his pregnant wife and newborn food?"
+    },
+    {
+      "start": 630.32,
+      "end": 631.42,
+      "text": "Are you gonna pay his mortgage for him?\""
+    },
+    {
+      "start": 632.06,
+      "end": 632.6,
+      "text": "I was seething."
+    },
+    {
+      "start": 632.6,
+      "end": 637.26,
+      "text": "\"Sir,\" he began again, with unfazed apathy, just trying to deliver the news."
+    },
+    {
+      "start": 637.26,
+      "end": 639.3,
+      "text": "\"It's not yours to take.\""
+    },
+    {
+      "start": 640.1,
+      "end": 641.94,
+      "text": "My aggression was quickly turning into desperation."
+    },
+    {
+      "start": 641.94,
+      "end": 643.02,
+      "text": "\"Shit."
+    },
+    {
+      "start": 643.5,
+      "end": 645.0,
+      "text": "Just send me half so I can pay my employees."
+    },
+    {
+      "start": 645.5,
+      "end": 646.58,
+      "text": "It's Christmas Eve, for fuck's sake.\""
+    },
+    {
+      "start": 646.58,
+      "end": 651.32,
+      "text": "\"Sir, we're going to be holding onto the entirety of your funds for the next six months per your agreement.\""
+    },
+    {
+      "start": 652.46,
+      "end": 653.66,
+      "text": "The voice faded into the distance."
+    },
+    {
+      "start": 654.38,
+      "end": 654.6,
+      "text": "Fuck."
+    },
+    {
+      "start": 656.22,
+      "end": 657.46,
+      "text": "I hung up and checked my accounts."
+    },
+    {
+      "start": 658.22,
+      "end": 659.9,
+      "text": "23,036 dollars."
+    },
+    {
+      "start": 661.14,
+      "end": 666.04,
+      "text": "I owed my salesman a 22,000 dollar commission check for 120,000 in sales I never got."
+    },
+    {
+      "start": 667.06,
+      "end": 670.52,
+      "text": "Without wanting to give myself the opportunity to think about it, I wired it to him."
+    },
+    {
+      "start": 671.88,
+      "end": 673.16,
+      "text": "Negative 22,000."
+    },
+    {
+      "start": 673.62,
+      "end": 674.24,
+      "text": "Payment successful."
+    },
+    {
+      "start": 675.08,
+      "end": 677.34,
+      "text": "Balance: 1,036 dollars."
+    },
+    {
+      "start": 678.1,
+      "end": 678.28,
+      "text": "Fuck."
+    },
+    {
+      "start": 680.14,
+      "end": 682.14,
+      "text": "The sunlight blinded me as we emerged from the matinee."
+    },
+    {
+      "start": 682.74,
+      "end": 686.02,
+      "text": "Families shuffled in and out through the revolving doors, making their happy memories."
+    },
+    {
+      "start": 686.64,
+      "end": 687.26,
+      "text": "I was in a daze."
+    },
+    {
+      "start": 688.5,
+      "end": 690.96,
+      "text": "Layla led me to the car, her hand wrapped firmly around mine."
+    },
+    {
+      "start": 690.96,
+      "end": 691.9,
+      "text": "\"What's wrong?"
+    },
+    {
+      "start": 692.04,
+      "end": 692.46,
+      "text": "What happened?\""
+    },
+    {
+      "start": 692.68,
+      "end": 693.02,
+      "text": "she asked."
+    },
+    {
+      "start": 693.02,
+      "end": 694.7,
+      "text": "\"The money isn't coming.\""
+    },
+    {
+      "start": 694.7,
+      "end": 696.2,
+      "text": "\"What do you mean?"
+    },
+    {
+      "start": 696.44,
+      "end": 696.94,
+      "text": "It's delayed?\""
+    },
+    {
+      "start": 697.82,
+      "end": 698.54,
+      "text": "I exhaled in defeat."
+    },
+    {
+      "start": 698.54,
+      "end": 699.92,
+      "text": "\"They're keeping it all.\""
+    },
+    {
+      "start": 699.94,
+      "end": 701.28,
+      "text": "\"Can they do that?\""
+    },
+    {
+      "start": 701.28,
+      "end": 706.54,
+      "text": "\"Apparently,\" I said stoically, trying to maintain my composure in front of her parents."
+    },
+    {
+      "start": 706.54,
+      "end": 708.06,
+      "text": "\"What are you gonna do about the commissions?\""
+    },
+    {
+      "start": 708.06,
+      "end": 711.56,
+      "text": "\"I already paid him everything,\" I said without looking at her."
+    },
+    {
+      "start": 712.5,
+      "end": 713.64,
+      "text": "Layla's concern turned to dread."
+    },
+    {
+      "start": 714.4,
+      "end": 715.74,
+      "text": "We sat in silence the whole way home."
+    },
+    {
+      "start": 716.18,
+      "end": 716.86,
+      "text": "I stared out the window."
+    },
+    {
+      "start": 717.66,
+      "end": 718.68,
+      "text": "She held my hand in hers."
+    },
+    {
+      "start": 719.04,
+      "end": 720.72,
+      "text": "It was more comforting than I anticipated."
+    },
+    {
+      "start": 720.72,
+      "end": 721.86,
+      "text": "\"We'll get through this.\""
+    },
+    {
+      "start": 723.28,
+      "end": 723.84,
+      "text": "30 days earlier."
+    },
+    {
+      "start": 725.74,
+      "end": 728.4,
+      "text": "I decided to go all in on this new business I called GymWatch."
+    },
+    {
+      "start": 728.94,
+      "end": 729.5,
+      "text": "Here was the idea."
+    },
+    {
+      "start": 730.08,
+      "end": 737.02,
+      "text": "I would fly around the country to gyms and fill them up to full capacity using this new methodology that hinged on an offer I had perfected when I owned my chain of gyms."
+    },
+    {
+      "start": 738.21,
+      "end": 740.45,
+      "text": "Leading up to this moment, I had sold five of my six gyms."
+    },
+    {
+      "start": 741.19,
+      "end": 745.37,
+      "text": "The funds from selling them, my life's work, I'd put into an account that I had with a new partner."
+    },
+    {
+      "start": 746.61,
+      "end": 748.85,
+      "text": "This money was supposed to be the seed money for our new company."
+    },
+    {
+      "start": 749.41,
+      "end": 751.87,
+      "text": "I was finally going to realize some level of success."
+    },
+    {
+      "start": 752.99,
+      "end": 753.65,
+      "text": "My alarm went off."
+    },
+    {
+      "start": 754.29,
+      "end": 757.57,
+      "text": "I groggily swung my arm over, blindly clawing at the bedside table."
+    },
+    {
+      "start": 758.23,
+      "end": 762.19,
+      "text": "I switched off the alarm, while Layla somehow managed to sleep through the commotion."
+    },
+    {
+      "start": 763.35,
+      "end": 766.31,
+      "text": "I laid there silently, pulling up the bank accounts, a daily ritual."
+    },
+    {
+      "start": 766.73,
+      "end": 768.11,
+      "text": "The balance said 300 dollars."
+    },
+    {
+      "start": 768.45,
+      "end": 769.63,
+      "text": "Wait, that couldn't be right."
+    },
+    {
+      "start": 770.09,
+      "end": 771.63,
+      "text": "There was 46,000 in here yesterday."
+    },
+    {
+      "start": 772.29,
+      "end": 773.17,
+      "text": "My adrenaline surged."
+    },
+    {
+      "start": 773.99,
+      "end": 778.07,
+      "text": "Looking closer, I saw minus 45,700, payment successful."
+    },
+    {
+      "start": 778.65,
+      "end": 779.17,
+      "text": "I was frantic."
+    },
+    {
+      "start": 779.85,
+      "end": 781.33,
+      "text": "The money from selling all my gyms was gone."
+    },
+    {
+      "start": 781.93,
+      "end": 785.65,
+      "text": "I checked where the money went, to my, quote, \"partner,\" end quote."
+    },
+    {
+      "start": 786.95,
+      "end": 788.15,
+      "text": "He had taken all the money out."
+    },
+    {
+      "start": 789.03,
+      "end": 789.23,
+      "text": "Fuck."
+    },
+    {
+      "start": 790.23,
+      "end": 792.41,
+      "text": "The last four years of my life had vanished that fast."
+    },
+    {
+      "start": 793.33,
+      "end": 795.51,
+      "text": "I officially had nothing, and even less to show for it."
+    },
+    {
+      "start": 796.05,
+      "end": 799.07,
+      "text": "No gyms, no equipment, no employees, nothing."
+    },
+    {
+      "start": 799.83,
+      "end": 800.51,
+      "text": "I felt dead inside."
+    },
+    {
+      "start": 802.21,
+      "end": 814.65,
+      "text": "Adding insult to injury, in that same 30-day period, my mother was in critical condition because of a near-fatal accident and was still under 24-hour supervision, and I had totaled my car in a head-on collision at 60 miles an hour and earned a DUI as my consolation prize."
+    },
+    {
+      "start": 815.37,
+      "end": 816.37,
+      "text": "This was the cherry on top."
+    },
+    {
+      "start": 817.01,
+      "end": 824.27,
+      "text": "My one saving grace during this time was selling a new challenge offer at a gym and collecting all the cash upfront as my fee for turning their business around."
+    },
+    {
+      "start": 825.19,
+      "end": 826.79,
+      "text": "So I did the only thing I knew, I sold."
+    },
+    {
+      "start": 827.59,
+      "end": 832.09,
+      "text": "My salesman had done 120,000 in a single month, and I owed him 22,000 dollars in commissions."
+    },
+    {
+      "start": 832.67,
+      "end": 834.61,
+      "text": "The problem was, the 120,000 never came."
+    },
+    {
+      "start": 834.61,
+      "end": 838.79,
+      "text": "\"We need to talk,\" I said, as Layla and I went to the other room."
+    },
+    {
+      "start": 839.79,
+      "end": 842.41,
+      "text": "I worked up the courage to speak, but stared at the floor, embarrassed."
+    },
+    {
+      "start": 842.41,
+      "end": 844.43,
+      "text": "\"I've got nothing,\" I said to her."
+    },
+    {
+      "start": 844.69,
+      "end": 846.73,
+      "text": "\"I'm a sinking ship, and you don't have to stay here with me.\""
+    },
+    {
+      "start": 848.05,
+      "end": 851.37,
+      "text": "She grabbed my chin and pulled my face towards hers so she could look into my eyes."
+    },
+    {
+      "start": 851.39,
+      "end": 853.93,
+      "text": "\"I would sleep with you under a bridge if it came to that.\""
+    },
+    {
+      "start": 854.93,
+      "end": 859.25,
+      "text": "I would have cried tears of joy, but I was so emotionally exhausted that my response appeared apathetic."
+    },
+    {
+      "start": 859.25,
+      "end": 861.05,
+      "text": "\"I wouldn't stay with me.\""
+    },
+    {
+      "start": 861.05,
+      "end": 864.11,
+      "text": "\"So are we still going to do these launches starting tomorrow?\""
+    },
+    {
+      "start": 864.25,
+      "end": 864.57,
+      "text": "she asked."
+    },
+    {
+      "start": 864.57,
+      "end": 866.51,
+      "text": "\"All my friends quit their jobs to do this.\""
+    },
+    {
+      "start": 867.25,
+      "end": 868.91,
+      "text": "She was being matter-of-fact, but it still stung."
+    },
+    {
+      "start": 869.35,
+      "end": 869.93,
+      "text": "I felt defeated."
+    },
+    {
+      "start": 869.93,
+      "end": 872.29,
+      "text": "\"Listen, this could go horribly wrong.\""
+    },
+    {
+      "start": 872.29,
+      "end": 873.81,
+      "text": "\"I trust you."
+    },
+    {
+      "start": 873.89,
+      "end": 874.43,
+      "text": "We'll figure it out.\""
+    },
+    {
+      "start": 875.47,
+      "end": 881.57,
+      "text": "I had two things left at this point, a grand slam offer and an old business credit card with 100,000 dollar limit from when I had my gyms."
+    },
+    {
+      "start": 883.19,
+      "end": 890.27,
+      "text": "On the day after Christmas, two days after the gut-wrenching call with the payment processor, we were scheduled to launch six new gyms at the same time."
+    },
+    {
+      "start": 891.29,
+      "end": 900.27,
+      "text": "Between airfare, hotels, rental cars, gas, and ad spend, all multiplied by six, I was going to be spending 3,300 dollars per day of money I didn't have."
+    },
+    {
+      "start": 900.89,
+      "end": 902.69,
+      "text": "My last dollar had gone to paying my salesman."
+    },
+    {
+      "start": 903.57,
+      "end": 908.47,
+      "text": "I still remember my hand shaking as the advertisement went live, off to on."
+    },
+    {
+      "start": 909.51,
+      "end": 913.73,
+      "text": "Just like that, I was going into debt at a rate of 412 dollars per working hour."
+    },
+    {
+      "start": 914.77,
+      "end": 918.63,
+      "text": "Just like that, 3,300 dollars per day began getting deducted from my account."
+    },
+    {
+      "start": 919.99,
+      "end": 922.65,
+      "text": "Minus 3,300, I now officially have nothing."
+    },
+    {
+      "start": 923.51,
+      "end": 926.23,
+      "text": "Minus 3,300, I now officially have less than nothing."
+    },
+    {
+      "start": 926.85,
+      "end": 929.91,
+      "text": "Minus 3,300, I have 10,000 dollars less than nothing."
+    },
+    {
+      "start": 930.59,
+      "end": 933.91,
+      "text": "Minus 3,300, this one decision is going to ruin my future forever."
+    },
+    {
+      "start": 934.89,
+      "end": 936.41,
+      "text": "But things started shaping up."
+    },
+    {
+      "start": 937.17,
+      "end": 942.55,
+      "text": "Here's what happened that month, January 2017, as documented by my old processing records I dug up."
+    },
+    {
+      "start": 943.21,
+      "end": 945.49,
+      "text": "In the physical book, there's a chart that I am referencing."
+    },
+    {
+      "start": 946.41,
+      "end": 950.59,
+      "text": "You can see the month along the left column and the revenue collected on that month along the right."
+    },
+    {
+      "start": 951.35,
+      "end": 954.27,
+      "text": "I made 100,117 dollars."
+    },
+    {
+      "start": 955.15,
+      "end": 958.85,
+      "text": "It was just enough to cover the 3,300 dollars a day that had been coming off the credit card."
+    },
+    {
+      "start": 959.27,
+      "end": 960.13,
+      "text": "It was actually working."
+    },
+    {
+      "start": 960.65,
+      "end": 961.43,
+      "text": "I could hardly believe it."
+    },
+    {
+      "start": 962.17,
+      "end": 963.85,
+      "text": "I threw the Hail Mary, and the universe had caught it."
+    },
+    {
+      "start": 964.31,
+      "end": 969.59,
+      "text": "I went from looking up bankruptcy lawyers to figuring out what to do with 3 million dollars in profits accrued within the first 12 months."
+    },
+    {
+      "start": 970.37,
+      "end": 972.67,
+      "text": "It felt surreal, and in hindsight, it still kind of does."
+    },
+    {
+      "start": 973.93,
+      "end": 976.81,
+      "text": "By the end of the year, we were doing 1.5 million dollars per month."
+    },
+    {
+      "start": 977.55,
+      "end": 980.95,
+      "text": "Twelve months from then, 4.4 million dollars per month."
+    },
+    {
+      "start": 981.85,
+      "end": 988.81,
+      "text": "Twenty-four months after that, we crossed 120 million in sales and donated 2 million dollars to help fund equal opportunity in low-income areas."
+    },
+    {
+      "start": 989.73,
+      "end": 995.55,
+      "text": "We met and befriended Arnold Schwarzenegger, my lifelong hero, and we were asked to become board members of his charity, After-School All-Stars."
+    },
+    {
+      "start": 996.67,
+      "end": 1011.99,
+      "text": "Twelve months after that, we now have a portfolio of seven eight-figure and multi-eight-figure companies across a variety of industries, photography, publishing, fitness, business consulting, beauty, and business types, brick-and-mortar chains, software, service, e-commerce, training, and education."
+    },
+    {
+      "start": 1012.89,
+      "end": 1017.55,
+      "text": "Our portfolio companies now do about 1.6 million dollars per week and growing."
+    },
+    {
+      "start": 1018.87,
+      "end": 1020.37,
+      "text": "I say this because honestly, I can't believe it."
+    },
+    {
+      "start": 1020.67,
+      "end": 1024.25,
+      "text": "All of this was because of a girl who believed in me, a credit card, and a grand slam offer."
+    },
+    {
+      "start": 1025.63,
+      "end": 1028.97,
+      "text": "I know I teleported you from rag to riches, and the natural question is how?"
+    },
+    {
+      "start": 1029.61,
+      "end": 1034.53,
+      "text": "That's what I'm going to use the rest of this book and the remaining books and free courses in acquisition.com to break down."
+    },
+    {
+      "start": 1035.41,
+      "end": 1038.57,
+      "text": "The skill of making offers saved me from bankruptcy and likely saved my life."
+    },
+    {
+      "start": 1039.23,
+      "end": 1040.69,
+      "text": "I've made so many mistakes in my life."
+    },
+    {
+      "start": 1041.03,
+      "end": 1042.53,
+      "text": "I've made so many bad life decisions."
+    },
+    {
+      "start": 1042.75,
+      "end": 1044.35,
+      "text": "I've hurt people knowingly and mistakenly."
+    },
+    {
+      "start": 1045.09,
+      "end": 1046.61,
+      "text": "I've done bad things with good intentions."
+    },
+    {
+      "start": 1046.97,
+      "end": 1048.07,
+      "text": "I say this because I am human."
+    },
+    {
+      "start": 1048.47,
+      "end": 1049.63,
+      "text": "I don't pretend to have the answers."
+    },
+    {
+      "start": 1050.33,
+      "end": 1051.97,
+      "text": "I have my own demons that I battle every day."
+    },
+    {
+      "start": 1052.69,
+      "end": 1058.07,
+      "text": "But despite my many shortcomings, I've still managed to get really good at this one thing, and I'd like to share that with you."
+    },
+    {
+      "start": 1058.91,
+      "end": 1060.25,
+      "text": "I can teach you how to build great offers."
+    },
+    {
+      "start": 1060.81,
+      "end": 1061.51,
+      "text": "I don't know who you are."
+    },
+    {
+      "start": 1061.89,
+      "end": 1063.47,
+      "text": "Yes, you, the one listening to this."
+    },
+    {
+      "start": 1064.23,
+      "end": 1065.33,
+      "text": "But thank you from the bottom of my heart."
+    },
+    {
+      "start": 1065.77,
+      "end": 1067.57,
+      "text": "Thank you for allowing me to do work I find meaningful."
+    },
+    {
+      "start": 1067.97,
+      "end": 1070.37,
+      "text": "Thank you for giving me the most valuable asset you have, your attention."
+    },
+    {
+      "start": 1070.79,
+      "end": 1073.01,
+      "text": "I promise to do my very best to give you a positive return on it."
+    },
+    {
+      "start": 1074.17,
+      "end": 1075.27,
+      "text": "Here's your first piece of good news."
+    },
+    {
+      "start": 1075.69,
+      "end": 1079.05,
+      "text": "If you are listening to this, then you already are in the top 10%."
+    },
+    {
+      "start": 1079.57,
+      "end": 1081.39,
+      "text": "Most people buy stuff and then promptly ignore it."
+    },
+    {
+      "start": 1081.99,
+      "end": 1083.13,
+      "text": "I can also throw out a spoiler."
+    },
+    {
+      "start": 1083.47,
+      "end": 1085.85,
+      "text": "The further you get in this book, the bigger the nuggets become."
+    },
+    {
+      "start": 1086.15,
+      "end": 1086.59,
+      "text": "Just watch."
+    },
+    {
+      "start": 1087.01,
+      "end": 1087.79,
+      "text": "This book delivers."
+    },
+    {
+      "start": 1089.03,
+      "end": 1090.17,
+      "text": "The world needs more entrepreneurs."
+    },
+    {
+      "start": 1090.63,
+      "end": 1091.37,
+      "text": "It needs more fighters."
+    },
+    {
+      "start": 1091.61,
+      "end": 1092.35,
+      "text": "It needs more magic."
+    },
+    {
+      "start": 1092.93,
+      "end": 1094.75,
+      "text": "And that's what I'm sharing with you, magic."
+    },
+    {
+      "start": 1098.78,
+      "end": 1099.46,
+      "text": "Hey, guys, real quick."
+    },
+    {
+      "start": 1099.54,
+      "end": 1108.24,
+      "text": "I don't know if you know this, but 100 Million Dollar Offers has a physical copy, uh, and a Kindle copy online, so you can go to Amazon, uh, and grab those if that's helpful."
+    },
+    {
+      "start": 1108.32,
+      "end": 1120.22,
+      "text": "For me, I prefer to read with my eyes and listen at the same time, um, and especially the books that I refer to often, I like having on my desk next to me so I can pull them up and use them to make money doing whatever it is that I'm doing."
+    },
+    {
+      "start": 1123.48,
+      "end": 1123.98,
+      "text": "Chapter 2."
+    },
+    {
+      "start": 1124.56,
+      "end": 1125.36,
+      "text": "Grand Slam Offers."
+    },
+    {
+      "start": 1125.36,
+      "end": 1128.66,
+      "text": "\"Make people an offer so good they would feel stupid saying no.\""
+    },
+    {
+      "start": 1129.18,
+      "end": 1129.76,
+      "text": "Travis Jones."
+    },
+    {
+      "start": 1131.16,
+      "end": 1135.04,
+      "text": "I was 23 years old, and to quote Ruth from Ozark, \"I didn't know shit about fuck.\""
+    },
+    {
+      "start": 1135.66,
+      "end": 1147.52,
+      "text": "But there I was, in a Las Vegas penthouse hotel room, along with 10 business owners learning about marketing and sales, in my most fashionable Beast Mode T-shirt, a shirt I had gotten for free, and one of the five shirts I owned at the time."
+    },
+    {
+      "start": 1148.46,
+      "end": 1151.74,
+      "text": "Truthfully, I was anxious, self-conscious, and thought I was making a huge mistake."
+    },
+    {
+      "start": 1152.54,
+      "end": 1155.28,
+      "text": "I paid 3,000 dollars of money I didn't have to get a seat at the table."
+    },
+    {
+      "start": 1156.08,
+      "end": 1156.86,
+      "text": "I knew I needed to learn."
+    },
+    {
+      "start": 1157.52,
+      "end": 1158.86,
+      "text": "Everyone there had a business except me."
+    },
+    {
+      "start": 1159.54,
+      "end": 1160.96,
+      "text": "I was planning on starting one, a gym."
+    },
+    {
+      "start": 1161.88,
+      "end": 1165.14,
+      "text": "TJ, the organizer, had multiple successful businesses."
+    },
+    {
+      "start": 1165.92,
+      "end": 1170.08,
+      "text": "While going over the agenda, I remember he made an offhand comment about making a million dollars that year."
+    },
+    {
+      "start": 1170.86,
+      "end": 1172.58,
+      "text": "One million dollars."
+    },
+    {
+      "start": 1173.08,
+      "end": 1173.62,
+      "text": "I was spellbound."
+    },
+    {
+      "start": 1174.26,
+      "end": 1175.18,
+      "text": "I want to be like this guy."
+    },
+    {
+      "start": 1175.3,
+      "end": 1175.88,
+      "text": "I'll do anything."
+    },
+    {
+      "start": 1176.74,
+      "end": 1179.36,
+      "text": "The problem was, I didn't know what any of them were talking about."
+    },
+    {
+      "start": 1180.12,
+      "end": 1182.38,
+      "text": "KPIs, CPLs, conversion rates."
+    },
+    {
+      "start": 1182.86,
+      "end": 1187.66,
+      "text": "My head was spinning as I pretended like I knew what they were talking about, but I didn't, and I'm bad at pretending."
+    },
+    {
+      "start": 1188.46,
+      "end": 1189.94,
+      "text": "Between sessions, TJ found me."
+    },
+    {
+      "start": 1190.34,
+      "end": 1191.86,
+      "text": "He could tell I was way over my head."
+    },
+    {
+      "start": 1192.9,
+      "end": 1194.48,
+      "text": "TJ was kind, curious, and caring."
+    },
+    {
+      "start": 1195.06,
+      "end": 1198.04,
+      "text": "After a little bit of small talk, he asked me a simple question that changed my life forever."
+    },
+    {
+      "start": 1198.04,
+      "end": 1200.42,
+      "text": "\"Do you want to know the secret to sales?\""
+    },
+    {
+      "start": 1201.38,
+      "end": 1202.58,
+      "text": "I had never sold anything in my life."
+    },
+    {
+      "start": 1203.0,
+      "end": 1203.96,
+      "text": "I never even read a book on it."
+    },
+    {
+      "start": 1204.66,
+      "end": 1206.34,
+      "text": "I just recently learned what the term even meant."
+    },
+    {
+      "start": 1206.64,
+      "end": 1207.04,
+      "text": "Seriously."
+    },
+    {
+      "start": 1207.82,
+      "end": 1211.5,
+      "text": "I leaned forward and tented download every syllable that he spoke right into my brain."
+    },
+    {
+      "start": 1212.36,
+      "end": 1214.12,
+      "text": "I opened my notebook and stared at him with intent."
+    },
+    {
+      "start": 1214.54,
+      "end": 1216.14,
+      "text": "I was ready for the secret."
+    },
+    {
+      "start": 1216.74,
+      "end": 1220.48,
+      "text": "He looked at me soberly and said, \"Make people an offer so good they would feel stupid saying no.\""
+    },
+    {
+      "start": 1221.02,
+      "end": 1224.02,
+      "text": "I nodded, wrote it down, underlined it, and circled it."
+    },
+    {
+      "start": 1224.54,
+      "end": 1227.58,
+      "text": "And with that, my entire worldview of selling was transformed."
+    },
+    {
+      "start": 1228.28,
+      "end": 1230.9,
+      "text": "Make people an offer so good they would feel stupid saying no."
+    },
+    {
+      "start": 1231.88,
+      "end": 1232.66,
+      "text": "My mind was racing."
+    },
+    {
+      "start": 1233.96,
+      "end": 1235.84,
+      "text": "I didn't have to be skilled or even any good."
+    },
+    {
+      "start": 1236.74,
+      "end": 1239.26,
+      "text": "I just had to come up with things that anyone would say yes to."
+    },
+    {
+      "start": 1240.04,
+      "end": 1241.74,
+      "text": "The greatest game of my life had now begun."
+    },
+    {
+      "start": 1243.66,
+      "end": 1244.5,
+      "text": "What this book is about."
+    },
+    {
+      "start": 1245.6,
+      "end": 1251.54,
+      "text": "At some point, every successful business owner was a wantrepreneur, a person full of ideas and frustrated at having potential to spare."
+    },
+    {
+      "start": 1252.54,
+      "end": 1258.1,
+      "text": "Something clicks when they realize the horrible trade they and so many people make, trading their freedom for falsely perceived security."
+    },
+    {
+      "start": 1258.86,
+      "end": 1264.52,
+      "text": "Their discomfort compounds, and once the discomfort of staying the same surpasses the discomfort of change, they take the leap."
+    },
+    {
+      "start": 1264.52,
+      "end": 1268.26,
+      "text": "\"I'm going to be an entrepreneur so I can be free,\" they tell themselves."
+    },
+    {
+      "start": 1268.7,
+      "end": 1271.22,
+      "text": "\"Free to do whatever I want, whenever I want, with whomever I want.\""
+    },
+    {
+      "start": 1272.48,
+      "end": 1274.58,
+      "text": "Some learned about entrepreneurship through personal development."
+    },
+    {
+      "start": 1275.38,
+      "end": 1276.82,
+      "text": "Others got into it through a franchise."
+    },
+    {
+      "start": 1277.24,
+      "end": 1278.02,
+      "text": "Others bought courses."
+    },
+    {
+      "start": 1278.64,
+      "end": 1279.48,
+      "text": "And some just said, \"Fuck it."
+    },
+    {
+      "start": 1279.96,
+      "end": 1281.44,
+      "text": "I'm doing it, and I'll make it work.\""
+    },
+    {
+      "start": 1281.92,
+      "end": 1282.74,
+      "text": "And make it work they did."
+    },
+    {
+      "start": 1283.84,
+      "end": 1286.84,
+      "text": "Most of us opened up shop with the intention of helping people in some way."
+    },
+    {
+      "start": 1287.54,
+      "end": 1291.56,
+      "text": "Many times, this assistance is in some way related to something that's affected us personally."
+    },
+    {
+      "start": 1292.3,
+      "end": 1296.62,
+      "text": "We set out to give back by providing to others by helping them solve a problem that once plagued us."
+    },
+    {
+      "start": 1297.2,
+      "end": 1299.1,
+      "text": "Then again, sometimes this isn't our way in."
+    },
+    {
+      "start": 1299.64,
+      "end": 1302.94,
+      "text": "In either case, we cling to the dream of making more and being freer than we are now."
+    },
+    {
+      "start": 1304.08,
+      "end": 1309.96,
+      "text": "Many of us thought naively that owning a business would be our crowning accomplishment, a final destination, when in reality, it was just the beginning."
+    },
+    {
+      "start": 1310.9,
+      "end": 1319.28,
+      "text": "Somehow, in the transition between passionate to helping others and owning my first business, we gradually realize that we don't even know the first thing about business, let alone turning a profit."
+    },
+    {
+      "start": 1320.36,
+      "end": 1323.28,
+      "text": "We may know a lot about our passion, about why we started the business."
+    },
+    {
+      "start": 1323.88,
+      "end": 1326.06,
+      "text": "That doesn't mean we know anything about succeeding in business."
+    },
+    {
+      "start": 1326.7,
+      "end": 1335.64,
+      "text": "Much to the disappointment of idealists on the sidelines, succeeding in business means getting prospective customers to trade us money for our services, our passion for their hard-earned coins."
+    },
+    {
+      "start": 1336.06,
+      "end": 1336.7,
+      "text": "That's the agreement."
+    },
+    {
+      "start": 1337.54,
+      "end": 1343.9,
+      "text": "The only way to facilitate that exchange, to transact, to literally carry out business as a business, is by making the prospect an offer."
+    },
+    {
+      "start": 1346.1,
+      "end": 1346.86,
+      "text": "What's an offer anyways?"
+    },
+    {
+      "start": 1348.08,
+      "end": 1352.6,
+      "text": "The only way to conduct a business is through a value exchange, a trade of dollars for value."
+    },
+    {
+      "start": 1353.34,
+      "end": 1355.12,
+      "text": "The offer is what initiates this trade."
+    },
+    {
+      "start": 1355.8,
+      "end": 1361.9,
+      "text": "In a nutshell, the offer is the goods and services you agree to provide, how you accept payment, and the terms of the agreement."
+    },
+    {
+      "start": 1362.76,
+      "end": 1365.5,
+      "text": "It is what begins the process of getting customers and making money."
+    },
+    {
+      "start": 1365.92,
+      "end": 1369.1,
+      "text": "It is the first thing that any new customer will interact with in your business."
+    },
+    {
+      "start": 1369.8,
+      "end": 1372.86,
+      "text": "Since the offer is what attracts new customers, it is the lifeblood of your business."
+    },
+    {
+      "start": 1373.62,
+      "end": 1375.78,
+      "text": "No offer, no business, no life."
+    },
+    {
+      "start": 1376.54,
+      "end": 1379.96,
+      "text": "Bad offer, negative profit, no business, miserable life."
+    },
+    {
+      "start": 1380.64,
+      "end": 1384.2,
+      "text": "Decent offer, no profit, stagnating business, stagnating life."
+    },
+    {
+      "start": 1385.02,
+      "end": 1387.9,
+      "text": "Good offer, some profit, okay business, okay life."
+    },
+    {
+      "start": 1388.58,
+      "end": 1392.4,
+      "text": "Grand slam offer, fantastic profit, insane business, freedom."
+    },
+    {
+      "start": 1393.1,
+      "end": 1395.74,
+      "text": "This book helps entrepreneurs craft those grand slam offers."
+    },
+    {
+      "start": 1396.8,
+      "end": 1402.2,
+      "text": "These are the offers that are so effective, profitable, and life-changing that it seems like they could only be the result of luck."
+    },
+    {
+      "start": 1402.96,
+      "end": 1404.7,
+      "text": "That's how it looks to an untrained eye, anyway."
+    },
+    {
+      "start": 1406.16,
+      "end": 1409.96,
+      "text": "As you likely know now, I have crafted thousands of offers over the last decade."
+    },
+    {
+      "start": 1410.62,
+      "end": 1413.64,
+      "text": "Most have failed, some did okay, and some struck gold."
+    },
+    {
+      "start": 1414.44,
+      "end": 1415.86,
+      "text": "But I never really knew why."
+    },
+    {
+      "start": 1416.38,
+      "end": 1416.58,
+      "text": "As Dr."
+    },
+    {
+      "start": 1416.82,
+      "end": 1423.9,
+      "text": "Burgelman, a famous Stanford Business School professor said, \"It is far better to understand why you failed than to be ignorant of why you succeeded.\""
+    },
+    {
+      "start": 1424.98,
+      "end": 1429.66,
+      "text": "But as the data started rolling in, what seemed like luck and fortune was closer to a repeatable framework."
+    },
+    {
+      "start": 1430.54,
+      "end": 1436.24,
+      "text": "I'd been fortunate enough to strike gold enough times to document these frameworks and have gotten lightning to strike twice."
+    },
+    {
+      "start": 1437.08,
+      "end": 1443.34,
+      "text": "I've put the steps and components of those frameworks in a logical and digestible format so they are actually useful today, like now."
+    },
+    {
+      "start": 1444.14,
+      "end": 1448.38,
+      "text": "I'm giving you action instead of a sad but typical book of vague business theories and mental masturbation."
+    },
+    {
+      "start": 1449.98,
+      "end": 1453.02,
+      "text": "The two main problems most entrepreneurs face and how this book solves them."
+    },
+    {
+      "start": 1455.18,
+      "end": 1459.5,
+      "text": "Although you can make a list of the problems you face a mile long, which is a great way to stress yourself out."
+    },
+    {
+      "start": 1460.31,
+      "end": 1463.17,
+      "text": "All these problems typically stem from the big two kahunas."
+    },
+    {
+      "start": 1463.99,
+      "end": 1465.19,
+      "text": "One, not enough clients."
+    },
+    {
+      "start": 1465.69,
+      "end": 1466.75,
+      "text": "Two, not enough cash."
+    },
+    {
+      "start": 1467.31,
+      "end": 1469.39,
+      "text": "In other words, excess profit at the end of the month."
+    },
+    {
+      "start": 1470.29,
+      "end": 1470.95,
+      "text": "Seems obvious, right?"
+    },
+    {
+      "start": 1471.57,
+      "end": 1477.57,
+      "text": "It costs more time and money to get clients, thereby solving issue one, and that money is coming from the profit margins, which create problem two."
+    },
+    {
+      "start": 1478.31,
+      "end": 1485.15,
+      "text": "What's more annoying, prospects savagely compare and belittle our services in favor of cheaper and crappier alternatives, with the cheapest one winning."
+    },
+    {
+      "start": 1485.85,
+      "end": 1489.39,
+      "text": "This, of course, when winning means getting to work for more for even less."
+    },
+    {
+      "start": 1489.77,
+      "end": 1490.17,
+      "text": "Sad face."
+    },
+    {
+      "start": 1491.19,
+      "end": 1492.97,
+      "text": "Let's say you slash prices to get more customers."
+    },
+    {
+      "start": 1493.43,
+      "end": 1498.51,
+      "text": "You may even have a full client load, but here you are, barely making it because profit margins are too thin."
+    },
+    {
+      "start": 1499.13,
+      "end": 1500.65,
+      "text": "Competition becomes a race to the bottom."
+    },
+    {
+      "start": 1501.81,
+      "end": 1504.01,
+      "text": "If you're struggling with one or both of these issues, you're not alone."
+    },
+    {
+      "start": 1504.21,
+      "end": 1504.59,
+      "text": "I've been there."
+    },
+    {
+      "start": 1504.75,
+      "end": 1506.75,
+      "text": "Heck, I think every entrepreneur has these same challenges."
+    },
+    {
+      "start": 1507.71,
+      "end": 1508.99,
+      "text": "I also want you to know that it's not your fault."
+    },
+    {
+      "start": 1509.31,
+      "end": 1511.53,
+      "text": "Typical models weren't designed for profit maximization."
+    },
+    {
+      "start": 1512.05,
+      "end": 1515.75,
+      "text": "They were designed by companies who have boatloads of funding and can operate at a loss for years."
+    },
+    {
+      "start": 1516.69,
+      "end": 1520.03,
+      "text": "When these models are used in the real world, business owners just barely get by."
+    },
+    {
+      "start": 1520.35,
+      "end": 1523.77,
+      "text": "They essentially buy themselves a job and work 100 hours a week to avoid working 40."
+    },
+    {
+      "start": 1524.19,
+      "end": 1524.71,
+      "text": "Crappy trade."
+    },
+    {
+      "start": 1525.09,
+      "end": 1527.65,
+      "text": "My guess is that if you're anything like me, you signed up for something better."
+    },
+    {
+      "start": 1528.83,
+      "end": 1529.47,
+      "text": "Keep an open mind."
+    },
+    {
+      "start": 1529.69,
+      "end": 1532.57,
+      "text": "The contents of this book, if executed, can transform your business fast."
+    },
+    {
+      "start": 1533.51,
+      "end": 1536.05,
+      "text": "It's okay if you're not into money, numbers, or business models."
+    },
+    {
+      "start": 1536.15,
+      "end": 1537.13,
+      "text": "I've done all that work for you."
+    },
+    {
+      "start": 1537.75,
+      "end": 1539.91,
+      "text": "I'm walking through the process step by step in these pages."
+    },
+    {
+      "start": 1540.33,
+      "end": 1544.91,
+      "text": "I'm going to explain each of the two big problems we touched on above in detail, including why they don't work."
+    },
+    {
+      "start": 1545.61,
+      "end": 1547.27,
+      "text": "Then I'm going to show you the solutions."
+    },
+    {
+      "start": 1547.69,
+      "end": 1554.55,
+      "text": "And to wrap this adventure up, I'll explain how to enhance value to maximize how much you make per customer so that you can out-market everyone and stack cash."
+    },
+    {
+      "start": 1555.67,
+      "end": 1564.69,
+      "text": "We use this offer model for every niche we work with: chiros, dentists, gyms, agencies, plumbers, roofers, dog walkers, physical products, software, brick-and-mortar stores, and so many more."
+    },
+    {
+      "start": 1565.13,
+      "end": 1570.15,
+      "text": "And it's amazing how fast things can improve with each and every one of them when they use this framework."
+    },
+    {
+      "start": 1571.51,
+      "end": 1572.05,
+      "text": "What's in it for you?"
+    },
+    {
+      "start": 1573.35,
+      "end": 1575.21,
+      "text": "I've made every dumb business mistake in the book."
+    },
+    {
+      "start": 1575.87,
+      "end": 1581.07,
+      "text": "Now you can learn from my embarrassing, brutal, multi-million dollar fuck-ups without having to suffer the same pain yourself."
+    },
+    {
+      "start": 1582.09,
+      "end": 1584.95,
+      "text": "Building these businesses has been a very hard and emotional journey for me."
+    },
+    {
+      "start": 1585.77,
+      "end": 1587.33,
+      "text": "I wouldn't trade these experiences for the world."
+    },
+    {
+      "start": 1588.09,
+      "end": 1595.83,
+      "text": "However, if this book helps just one entrepreneur avoid suffering as I did, keep their business open, or accomplish their dreams, it will all be worth it."
+    },
+    {
+      "start": 1596.97,
+      "end": 1608.01,
+      "text": "If you're willing to exchange the time it takes to watch two episodes of your favorite TV show and really study this book, and if you implement even a single offer component, I can guarantee you will add more clients and more dollars to your bottom line."
+    },
+    {
+      "start": 1608.85,
+      "end": 1612.65,
+      "text": "Reading this book and taking it to heart will be the single greatest return on time for your business."
+    },
+    {
+      "start": 1613.27,
+      "end": 1615.83,
+      "text": "Nothing else will allow you to do what this book can do in the same amount of time."
+    },
+    {
+      "start": 1616.27,
+      "end": 1616.99,
+      "text": "That is a promise."
+    },
+    {
+      "start": 1617.71,
+      "end": 1622.65,
+      "text": "As a side benefit, implementing a new offer is about one of the easiest things to do in a business, so you really can do this."
+    },
+    {
+      "start": 1623.11,
+      "end": 1625.79,
+      "text": "This isn't some management practice or culture-building hoodoo."
+    },
+    {
+      "start": 1626.25,
+      "end": 1629.71,
+      "text": "This is the real how you sell shit for lots of money type stuff."
+    },
+    {
+      "start": 1631.21,
+      "end": 1631.73,
+      "text": "What's in it for me?"
+    },
+    {
+      "start": 1632.97,
+      "end": 1642.91,
+      "text": "I give all these materials, this book, the accompanying course, and all other books and courses, which you can find at acquisition.com, for free or at cost in order to help as many people as humanly possible make more and serve more."
+    },
+    {
+      "start": 1643.69,
+      "end": 1652.01,
+      "text": "I've made these with the intention of providing more value than you can get from a 1,000 dollar course, any 30,000 dollar coaching program, and hilariously more than 200,000 dollar college degree."
+    },
+    {
+      "start": 1653.31,
+      "end": 1656.87,
+      "text": "And I do this because although I could sell these materials in that format, I just don't want to."
+    },
+    {
+      "start": 1657.63,
+      "end": 1663.13,
+      "text": "I've made my money doing this stuff, not teaching how to do this stuff, contrary to most of the marketing community at large."
+    },
+    {
+      "start": 1663.67,
+      "end": 1664.47,
+      "text": "So my model is different."
+    },
+    {
+      "start": 1664.75,
+      "end": 1665.65,
+      "text": "I'll explain more in a second."
+    },
+    {
+      "start": 1666.45,
+      "end": 1671.17,
+      "text": "That being said, there are two key archetypes I am trying to provide value to with my published materials."
+    },
+    {
+      "start": 1671.81,
+      "end": 1677.21,
+      "text": "For archetype number one, entrepreneurs under 3 million dollars per year in revenue, my goal is to help you get there and earn your trust."
+    },
+    {
+      "start": 1677.59,
+      "end": 1682.13,
+      "text": "Try just a couple of tactics from this book, watch them work, then try a few more, watch them work, and so on."
+    },
+    {
+      "start": 1682.51,
+      "end": 1684.25,
+      "text": "The more you see results in your own business, the better."
+    },
+    {
+      "start": 1685.19,
+      "end": 1690.11,
+      "text": "Once you succeed, you'll become archetype number two, entrepreneurs at minimum between 3 to 10 million a year in revenue."
+    },
+    {
+      "start": 1690.57,
+      "end": 1696.65,
+      "text": "Once you get there, or if that's you now, I'd be honored to invest in your business and help you cross 30, 50, or even 100 million plus."
+    },
+    {
+      "start": 1697.53,
+      "end": 1699.99,
+      "text": "I don't sell coaching, masterminds, or courses, or anything like that."
+    },
+    {
+      "start": 1700.73,
+      "end": 1703.45,
+      "text": "Instead, I have a portfolio of companies I take equity interest in."
+    },
+    {
+      "start": 1704.17,
+      "end": 1707.47,
+      "text": "I use the infrastructure, resources, and teams of all my companies to fast-track their growth."
+    },
+    {
+      "start": 1708.01,
+      "end": 1708.75,
+      "text": "But don't believe me yet."
+    },
+    {
+      "start": 1709.27,
+      "end": 1709.69,
+      "text": "We just met."
+    },
+    {
+      "start": 1710.71,
+      "end": 1715.05,
+      "text": "If you're curious, my business model is simple, just like the four-piece pyramid logo of acquisition.com."
+    },
+    {
+      "start": 1715.85,
+      "end": 1720.67,
+      "text": "Step one, provide value at no cost, far in excess to what the rest of the marketplace charges for."
+    },
+    {
+      "start": 1721.25,
+      "end": 1725.05,
+      "text": "Step two, have entrepreneurs use the materials that actually work and make money helping more folks."
+    },
+    {
+      "start": 1726.13,
+      "end": 1732.47,
+      "text": "Step three, earn the trust of the hyper-executor business owners who use the frameworks to scale their businesses to 3 to 10 million dollars per year and beyond."
+    },
+    {
+      "start": 1733.17,
+      "end": 1738.59,
+      "text": "Step four, invest in those businesses to make more impact at scale while helping every single other entrepreneur for free."
+    },
+    {
+      "start": 1739.47,
+      "end": 1741.85,
+      "text": "If you look carefully, the process reverses to near success."
+    },
+    {
+      "start": 1742.29,
+      "end": 1742.81,
+      "text": "I think it's pretty cool."
+    },
+    {
+      "start": 1743.31,
+      "end": 1743.59,
+      "text": "Here's how."
+    },
+    {
+      "start": 1744.65,
+      "end": 1750.25,
+      "text": "I know these business owners can execute the frameworks I have without handholding, and therefore would be very likely to succeed with the next set of frameworks."
+    },
+    {
+      "start": 1750.75,
+      "end": 1755.09,
+      "text": "Getting to 30 million, 50 million, 100 million looks different than getting to 3 to 10 million."
+    },
+    {
+      "start": 1755.69,
+      "end": 1757.87,
+      "text": "They know my style works for them because it already has."
+    },
+    {
+      "start": 1758.55,
+      "end": 1759.63,
+      "text": "So we operate on shared trust."
+    },
+    {
+      "start": 1759.95,
+      "end": 1765.57,
+      "text": "I trust they can execute, and they trust that our stuff works, again, because it already has, all while helping everyone else for free."
+    },
+    {
+      "start": 1766.27,
+      "end": 1770.21,
+      "text": "So it allows me to preemptively avoid failures and dramatically increase success likelihood."
+    },
+    {
+      "start": 1770.89,
+      "end": 1771.63,
+      "text": "Let me show you how much."
+    },
+    {
+      "start": 1772.31,
+      "end": 1780.69,
+      "text": "At the time of this writing, every business I have started since March of 2017 has achieved a 1.5 million dollar per month run rate, at least."
+    },
+    {
+      "start": 1781.83,
+      "end": 1797.57,
+      "text": "According to the Small Business Administration, the odds of a single business even achieving 10 million dollars a year, or 833,000 per month, which is almost half of what I just said, are 0.4%, or 1 in 250."
+    },
+    {
+      "start": 1798.41,
+      "end": 1810.11,
+      "text": "Having it happen four times in a row is 0.4% times 0.4% times 0.4% times 0.4%, or in other words, very, very, very low probability that it was luck."
+    },
+    {
+      "start": 1811.17,
+      "end": 1816.19,
+      "text": "As such, I can say with conviction that we know how to recreate success using the frameworks I share over and over again."
+    },
+    {
+      "start": 1816.79,
+      "end": 1819.07,
+      "text": "They work because they are timeless business principles."
+    },
+    {
+      "start": 1819.97,
+      "end": 1824.61,
+      "text": "I actively visualize every day how it felt to wake up in the middle of the night in cold sweats, wondering how I'd make payroll."
+    },
+    {
+      "start": 1825.25,
+      "end": 1830.03,
+      "text": "That gut-wrenching meditation keeps me hungry as an entrepreneur, but also grateful for my security and peace of mind."
+    },
+    {
+      "start": 1830.73,
+      "end": 1833.55,
+      "text": "I want the latter for you and anyone else who gives a damn about what they do."
+    },
+    {
+      "start": 1834.41,
+      "end": 1834.79,
+      "text": "Fair enough?"
+    },
+    {
+      "start": 1835.45,
+      "end": 1835.61,
+      "text": "Cool."
+    },
+    {
+      "start": 1835.89,
+      "end": 1836.51,
+      "text": "So let's get to it."
+    },
+    {
+      "start": 1837.31,
+      "end": 1838.43,
+      "text": "Basic outline of this book."
+    },
+    {
+      "start": 1839.29,
+      "end": 1840.73,
+      "text": "This book is intended to be a resource."
+    },
+    {
+      "start": 1841.09,
+      "end": 1845.99,
+      "text": "As a resource, I mean it will be something that you read through, then keep in your toolbox, coming back to it again and again."
+    },
+    {
+      "start": 1848.29,
+      "end": 1850.35,
+      "text": "And says, never memorize anything you can look up."
+    },
+    {
+      "start": 1851.13,
+      "end": 1852.63,
+      "text": "Business is not a spectator sport."
+    },
+    {
+      "start": 1853.21,
+      "end": 1856.19,
+      "text": "You're not cramming for some midterm, and you're not some limp-wristed philosopher."
+    },
+    {
+      "start": 1856.47,
+      "end": 1858.65,
+      "text": "You do work, and to work, you need tools."
+    },
+    {
+      "start": 1859.09,
+      "end": 1860.67,
+      "text": "This, my friend, is one of those tools."
+    },
+    {
+      "start": 1861.81,
+      "end": 1862.45,
+      "text": "General outline."
+    },
+    {
+      "start": 1863.25,
+      "end": 1864.85,
+      "text": "Section one, how we got here."
+    },
+    {
+      "start": 1865.41,
+      "end": 1866.13,
+      "text": "You just finished it."
+    },
+    {
+      "start": 1866.99,
+      "end": 1868.21,
+      "text": "Section two, pricing."
+    },
+    {
+      "start": 1868.47,
+      "end": 1869.81,
+      "text": "How to charge lots of money for stuff."
+    },
+    {
+      "start": 1870.55,
+      "end": 1871.83,
+      "text": "Section three, value."
+    },
+    {
+      "start": 1872.63,
+      "end": 1873.19,
+      "text": "Create your offer."
+    },
+    {
+      "start": 1873.63,
+      "end": 1875.89,
+      "text": "How to make something so good people line up to buy."
+    },
+    {
+      "start": 1876.67,
+      "end": 1878.39,
+      "text": "Section four, enhancing your offer."
+    },
+    {
+      "start": 1879.27,
+      "end": 1881.25,
+      "text": "How to make your offer so good they feel stupid saying no."
+    },
+    {
+      "start": 1882.35,
+      "end": 1883.71,
+      "text": "Section five, next steps."
+    },
+    {
+      "start": 1883.97,
+      "end": 1885.21,
+      "text": "How to make this happen in the real world."
+    },
+    {
+      "start": 1885.99,
+      "end": 1890.73,
+      "text": "For free courses and books so good they grow your business without your consent, go to acquisition.com."
+    },
+    {
+      "start": 1893.09,
+      "end": 1896.87,
+      "text": "Hey guys, real quick, hope you enjoyed the first five chapters of 100 Million Dollar Offers."
+    },
+    {
+      "start": 1897.79,
+      "end": 1904.39,
+      "text": "If you didn't know this, we actually have a full course for 100 Million Dollar Offers that accompanies the book that is absolutely free."
+    },
+    {
+      "start": 1904.55,
+      "end": 1907.59,
+      "text": "It's on my site at acquisition.com/training."
+    },
+    {
+      "start": 1908.11,
+      "end": 1910.21,
+      "text": "Uh, we have other courses there for free as well."
+    },
+    {
+      "start": 1910.27,
+      "end": 1911.61,
+      "text": "There's no opt-in required."
+    },
+    {
+      "start": 1911.97,
+      "end": 1913.81,
+      "text": "You can just go there, watch, enjoy."
+    },
+    {
+      "start": 1913.85,
+      "end": 1919.63,
+      "text": "We've got downloads and checklists that you can use so you can fix your offer, improve your offer, and ultimately make more money."
+    },
+    {
+      "start": 1920.03,
+      "end": 1924.89,
+      "text": "And next episode, episode two, we're going to be talking about pricing and the commodity problem."
+    },
+    {
+      "start": 1925.17,
+      "end": 1929.57,
+      "text": "We're going to talk about how to find a starving crowd and how to charge what it's worth."
+    },
+    {
+      "start": 1931.93,
+      "end": 1935.59,
+      "text": "Acquisition.com volume one, 100 Million Dollar Offers."
+    },
+    {
+      "start": 1935.95,
+      "end": 1938.49,
+      "text": "How to make offers so good people feel stupid saying no."
+    },
+    {
+      "start": 1939.11,
+      "end": 1941.29,
+      "text": "Written and performed by Alex Hormozi."
+    },
+    {
+      "start": 1941.93,
+      "end": 1944.93,
+      "text": "Copyright 2021 acquisition.com."
+    },
+    {
+      "start": 1945.29,
+      "end": 1948.59,
+      "text": "Audio production copyright 2021 acquisition.com."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "3f4b183d69697500c516a740f1b708ce61fcfeb8633d37a16a0aa11a3a765289",
+  "audio_duration_sec": 1952.052245,
+  "elapsed_sec": 17.4,
+  "created": "2026-11-16T03:04:09+00:00"
+}

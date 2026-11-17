@@ -1,0 +1,3872 @@
+{
+  "source_id": "hormozi-100m-money-models-p06",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 1.6,
+      "text": "Section four: Downsell offers."
+    },
+    {
+      "start": 2.08,
+      "end": 3.2,
+      "text": "What to offer when they say no."
+    },
+    {
+      "start": 4.2,
+      "end": 7.32,
+      "text": "In the last section, we used upsell offers to get people to buy more stuff."
+    },
+    {
+      "start": 7.76,
+      "end": 9.62,
+      "text": "If we did a good job, we've turned a profit too."
+    },
+    {
+      "start": 10.28,
+      "end": 11.98,
+      "text": "Another step forward or beyond."
+    },
+    {
+      "start": 12.32,
+      "end": 12.58,
+      "text": "Awesome."
+    },
+    {
+      "start": 13.12,
+      "end": 13.86,
+      "text": "But what if they say no?"
+    },
+    {
+      "start": 14.38,
+      "end": 15.04,
+      "text": "We downsell them."
+    },
+    {
+      "start": 15.92,
+      "end": 19.44,
+      "text": "Downselling tweaks the original offer to find the highest value solution for the customer's budget."
+    },
+    {
+      "start": 20.06,
+      "end": 22.86,
+      "text": "So any offer you make after someone says no is a downsell."
+    },
+    {
+      "start": 24.04,
+      "end": 25.04,
+      "text": "I downsell in two ways."
+    },
+    {
+      "start": 25.56,
+      "end": 27.78,
+      "text": "I change how much they pay or what they get."
+    },
+    {
+      "start": 28.68,
+      "end": 32.2,
+      "text": "For how they pay, I balance how much they pay now with how much they pay over time."
+    },
+    {
+      "start": 32.54,
+      "end": 35.92,
+      "text": "For what they get, I change quantity, quality, or offer something different."
+    },
+    {
+      "start": 36.88,
+      "end": 38.36,
+      "text": "First, we cover my rules of downselling."
+    },
+    {
+      "start": 38.88,
+      "end": 40.76,
+      "text": "They apply to all my downsell processes."
+    },
+    {
+      "start": 41.4,
+      "end": 45.54,
+      "text": "Then when we dive into individual offers, you can hit the ground running and downsell like a pro."
+    },
+    {
+      "start": 46.3,
+      "end": 47.3,
+      "text": "How not to downsell."
+    },
+    {
+      "start": 47.6,
+      "end": 48.52,
+      "text": "A real story from a friend."
+    },
+    {
+      "start": 49.4,
+      "end": 51.66,
+      "text": "I was buying a car, and the salesman tried to upsell car insurance."
+    },
+    {
+      "start": 51.88,
+      "end": 54.22,
+      "text": "The cost of the insurance when he first started was 5,000 dollars."
+    },
+    {
+      "start": 54.64,
+      "end": 57.3,
+      "text": "I said no, but then he lowered the price, and I said no again."
+    },
+    {
+      "start": 57.64,
+      "end": 62.12,
+      "text": "He kept lowering the price until the same insurance he first offered for 5,000 dollars was now only 400 bucks."
+    },
+    {
+      "start": 62.52,
+      "end": 63.24,
+      "text": "I still said no."
+    },
+    {
+      "start": 63.8,
+      "end": 65.48,
+      "text": "At first, I said no because it was too much money."
+    },
+    {
+      "start": 65.86,
+      "end": 67.52,
+      "text": "By the end, I said no because I didn't trust the guy."
+    },
+    {
+      "start": 67.98,
+      "end": 69.14,
+      "text": "The entire experience felt dirty."
+    },
+    {
+      "start": 69.4,
+      "end": 71.42,
+      "text": "Then I wondered, was he ripping me off in the car too?"
+    },
+    {
+      "start": 71.86,
+      "end": 73.28,
+      "text": "Now I didn't want to buy the car from him either."
+    },
+    {
+      "start": 73.94,
+      "end": 75.36,
+      "text": "People lower the price to close a sale."
+    },
+    {
+      "start": 75.7,
+      "end": 81.28,
+      "text": "But even if you close this one sale, the customer will question every price you offer from that point going forward and whoever they tell."
+    },
+    {
+      "start": 81.8,
+      "end": 83.22,
+      "text": "You trade trust for a buck."
+    },
+    {
+      "start": 83.42,
+      "end": 84.0,
+      "text": "Not worth it."
+    },
+    {
+      "start": 84.5,
+      "end": 86.54,
+      "text": "Note, you can offer something different for less."
+    },
+    {
+      "start": 86.94,
+      "end": 88.7,
+      "text": "You just can't offer the same thing for less."
+    },
+    {
+      "start": 89.12,
+      "end": 94.0,
+      "text": "If you'd offered different insurance for less rather than the same insurance for less, you probably would have kept your trust and closed the sale."
+    },
+    {
+      "start": 94.88,
+      "end": 95.84,
+      "text": "The rules of downselling."
+    },
+    {
+      "start": 96.86,
+      "end": 99.8,
+      "text": "Remember, they said no to this offer, not all offers."
+    },
+    {
+      "start": 100.3,
+      "end": 103.38,
+      "text": "Sometimes, a lot of times, people say no, and that's okay."
+    },
+    {
+      "start": 103.96,
+      "end": 107.1,
+      "text": "Just because they rejected this offer doesn't mean they rejected you."
+    },
+    {
+      "start": 107.74,
+      "end": 109.42,
+      "text": "It hurts when someone rejects you, I get it."
+    },
+    {
+      "start": 109.9,
+      "end": 113.7,
+      "text": "But see it for what it is, an opportunity to find out what they really want and profit from it."
+    },
+    {
+      "start": 114.24,
+      "end": 117.28,
+      "text": "Instead of hiding your head in the sand, stand your ground and make another offer."
+    },
+    {
+      "start": 117.78,
+      "end": 120.12,
+      "text": "No means no for this thing, not no for everything."
+    },
+    {
+      "start": 121.48,
+      "end": 122.48,
+      "text": "Downsells are trades."
+    },
+    {
+      "start": 122.96,
+      "end": 127.7,
+      "text": "When downselling, you work with the customer to find combinations of giving and getting until you get a match."
+    },
+    {
+      "start": 128.16,
+      "end": 129.84,
+      "text": "If you're going to give something, get something."
+    },
+    {
+      "start": 131.12,
+      "end": 132.26,
+      "text": "Personalize, don't pressure."
+    },
+    {
+      "start": 133.14,
+      "end": 134.72,
+      "text": "Figure out what they like and don't like."
+    },
+    {
+      "start": 135.02,
+      "end": 138.52,
+      "text": "Then offer more of what they like and less of what they don't with a price to match."
+    },
+    {
+      "start": 139.1,
+      "end": 140.1,
+      "text": "You're personalizing here."
+    },
+    {
+      "start": 140.36,
+      "end": 143.34,
+      "text": "If someone refuses my large soda upsell, I can offer alternatives."
+    },
+    {
+      "start": 143.82,
+      "end": 146.24,
+      "text": "I could ask if they want a small, a juice, or a coffee."
+    },
+    {
+      "start": 146.6,
+      "end": 147.82,
+      "text": "Am I being offensive by asking?"
+    },
+    {
+      "start": 148.1,
+      "end": 148.66,
+      "text": "Absolutely not."
+    },
+    {
+      "start": 148.72,
+      "end": 151.66,
+      "text": "In fact, if I can better serve them, it would be offensive not to."
+    },
+    {
+      "start": 152.7,
+      "end": 153.9,
+      "text": "Offer the same thing in new ways."
+    },
+    {
+      "start": 154.36,
+      "end": 157.72,
+      "text": "In a perfect world, you've got tons of different things to sell, so everybody buys something."
+    },
+    {
+      "start": 158.32,
+      "end": 160.52,
+      "text": "In the real world, you limit downsells to what you've got."
+    },
+    {
+      "start": 160.8,
+      "end": 164.14,
+      "text": "Otherwise, you create a hundred businesses worth of products and problems, a silly choice."
+    },
+    {
+      "start": 164.58,
+      "end": 168.02,
+      "text": "So just think of downselling more like a hundred ways to offer the stuff you already have."
+    },
+    {
+      "start": 168.58,
+      "end": 170.26,
+      "text": "Don't drop your price just to get somebody to buy."
+    },
+    {
+      "start": 170.6,
+      "end": 173.46,
+      "text": "First off, dropping your price is not really downselling, it's discounting."
+    },
+    {
+      "start": 173.86,
+      "end": 177.56,
+      "text": "If someone wants what you have and just doesn't want to pay the price, tough cookies."
+    },
+    {
+      "start": 178.08,
+      "end": 182.46,
+      "text": "On the other hand, you can offer them to pay less now and pay more money over time, a payment plan."
+    },
+    {
+      "start": 182.98,
+      "end": 188.28,
+      "text": "But whatever you do, don't just change the price to get someone to buy because customers talk about price."
+    },
+    {
+      "start": 188.9,
+      "end": 190.58,
+      "text": "By all means, test prices."
+    },
+    {
+      "start": 191.02,
+      "end": 194.64,
+      "text": "Plan to offer your thing at a specific price to a specific number of people ahead of time."
+    },
+    {
+      "start": 195.58,
+      "end": 200.62,
+      "text": "That's way different than charging somebody less in the moment just because you felt scared of losing the sale in the moment."
+    },
+    {
+      "start": 201.04,
+      "end": 201.82,
+      "text": "Customers talk."
+    },
+    {
+      "start": 202.34,
+      "end": 209.14,
+      "text": "If they find out someone else got the same thing for less just because, you'll upset people, and it also becomes an ethical problem, at least to me."
+    },
+    {
+      "start": 209.48,
+      "end": 209.92,
+      "text": "Avoid it."
+    },
+    {
+      "start": 210.36,
+      "end": 214.8,
+      "text": "Next up, I use three simple and brutally effective downsell processes."
+    },
+    {
+      "start": 215.26,
+      "end": 216.9,
+      "text": "Payment plan downsells, how they pay."
+    },
+    {
+      "start": 217.36,
+      "end": 218.9,
+      "text": "Trial with penalty, how they pay."
+    },
+    {
+      "start": 219.44,
+      "end": 220.8,
+      "text": "Feature downsells, what they get."
+    },
+    {
+      "start": 221.58,
+      "end": 224.48,
+      "text": "These downsell processes boost 30-day profit even further."
+    },
+    {
+      "start": 225.02,
+      "end": 227.88,
+      "text": "They do it by making even more sales when customers would have said no."
+    },
+    {
+      "start": 228.26,
+      "end": 232.18,
+      "text": "And I love them because with just a couple of tweaks, you can fit them into your business and reap the rewards today."
+    },
+    {
+      "start": 233.12,
+      "end": 233.5,
+      "text": "Free gift."
+    },
+    {
+      "start": 234.08,
+      "end": 235.18,
+      "text": "Downsell offers video training."
+    },
+    {
+      "start": 235.4,
+      "end": 237.56,
+      "text": "People say no, don't get flustered, get focused."
+    },
+    {
+      "start": 237.98,
+      "end": 239.0,
+      "text": "Know what you're going to offer next."
+    },
+    {
+      "start": 239.24,
+      "end": 241.18,
+      "text": "I made a video to go over this chapter in detail for you."
+    },
+    {
+      "start": 241.5,
+      "end": 244.1,
+      "text": "Enjoy it free at acquisition.com/training/money."
+    },
+    {
+      "start": 244.44,
+      "end": 245.32,
+      "text": "Payment plan downsells."
+    },
+    {
+      "start": 246.3,
+      "end": 247.4,
+      "text": "How much can you put down today?"
+    },
+    {
+      "start": 248.18,
+      "end": 249.0,
+      "text": "August 2013."
+    },
+    {
+      "start": 249.98,
+      "end": 251.36,
+      "text": "It was my first real month in business."
+    },
+    {
+      "start": 252.12,
+      "end": 256.92,
+      "text": "I had exactly one month's rent and savings left to my name, and I had never gotten a stranger to give me money."
+    },
+    {
+      "start": 257.32,
+      "end": 261.06,
+      "text": "And now I had to get dozens of strangers to give me money in the next few weeks just to keep the lights on."
+    },
+    {
+      "start": 261.98,
+      "end": 263.58,
+      "text": "I only made a few sales the first week."
+    },
+    {
+      "start": 263.96,
+      "end": 266.9,
+      "text": "If I kept that up, it meant going hungry very soon."
+    },
+    {
+      "start": 267.48,
+      "end": 269.32,
+      "text": "I had nightmares about going back home a failure."
+    },
+    {
+      "start": 269.6,
+      "end": 270.52,
+      "text": "The idea was unbearable."
+    },
+    {
+      "start": 271.0,
+      "end": 271.64,
+      "text": "I got desperate."
+    },
+    {
+      "start": 272.22,
+      "end": 274.56,
+      "text": "The next morning, a lead walked in, and I went through my normal pitch."
+    },
+    {
+      "start": 274.82,
+      "end": 275.78,
+      "text": "She said, \"I can't afford it.\""
+    },
+    {
+      "start": 275.96,
+      "end": 278.42,
+      "text": "Normally, I'd just give up, but I really needed the money."
+    },
+    {
+      "start": 278.96,
+      "end": 281.38,
+      "text": "So in desperation, I blurted out, \"Okay, when do you get paid?\""
+    },
+    {
+      "start": 281.48,
+      "end": 282.96,
+      "text": "\"The 1st,\" she said."
+    },
+    {
+      "start": 283.5,
+      "end": 285.64,
+      "text": "\"Okay, just put half down now and half when you get paid.\""
+    },
+    {
+      "start": 285.96,
+      "end": 287.24,
+      "text": "\"I can't afford that either,\" she said."
+    },
+    {
+      "start": 287.88,
+      "end": 289.62,
+      "text": "\"Okay, do you really want to do this program?\""
+    },
+    {
+      "start": 289.74,
+      "end": 291.62,
+      "text": "\"Yeah,\" she said, \"I do.\""
+    },
+    {
+      "start": 291.62,
+      "end": 296.36,
+      "text": "\"Okay, what if you do three payments and just put a third down today?\""
+    },
+    {
+      "start": 296.44,
+      "end": 297.94,
+      "text": "\"I still can't do it.\""
+    },
+    {
+      "start": 297.96,
+      "end": 300.32,
+      "text": "\"Hmm, what can you do?\""
+    },
+    {
+      "start": 300.98,
+      "end": 304.16,
+      "text": "\"Honestly, nothing, but I can pay for the whole thing on the 1st.\""
+    },
+    {
+      "start": 304.94,
+      "end": 306.08,
+      "text": "My rent was due on the 5th."
+    },
+    {
+      "start": 306.08,
+      "end": 307.12,
+      "text": "\"Bingo."
+    },
+    {
+      "start": 307.56,
+      "end": 308.04,
+      "text": "Sounds good."
+    },
+    {
+      "start": 308.26,
+      "end": 310.24,
+      "text": "Just give me your card, and I'll charge you on the 2nd."
+    },
+    {
+      "start": 310.38,
+      "end": 310.8,
+      "text": "That work?\""
+    },
+    {
+      "start": 311.3,
+      "end": 311.84,
+      "text": "\"Yeah, great.\""
+    },
+    {
+      "start": 312.2,
+      "end": 314.16,
+      "text": "Two weeks later, I ran the card, and it worked."
+    },
+    {
+      "start": 314.52,
+      "end": 316.52,
+      "text": "My first-ever payment plan, a success."
+    },
+    {
+      "start": 316.82,
+      "end": 317.42,
+      "text": "Hallelujah."
+    },
+    {
+      "start": 318.44,
+      "end": 321.38,
+      "text": "Payment plan downsells work no matter how many zeros the price tag has."
+    },
+    {
+      "start": 321.8,
+      "end": 325.1,
+      "text": "I've made tens of millions of dollars with them, and I still use them to this day."
+    },
+    {
+      "start": 325.42,
+      "end": 328.4,
+      "text": "But payment plans are a gamble, so you have to know how to use them."
+    },
+    {
+      "start": 328.96,
+      "end": 332.08,
+      "text": "I know how to use them, and I'll show you exactly how too."
+    },
+    {
+      "start": 332.54,
+      "end": 336.16,
+      "text": "Payment plans are a gamble because they can make money in one way, but they can lose money in two."
+    },
+    {
+      "start": 336.68,
+      "end": 340.12,
+      "text": "They make you more money when you get more customers and those customers complete their payments."
+    },
+    {
+      "start": 340.62,
+      "end": 343.36,
+      "text": "They make you less money when people cancel before you turn a profit."
+    },
+    {
+      "start": 343.76,
+      "end": 347.46,
+      "text": "You lose the most money when people who would have paid in full take a payment plan and then cancel early."
+    },
+    {
+      "start": 348.32,
+      "end": 352.14,
+      "text": "This chapter maximizes how much money you make from payment plans and minimizes the money you lose."
+    },
+    {
+      "start": 352.82,
+      "end": 354.22,
+      "text": "I take the bet when I know I'll win."
+    },
+    {
+      "start": 354.26,
+      "end": 355.54,
+      "text": "With this playbook, you can too."
+    },
+    {
+      "start": 356.18,
+      "end": 356.66,
+      "text": "Description."
+    },
+    {
+      "start": 357.3,
+      "end": 361.78,
+      "text": "When most people think downsell, they think of a lower amount, lower quality, cheaper, and so on."
+    },
+    {
+      "start": 361.96,
+      "end": 362.4,
+      "text": "Fair enough."
+    },
+    {
+      "start": 362.68,
+      "end": 365.06,
+      "text": "But I like to downsell by offering the same product again."
+    },
+    {
+      "start": 365.36,
+      "end": 366.64,
+      "text": "I know it sounds crazy, but hear me out."
+    },
+    {
+      "start": 367.02,
+      "end": 372.32,
+      "text": "Instead of offering a different thing, I spread the cost by charging some of it upfront and putting the rest into scheduled payments."
+    },
+    {
+      "start": 372.82,
+      "end": 374.06,
+      "text": "I call this a payment plan downsell."
+    },
+    {
+      "start": 374.4,
+      "end": 375.14,
+      "text": "Let's go over how they work."
+    },
+    {
+      "start": 375.84,
+      "end": 377.94,
+      "text": "Many people reject offers because they cost too much."
+    },
+    {
+      "start": 378.8,
+      "end": 379.54,
+      "text": "Sometimes true."
+    },
+    {
+      "start": 379.86,
+      "end": 384.96,
+      "text": "But in response to this, business owners and other sales professionals will immediately discount or sell cheaper stuff just to get them to say yes."
+    },
+    {
+      "start": 385.44,
+      "end": 390.78,
+      "text": "However, a huge percentage of the time, it costs too much really means this costs too much upfront."
+    },
+    {
+      "start": 391.2,
+      "end": 394.42,
+      "text": "In other words, people think discounts work because people pay less for the product."
+    },
+    {
+      "start": 394.8,
+      "end": 398.04,
+      "text": "But when you peel it back a layer, it's really because they pay less in the moment."
+    },
+    {
+      "start": 398.62,
+      "end": 400.52,
+      "text": "So payment plans get the best of both worlds."
+    },
+    {
+      "start": 400.9,
+      "end": 403.42,
+      "text": "They get more buyers because customers pay less in the moment."
+    },
+    {
+      "start": 403.68,
+      "end": 406.74,
+      "text": "They also boost your profits because customers still pay full price over time."
+    },
+    {
+      "start": 407.56,
+      "end": 410.3,
+      "text": "My payment plan down sells process takes up to seven steps."
+    },
+    {
+      "start": 410.78,
+      "end": 414.3,
+      "text": "The process shifts from getting paid more upfront to getting paid more over time."
+    },
+    {
+      "start": 414.82,
+      "end": 415.74,
+      "text": "I stop when they buy."
+    },
+    {
+      "start": 416.1,
+      "end": 416.82,
+      "text": "Here are the steps."
+    },
+    {
+      "start": 417.36,
+      "end": 421.36,
+      "text": "Step one: reward for paying in full rather than punish for paying over time."
+    },
+    {
+      "start": 421.82,
+      "end": 426.0,
+      "text": "Step two: offer third-party financing, credit card, and layaway options."
+    },
+    {
+      "start": 426.76,
+      "end": 429.32,
+      "text": "Step three: offer half now, half later."
+    },
+    {
+      "start": 429.72,
+      "end": 432.08,
+      "text": "Step four: check to see if they still want the thing."
+    },
+    {
+      "start": 432.78,
+      "end": 435.04,
+      "text": "Step five: offer a split into three payments."
+    },
+    {
+      "start": 435.7,
+      "end": 438.3,
+      "text": "Step six: offer to evenly spread the payments."
+    },
+    {
+      "start": 438.8,
+      "end": 440.42,
+      "text": "Step seven: offer a free trial."
+    },
+    {
+      "start": 440.96,
+      "end": 441.78,
+      "text": "Let's go through them in order."
+    },
+    {
+      "start": 442.52,
+      "end": 444.3,
+      "text": "Example of payment plan down sell process."
+    },
+    {
+      "start": 444.84,
+      "end": 445.3,
+      "text": "Step one."
+    },
+    {
+      "start": 445.72,
+      "end": 448.94,
+      "text": "Step one: reward for paying in full rather than punish for paying over time."
+    },
+    {
+      "start": 449.7,
+      "end": 452.14,
+      "text": "If I take on the risk of a payment plan, I increase the price."
+    },
+    {
+      "start": 452.68,
+      "end": 457.34,
+      "text": "Normally, businesses do it by charging interest, but I do it by offering a discount if they pay in full."
+    },
+    {
+      "start": 457.86,
+      "end": 459.6,
+      "text": "Think about how businesses normally charge interest."
+    },
+    {
+      "start": 459.76,
+      "end": 464.52,
+      "text": "They basically say, \"It's 10 dollars if you get it right now, but it's 15 dollars if you pay over time because we charge 5 dollars interest.\""
+    },
+    {
+      "start": 464.78,
+      "end": 465.24,
+      "text": "No fun."
+    },
+    {
+      "start": 465.8,
+      "end": 469.28,
+      "text": "Instead, I say, \"It's 15 dollars, but it's 10 dollars if you prepay it."
+    },
+    {
+      "start": 469.48,
+      "end": 470.4,
+      "text": "You save 5 bucks.\""
+    },
+    {
+      "start": 470.8,
+      "end": 471.78,
+      "text": "That's what most people do."
+    },
+    {
+      "start": 472.5,
+      "end": 475.0,
+      "text": "To do this, I present the price with interest included."
+    },
+    {
+      "start": 475.38,
+      "end": 478.04,
+      "text": "Then I offer prepayment as a way to get a discount."
+    },
+    {
+      "start": 478.64,
+      "end": 481.72,
+      "text": "This way, we make the offer friendlier and benefit from a price anchor."
+    },
+    {
+      "start": 482.02,
+      "end": 483.16,
+      "text": "Same math, better feels."
+    },
+    {
+      "start": 484.04,
+      "end": 485.94,
+      "text": "If they said no, I start down selling."
+    },
+    {
+      "start": 486.3,
+      "end": 488.44,
+      "text": "But even still, I try to get paid first."
+    },
+    {
+      "start": 488.94,
+      "end": 492.4,
+      "text": "Step two: offer third-party financing, credit card, and layaway options."
+    },
+    {
+      "start": 492.98,
+      "end": 493.78,
+      "text": "Third-party financing."
+    },
+    {
+      "start": 494.42,
+      "end": 498.62,
+      "text": "This means another company pays me now, and the customer has to pay a payment plan with that other company."
+    },
+    {
+      "start": 499.14,
+      "end": 500.38,
+      "text": "Car dealers do it all the time."
+    },
+    {
+      "start": 501.36,
+      "end": 505.08,
+      "text": "The dealer gets the money from the financing company today, and the customer pays the financing company tomorrow."
+    },
+    {
+      "start": 505.58,
+      "end": 509.19,
+      "text": "Note, it takes work to get third-party financing set up, but totally worth the effort."
+    },
+    {
+      "start": 509.8,
+      "end": 510.26,
+      "text": "Credit card."
+    },
+    {
+      "start": 510.9,
+      "end": 514.78,
+      "text": "Just ask, \"Would you rather I decide your payment terms or you decide?\""
+    },
+    {
+      "start": 515.74,
+      "end": 519.9,
+      "text": "They say normally that they'd prefer to decide, and when they do, I tell them to use their credit card."
+    },
+    {
+      "start": 520.2,
+      "end": 523.42,
+      "text": "That way, I get paid today, and then they can pay the credit card company over time."
+    },
+    {
+      "start": 523.8,
+      "end": 526.4,
+      "text": "It's wild to me that this reframe works, but it does."
+    },
+    {
+      "start": 526.9,
+      "end": 527.44,
+      "text": "I don't judge."
+    },
+    {
+      "start": 527.72,
+      "end": 528.02,
+      "text": "I do."
+    },
+    {
+      "start": 528.72,
+      "end": 529.18,
+      "text": "Layaway."
+    },
+    {
+      "start": 529.78,
+      "end": 531.88,
+      "text": "Layaway means paying off the product before getting it."
+    },
+    {
+      "start": 532.38,
+      "end": 534.54,
+      "text": "Customers can make as many installments as they want."
+    },
+    {
+      "start": 534.94,
+      "end": 539.68,
+      "text": "They can take any reasonable amount of time to pay, but they only get the product after they've paid in full."
+    },
+    {
+      "start": 539.86,
+      "end": 543.04,
+      "text": "This is by far the most flexible for them and the lowest risk to us."
+    },
+    {
+      "start": 543.54,
+      "end": 545.44,
+      "text": "If they say no to these, I move to step three."
+    },
+    {
+      "start": 546.04,
+      "end": 548.1,
+      "text": "Step three: offer half now, half later."
+    },
+    {
+      "start": 548.62,
+      "end": 550.48,
+      "text": "I start by asking, \"When's the next time you get paid?\""
+    },
+    {
+      "start": 551.26,
+      "end": 554.42,
+      "text": "After, I ask, \"Want to just put half down today and the rest when you get paid?\""
+    },
+    {
+      "start": 554.94,
+      "end": 557.66,
+      "text": "If they can't do that, I ask, \"What's the most you can put down today?\""
+    },
+    {
+      "start": 558.2,
+      "end": 559.5,
+      "text": "When they offer an amount, I say, \"Great."
+    },
+    {
+      "start": 559.66,
+      "end": 561.36,
+      "text": "We'll put that down today and put the rest when you get paid.\""
+    },
+    {
+      "start": 561.54,
+      "end": 561.96,
+      "text": "Fair enough."
+    },
+    {
+      "start": 562.52,
+      "end": 565.8,
+      "text": "I like scheduling payments off paychecks since that's when most people get paid every two weeks."
+    },
+    {
+      "start": 565.98,
+      "end": 569.32,
+      "text": "This boosts 30-day profit far more than monthly payments."
+    },
+    {
+      "start": 570.66,
+      "end": 573.64,
+      "text": "If they can't do those, I pause to make sure they actually want it."
+    },
+    {
+      "start": 575.32,
+      "end": 577.28,
+      "text": "Step four: check to see if they still want the thing."
+    },
+    {
+      "start": 578.06,
+      "end": 580.18,
+      "text": "No payment plan will satisfy a customer who doesn't want the thing."
+    },
+    {
+      "start": 580.52,
+      "end": 583.3,
+      "text": "So make sure the person actually wants your thing before putting more effort into selling it."
+    },
+    {
+      "start": 583.78,
+      "end": 585.06,
+      "text": "I might say something like, \"Got it."
+    },
+    {
+      "start": 585.28,
+      "end": 586.08,
+      "text": "So money's tight right now."
+    },
+    {
+      "start": 586.34,
+      "end": 589.68,
+      "text": "Real quick, I just want to make sure, on a scale from one to 10, how bad do you want to do this?\""
+    },
+    {
+      "start": 590.34,
+      "end": 593.96,
+      "text": "If they say eight or above, keep offering payment plans and say, \"Awesome."
+    },
+    {
+      "start": 594.32,
+      "end": 597.0,
+      "text": "Don't worry, we're going to figure a way out to make this happen for you.\""
+    },
+    {
+      "start": 597.76,
+      "end": 600.28,
+      "text": "If they say seven or below, ask, \"Why not a 10?\""
+    },
+    {
+      "start": 600.64,
+      "end": 601.86,
+      "text": "And then say something like, \"You're right."
+    },
+    {
+      "start": 602.1,
+      "end": 603.72,
+      "text": "I think we may have something that could be a better fit for you.\""
+    },
+    {
+      "start": 604.28,
+      "end": 607.76,
+      "text": "Then you sell them something different, which I'll cover in future down sells a little later."
+    },
+    {
+      "start": 608.7,
+      "end": 611.16,
+      "text": "Step five: offer a split into three payments."
+    },
+    {
+      "start": 611.76,
+      "end": 616.72,
+      "text": "If they said eight to 10 on the scale, I can down sell from half down to a third down."
+    },
+    {
+      "start": 617.36,
+      "end": 622.9,
+      "text": "Offer a three-payment option, one-third now and one-third of the next two paychecks, or one-third now and one-third next two months."
+    },
+    {
+      "start": 623.28,
+      "end": 625.92,
+      "text": "Step six: often evenly spread payments."
+    },
+    {
+      "start": 626.28,
+      "end": 629.72,
+      "text": "If they still can't manage it, I evenly spread payments over the rest of their service."
+    },
+    {
+      "start": 629.92,
+      "end": 634.68,
+      "text": "For instance, gym launch was 16 weeks long, so I charge them each week, 16 times in total."
+    },
+    {
+      "start": 635.28,
+      "end": 637.42,
+      "text": "If that still creates problem, I move on to step seven."
+    },
+    {
+      "start": 638.3,
+      "end": 639.12,
+      "text": "Offer a free trial."
+    },
+    {
+      "start": 640.0,
+      "end": 645.46,
+      "text": "I offer free trials in a special way, so I dedicate the next chapter to it, but the sale ends here, at least for now."
+    },
+    {
+      "start": 645.74,
+      "end": 648.3,
+      "text": "This payment plan down sell process makes up to nine offers."
+    },
+    {
+      "start": 648.78,
+      "end": 652.72,
+      "text": "And if you think that sounds crazy, you're probably making way less money and serving way fewer customers than you could."
+    },
+    {
+      "start": 653.24,
+      "end": 653.92,
+      "text": "Important notes."
+    },
+    {
+      "start": 654.56,
+      "end": 655.42,
+      "text": "See-saw down selling."
+    },
+    {
+      "start": 656.0,
+      "end": 660.66,
+      "text": "If you prefer fewer steps or have less experienced salespeople, then you can use this payment plan down sell process."
+    },
+    {
+      "start": 661.2,
+      "end": 665.5,
+      "text": "Instead of asking for the full amount, just ask, \"Would you rather have giant monthly payments or tiny ones?\""
+    },
+    {
+      "start": 665.92,
+      "end": 666.52,
+      "text": "They'll say tiny."
+    },
+    {
+      "start": 666.68,
+      "end": 671.84,
+      "text": "Then you say, \"Normally it costs X, and if you prepay it today, you'll get a huge discount and zero monthly payments."
+    },
+    {
+      "start": 672.12,
+      "end": 672.5,
+      "text": "That work?\""
+    },
+    {
+      "start": 672.94,
+      "end": 676.32,
+      "text": "This frames the payment plan as negative and highlights the benefits of prepaying."
+    },
+    {
+      "start": 676.98,
+      "end": 680.9,
+      "text": "Then if they say they can't afford it, say the more they can put down now, the lower their monthly payments."
+    },
+    {
+      "start": 681.4,
+      "end": 683.12,
+      "text": "\"If you can't afford it upfront, I totally get it."
+    },
+    {
+      "start": 683.36,
+      "end": 685.42,
+      "text": "Let's just adjust the down payment until you get the monthly rate you like.\""
+    },
+    {
+      "start": 685.86,
+      "end": 689.14,
+      "text": "This still incentivizes bigger down payments to get their monthly payments lower."
+    },
+    {
+      "start": 689.56,
+      "end": 691.86,
+      "text": "If they still say no, ask if they still want the product."
+    },
+    {
+      "start": 692.34,
+      "end": 696.1,
+      "text": "If they do, pull your chair to their side of the table and walk them through the options."
+    },
+    {
+      "start": 696.54,
+      "end": 698.02,
+      "text": "The sale becomes a team effort."
+    },
+    {
+      "start": 698.28,
+      "end": 698.8,
+      "text": "Straightforward."
+    },
+    {
+      "start": 700.38,
+      "end": 702.26,
+      "text": "Payment plans have built-in upsells."
+    },
+    {
+      "start": 703.0,
+      "end": 706.22,
+      "text": "Make periodic offers for the original paid in full discount during the payment plan."
+    },
+    {
+      "start": 706.62,
+      "end": 709.14,
+      "text": "If they pay off the balance, they can still get the original prepaid discount."
+    },
+    {
+      "start": 709.54,
+      "end": 710.82,
+      "text": "This works exceptionally well."
+    },
+    {
+      "start": 711.24,
+      "end": 715.5,
+      "text": "Customers forget they have the option, so when we give it to them, some jump at the opportunity."
+    },
+    {
+      "start": 716.08,
+      "end": 719.48,
+      "text": "Also, give your sales guys the same bonus to close the balance to incentivize the follow-up."
+    },
+    {
+      "start": 719.84,
+      "end": 723.1,
+      "text": "And remember, if you give people the option to pay slower, they will pay slower."
+    },
+    {
+      "start": 723.18,
+      "end": 725.66,
+      "text": "If you incentivize them to pay faster, they will pay faster."
+    },
+    {
+      "start": 726.08,
+      "end": 728.24,
+      "text": "So if you want them to pay faster, give them a good reason to."
+    },
+    {
+      "start": 728.84,
+      "end": 736.12,
+      "text": "In other words, you can extend the prepayment discount for the first 30 days of their relationship with you, and that gives you 30 more days to collect more cash upfront."
+    },
+    {
+      "start": 736.7,
+      "end": 737.7,
+      "text": "Get fewer declined payments."
+    },
+    {
+      "start": 738.16,
+      "end": 740.08,
+      "text": "Align payment schedules with paycheck schedules."
+    },
+    {
+      "start": 740.64,
+      "end": 743.38,
+      "text": "If you charge on days people get paid, they have a higher chance of paying."
+    },
+    {
+      "start": 743.91,
+      "end": 746.63,
+      "text": "Also, people's paychecks get deposited at different times."
+    },
+    {
+      "start": 747.05,
+      "end": 749.93,
+      "text": "So if at first it gets declined, run it a few times that day."
+    },
+    {
+      "start": 750.39,
+      "end": 752.25,
+      "text": "I learned this strategy from John, my early mentor."
+    },
+    {
+      "start": 752.77,
+      "end": 755.57,
+      "text": "I often recoup a third of my declined payments by adding this little process."
+    },
+    {
+      "start": 757.01,
+      "end": 758.53,
+      "text": "How to make sure payment plans make you money."
+    },
+    {
+      "start": 759.45,
+      "end": 761.77,
+      "text": "After implementing payment plans, your close rate should increase."
+    },
+    {
+      "start": 762.15,
+      "end": 762.33,
+      "text": "Duh."
+    },
+    {
+      "start": 762.79,
+      "end": 765.11,
+      "text": "But if the number of paid in fulls goes down, you have a problem."
+    },
+    {
+      "start": 765.41,
+      "end": 767.87,
+      "text": "You just put people who would have paid in full on payment plans."
+    },
+    {
+      "start": 768.31,
+      "end": 771.87,
+      "text": "So you want to close more points overall, but with the same percentage of appointments paying in full."
+    },
+    {
+      "start": 772.63,
+      "end": 775.25,
+      "text": "Example, if I talk to 10 leads, I might sell three."
+    },
+    {
+      "start": 775.67,
+      "end": 778.65,
+      "text": "If I have a downsell, I might sell three more for a total of six."
+    },
+    {
+      "start": 779.15,
+      "end": 783.55,
+      "text": "So in the second scenario, I get my upfront cash from the first three and the payment plans from the second three."
+    },
+    {
+      "start": 784.43,
+      "end": 787.63,
+      "text": "This makes sure that downsells properly increase your 30-day profits."
+    },
+    {
+      "start": 788.09,
+      "end": 790.03,
+      "text": "Another reason to start high before working your way down."
+    },
+    {
+      "start": 790.79,
+      "end": 795.39,
+      "text": "ProfitWell, a company that manages subscriptions, reported churn data from 14,000 businesses."
+    },
+    {
+      "start": 795.89,
+      "end": 797.09,
+      "text": "They uncovered this valuable gem."
+    },
+    {
+      "start": 797.53,
+      "end": 800.37,
+      "text": "Across all businesses, the billing cadence affected monthly churn."
+    },
+    {
+      "start": 801.07,
+      "end": 807.21,
+      "text": "Monthly, as in 12 times a year billing, resulted in 10.7% monthly cancellation rates."
+    },
+    {
+      "start": 807.99,
+      "end": 813.09,
+      "text": "Quarterly billing, as in four times per year billing, resulted in 5% monthly cancellation rates."
+    },
+    {
+      "start": 813.65,
+      "end": 818.25,
+      "text": "And annual billing, one time per year billing, resulted in 2% monthly cancellations."
+    },
+    {
+      "start": 819.07,
+      "end": 821.61,
+      "text": "I already present pricing in order of most cash upfront to least."
+    },
+    {
+      "start": 821.89,
+      "end": 824.97,
+      "text": "So it just so happens this also makes customers more valuable over the long term."
+    },
+    {
+      "start": 825.53,
+      "end": 828.57,
+      "text": "So start high, fewer bigger payments, and work your way down."
+    },
+    {
+      "start": 829.13,
+      "end": 833.13,
+      "text": "Bottom line, changing how customers pay can make a massive difference in how long they stay."
+    },
+    {
+      "start": 833.55,
+      "end": 837.17,
+      "text": "We go in more depth on continuity and churn in section six, continuity offers."
+    },
+    {
+      "start": 837.89,
+      "end": 838.49,
+      "text": "Summary points."
+    },
+    {
+      "start": 839.55,
+      "end": 843.75,
+      "text": "Payment plan downsells spread the cost of a product by charging some of it upfront and putting the rest into scheduled payments."
+    },
+    {
+      "start": 844.43,
+      "end": 850.19,
+      "text": "Payment plans get more buyers to like discounts, but can also boost profits because they agree to pay full price over time."
+    },
+    {
+      "start": 850.85,
+      "end": 854.29,
+      "text": "Payment plans only grow your business if they get more customers and those customers actually pay."
+    },
+    {
+      "start": 854.73,
+      "end": 858.21,
+      "text": "Step one, present at full price, then offer a discount if they pay in full."
+    },
+    {
+      "start": 858.67,
+      "end": 861.99,
+      "text": "Step two, third-party financing, then credit card option, then layaway option."
+    },
+    {
+      "start": 862.55,
+      "end": 865.67,
+      "text": "Step three, split the payment in two, schedule on their paycheck dates."
+    },
+    {
+      "start": 865.93,
+      "end": 869.75,
+      "text": "Step four, ask if they still want the product, on a scale from one to 10, you want eight or greater."
+    },
+    {
+      "start": 870.21,
+      "end": 874.03,
+      "text": "Step five, split the payment in three, split on their paycheck dates or monthly."
+    },
+    {
+      "start": 874.71,
+      "end": 877.99,
+      "text": "Step six, schedule equal payments across a specified period of time."
+    },
+    {
+      "start": 878.51,
+      "end": 882.65,
+      "text": "Step seven, offer a free trial in exchange for putting a card down, covered in the next chapter."
+    },
+    {
+      "start": 883.39,
+      "end": 886.15,
+      "text": "Seesaw downselling gradually shifts from paid in full to equal payments."
+    },
+    {
+      "start": 886.69,
+      "end": 890.75,
+      "text": "Payment plan upsell, they get the original discount price if they pay the balance today."
+    },
+    {
+      "start": 891.53,
+      "end": 894.31,
+      "text": "Align payment schedules with paycheck schedules to get fewer declined payments."
+    },
+    {
+      "start": 894.87,
+      "end": 899.71,
+      "text": "At the end of all of this, if someone still refuses to pay anything, then we offer them a free trial in exchange for their card."
+    },
+    {
+      "start": 900.09,
+      "end": 901.25,
+      "text": "But it's not an ordinary free trial."
+    },
+    {
+      "start": 901.57,
+      "end": 902.53,
+      "text": "I do it in a special way."
+    },
+    {
+      "start": 902.57,
+      "end": 903.67,
+      "text": "It took me years to perfect it."
+    },
+    {
+      "start": 904.05,
+      "end": 906.07,
+      "text": "So that's what we're going to go to next, and you're going to love it."
+    },
+    {
+      "start": 906.37,
+      "end": 906.75,
+      "text": "Free gift."
+    },
+    {
+      "start": 907.25,
+      "end": 908.39,
+      "text": "Downsell offers video training."
+    },
+    {
+      "start": 908.95,
+      "end": 911.81,
+      "text": "Properly designed payment plans almost always make you more sales and more money."
+    },
+    {
+      "start": 912.21,
+      "end": 915.51,
+      "text": "I recorded myself actually doing the step downs so you can model them for whatever you sell."
+    },
+    {
+      "start": 916.01,
+      "end": 919.07,
+      "text": "For those of you who like to learn in multiple formats, which I recommend, you can watch it."
+    },
+    {
+      "start": 919.39,
+      "end": 922.47,
+      "text": "I made it for you at acquisition.com/training/money."
+    },
+    {
+      "start": 923.37,
+      "end": 924.11,
+      "text": "Trial with penalty."
+    },
+    {
+      "start": 924.89,
+      "end": 927.55,
+      "text": "If you do X, Y, Z, I'll let you start for free."
+    },
+    {
+      "start": 928.59,
+      "end": 929.35,
+      "text": "Spring 2018."
+    },
+    {
+      "start": 929.93,
+      "end": 931.01,
+      "text": "Gym Launch was scaling fast."
+    },
+    {
+      "start": 931.07,
+      "end": 934.39,
+      "text": "With 100 employees and counting, Layla needed better HR solutions to manage it all."
+    },
+    {
+      "start": 934.89,
+      "end": 938.15,
+      "text": "After months of sales calls with prospective HR companies, she found one she liked."
+    },
+    {
+      "start": 938.67,
+      "end": 940.31,
+      "text": "And to my surprise, it wasn't anything special."
+    },
+    {
+      "start": 940.53,
+      "end": 941.35,
+      "text": "It looked like all the others."
+    },
+    {
+      "start": 941.35,
+      "end": 943.73,
+      "text": "\"Yeah, the software is complicated,\" she said."
+    },
+    {
+      "start": 944.05,
+      "end": 944.57,
+      "text": "\"They got me.\""
+    },
+    {
+      "start": 945.05,
+      "end": 945.47,
+      "text": "\"Seriously?"
+    },
+    {
+      "start": 945.75,
+      "end": 946.39,
+      "text": "How'd they manage that?\""
+    },
+    {
+      "start": 946.47,
+      "end": 948.57,
+      "text": "\"They had a trial offer with a weird spin."
+    },
+    {
+      "start": 948.59,
+      "end": 949.23,
+      "text": "It was pretty smart.\""
+    },
+    {
+      "start": 949.71,
+      "end": 950.21,
+      "text": "\"What'd they offer?\""
+    },
+    {
+      "start": 950.91,
+      "end": 953.33,
+      "text": "\"They said if I did their training, I'd get free onboarding."
+    },
+    {
+      "start": 953.51,
+      "end": 955.33,
+      "text": "But if I skipped the training, I'd have to pay for it.\""
+    },
+    {
+      "start": 955.39,
+      "end": 956.31,
+      "text": "\"So what'd you do?\""
+    },
+    {
+      "start": 956.91,
+      "end": 957.93,
+      "text": "\"I went through the training, of course.\""
+    },
+    {
+      "start": 958.39,
+      "end": 961.93,
+      "text": "\"So they took your card, you did the training, and then you didn't have to pay for the onboarding?\""
+    },
+    {
+      "start": 962.45,
+      "end": 963.49,
+      "text": "\"Yep,\" she smirked."
+    },
+    {
+      "start": 963.79,
+      "end": 965.79,
+      "text": "\"And now I can actually use the complicated software too.\""
+    },
+    {
+      "start": 966.25,
+      "end": 966.83,
+      "text": "Light bulb moment."
+    },
+    {
+      "start": 966.97,
+      "end": 973.71,
+      "text": "\"Wait, you said no, then they downsold you a free trial on the condition they could penalize you if you didn't use it.\""
+    },
+    {
+      "start": 973.75,
+      "end": 975.05,
+      "text": "\"Basically."
+    },
+    {
+      "start": 975.09,
+      "end": 975.87,
+      "text": "I mean, it makes sense."
+    },
+    {
+      "start": 975.93,
+      "end": 979.71,
+      "text": "It forced me to learn, and now I don't want to learn anyone else's complicated software, so we're sticking with them.\""
+    },
+    {
+      "start": 979.71,
+      "end": 980.69,
+      "text": "\"You're right."
+    },
+    {
+      "start": 980.89,
+      "end": 981.61,
+      "text": "That is pretty smart.\""
+    },
+    {
+      "start": 982.83,
+      "end": 987.29,
+      "text": "The software company used trial with penalty as their attraction offer, but I prefer it to downsell trials."
+    },
+    {
+      "start": 987.89,
+      "end": 990.85,
+      "text": "So I only downsell the trial if they say no to my first offer."
+    },
+    {
+      "start": 991.13,
+      "end": 995.65,
+      "text": "And if you do it the way I'm about to show you, it only changes what they pay today, not how much they pay in total."
+    },
+    {
+      "start": 996.25,
+      "end": 996.75,
+      "text": "Description."
+    },
+    {
+      "start": 997.39,
+      "end": 1002.03,
+      "text": "In a trial with penalty offer, customers can try your product or service for free so long as they meet your terms."
+    },
+    {
+      "start": 1002.47,
+      "end": 1008.19,
+      "text": "For comparison, when your money back offers, attraction offer number one, give customers the chance to get their money back if they meet your terms."
+    },
+    {
+      "start": 1008.61,
+      "end": 1011.39,
+      "text": "In trial with penalty offers, customers only pay if they don't meet them."
+    },
+    {
+      "start": 1012.27,
+      "end": 1018.17,
+      "text": "Ideally, the terms should be things that make excellent customers, so they'll mirror the actions and results used in your win your money back offer."
+    },
+    {
+      "start": 1018.59,
+      "end": 1022.89,
+      "text": "But this time, we use avoiding fees rather than winning money back to incentivize adherence."
+    },
+    {
+      "start": 1023.55,
+      "end": 1026.37,
+      "text": "So trial with penalty isn't, \"Here's my thing, see if you like it.\""
+    },
+    {
+      "start": 1026.71,
+      "end": 1032.25,
+      "text": "It's, \"Here's my thing, you get it for free so long as you do this stuff, which makes you a perfect fit for my next offer."
+    },
+    {
+      "start": 1032.29,
+      "end": 1034.01,
+      "text": "And if you don't, then you have to pay for it.\""
+    },
+    {
+      "start": 1034.73,
+      "end": 1040.33,
+      "text": "To do a trial with penalty downsell, you must consider what they have to do to avoid the fee and how you charge them."
+    },
+    {
+      "start": 1040.97,
+      "end": 1045.79,
+      "text": "Normally, you get one chunk of people to buy your main offer, so offer that first, and the rest you'll get on this downsell."
+    },
+    {
+      "start": 1046.25,
+      "end": 1049.07,
+      "text": "Let's say you normally close three out of 10 people on your upfront cash offer."
+    },
+    {
+      "start": 1049.51,
+      "end": 1052.31,
+      "text": "Now you downsell another four on a trial with penalty."
+    },
+    {
+      "start": 1052.79,
+      "end": 1055.07,
+      "text": "Then after the trial finishes, upsell three of them."
+    },
+    {
+      "start": 1055.65,
+      "end": 1058.25,
+      "text": "You go from three sales to six, doubling your customers."
+    },
+    {
+      "start": 1058.69,
+      "end": 1061.43,
+      "text": "If you only have one offer, you lose to everyone who says no."
+    },
+    {
+      "start": 1061.89,
+      "end": 1064.99,
+      "text": "Downselling trials with a penalty gives people another chance to say yes."
+    },
+    {
+      "start": 1065.67,
+      "end": 1071.13,
+      "text": "I'm still irritated at the thousands of customers I've lost on free trials over the years before learning this, but now we can save them."
+    },
+    {
+      "start": 1071.55,
+      "end": 1072.95,
+      "text": "The trial with penalty makes it happen."
+    },
+    {
+      "start": 1073.93,
+      "end": 1074.53,
+      "text": "Examples."
+    },
+    {
+      "start": 1075.37,
+      "end": 1076.39,
+      "text": "Business-to-consumer offer."
+    },
+    {
+      "start": 1077.11,
+      "end": 1078.57,
+      "text": "28-day kick that habit blueprint."
+    },
+    {
+      "start": 1079.15,
+      "end": 1091.79,
+      "text": "To get the trial for free and avoid the penalty fee, you must attend all your consulting calls, post your progress pictures in the group once a week, journal daily in our app, attend feedback sections, attend feedback sessions and transformations, AKA upsell opportunities."
+    },
+    {
+      "start": 1092.83,
+      "end": 1093.75,
+      "text": "Business-to-business offer."
+    },
+    {
+      "start": 1094.17,
+      "end": 1096.63,
+      "text": "Five-day get your first five customers challenge."
+    },
+    {
+      "start": 1097.33,
+      "end": 1107.23,
+      "text": "To get the trial for free and avoid the penalty fee, you must send 100 outbound messages per day, report stats on those outbound messages, attend the daily training, post in the group once you've done your homework, attend your graduation call."
+    },
+    {
+      "start": 1107.71,
+      "end": 1108.43,
+      "text": "Upsell opportunity."
+    },
+    {
+      "start": 1109.11,
+      "end": 1110.57,
+      "text": "Software, 500 dollars."
+    },
+    {
+      "start": 1111.43,
+      "end": 1114.49,
+      "text": "Onboarding for HR software, then 99 dollars per month thereafter."
+    },
+    {
+      "start": 1115.15,
+      "end": 1115.81,
+      "text": "Trial with penalty."
+    },
+    {
+      "start": 1116.13,
+      "end": 1127.87,
+      "text": "You don't have to pay 500 dollars upfront, but you must attend onboarding, which is three 60-minute Zoom calls, upsell opportunities, do the homework, activate your employer profile, get your employees set up by the end of the third call."
+    },
+    {
+      "start": 1128.07,
+      "end": 1129.09,
+      "text": "Otherwise, you pay the fee."
+    },
+    {
+      "start": 1130.03,
+      "end": 1133.17,
+      "text": "Important notes, what they get for free and what they have to do to avoid the fee."
+    },
+    {
+      "start": 1134.19,
+      "end": 1135.83,
+      "text": "You'll need to know what your terms of service will be."
+    },
+    {
+      "start": 1136.23,
+      "end": 1141.15,
+      "text": "The valuable parts will either be your bare bones offer, like the decoy offer, or your win your money back offer."
+    },
+    {
+      "start": 1141.65,
+      "end": 1142.07,
+      "text": "Either work."
+    },
+    {
+      "start": 1142.41,
+      "end": 1144.85,
+      "text": "I'd recommend giving more rather than giving less if you can afford it."
+    },
+    {
+      "start": 1145.37,
+      "end": 1147.43,
+      "text": "The criteria should activate and retain customers."
+    },
+    {
+      "start": 1147.87,
+      "end": 1150.69,
+      "text": "You can swipe these directly from win your money back attraction offer number one."
+    },
+    {
+      "start": 1151.23,
+      "end": 1153.77,
+      "text": "Breaking up fees versus one lump fee."
+    },
+    {
+      "start": 1154.63,
+      "end": 1156.79,
+      "text": "Say you have a 500 dollar product with 10 things to do."
+    },
+    {
+      "start": 1157.49,
+      "end": 1162.87,
+      "text": "I'd rather bill 50 dollars for each mess up than one 500 dollar fee for their first mess up."
+    },
+    {
+      "start": 1163.59,
+      "end": 1167.85,
+      "text": "On the other hand, if missing once really messes up their success, you want the fee to reflect that."
+    },
+    {
+      "start": 1168.05,
+      "end": 1168.79,
+      "text": "I've seen both work."
+    },
+    {
+      "start": 1169.39,
+      "end": 1170.29,
+      "text": "How to downsell the trial."
+    },
+    {
+      "start": 1171.05,
+      "end": 1174.25,
+      "text": "Here's a graphic to show how I downsell a trial with penalty in five steps."
+    },
+    {
+      "start": 1175.01,
+      "end": 1176.85,
+      "text": "Step one, offer the trial last."
+    },
+    {
+      "start": 1177.39,
+      "end": 1181.67,
+      "text": "If someone makes it clear they don't want your first offer, then downsell the trial with penalty."
+    },
+    {
+      "start": 1182.25,
+      "end": 1183.01,
+      "text": "Here's how it might sound."
+    },
+    {
+      "start": 1183.35,
+      "end": 1184.65,
+      "text": "Hmm, that sure is a pickle."
+    },
+    {
+      "start": 1184.89,
+      "end": 1185.39,
+      "text": "I'll tell you what."
+    },
+    {
+      "start": 1185.81,
+      "end": 1187.05,
+      "text": "How about we just get you started for free?"
+    },
+    {
+      "start": 1187.35,
+      "end": 1188.07,
+      "text": "Would you be okay with that?"
+    },
+    {
+      "start": 1188.59,
+      "end": 1190.67,
+      "text": "We can just help you out, and if you like it, you can stay."
+    },
+    {
+      "start": 1190.97,
+      "end": 1192.79,
+      "text": "Let me get your ID, and we get the process started."
+    },
+    {
+      "start": 1192.93,
+      "end": 1193.33,
+      "text": "Fair enough?"
+    },
+    {
+      "start": 1193.85,
+      "end": 1194.07,
+      "text": "Great."
+    },
+    {
+      "start": 1194.73,
+      "end": 1196.11,
+      "text": "Step two, always get a card."
+    },
+    {
+      "start": 1196.91,
+      "end": 1202.29,
+      "text": "Record their info, hold on to their ID, and motion for their credit card saying, \"What card do you want to use?\""
+    },
+    {
+      "start": 1202.91,
+      "end": 1203.95,
+      "text": "They have to leave a card."
+    },
+    {
+      "start": 1204.25,
+      "end": 1206.43,
+      "text": "If they balk, just say, \"That's how we've always done it.\""
+    },
+    {
+      "start": 1207.13,
+      "end": 1209.85,
+      "text": "If they still refuse, wish them a lovely day and show them out."
+    },
+    {
+      "start": 1210.47,
+      "end": 1214.19,
+      "text": "Pro tip: if someone doesn't agree to put their card down and do the work, I won't sell them."
+    },
+    {
+      "start": 1214.57,
+      "end": 1216.91,
+      "text": "They complain more and convert less, not worth the hassle."
+    },
+    {
+      "start": 1218.11,
+      "end": 1221.75,
+      "text": "Step three, always sell staying and paying."
+    },
+    {
+      "start": 1222.25,
+      "end": 1225.91,
+      "text": "Ask directly, \"If this program got you the result, will you stay long term?\""
+    },
+    {
+      "start": 1226.65,
+      "end": 1229.27,
+      "text": "You want them to agree to staying long term if you get them results."
+    },
+    {
+      "start": 1229.43,
+      "end": 1231.43,
+      "text": "If they say no, there's no point in giving them a trial."
+    },
+    {
+      "start": 1232.09,
+      "end": 1236.35,
+      "text": "Then we frame the conversation as if they'll stay long term, even if we haven't started billing them yet."
+    },
+    {
+      "start": 1236.79,
+      "end": 1241.39,
+      "text": "So if they say no but want more explanation, say something like this, \"I don't want you to try it."
+    },
+    {
+      "start": 1241.49,
+      "end": 1242.39,
+      "text": "I want you to get results."
+    },
+    {
+      "start": 1242.71,
+      "end": 1245.05,
+      "text": "And out of integrity, I want to set realistic goals."
+    },
+    {
+      "start": 1245.45,
+      "end": 1251.55,
+      "text": "You're not going to hit your long-term goals during this trial, but you will establish the habits to help you get them, and we're going to help you do that for free."
+    },
+    {
+      "start": 1251.81,
+      "end": 1254.29,
+      "text": "But if you want to get your long-term results, you're going to have to stay on after."
+    },
+    {
+      "start": 1254.59,
+      "end": 1257.91,
+      "text": "I just want to make sure that you're not looking for a quick fix because I ethically can't promise you that.\""
+    },
+    {
+      "start": 1258.49,
+      "end": 1260.27,
+      "text": "Once they agree, move on to step four."
+    },
+    {
+      "start": 1260.97,
+      "end": 1262.85,
+      "text": "Explain the fees after getting their card."
+    },
+    {
+      "start": 1263.43,
+      "end": 1266.45,
+      "text": "I'll say something like, \"We will do our part so long as you do yours."
+    },
+    {
+      "start": 1266.61,
+      "end": 1267.35,
+      "text": "That's fair, right?"
+    },
+    {
+      "start": 1267.75,
+      "end": 1269.15,
+      "text": "So now I just ask that you bet on yourself."
+    },
+    {
+      "start": 1269.53,
+      "end": 1271.81,
+      "text": "If you miss or skip any stuff, your results will suffer."
+    },
+    {
+      "start": 1272.31,
+      "end": 1273.53,
+      "text": "We charge to keep you on track."
+    },
+    {
+      "start": 1273.69,
+      "end": 1274.83,
+      "text": "If you miss, no big deal."
+    },
+    {
+      "start": 1275.49,
+      "end": 1277.87,
+      "text": "You'll get dinged a little fee, but it'll get you back on track."
+    },
+    {
+      "start": 1278.25,
+      "end": 1280.15,
+      "text": "If you follow through, then you get all this for free."
+    },
+    {
+      "start": 1280.43,
+      "end": 1283.21,
+      "text": "So this is the best way we can get you amazing results and keep it free for you."
+    },
+    {
+      "start": 1283.55,
+      "end": 1284.31,
+      "text": "Best of both worlds.\""
+    },
+    {
+      "start": 1285.21,
+      "end": 1289.05,
+      "text": "Note, if you explain the fees before you get the card, you'll get more resistance."
+    },
+    {
+      "start": 1289.43,
+      "end": 1293.71,
+      "text": "So explain after with a little, \"This is how we've always done it,\" attitude."
+    },
+    {
+      "start": 1294.49,
+      "end": 1297.89,
+      "text": "People still have to agree to the fees, but you'll get a higher take rate doing it this way."
+    },
+    {
+      "start": 1298.15,
+      "end": 1302.01,
+      "text": "I always have customers initial separately next to the fee clause to force my sales guys to explain it to them."
+    },
+    {
+      "start": 1302.65,
+      "end": 1304.41,
+      "text": "Step five, make check-ins required."
+    },
+    {
+      "start": 1305.01,
+      "end": 1308.53,
+      "text": "First, we explain all criteria so they understand the costs and benefits of adhering."
+    },
+    {
+      "start": 1309.03,
+      "end": 1311.63,
+      "text": "Then we draw attention to the check-ins, our upsell opportunities."
+    },
+    {
+      "start": 1311.63,
+      "end": 1314.69,
+      "text": "\"Yep, and you agree to attend each of these three check-ins."
+    },
+    {
+      "start": 1314.87,
+      "end": 1316.25,
+      "text": "First, we do X so that you can."
+    },
+    {
+      "start": 1316.43,
+      "end": 1317.73,
+      "text": "Second, we do Y so that you can."
+    },
+    {
+      "start": 1318.01,
+      "end": 1319.39,
+      "text": "Third, we do Z so that you can."
+    },
+    {
+      "start": 1319.89,
+      "end": 1323.55,
+      "text": "Obviously, we charge if you miss these because it's the only way that you can get results.\""
+    },
+    {
+      "start": 1324.61,
+      "end": 1325.73,
+      "text": "How I upsell from a trial."
+    },
+    {
+      "start": 1327.87,
+      "end": 1330.25,
+      "text": "When someone takes a trial, one of three things happen."
+    },
+    {
+      "start": 1330.43,
+      "end": 1332.01,
+      "text": "They like it, they hate it, or they don't use it."
+    },
+    {
+      "start": 1332.63,
+      "end": 1334.29,
+      "text": "Here's how I upsell them from each of these scenarios."
+    },
+    {
+      "start": 1335.19,
+      "end": 1336.79,
+      "text": "If they like it, this is the easy one."
+    },
+    {
+      "start": 1337.19,
+      "end": 1338.65,
+      "text": "You already have them set up for automatic billing."
+    },
+    {
+      "start": 1338.93,
+      "end": 1339.15,
+      "text": "Great."
+    },
+    {
+      "start": 1339.35,
+      "end": 1340.11,
+      "text": "Meet with them anyways."
+    },
+    {
+      "start": 1340.53,
+      "end": 1343.51,
+      "text": "You can still offer a longer term or higher value version of your service or both."
+    },
+    {
+      "start": 1343.83,
+      "end": 1346.91,
+      "text": "Successful customers tend to get even more value out of your better and more profitable stuff."
+    },
+    {
+      "start": 1347.89,
+      "end": 1350.77,
+      "text": "Two, if they hate it, turn that frown upside down."
+    },
+    {
+      "start": 1351.37,
+      "end": 1352.85,
+      "text": "Ask them what they would have liked to be different."
+    },
+    {
+      "start": 1353.71,
+      "end": 1356.71,
+      "text": "Tell them they're totally right and that you're angry at yourself for missing this."
+    },
+    {
+      "start": 1357.03,
+      "end": 1357.87,
+      "text": "Do not blame them."
+    },
+    {
+      "start": 1358.31,
+      "end": 1360.25,
+      "text": "Only one person can be angry, and it needs to be you."
+    },
+    {
+      "start": 1360.81,
+      "end": 1364.19,
+      "text": "Ask if they'll give you a chance to make it up to them because of how outraged you are at their experience."
+    },
+    {
+      "start": 1364.53,
+      "end": 1368.31,
+      "text": "And now, since you better understand their needs, that they're a better fit for your higher level thing."
+    },
+    {
+      "start": 1368.79,
+      "end": 1369.73,
+      "text": "Then offer to them."
+    },
+    {
+      "start": 1369.89,
+      "end": 1370.97,
+      "text": "Yes, this is a sale."
+    },
+    {
+      "start": 1371.35,
+      "end": 1372.77,
+      "text": "I can get about half of these people to buy."
+    },
+    {
+      "start": 1373.41,
+      "end": 1378.33,
+      "text": "Three, if they didn't use it, reach out to people multiple times before they get to this point."
+    },
+    {
+      "start": 1378.97,
+      "end": 1380.21,
+      "text": "Explain that you need to meet with them."
+    },
+    {
+      "start": 1380.65,
+      "end": 1382.39,
+      "text": "Offer to waive the fee if they do meet with you."
+    },
+    {
+      "start": 1382.73,
+      "end": 1385.63,
+      "text": "Now you can try and get them back on track or offer something better for them."
+    },
+    {
+      "start": 1386.13,
+      "end": 1387.89,
+      "text": "I don't like billing non-starters personally."
+    },
+    {
+      "start": 1388.23,
+      "end": 1391.07,
+      "text": "A small fee isn't worth a one-star review, but hey, it's your choice."
+    },
+    {
+      "start": 1391.79,
+      "end": 1393.23,
+      "text": "Tweak your trial to get the most customers."
+    },
+    {
+      "start": 1393.67,
+      "end": 1396.11,
+      "text": "If no one takes your trial, lower the requirements or penalties."
+    },
+    {
+      "start": 1396.31,
+      "end": 1403.33,
+      "text": "If people take your trial but don't follow through, emphasize explaining how fees help them and make sure to include your sales meeting as mandatory."
+    },
+    {
+      "start": 1403.97,
+      "end": 1411.25,
+      "text": "If people don't stay on the back end, better emphasize the value of staying and paying, get better at delivering, and make sure that what you sell on the back end makes sense with what you sell on the front end."
+    },
+    {
+      "start": 1411.67,
+      "end": 1413.25,
+      "text": "If you start printing money, don't stop."
+    },
+    {
+      "start": 1413.71,
+      "end": 1415.03,
+      "text": "Let people make up for goofs."
+    },
+    {
+      "start": 1415.93,
+      "end": 1420.45,
+      "text": "People often get discouraged after getting billed, but you can offer an opportunity to make it up."
+    },
+    {
+      "start": 1420.67,
+      "end": 1423.11,
+      "text": "This does a great job of getting people back on track and converting."
+    },
+    {
+      "start": 1423.19,
+      "end": 1424.89,
+      "text": "But if they miss it, you're justified in billing."
+    },
+    {
+      "start": 1426.31,
+      "end": 1427.31,
+      "text": "Just call it a trial."
+    },
+    {
+      "start": 1427.81,
+      "end": 1431.41,
+      "text": "Even though the trial with penalty has some special features, you should just call it a free trial."
+    },
+    {
+      "start": 1431.69,
+      "end": 1433.59,
+      "text": "Otherwise, people may get scared and confused."
+    },
+    {
+      "start": 1434.45,
+      "end": 1435.49,
+      "text": "No one wants to be penalized."
+    },
+    {
+      "start": 1435.89,
+      "end": 1441.61,
+      "text": "And if they ask you why you do free trials this way, just reply with, \"This is how we've always done it,\" or, \"People just get best results this way.\""
+    },
+    {
+      "start": 1442.17,
+      "end": 1444.63,
+      "text": "Pay less now or pay more later versus trial with penalty."
+    },
+    {
+      "start": 1445.33,
+      "end": 1452.69,
+      "text": "I use pay less now or pay more later as a downsell for physical products or one-time services, and I use trial with penalty as a downsell for recurring products or services."
+    },
+    {
+      "start": 1453.09,
+      "end": 1457.17,
+      "text": "Also, I've only made this work in businesses where the customer has to do work to get results."
+    },
+    {
+      "start": 1457.57,
+      "end": 1459.75,
+      "text": "If you find other types of businesses these work, let me know."
+    },
+    {
+      "start": 1461.29,
+      "end": 1462.55,
+      "text": "Discounts get cards on file."
+    },
+    {
+      "start": 1463.33,
+      "end": 1465.45,
+      "text": "Some people get weird when you offer free stuff and ask for a card."
+    },
+    {
+      "start": 1466.15,
+      "end": 1468.75,
+      "text": "And if you have a super low price, it justifies asking for the card."
+    },
+    {
+      "start": 1469.23,
+      "end": 1472.03,
+      "text": "The small price means the card will probably work when the automatic payment starts."
+    },
+    {
+      "start": 1472.41,
+      "end": 1476.51,
+      "text": "So instead of free month, you might offer first month for a dollar, then X dollars per month when it recurs."
+    },
+    {
+      "start": 1477.45,
+      "end": 1479.89,
+      "text": "So you can have a 1 dollar trial rather than a free trial."
+    },
+    {
+      "start": 1481.05,
+      "end": 1481.81,
+      "text": "It works the same way."
+    },
+    {
+      "start": 1482.57,
+      "end": 1483.01,
+      "text": "Summary points."
+    },
+    {
+      "start": 1483.29,
+      "end": 1487.99,
+      "text": "In a trial with penalty offer, customers can try your product or service for free so long as they meet your terms."
+    },
+    {
+      "start": 1488.65,
+      "end": 1491.65,
+      "text": "Trial with penalty downsell offers get yeses from people who would have said no."
+    },
+    {
+      "start": 1492.27,
+      "end": 1497.73,
+      "text": "To do them, get the card, get the commitment, explain what they have to do to get results and the meetings they must attend, and what happens if they don't."
+    },
+    {
+      "start": 1498.35,
+      "end": 1503.91,
+      "text": "Trials with penalties get more paying customers than normal free trials because they use your product more and actually get value from it."
+    },
+    {
+      "start": 1504.81,
+      "end": 1509.99,
+      "text": "Use the same refund criteria from when your money back attraction offer one to create your trial with penalty criteria."
+    },
+    {
+      "start": 1510.55,
+      "end": 1515.19,
+      "text": "This way, at the end of the trial, they've done the stuff that makes great long-term customers and advertise your business for free."
+    },
+    {
+      "start": 1515.53,
+      "end": 1518.35,
+      "text": "You can break up fees by criteria, or you can charge a lump fee."
+    },
+    {
+      "start": 1518.73,
+      "end": 1519.51,
+      "text": "I like breaking them up."
+    },
+    {
+      "start": 1520.17,
+      "end": 1525.41,
+      "text": "You make money by getting people results and turning them into customers, not nickel and diming them with fees."
+    },
+    {
+      "start": 1526.25,
+      "end": 1528.37,
+      "text": "Use mid-trial check-ins to make more offers."
+    },
+    {
+      "start": 1528.71,
+      "end": 1530.49,
+      "text": "If they love it, give them more of what they love."
+    },
+    {
+      "start": 1530.61,
+      "end": 1533.19,
+      "text": "If they have problems with it, swap it for what makes sense for them."
+    },
+    {
+      "start": 1533.51,
+      "end": 1536.67,
+      "text": "If they aren't using it, offer them the ability to make it up to avoid the fees."
+    },
+    {
+      "start": 1537.89,
+      "end": 1538.31,
+      "text": "Free gift."
+    },
+    {
+      "start": 1538.93,
+      "end": 1539.75,
+      "text": "Free trial training."
+    },
+    {
+      "start": 1540.73,
+      "end": 1543.81,
+      "text": "Not all businesses can do free trials, but if you can, it's a hell of a downsell."
+    },
+    {
+      "start": 1544.17,
+      "end": 1547.37,
+      "text": "There's obviously right and wrong ways to do them and right and wrong businesses do them in."
+    },
+    {
+      "start": 1547.85,
+      "end": 1551.23,
+      "text": "I made a free video for you covering this chapter in as many details as I could."
+    },
+    {
+      "start": 1551.77,
+      "end": 1555.03,
+      "text": "You can watch it at acquisition.com/training/money for free."
+    },
+    {
+      "start": 1555.25,
+      "end": 1555.55,
+      "text": "Enjoy."
+    },
+    {
+      "start": 1555.89,
+      "end": 1556.65,
+      "text": "Feature downsells."
+    },
+    {
+      "start": 1557.49,
+      "end": 1558.41,
+      "text": "Why don't we try this instead?"
+    },
+    {
+      "start": 1559.95,
+      "end": 1561.27,
+      "text": "I can't remember one in 2019."
+    },
+    {
+      "start": 1562.23,
+      "end": 1565.67,
+      "text": "This new downsell tripled my close rate from 25% to 75% last quarter."
+    },
+    {
+      "start": 1566.17,
+      "end": 1569.13,
+      "text": "And even crazier, more people bought the main thing, he said between bites."
+    },
+    {
+      "start": 1570.41,
+      "end": 1572.33,
+      "text": "You started offering a payment plan or a discount?"
+    },
+    {
+      "start": 1572.99,
+      "end": 1573.27,
+      "text": "Neither."
+    },
+    {
+      "start": 1574.03,
+      "end": 1574.91,
+      "text": "Payment plans take too long."
+    },
+    {
+      "start": 1575.19,
+      "end": 1576.37,
+      "text": "And discounts devalue my product."
+    },
+    {
+      "start": 1577.01,
+      "end": 1577.21,
+      "text": "Huh."
+    },
+    {
+      "start": 1577.73,
+      "end": 1579.05,
+      "text": "We talk about a high ticket product, right?"
+    },
+    {
+      "start": 1579.73,
+      "end": 1579.97,
+      "text": "Yep."
+    },
+    {
+      "start": 1580.51,
+      "end": 1581.15,
+      "text": "Geez, what are you doing?"
+    },
+    {
+      "start": 1582.13,
+      "end": 1584.79,
+      "text": "I lower the price, but I justify it by cutting a feature."
+    },
+    {
+      "start": 1585.07,
+      "end": 1585.97,
+      "text": "That way I'm not discounting."
+    },
+    {
+      "start": 1586.77,
+      "end": 1587.89,
+      "text": "So what feature did you cut?"
+    },
+    {
+      "start": 1588.35,
+      "end": 1589.57,
+      "text": "My full money back guarantee."
+    },
+    {
+      "start": 1590.27,
+      "end": 1591.69,
+      "text": "I never thought of guarantees as a feature."
+    },
+    {
+      "start": 1592.15,
+      "end": 1595.15,
+      "text": "Super intere- Wait, you downsell by removing your guarantee?"
+    },
+    {
+      "start": 1595.75,
+      "end": 1596.03,
+      "text": "Yep."
+    },
+    {
+      "start": 1596.29,
+      "end": 1596.87,
+      "text": "Works great."
+    },
+    {
+      "start": 1597.31,
+      "end": 1603.41,
+      "text": "When we get a price objection, we just say, \"If you don't want the option to get your money back, you can pay less, or you can keep your money back guarantee."
+    },
+    {
+      "start": 1603.63,
+      "end": 1604.29,
+      "text": "Which would you prefer?\""
+    },
+    {
+      "start": 1605.39,
+      "end": 1607.77,
+      "text": "Once they understand what they give up, they often say, \"Screw it."
+    },
+    {
+      "start": 1608.05,
+      "end": 1609.49,
+      "text": "I'd rather get the guarantee and get my money back.\""
+    },
+    {
+      "start": 1610.15,
+      "end": 1610.65,
+      "text": "Ah."
+    },
+    {
+      "start": 1611.07,
+      "end": 1613.87,
+      "text": "So they only see the value of the guarantee after you remove it."
+    },
+    {
+      "start": 1614.37,
+      "end": 1616.53,
+      "text": "And that also explains why so many people are buying the main thing."
+    },
+    {
+      "start": 1616.77,
+      "end": 1617.23,
+      "text": "Clever."
+    },
+    {
+      "start": 1617.71,
+      "end": 1619.57,
+      "text": "Then I followed up, \"How do the numbers break down?\""
+    },
+    {
+      "start": 1620.69,
+      "end": 1622.89,
+      "text": "Before, I only had one full price option."
+    },
+    {
+      "start": 1622.95,
+      "end": 1625.01,
+      "text": "So if 100 people got on a call, 25 bought."
+    },
+    {
+      "start": 1625.45,
+      "end": 1628.71,
+      "text": "Now, 35 people buy the main thing and 40 take the downsell."
+    },
+    {
+      "start": 1629.25,
+      "end": 1632.19,
+      "text": "So it upped your full price buyers, total close rate, and cash upfront?"
+    },
+    {
+      "start": 1632.43,
+      "end": 1632.83,
+      "text": "Nice."
+    },
+    {
+      "start": 1633.35,
+      "end": 1634.73,
+      "text": "Yeah, changed my life, he said."
+    },
+    {
+      "start": 1636.03,
+      "end": 1639.53,
+      "text": "The last two chapters covered payment plan downsells and trial with penalty."
+    },
+    {
+      "start": 1640.19,
+      "end": 1644.31,
+      "text": "We downsold by keeping the overall price the same, only changing when and how they paid."
+    },
+    {
+      "start": 1644.85,
+      "end": 1646.43,
+      "text": "In this chapter, we cover feature downsells."
+    },
+    {
+      "start": 1646.59,
+      "end": 1648.45,
+      "text": "With these, we downsell by lowering the price."
+    },
+    {
+      "start": 1648.83,
+      "end": 1652.89,
+      "text": "But instead of a discount, which makes the same stuff cheaper, we lower the price by changing what they get."
+    },
+    {
+      "start": 1653.77,
+      "end": 1654.27,
+      "text": "Description."
+    },
+    {
+      "start": 1654.95,
+      "end": 1657.43,
+      "text": "Feature downsells lower prices by changing what customers get."
+    },
+    {
+      "start": 1657.99,
+      "end": 1662.37,
+      "text": "I do them by offering less quantity, lower quality, lower price alternatives, or cutting optional components."
+    },
+    {
+      "start": 1663.43,
+      "end": 1665.05,
+      "text": "All features have a price and a value."
+    },
+    {
+      "start": 1665.43,
+      "end": 1669.17,
+      "text": "If you remove something, the price goes down, sure, but the value goes down too."
+    },
+    {
+      "start": 1669.73,
+      "end": 1673.49,
+      "text": "What features you remove and how much you lower the price affect how good of a deal the person gets."
+    },
+    {
+      "start": 1674.13,
+      "end": 1676.55,
+      "text": "This change in your offer's price to value affects how people buy."
+    },
+    {
+      "start": 1677.09,
+      "end": 1678.23,
+      "text": "People want to get the best deal for them."
+    },
+    {
+      "start": 1678.73,
+      "end": 1683.45,
+      "text": "For instance, if you remove stuff they hate and lower the price a little, they get a better deal."
+    },
+    {
+      "start": 1683.85,
+      "end": 1687.09,
+      "text": "If you remove stuff they love and lower the price a little, they get a worse deal."
+    },
+    {
+      "start": 1687.79,
+      "end": 1688.77,
+      "text": "Both get people to buy."
+    },
+    {
+      "start": 1689.33,
+      "end": 1691.15,
+      "text": "In the story, customers loved the guarantee."
+    },
+    {
+      "start": 1691.39,
+      "end": 1693.27,
+      "text": "The guarantee had far more value than its price."
+    },
+    {
+      "start": 1693.63,
+      "end": 1697.63,
+      "text": "So even if they said no at first, removing the guarantee instantly showed its value."
+    },
+    {
+      "start": 1698.03,
+      "end": 1700.27,
+      "text": "Customers saw the higher priced offer as a better deal."
+    },
+    {
+      "start": 1700.65,
+      "end": 1703.15,
+      "text": "So after seeing the downsell option, they bought the first offer."
+    },
+    {
+      "start": 1704.33,
+      "end": 1707.33,
+      "text": "People will see the value in the thing you removed after they see the difference in price."
+    },
+    {
+      "start": 1707.63,
+      "end": 1711.69,
+      "text": "As in, people weigh how much money they save against the value they lose."
+    },
+    {
+      "start": 1712.13,
+      "end": 1716.57,
+      "text": "So clever feature downselling gets customers to re-upsell themselves on more expensive offers."
+    },
+    {
+      "start": 1717.01,
+      "end": 1719.67,
+      "text": "This means you want to remove features from highest to lowest value."
+    },
+    {
+      "start": 1720.07,
+      "end": 1724.79,
+      "text": "Since people want more value for their money, this incentivizes customers to make the highest value purchase for them."
+    },
+    {
+      "start": 1725.37,
+      "end": 1726.77,
+      "text": "Feature downsells have a simple formula."
+    },
+    {
+      "start": 1727.07,
+      "end": 1730.23,
+      "text": "Take something away, lower the price, and in so many words, ask, \"How about now?\""
+    },
+    {
+      "start": 1730.81,
+      "end": 1731.79,
+      "text": "Feature downsell examples."
+    },
+    {
+      "start": 1732.63,
+      "end": 1734.87,
+      "text": "Feature downselling product and service quantity."
+    },
+    {
+      "start": 1735.49,
+      "end": 1739.49,
+      "text": "For services, this might mean a lower amount, fewer sessions, less time, or shorter duration."
+    },
+    {
+      "start": 1740.57,
+      "end": 1742.27,
+      "text": "For products, it means fewer of them."
+    },
+    {
+      "start": 1743.27,
+      "end": 1744.65,
+      "text": "Product quantity downsell."
+    },
+    {
+      "start": 1745.19,
+      "end": 1747.83,
+      "text": "Instead of a three-month supply, how about we just start with one?"
+    },
+    {
+      "start": 1748.77,
+      "end": 1749.81,
+      "text": "Service quantity downsell."
+    },
+    {
+      "start": 1750.31,
+      "end": 1752.65,
+      "text": "Instead of four sessions per month, why don't you just start at two?"
+    },
+    {
+      "start": 1753.39,
+      "end": 1755.13,
+      "text": "Feature downselling product quality."
+    },
+    {
+      "start": 1755.69,
+      "end": 1760.09,
+      "text": "Think older versions, less reliable materials, materials of lower social status, etcetera."
+    },
+    {
+      "start": 1761.05,
+      "end": 1762.21,
+      "text": "Product quality downsell."
+    },
+    {
+      "start": 1762.81,
+      "end": 1764.65,
+      "text": "Instead of leather seats, we can do vinyl."
+    },
+    {
+      "start": 1764.83,
+      "end": 1765.37,
+      "text": "How's that sound?"
+    },
+    {
+      "start": 1766.85,
+      "end": 1768.55,
+      "text": "Feature downselling service quality."
+    },
+    {
+      "start": 1769.09,
+      "end": 1770.31,
+      "text": "This means a lot of things."
+    },
+    {
+      "start": 1770.65,
+      "end": 1773.01,
+      "text": "I'll give you a few ways I change quality of services."
+    },
+    {
+      "start": 1773.37,
+      "end": 1776.11,
+      "text": "Hint, this also works to increase service quality."
+    },
+    {
+      "start": 1776.81,
+      "end": 1777.73,
+      "text": "Service quality downsell."
+    },
+    {
+      "start": 1778.43,
+      "end": 1781.57,
+      "text": "Instead of five-minute response times, why don't we start you at overnight response times?"
+    },
+    {
+      "start": 1781.77,
+      "end": 1784.65,
+      "text": "You'll save some money, and you'll still get your answers, just with a small delay."
+    },
+    {
+      "start": 1785.91,
+      "end": 1787.13,
+      "text": "More service quality features."
+    },
+    {
+      "start": 1787.87,
+      "end": 1788.67,
+      "text": "Time availability."
+    },
+    {
+      "start": 1789.21,
+      "end": 1791.13,
+      "text": "Come specific times versus whenever you want."
+    },
+    {
+      "start": 1791.57,
+      "end": 1794.65,
+      "text": "Days of week, Monday, Wednesday, Friday versus any day."
+    },
+    {
+      "start": 1795.05,
+      "end": 1797.29,
+      "text": "Times of day, 9:00 to 5:00 versus 24 hours."
+    },
+    {
+      "start": 1797.69,
+      "end": 1800.77,
+      "text": "Amount of time, 15-minute support calls versus 60-minute support calls."
+    },
+    {
+      "start": 1801.45,
+      "end": 1802.55,
+      "text": "Location availability."
+    },
+    {
+      "start": 1803.29,
+      "end": 1805.73,
+      "text": "This one location versus all locations we own."
+    },
+    {
+      "start": 1806.29,
+      "end": 1806.99,
+      "text": "Cancellations."
+    },
+    {
+      "start": 1807.37,
+      "end": 1810.43,
+      "text": "Reschedule fees versus reschedule whenever you want for free."
+    },
+    {
+      "start": 1811.97,
+      "end": 1812.67,
+      "text": "Speed of response."
+    },
+    {
+      "start": 1813.09,
+      "end": 1815.27,
+      "text": "Reply in minutes versus hours versus days."
+    },
+    {
+      "start": 1815.85,
+      "end": 1816.49,
+      "text": "Speed of delivery."
+    },
+    {
+      "start": 1816.65,
+      "end": 1820.43,
+      "text": "Wait in line versus priority versus same day, next day versus next week."
+    },
+    {
+      "start": 1821.89,
+      "end": 1822.61,
+      "text": "Service ratio."
+    },
+    {
+      "start": 1822.93,
+      "end": 1825.47,
+      "text": "One-on-one versus one-to-many versus many-to-one."
+    },
+    {
+      "start": 1825.91,
+      "end": 1826.71,
+      "text": "Communication method."
+    },
+    {
+      "start": 1827.07,
+      "end": 1829.57,
+      "text": "Tech support versus chat support versus video call support."
+    },
+    {
+      "start": 1830.79,
+      "end": 1831.87,
+      "text": "Provider qualifications."
+    },
+    {
+      "start": 1832.21,
+      "end": 1834.49,
+      "text": "Owner versus long-time employee versus new employee."
+    },
+    {
+      "start": 1835.53,
+      "end": 1836.49,
+      "text": "Live versus recorded."
+    },
+    {
+      "start": 1837.07,
+      "end": 1839.99,
+      "text": "Watch it happening now versus watch it after it happens later."
+    },
+    {
+      "start": 1840.61,
+      "end": 1844.55,
+      "text": "DIY versus DWY versus DFY."
+    },
+    {
+      "start": 1845.15,
+      "end": 1847.91,
+      "text": "Do it yourself versus done with you versus done for you."
+    },
+    {
+      "start": 1848.99,
+      "end": 1849.63,
+      "text": "Expirations."
+    },
+    {
+      "start": 1850.51,
+      "end": 1854.25,
+      "text": "Works forever versus works for X time versus works only at specific times."
+    },
+    {
+      "start": 1854.99,
+      "end": 1855.71,
+      "text": "Personalization."
+    },
+    {
+      "start": 1855.99,
+      "end": 1857.65,
+      "text": "Generic versus made just for you."
+    },
+    {
+      "start": 1858.51,
+      "end": 1859.61,
+      "text": "Insurance/guarantee."
+    },
+    {
+      "start": 1860.15,
+      "end": 1860.81,
+      "text": "Lengths of time."
+    },
+    {
+      "start": 1861.45,
+      "end": 1862.81,
+      "text": "For one year versus for life."
+    },
+    {
+      "start": 1863.17,
+      "end": 1863.63,
+      "text": "Coverage."
+    },
+    {
+      "start": 1864.19,
+      "end": 1866.77,
+      "text": "Specific bad thing happens versus any bad thing happens."
+    },
+    {
+      "start": 1867.27,
+      "end": 1867.67,
+      "text": "Terms."
+    },
+    {
+      "start": 1867.95,
+      "end": 1870.03,
+      "text": "Unconditional versus only if you do X, Y, and Z."
+    },
+    {
+      "start": 1871.49,
+      "end": 1872.39,
+      "text": "That should get you started."
+    },
+    {
+      "start": 1873.31,
+      "end": 1875.05,
+      "text": "Downselling by removing entire features."
+    },
+    {
+      "start": 1875.69,
+      "end": 1878.87,
+      "text": "Rather than lowering quantity or quality, you remove the feature itself."
+    },
+    {
+      "start": 1879.25,
+      "end": 1880.69,
+      "text": "In the story, he removed the guarantee."
+    },
+    {
+      "start": 1881.41,
+      "end": 1882.91,
+      "text": "Removing entire feature downsell."
+    },
+    {
+      "start": 1883.55,
+      "end": 1889.11,
+      "text": "Instead of priority chat, email support, and calls, why don't we just keep chat and email support, but drop the calls to save you some money?"
+    },
+    {
+      "start": 1889.53,
+      "end": 1890.35,
+      "text": "You'll still get your answers."
+    },
+    {
+      "start": 1890.53,
+      "end": 1892.49,
+      "text": "It'll just save us time, and we can pass those savings onto you."
+    },
+    {
+      "start": 1893.53,
+      "end": 1896.45,
+      "text": "Feature downselling done for you to do it yourself."
+    },
+    {
+      "start": 1896.97,
+      "end": 1901.05,
+      "text": "If someone says no to all your service downsells, you can sound sell another product that solves the same problem."
+    },
+    {
+      "start": 1901.89,
+      "end": 1903.63,
+      "text": "Done for you to do it yourself product downsell."
+    },
+    {
+      "start": 1904.93,
+      "end": 1905.53,
+      "text": "Chiropractor."
+    },
+    {
+      "start": 1906.13,
+      "end": 1910.77,
+      "text": "Instead of chiropractic adjustments, let's just start you with some tools you can use on yourself at home."
+    },
+    {
+      "start": 1911.75,
+      "end": 1915.11,
+      "text": "Then you'd sell home massage tools, foam rollers, mats, et cetera."
+    },
+    {
+      "start": 1916.39,
+      "end": 1916.65,
+      "text": "Painter."
+    },
+    {
+      "start": 1917.81,
+      "end": 1923.27,
+      "text": "If you can't afford me painting your house, why don't I just give you the paint and lease you one of our spray machines for a daily rate?"
+    },
+    {
+      "start": 1924.65,
+      "end": 1925.17,
+      "text": "Alex Hormozi."
+    },
+    {
+      "start": 1925.85,
+      "end": 1929.59,
+      "text": "Instead of me and my team buying your company and actively growing your business, why don't you just attend a workshop?"
+    },
+    {
+      "start": 1929.75,
+      "end": 1930.99,
+      "text": "Cough, goodacquisitions.com."
+    },
+    {
+      "start": 1932.21,
+      "end": 1932.77,
+      "text": "Important notes."
+    },
+    {
+      "start": 1933.57,
+      "end": 1935.15,
+      "text": "Remember, never negotiate the price."
+    },
+    {
+      "start": 1935.83,
+      "end": 1938.97,
+      "text": "People who demand to pay less for the same thing are business terrorists."
+    },
+    {
+      "start": 1939.53,
+      "end": 1940.63,
+      "text": "I don't negotiate with terrorists."
+    },
+    {
+      "start": 1941.15,
+      "end": 1943.73,
+      "text": "If they want to pay less now, I offer a payment plan."
+    },
+    {
+      "start": 1944.19,
+      "end": 1946.67,
+      "text": "If they want to pay less overall, offer a feature downsell."
+    },
+    {
+      "start": 1947.07,
+      "end": 1949.21,
+      "text": "But I don't let anyone pay less just because."
+    },
+    {
+      "start": 1950.15,
+      "end": 1951.61,
+      "text": "Maintain the position of a helpful guide."
+    },
+    {
+      "start": 1952.19,
+      "end": 1955.27,
+      "text": "Remember, feature downselling means trying to find the best deal for them."
+    },
+    {
+      "start": 1955.79,
+      "end": 1958.13,
+      "text": "This keeps the conversion collaborative rather than competitive."
+    },
+    {
+      "start": 1958.59,
+      "end": 1960.97,
+      "text": "If you act pushy, your offers will exhaust customers faster."
+    },
+    {
+      "start": 1961.37,
+      "end": 1965.25,
+      "text": "If you stay a helpful guide, you can downsell as many offers as necessary without exhausting the customer."
+    },
+    {
+      "start": 1966.43,
+      "end": 1967.73,
+      "text": "Tweak your feature downsell process."
+    },
+    {
+      "start": 1968.41,
+      "end": 1971.79,
+      "text": "We have the job of making the product have the highest value to cost in the eyes of the customer."
+    },
+    {
+      "start": 1971.95,
+      "end": 1974.23,
+      "text": "But in the beginning, you won't know much about the customer's preferences."
+    },
+    {
+      "start": 1974.69,
+      "end": 1978.23,
+      "text": "So as you solve the same problems for the same type of customer, you learn what they find the most valuable."
+    },
+    {
+      "start": 1978.53,
+      "end": 1980.81,
+      "text": "Once you do, you can standardize your feature downsell process."
+    },
+    {
+      "start": 1981.33,
+      "end": 1985.33,
+      "text": "Feature downsells close more people when you have feature combinations set ahead of time."
+    },
+    {
+      "start": 1985.89,
+      "end": 1987.37,
+      "text": "How I standardize my downsell process."
+    },
+    {
+      "start": 1988.15,
+      "end": 1990.37,
+      "text": "First, I cut something valuable and lower the price a little."
+    },
+    {
+      "start": 1990.99,
+      "end": 1993.37,
+      "text": "I do this to get them to reconsider the original offer or price."
+    },
+    {
+      "start": 1993.91,
+      "end": 1996.93,
+      "text": "If that fails, I continue removing features and lowering the price until they buy."
+    },
+    {
+      "start": 1997.35,
+      "end": 1999.95,
+      "text": "I'd rather people buy something than get nothing."
+    },
+    {
+      "start": 2000.57,
+      "end": 2001.65,
+      "text": "Name your feature combinations."
+    },
+    {
+      "start": 2002.59,
+      "end": 2005.85,
+      "text": "Name the most expensive combination after a status your customer would find aspirational."
+    },
+    {
+      "start": 2006.05,
+      "end": 2009.33,
+      "text": "The whale package, the total transformation, the high roller, et cetera."
+    },
+    {
+      "start": 2009.73,
+      "end": 2010.37,
+      "text": "Look at airlines."
+    },
+    {
+      "start": 2010.73,
+      "end": 2013.31,
+      "text": "Make your version of first class, business class, economy."
+    },
+    {
+      "start": 2014.39,
+      "end": 2016.25,
+      "text": "I name my cheapest combination the minimum."
+    },
+    {
+      "start": 2016.61,
+      "end": 2019.05,
+      "text": "I like it because it implies they have to at least get that."
+    },
+    {
+      "start": 2019.59,
+      "end": 2023.45,
+      "text": "If someone rejects all the other packages, I just say, \"So nothing more than the minimum package then?\""
+    },
+    {
+      "start": 2023.83,
+      "end": 2026.89,
+      "text": "To get them to say no, to say yes, like the classic upsell."
+    },
+    {
+      "start": 2027.37,
+      "end": 2029.75,
+      "text": "Temperature check after two downsells, just like the payment plan."
+    },
+    {
+      "start": 2030.33,
+      "end": 2033.53,
+      "text": "If you make two changes in a row and they still refuse, make sure they really want the thing."
+    },
+    {
+      "start": 2033.77,
+      "end": 2034.99,
+      "text": "I'd say something like, \"Got it."
+    },
+    {
+      "start": 2035.03,
+      "end": 2036.17,
+      "text": "Real quick, just want to make sure."
+    },
+    {
+      "start": 2036.21,
+      "end": 2037.87,
+      "text": "On a scale from one to 10, how bad do you want this?\""
+    },
+    {
+      "start": 2038.97,
+      "end": 2041.21,
+      "text": "If they say eight or above, start payment plan downselling."
+    },
+    {
+      "start": 2041.47,
+      "end": 2041.79,
+      "text": "\"Awesome."
+    },
+    {
+      "start": 2041.97,
+      "end": 2043.89,
+      "text": "Don't worry, we're going to figure out a way to make this happen for you.\""
+    },
+    {
+      "start": 2044.27,
+      "end": 2047.07,
+      "text": "If they seven or below, then you say, \"What would a 10 look like?\""
+    },
+    {
+      "start": 2047.41,
+      "end": 2050.47,
+      "text": "Then recombine the features and try and accommodate their 10."
+    },
+    {
+      "start": 2050.83,
+      "end": 2054.11,
+      "text": "Note, this means you can alternate between payment plans and feature downsells."
+    },
+    {
+      "start": 2054.23,
+      "end": 2056.53,
+      "text": "When you use both, you become very difficult to refuse."
+    },
+    {
+      "start": 2057.11,
+      "end": 2058.69,
+      "text": "After each downsell, ask, \"Deal?\""
+    },
+    {
+      "start": 2058.91,
+      "end": 2059.61,
+      "text": "Or, \"Fair enough?\""
+    },
+    {
+      "start": 2059.95,
+      "end": 2061.49,
+      "text": "This works astonishingly well."
+    },
+    {
+      "start": 2061.95,
+      "end": 2065.29,
+      "text": "Fewer people will see the change in your offer for them and then say, \"No, that's not fair.\""
+    },
+    {
+      "start": 2065.77,
+      "end": 2075.69,
+      "text": "Listen to how I present the feature downsells on episode 202 of my podcast, The Game: How to Close Everyone, Downselling Like a Pro, which you can listen to on Spotify or Apple or iTunes or wherever you listen to podcasts."
+    },
+    {
+      "start": 2076.23,
+      "end": 2078.81,
+      "text": "Free orientations boost do-it-yourself feature downsells."
+    },
+    {
+      "start": 2079.33,
+      "end": 2084.73,
+      "text": "Once someone has refused all my done-for-you offers, I ask, \"Even though we're not going to work together on X, I still want to help."
+    },
+    {
+      "start": 2085.05,
+      "end": 2087.21,
+      "text": "How about you just come in for a free orientation on X tomorrow?\""
+    },
+    {
+      "start": 2087.97,
+      "end": 2092.79,
+      "text": "At the end of the orientation, I offer a DIY product that solves the same problem as the done-for-you service."
+    },
+    {
+      "start": 2093.17,
+      "end": 2096.25,
+      "text": "For example, I offered a free orientation to people who refused my fitness offer."
+    },
+    {
+      "start": 2096.91,
+      "end": 2100.85,
+      "text": "Of the people who showed up to the orientation, about half, almost all of them bought supplements."
+    },
+    {
+      "start": 2101.39,
+      "end": 2103.41,
+      "text": "It got me money from people who would otherwise said no."
+    },
+    {
+      "start": 2103.83,
+      "end": 2105.19,
+      "text": "Free money for little extra work."
+    },
+    {
+      "start": 2106.71,
+      "end": 2107.87,
+      "text": "Feature downsell your guarantees."
+    },
+    {
+      "start": 2108.49,
+      "end": 2111.97,
+      "text": "If you already have a guarantee, make removing it part of your feature downsell process."
+    },
+    {
+      "start": 2112.49,
+      "end": 2115.67,
+      "text": "People value security, so removing it gets many to realize its value."
+    },
+    {
+      "start": 2116.01,
+      "end": 2118.27,
+      "text": "This often flips an initial no back to a yes."
+    },
+    {
+      "start": 2118.75,
+      "end": 2120.03,
+      "text": "Feature downsell current customers."
+    },
+    {
+      "start": 2120.79,
+      "end": 2125.81,
+      "text": "Customers who use all the features they pay for keep paying longer than customers who don't."
+    },
+    {
+      "start": 2126.33,
+      "end": 2131.27,
+      "text": "So once you see a customer isn't using a feature, offer a lower price, only paying for the features they use."
+    },
+    {
+      "start": 2131.81,
+      "end": 2132.93,
+      "text": "Do this proactively."
+    },
+    {
+      "start": 2133.43,
+      "end": 2138.05,
+      "text": "They'll either tell you they want to keep it and might start using it again, or they'll be happy you gave them a better deal."
+    },
+    {
+      "start": 2138.61,
+      "end": 2140.61,
+      "text": "It takes work, but it beats them actually canceling."
+    },
+    {
+      "start": 2141.09,
+      "end": 2147.53,
+      "text": "Fun fact, customers we've downsold into a lower package just for them have the second highest LTV of all my customers."
+    },
+    {
+      "start": 2148.13,
+      "end": 2152.23,
+      "text": "When people have a product they like at a price they find fair, they tend to keep paying for it."
+    },
+    {
+      "start": 2152.75,
+      "end": 2154.81,
+      "text": "Barter with reviews, testimonials, and referrals."
+    },
+    {
+      "start": 2155.45,
+      "end": 2157.13,
+      "text": "Bartering is the oldest form of exchange."
+    },
+    {
+      "start": 2157.55,
+      "end": 2159.43,
+      "text": "My sharp rock for your rabbit skin."
+    },
+    {
+      "start": 2159.63,
+      "end": 2160.57,
+      "text": "And I love bartering."
+    },
+    {
+      "start": 2161.17,
+      "end": 2164.59,
+      "text": "If I get a price objection, sometimes I offer discounts in exchange for advertising."
+    },
+    {
+      "start": 2164.83,
+      "end": 2177.23,
+      "text": "Example, I'll knock 100 bucks off if you, one, leave a review on all sites, two, leave me a video testimonial, three, make a public social post at the beginning, middle, and end of our program showing your progress, four, introduce me to two friends who you'd want to do this with."
+    },
+    {
+      "start": 2177.55,
+      "end": 2177.75,
+      "text": "Deal?"
+    },
+    {
+      "start": 2178.43,
+      "end": 2180.67,
+      "text": "To me, the advertising worth more than the 100 dollar discount."
+    },
+    {
+      "start": 2180.89,
+      "end": 2182.91,
+      "text": "To them, the 100 dollars is worth less than the advertising."
+    },
+    {
+      "start": 2183.11,
+      "end": 2183.45,
+      "text": "Win-win."
+    },
+    {
+      "start": 2183.99,
+      "end": 2184.55,
+      "text": "Summary points."
+    },
+    {
+      "start": 2185.43,
+      "end": 2187.53,
+      "text": "Feature downsells lower prices by removing stuff."
+    },
+    {
+      "start": 2188.21,
+      "end": 2190.45,
+      "text": "You take something away, lower the price, and ask, \"How about now?\""
+    },
+    {
+      "start": 2191.27,
+      "end": 2196.33,
+      "text": "Typical feature downsells offer less quantity, lower quality, cheaper alternatives, or remove features altogether."
+    },
+    {
+      "start": 2197.25,
+      "end": 2200.39,
+      "text": "People tend to see the value in what you removed after they see the price difference."
+    },
+    {
+      "start": 2200.85,
+      "end": 2203.29,
+      "text": "This may get more people to take the more expensive offer."
+    },
+    {
+      "start": 2204.33,
+      "end": 2208.03,
+      "text": "If you remove stuff they hate and lower the price a lot, more people will take the downsell."
+    },
+    {
+      "start": 2208.57,
+      "end": 2211.87,
+      "text": "If you remove stuff they love and lower the price a little, more people take the original offer."
+    },
+    {
+      "start": 2212.33,
+      "end": 2214.49,
+      "text": "The first downsell gets them to reconsider my first offer."
+    },
+    {
+      "start": 2214.93,
+      "end": 2217.49,
+      "text": "The rest of my downsells get to consider the best deal for them."
+    },
+    {
+      "start": 2218.63,
+      "end": 2222.29,
+      "text": "If a prospect rejects multiple downsells, see if they still want your thing before continuing."
+    },
+    {
+      "start": 2222.95,
+      "end": 2227.39,
+      "text": "If a prospect likes a combination of features but still doesn't like the price, start payment plan downselling."
+    },
+    {
+      "start": 2227.73,
+      "end": 2228.37,
+      "text": "Very effective."
+    },
+    {
+      "start": 2229.13,
+      "end": 2231.51,
+      "text": "Feature downsell current customers before they cancel."
+    },
+    {
+      "start": 2232.33,
+      "end": 2234.71,
+      "text": "You can discount customers in exchange for them advertising your business."
+    },
+    {
+      "start": 2235.45,
+      "end": 2235.89,
+      "text": "Free gift."
+    },
+    {
+      "start": 2236.67,
+      "end": 2237.53,
+      "text": "Feature downsell training."
+    },
+    {
+      "start": 2237.73,
+      "end": 2238.17,
+      "text": "No opt-in."
+    },
+    {
+      "start": 2238.59,
+      "end": 2241.67,
+      "text": "Understanding features within services and products gives you a huge advantage."
+    },
+    {
+      "start": 2242.13,
+      "end": 2246.21,
+      "text": "It can help you make your stuff super profitable while staying attractive to the customer."
+    },
+    {
+      "start": 2246.69,
+      "end": 2249.43,
+      "text": "This is one of my favorite topics, and I made you an additional training that covers it."
+    },
+    {
+      "start": 2249.69,
+      "end": 2252.89,
+      "text": "You can watch it, as always, at acquisition.com/training/money."
+    },
+    {
+      "start": 2253.19,
+      "end": 2254.37,
+      "text": "Downsell offers conclusion."
+    },
+    {
+      "start": 2254.97,
+      "end": 2255.87,
+      "text": "Everybody buys something."
+    },
+    {
+      "start": 2256.71,
+      "end": 2260.03,
+      "text": "Downsells give you another shot at getting customer by turning noes into yeses."
+    },
+    {
+      "start": 2260.43,
+      "end": 2265.97,
+      "text": "For that reason, it's less about having a hundred different products with the same offer and more about having a hundred different offers for the same product."
+    },
+    {
+      "start": 2266.61,
+      "end": 2269.27,
+      "text": "But no matter what, the offer is never the same stuff for cheaper."
+    },
+    {
+      "start": 2269.71,
+      "end": 2272.05,
+      "text": "We just keep tweaking the offer until we make it the best deal for them."
+    },
+    {
+      "start": 2272.81,
+      "end": 2276.15,
+      "text": "The extra cash explodes our thirty-day profits and blows us past our goals."
+    },
+    {
+      "start": 2276.83,
+      "end": 2279.43,
+      "text": "So we've used attraction offers to get customers to buy once."
+    },
+    {
+      "start": 2279.89,
+      "end": 2281.77,
+      "text": "We've used upsells to get them to buy the next thing."
+    },
+    {
+      "start": 2282.35,
+      "end": 2285.41,
+      "text": "And now I've showed you the three most powerful downsell processes in case they say no."
+    },
+    {
+      "start": 2286.05,
+      "end": 2288.73,
+      "text": "Payment plan downsells, trial with penalty, and feature downsells."
+    },
+    {
+      "start": 2289.39,
+      "end": 2293.07,
+      "text": "Next, we've got the final stage of a hundred million dollar money model, continuity offers."
+    },
+    {
+      "start": 2293.35,
+      "end": 2294.57,
+      "text": "How to keep them buying for good."
+    },
+    {
+      "start": 2296.57,
+      "end": 2302.55,
+      "text": "Real quick, guys, I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 2303.17,
+      "end": 2308.49,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 2308.59,
+      "end": 2314.13,
+      "text": "It's breaking scaling into ten stages and across all eight functions of the business."
+    },
+    {
+      "start": 2314.19,
+      "end": 2320.29,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 2320.63,
+      "end": 2324.75,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 2324.79,
+      "end": 2328.21,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 2328.31,
+      "end": 2330.75,
+      "text": "So it's about thirty-ish pages for each of the stages."
+    },
+    {
+      "start": 2330.89,
+      "end": 2335.87,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 2335.91,
+      "end": 2342.09,
+      "text": "It's about fourteen hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about ninety minutes."
+    },
+    {
+      "start": 2342.73,
+      "end": 2349.11,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap, R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "e2ae93024cef6e39b2bcc5511d424661c457815d81ee5b982750ce5a6abb2c91",
+  "audio_duration_sec": 2354.834286,
+  "elapsed_sec": 19.7,
+  "created": "2026-11-16T03:31:32+00:00"
+}

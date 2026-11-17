@@ -1,0 +1,592 @@
+{
+  "source_id": "hormozi-game-ep-p20",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.42,
+      "end": 2.36,
+      "text": "Hello, everyone, and welcome to the Gym Secrets Podcast."
+    },
+    {
+      "start": 2.76,
+      "end": 3.3,
+      "text": "I am your host."
+    },
+    {
+      "start": 3.34,
+      "end": 8.78,
+      "text": "My name is Alex, and today we're going to be talking about the sales process from the spiritual, theoretical standpoint."
+    },
+    {
+      "start": 9.2,
+      "end": 11.42,
+      "text": "Um, I was talking to Dana Derek, he's a good friend of mine."
+    },
+    {
+      "start": 11.44,
+      "end": 12.74,
+      "text": "He's the best copywriter in Amazon."
+    },
+    {
+      "start": 13.34,
+      "end": 14.32,
+      "text": "Um, unbelievable."
+    },
+    {
+      "start": 14.52,
+      "end": 15.82,
+      "text": "He's an awesome, awesome copy guy."
+    },
+    {
+      "start": 15.88,
+      "end": 18.4,
+      "text": "And he was like, \"Dude,\" he's like, \"Your sales process is so awesome.\""
+    },
+    {
+      "start": 18.5,
+      "end": 20.56,
+      "text": "And it was just from that conversation that I wanted to bring this up."
+    },
+    {
+      "start": 21.12,
+      "end": 28.74,
+      "text": "Um, side note, if you're a gym owner, you want to get your gym full, go to idonthatemoney.com and go apply, and you can get a bunch of cool stuff."
+    },
+    {
+      "start": 28.92,
+      "end": 30.74,
+      "text": "Anyways, all right, um, to the main point."
+    },
+    {
+      "start": 31.16,
+      "end": 40.14,
+      "text": "So, uh, a lot of people, like, he was like, \"I realized that when I was reading your copy and I was listening to your pitch,\" he's like, \"All you do is sell the vacation.\""
+    },
+    {
+      "start": 40.46,
+      "end": 48.04,
+      "text": "And I think a really easy analogy to this is that, like, you always sell the vacation, you don't sell the plane flight, okay?"
+    },
+    {
+      "start": 48.38,
+      "end": 54.18,
+      "text": "Like, write it in your wall, put it on, like, above your computer, tell your sales team, you never sell the plane flight."
+    },
+    {
+      "start": 54.5,
+      "end": 64.18,
+      "text": "You're not selling going to TSA, taking your belt off, waiting for your plane, the connection, the, the, the drag, the turbulence on the plane, the crappy food, you know what I mean?"
+    },
+    {
+      "start": 64.22,
+      "end": 65.28,
+      "text": "The person who's farting next to you."
+    },
+    {
+      "start": 65.32,
+      "end": 66.64,
+      "text": "Like, you don't cover any of that stuff."
+    },
+    {
+      "start": 67.06,
+      "end": 68.82,
+      "text": "You sell Maui, right?"
+    },
+    {
+      "start": 69.36,
+      "end": 70.16,
+      "text": "That's what you sell."
+    },
+    {
+      "start": 71.16,
+      "end": 80.84,
+      "text": "Now, what you're selling is always virtually the same, and I'm going to cover the-- I'm going to circle back on this about the big main idea, but you're going to always sell that vacation."
+    },
+    {
+      "start": 81.42,
+      "end": 86.1,
+      "text": "The difference in level of service is how they want to get there, because they're going to get to Maui, right?"
+    },
+    {
+      "start": 87.04,
+      "end": 91.16,
+      "text": "But do they want to take-- Do you want to-- Do they want to walk there from where they're at?"
+    },
+    {
+      "start": 91.2,
+      "end": 93.96,
+      "text": "That'll probably take a long time, and there'll be mosquitoes, they could get robbed."
+    },
+    {
+      "start": 94.04,
+      "end": 95.22,
+      "text": "I mean, it's, it's dangerous, whatever."
+    },
+    {
+      "start": 95.24,
+      "end": 96.98,
+      "text": "But like, but they could do that, right?"
+    },
+    {
+      "start": 97.42,
+      "end": 98.08,
+      "text": "So that's option one."
+    },
+    {
+      "start": 98.36,
+      "end": 99.88,
+      "text": "Option two is they could take a bunch of buses."
+    },
+    {
+      "start": 100.3,
+      "end": 108.44,
+      "text": "Eh, it'll take a long time too, but at least there's like, you know, some Wi-Fi, some really, really slow Wi-Fi on the bus, and, you know, they're out of the sun, right?"
+    },
+    {
+      "start": 109.06,
+      "end": 114.62,
+      "text": "Um, you know, above that, they could, uh, they could just take normal flights, you know, just, just normal, good old-fashioned flights."
+    },
+    {
+      "start": 115.14,
+      "end": 120.14,
+      "text": "You know, or above that, they could take a personal private jet and go straight point A to point B."
+    },
+    {
+      "start": 120.2,
+      "end": 124.82,
+      "text": "They have no connections, no layovers, no nothing, and they've got some person giving them champagne the whole time there."
+    },
+    {
+      "start": 125.1,
+      "end": 125.26,
+      "text": "All right?"
+    },
+    {
+      "start": 125.66,
+      "end": 130.54,
+      "text": "They're all going to Maui, but it depends the speed and the quality of the journey."
+    },
+    {
+      "start": 131.34,
+      "end": 136.76,
+      "text": "That is how, like, what you sell virtually is always the same thing, okay?"
+    },
+    {
+      "start": 136.86,
+      "end": 141.28,
+      "text": "So, like, we have, we have multiple levels of, uh, of service within our business, right?"
+    },
+    {
+      "start": 141.9,
+      "end": 146.22,
+      "text": "Um, and well, it's not really service because we sell, like, products, but I won't get into it."
+    },
+    {
+      "start": 146.26,
+      "end": 149.64,
+      "text": "But the point is, is that we've, we, we mostly sell the exact same thing."
+    },
+    {
+      "start": 150.14,
+      "end": 151.7,
+      "text": "We're going to fill up your gym and help you make more money."
+    },
+    {
+      "start": 152.2,
+      "end": 153.18,
+      "text": "That's what we sell, right?"
+    },
+    {
+      "start": 153.56,
+      "end": 154.82,
+      "text": "It's just what vehicle do you want to take?"
+    },
+    {
+      "start": 155.4,
+      "end": 156.62,
+      "text": "How long do you want it to take you?"
+    },
+    {
+      "start": 158.06,
+      "end": 158.16,
+      "text": "Right?"
+    },
+    {
+      "start": 158.2,
+      "end": 159.72,
+      "text": "How much support do you want along the way?"
+    },
+    {
+      "start": 160.38,
+      "end": 160.78,
+      "text": "That's all it is."
+    },
+    {
+      "start": 160.82,
+      "end": 164.38,
+      "text": "But the ve-- But like, but the, the main goal is the same."
+    },
+    {
+      "start": 164.4,
+      "end": 170.32,
+      "text": "And so when you're selling your membership, it should almost always sound the same, whether you're selling personal training or you're selling whatever."
+    },
+    {
+      "start": 170.58,
+      "end": 173.56,
+      "text": "And you should usually start with the one-on-one flight, because some guys just want a one-on-one flight."
+    },
+    {
+      "start": 173.82,
+      "end": 179.34,
+      "text": "And the nice thing is that if you start high, you price anchor, you know, a 10,000 dollar one-way, you know, plane flight."
+    },
+    {
+      "start": 179.82,
+      "end": 183.9,
+      "text": "When you tell them that they can get a flight for, you know, 499, they're like, \"Oh, okay."
+    },
+    {
+      "start": 184.22,
+      "end": 184.98,
+      "text": "I can, I can do that.\""
+    },
+    {
+      "start": 185.22,
+      "end": 185.36,
+      "text": "Right?"
+    },
+    {
+      "start": 185.64,
+      "end": 188.06,
+      "text": "Now, if you start at 499, they might be-- they might balk at that."
+    },
+    {
+      "start": 188.1,
+      "end": 192.56,
+      "text": "But if you start at 4,000 for a program, when you say a couple hundred bucks, it sounds like nothing, right?"
+    },
+    {
+      "start": 192.96,
+      "end": 195.1,
+      "text": "And you can always squeeze margin that way, just as a side note."
+    },
+    {
+      "start": 195.58,
+      "end": 199.66,
+      "text": "Now, the second thing I wanted to talk about today was the concept of a promise, okay?"
+    },
+    {
+      "start": 200.68,
+      "end": 208.5,
+      "text": "So every single person within your space, or really any vertical industries, makes more or less the same promise, okay?"
+    },
+    {
+      "start": 208.62,
+      "end": 216.34,
+      "text": "Like me, every mark-- like every marketing agency that, that, that, that speaks to gym owners, every guru, every whatever, every coach, right?"
+    },
+    {
+      "start": 216.7,
+      "end": 218.54,
+      "text": "They all say more or less the same thing, right?"
+    },
+    {
+      "start": 218.62,
+      "end": 220.14,
+      "text": "The promise isn't that different."
+    },
+    {
+      "start": 220.42,
+      "end": 225.58,
+      "text": "They say, \"We're going to help you generate more leads, get you, you know, help you get more customers, help you make more money with your gym.\""
+    },
+    {
+      "start": 226.16,
+      "end": 226.3,
+      "text": "Right?"
+    },
+    {
+      "start": 226.62,
+      "end": 229.92,
+      "text": "And then some of them throw in, like, and automation systems and freedom, right?"
+    },
+    {
+      "start": 230.06,
+      "end": 231.64,
+      "text": "I mean, that, whatever, right?"
+    },
+    {
+      "start": 232.02,
+      "end": 237.26,
+      "text": "But that's more or less same thing, which is sometimes why I feel like sales isn't that hard."
+    },
+    {
+      "start": 237.78,
+      "end": 240.6,
+      "text": "Um, but I'm not going to get into that."
+    },
+    {
+      "start": 240.92,
+      "end": 245.28,
+      "text": "But the, the point there, though, is that, like, the promise is more or less always the same."
+    },
+    {
+      "start": 245.62,
+      "end": 249.52,
+      "text": "And so it's like, well, then how does this guy sell way more than this guy, right?"
+    },
+    {
+      "start": 249.58,
+      "end": 254.14,
+      "text": "How do we sell so much more than every other coach, um, and marketing agency out there that targets gym owners, right?"
+    },
+    {
+      "start": 254.18,
+      "end": 254.66,
+      "text": "How do we do that?"
+    },
+    {
+      "start": 256.22,
+      "end": 260.18,
+      "text": "We do it because we hit the other thing, right?"
+    },
+    {
+      "start": 260.44,
+      "end": 261.68,
+      "text": "Because there's two questions in sales."
+    },
+    {
+      "start": 261.78,
+      "end": 268.06,
+      "text": "One, do you think that if this thing does what we say it does, it's worth what we're charging, we're asking for, right?"
+    },
+    {
+      "start": 269.1,
+      "end": 271.12,
+      "text": "They say yes, you move on to the second question."
+    },
+    {
+      "start": 271.18,
+      "end": 273.12,
+      "text": "Almost every time it's yes, right?"
+    },
+    {
+      "start": 273.6,
+      "end": 275.62,
+      "text": "If you help someone 10X their gym, is it worth X?"
+    },
+    {
+      "start": 275.66,
+      "end": 276.52,
+      "text": "And they're going to be like, \"Well, yeah.\""
+    },
+    {
+      "start": 277.32,
+      "end": 277.46,
+      "text": "Right?"
+    },
+    {
+      "start": 278.0,
+      "end": 280.72,
+      "text": "So then it's the second question, and no one addresses that."
+    },
+    {
+      "start": 281.08,
+      "end": 284.88,
+      "text": "Everyone keeps selling like, \"Don't you like, we're going to 10X your business."
+    },
+    {
+      "start": 284.9,
+      "end": 285.98,
+      "text": "We're going to do all these things,\" right?"
+    },
+    {
+      "start": 286.22,
+      "end": 289.62,
+      "text": "They make, they make these outrage-- and that's why these claims, they just get more and more outrageous, right?"
+    },
+    {
+      "start": 290.48,
+      "end": 293.5,
+      "text": "Um, I don't think we've 10Xed anyone's business."
+    },
+    {
+      "start": 294.28,
+      "end": 295.98,
+      "text": "Maybe, no, we, no, we 10X Monica's."
+    },
+    {
+      "start": 296.48,
+      "end": 296.82,
+      "text": "Um..."
+    },
+    {
+      "start": 299.54,
+      "end": 300.02,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 300.18,
+      "end": 303.96,
+      "text": "You guys already know that I don't run any ads on this, and I don't sell anything."
+    },
+    {
+      "start": 304.02,
+      "end": 314.24,
+      "text": "And so the only ask that I can ever have of you guys is that you help me spread the word so we can help more entrepreneurs make more money, feed their families, make better products, and have better experiences for their employees and customers."
+    },
+    {
+      "start": 314.44,
+      "end": 318.74,
+      "text": "And the only way we do that is if you can rate and review and share this podcast."
+    },
+    {
+      "start": 318.96,
+      "end": 321.22,
+      "text": "So the single thing that I ask you to do is you can just leave a review."
+    },
+    {
+      "start": 321.46,
+      "end": 323.32,
+      "text": "It'll take you 10 seconds or one type of the thumb."
+    },
+    {
+      "start": 323.44,
+      "end": 327.14,
+      "text": "It would mean the absolute world to me, and more importantly, it may change the world for someone else."
+    },
+    {
+      "start": 329.56,
+      "end": 333.02,
+      "text": "But like, I'm like, I can just reliably get you to six-- I can get you to six figures a month."
+    },
+    {
+      "start": 333.24,
+      "end": 335.66,
+      "text": "If you're like, if you're at 30, we can get you to 100."
+    },
+    {
+      "start": 336.04,
+      "end": 337.22,
+      "text": "But like, I can't get you to 300."
+    },
+    {
+      "start": 337.28,
+      "end": 337.86,
+      "text": "I don't know how."
+    },
+    {
+      "start": 338.38,
+      "end": 340.02,
+      "text": "In one gym, I don't know how, right?"
+    },
+    {
+      "start": 340.1,
+      "end": 341.16,
+      "text": "But I can get you to 100, all right?"
+    },
+    {
+      "start": 341.22,
+      "end": 342.38,
+      "text": "We have a really repeatable process."
+    },
+    {
+      "start": 342.46,
+      "end": 351.56,
+      "text": "But the, the point here is that the second question is, how do I get you to believe that that statement is true, okay?"
+    },
+    {
+      "start": 353.06,
+      "end": 357.14,
+      "text": "If what I'm saying is true, is it worth what I'm asking for it?"
+    },
+    {
+      "start": 357.22,
+      "end": 357.98,
+      "text": "They say yes."
+    },
+    {
+      "start": 358.5,
+      "end": 359.14,
+      "text": "You're like, cool."
+    },
+    {
+      "start": 359.44,
+      "end": 362.78,
+      "text": "Then what would you need to see to believe me, okay?"
+    },
+    {
+      "start": 363.42,
+      "end": 366.76,
+      "text": "That's essentially what sales is, is those two main questions."
+    },
+    {
+      "start": 367.4,
+      "end": 375.64,
+      "text": "And so once you've made the proposition, once you've made the promise, and someone isn't buying, then all you're really facing is how do you, like, what would you need to believe me?"
+    },
+    {
+      "start": 376.16,
+      "end": 380.02,
+      "text": "Because you said that, like, if I can help you lose 60 pounds, right,"
+    },
+    {
+      "start": 381.54,
+      "end": 383.72,
+      "text": "like, it's worth 5,000 dollars to you, right?"
+    },
+    {
+      "start": 383.76,
+      "end": 387.52,
+      "text": "I mean, they, they go to plastic surgeons and get tummy tucks for 10 grand, so it's worth that to them, right?"
+    },
+    {
+      "start": 388.16,
+      "end": 393.38,
+      "text": "So it's like, so it's worth 5,000 dollars if I can get you to lose 60 pounds in this amount of time."
+    },
+    {
+      "start": 393.54,
+      "end": 394.14,
+      "text": "She says yes."
+    },
+    {
+      "start": 394.58,
+      "end": 394.82,
+      "text": "Okay."
+    },
+    {
+      "start": 395.56,
+      "end": 401.62,
+      "text": "Then what would you need to believe for me to show you that we can actually follow through with that promise, okay?"
+    },
+    {
+      "start": 402.02,
+      "end": 407.52,
+      "text": "I'm going to make a second one about how you can increase someone's conviction, um, in the next podcast, so make sure to check it out."
+    },
+    {
+      "start": 407.78,
+      "end": 423.78,
+      "text": "But, um, otherwise, for anyone else who's listening, um, be sure to go to idonthatemoney.com, and you can check out, like, 60 plus amazing testimonials of gyms that went from zero to full capacity in 30 days using our system, and then went on to riches, fame, and glory."
+    },
+    {
+      "start": 424.2,
+      "end": 425.64,
+      "text": "So you should definitely apply."
+    },
+    {
+      "start": 426.0,
+      "end": 428.7,
+      "text": "All right, have an awesome day, guys, and I will catch you guys on the next podcast."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "df6adccc0869507f85ffa09988502570b535e7ee8f61691c715d5d59df774b6e",
+  "audio_duration_sec": 436.793469,
+  "elapsed_sec": 11.5,
+  "created": "2026-11-16T15:23:11+00:00"
+}

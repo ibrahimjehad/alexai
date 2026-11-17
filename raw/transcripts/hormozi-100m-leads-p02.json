@@ -1,0 +1,3022 @@
+{
+  "source_id": "hormozi-100m-leads-p02",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.48,
+      "end": 2.36,
+      "text": "Welcome to the game."
+    },
+    {
+      "start": 2.64,
+      "end": 7.16,
+      "text": "This is a special edition, 100 Million Dollar Leads podcast."
+    },
+    {
+      "start": 7.22,
+      "end": 10.94,
+      "text": "These are the actual chapters from the audiobook that I made free for everyone here."
+    },
+    {
+      "start": 11.64,
+      "end": 16.08,
+      "text": "Um, we're going to be covering get understanding, why leads alone aren't enough, and how to engage your leads."
+    },
+    {
+      "start": 16.5,
+      "end": 19.42,
+      "text": "These have been huge lessons for me, and I hope that they serve you."
+    },
+    {
+      "start": 23.62,
+      "end": 25.2,
+      "text": "Section two, get understanding."
+    },
+    {
+      "start": 25.78,
+      "end": 27.12,
+      "text": "Advertising simplified."
+    },
+    {
+      "start": 28.22,
+      "end": 31.92,
+      "text": "In this section, we cover three things to make sure advertising does exactly what we want it to do."
+    },
+    {
+      "start": 32.66,
+      "end": 34.36,
+      "text": "First, we talk about what a lead actually is."
+    },
+    {
+      "start": 34.72,
+      "end": 37.68,
+      "text": "If we want more of them, we better be darn well sure we're talking about the same thing."
+    },
+    {
+      "start": 38.36,
+      "end": 41.44,
+      "text": "Second, we learn how to separate leads that make you money from the leads that waste your time."
+    },
+    {
+      "start": 41.9,
+      "end": 45.92,
+      "text": "Third, we show you the best way I know to get the leads that make you money to show interest in the stuff you sell."
+    },
+    {
+      "start": 46.54,
+      "end": 47.12,
+      "text": "Let's dive in."
+    },
+    {
+      "start": 50.62,
+      "end": 51.76,
+      "text": "Leads alone aren't enough."
+    },
+    {
+      "start": 52.54,
+      "end": 55.22,
+      "text": "If you can't explain something in simple terms, then you don't understand it."
+    },
+    {
+      "start": 55.68,
+      "end": 55.78,
+      "text": "Dr."
+    },
+    {
+      "start": 56.06,
+      "end": 58.8,
+      "text": "Richard Feynman, Nobel Prize winner in physics."
+    },
+    {
+      "start": 59.86,
+      "end": 61.0,
+      "text": "I'll let you in on a little secret."
+    },
+    {
+      "start": 61.28,
+      "end": 63.42,
+      "text": "This book started because somebody asked me what a lead was."
+    },
+    {
+      "start": 63.66,
+      "end": 65.66,
+      "text": "You'd think it would be simple, but I couldn't give a straight answer."
+    },
+    {
+      "start": 66.02,
+      "end": 68.6,
+      "text": "And after six months of trying to figure it out, I was more confused than before."
+    },
+    {
+      "start": 69.08,
+      "end": 71.42,
+      "text": "It became clear I didn't know as much about leads as I thought."
+    },
+    {
+      "start": 71.98,
+      "end": 77.26,
+      "text": "My search for a clear definition of a lead snowballed into the massive project that became 100 Million Dollar Leads."
+    },
+    {
+      "start": 78.0,
+      "end": 82.14,
+      "text": "All this to say, we've got to agree on what the heck a lead is before we dive headfirst into trying to get them."
+    },
+    {
+      "start": 83.22,
+      "end": 84.08,
+      "text": "So what's a lead anyways?"
+    },
+    {
+      "start": 84.5,
+      "end": 93.34,
+      "text": "Someone who clicks an ad, a phone number, a person that schedules a call, a list of names, a door you knock on, a walk-in, an email address, a subscriber, a person that sees your content, etcetera."
+    },
+    {
+      "start": 93.72,
+      "end": 95.7,
+      "text": "You see, words matter because they affect how we think."
+    },
+    {
+      "start": 95.84,
+      "end": 97.36,
+      "text": "How we think affects what we do."
+    },
+    {
+      "start": 97.94,
+      "end": 101.08,
+      "text": "And if words have us thinking the wrong way, then we will probably do the wrong stuff."
+    },
+    {
+      "start": 101.54,
+      "end": 102.5,
+      "text": "I hate doing the wrong stuff."
+    },
+    {
+      "start": 103.02,
+      "end": 107.54,
+      "text": "So to do the right stuff more and the wrong stuff less, it's best we know what words mean and how to use them."
+    },
+    {
+      "start": 107.96,
+      "end": 110.5,
+      "text": "To cut the suspense, a lead is a person you can contact."
+    },
+    {
+      "start": 110.92,
+      "end": 111.3,
+      "text": "That's all."
+    },
+    {
+      "start": 112.0,
+      "end": 113.88,
+      "text": "If you bought a list of emails, those are leads."
+    },
+    {
+      "start": 114.48,
+      "end": 117.38,
+      "text": "If you get contact information from a website or database, those are leads."
+    },
+    {
+      "start": 117.88,
+      "end": 119.42,
+      "text": "The numbers in your phone are leads."
+    },
+    {
+      "start": 120.18,
+      "end": 121.94,
+      "text": "People in the streets are leads."
+    },
+    {
+      "start": 122.52,
+      "end": 124.38,
+      "text": "If you can contact them, they are leads."
+    },
+    {
+      "start": 125.04,
+      "end": 127.54,
+      "text": "But what I came to realize was leads alone aren't enough."
+    },
+    {
+      "start": 127.94,
+      "end": 131.38,
+      "text": "We want engaged leads, people who show interest in the stuff you sell."
+    },
+    {
+      "start": 131.7,
+      "end": 135.38,
+      "text": "If someone gives their contact information on a website, that is an engaged lead."
+    },
+    {
+      "start": 136.02,
+      "end": 139.8,
+      "text": "If someone follows you on social media and you can contact them, that's an engaged lead."
+    },
+    {
+      "start": 140.46,
+      "end": 143.36,
+      "text": "If people reply to your email campaign, they are engaged leads."
+    },
+    {
+      "start": 143.72,
+      "end": 145.88,
+      "text": "The leads showing interest are the leads that matter."
+    },
+    {
+      "start": 146.4,
+      "end": 148.74,
+      "text": "Engaged leads are the true output of advertising."
+    },
+    {
+      "start": 149.2,
+      "end": 151.26,
+      "text": "Getting more engaged leads is the point of this book."
+    },
+    {
+      "start": 151.6,
+      "end": 155.02,
+      "text": "But I couldn't call the book Engaged Leads because no one would get it, but now you do."
+    },
+    {
+      "start": 155.52,
+      "end": 157.88,
+      "text": "So the next question is, how do we get leads to engage?"
+    },
+    {
+      "start": 158.72,
+      "end": 161.26,
+      "text": "Engage your leads, offers and lead magnets."
+    },
+    {
+      "start": 161.82,
+      "end": 163.88,
+      "text": "I don't do drugs, I am drugs."
+    },
+    {
+      "start": 164.4,
+      "end": 165.08,
+      "text": "Salvador Dali."
+    },
+    {
+      "start": 166.82,
+      "end": 167.64,
+      "text": "April 2016."
+    },
+    {
+      "start": 168.84,
+      "end": 172.28,
+      "text": "I paid 25,000 dollars to be in a group, and everyone told me to do a webinar."
+    },
+    {
+      "start": 172.58,
+      "end": 176.2,
+      "text": "In fact, my mentor at the time told me, \"Do a webinar every week until you make a million dollars."
+    },
+    {
+      "start": 176.28,
+      "end": 178.0,
+      "text": "Until then, don't ask me about anything else.\""
+    },
+    {
+      "start": 178.62,
+      "end": 180.1,
+      "text": "This is my only path to success."
+    },
+    {
+      "start": 180.32,
+      "end": 181.28,
+      "text": "I've got to figure this out."
+    },
+    {
+      "start": 182.26,
+      "end": 185.72,
+      "text": "A webinar, as I understood it, was a magical presentation with a zillion slides."
+    },
+    {
+      "start": 186.04,
+      "end": 188.76,
+      "text": "If somebody watched it, it would hypnotize them into buying my thing."
+    },
+    {
+      "start": 189.3,
+      "end": 190.32,
+      "text": "There was so much I didn't know."
+    },
+    {
+      "start": 190.68,
+      "end": 203.7,
+      "text": "Landing pages, registration pages, follow-up emails, replay emails, car close emails, presentation software, website integration, writing ads, making ad creative, figuring out where to put the ads, who to show the ads to, building a payment page, processing payments, never mind making the actual webinar."
+    },
+    {
+      "start": 204.1,
+      "end": 205.06,
+      "text": "The list overwhelmed me."
+    },
+    {
+      "start": 205.64,
+      "end": 208.06,
+      "text": "So I started with what I understood the most, the landing page."
+    },
+    {
+      "start": 208.56,
+      "end": 209.76,
+      "text": "I built a few of those for my gyms."
+    },
+    {
+      "start": 210.2,
+      "end": 212.94,
+      "text": "My mentor made millions with webinars, so I modeled his landing page."
+    },
+    {
+      "start": 213.5,
+      "end": 215.9,
+      "text": "But I didn't need to make millions, I just needed to make something."
+    },
+    {
+      "start": 217.28,
+      "end": 219.2,
+      "text": "Okay, now the thank you page."
+    },
+    {
+      "start": 219.9,
+      "end": 222.18,
+      "text": "An entire Sunday later, the thank you page went live."
+    },
+    {
+      "start": 222.8,
+      "end": 223.68,
+      "text": "Now for the big test."
+    },
+    {
+      "start": 224.32,
+      "end": 227.24,
+      "text": "I put my email into landing page and clicked sign me up and waited."
+    },
+    {
+      "start": 227.74,
+      "end": 229.22,
+      "text": "My brand new thank you page loaded."
+    },
+    {
+      "start": 229.74,
+      "end": 230.24,
+      "text": "Success."
+    },
+    {
+      "start": 230.9,
+      "end": 233.34,
+      "text": "I still wasn't a millionaire, sad face, but it was something."
+    },
+    {
+      "start": 234.24,
+      "end": 238.08,
+      "text": "The following Sunday, I sat down for my regular work on the business, not in the business ritual."
+    },
+    {
+      "start": 238.72,
+      "end": 241.24,
+      "text": "I had 10 hours to figure out the next piece of this webinar puzzle."
+    },
+    {
+      "start": 241.96,
+      "end": 246.46,
+      "text": "After my first cup of coffee, I decided I really didn't want to work, but I still wanted to feel productive."
+    },
+    {
+      "start": 246.78,
+      "end": 249.22,
+      "text": "So I went on to my advertising group's forum to get some tips."
+    },
+    {
+      "start": 249.66,
+      "end": 252.26,
+      "text": "Just got off my webinar, 32,000 dollars in an hour."
+    },
+    {
+      "start": 252.5,
+      "end": 254.64,
+      "text": "I ROI'd the entire tuition in my first week."
+    },
+    {
+      "start": 254.74,
+      "end": 255.46,
+      "text": "Webinars rock."
+    },
+    {
+      "start": 256.96,
+      "end": 257.96,
+      "text": "I'm never going to make this work."
+    },
+    {
+      "start": 258.8,
+      "end": 259.82,
+      "text": "He joined the same month as me."
+    },
+    {
+      "start": 260.32,
+      "end": 261.46,
+      "text": "He was in the same industry as me."
+    },
+    {
+      "start": 262.08,
+      "end": 264.34,
+      "text": "He figured out how to make money with his webinar before me."
+    },
+    {
+      "start": 264.7,
+      "end": 266.66,
+      "text": "He was stealing all the clients before I even got a chance."
+    },
+    {
+      "start": 267.52,
+      "end": 268.76,
+      "text": "Everyone is making money but me."
+    },
+    {
+      "start": 269.64,
+      "end": 271.42,
+      "text": "Desperate, I called other people in the group."
+    },
+    {
+      "start": 272.06,
+      "end": 276.14,
+      "text": "I'll do anything for your business, build a sales team, write your sales scripts, fix your sales process, anything."
+    },
+    {
+      "start": 276.52,
+      "end": 277.94,
+      "text": "Just help me finish this webinar, please."
+    },
+    {
+      "start": 278.7,
+      "end": 279.58,
+      "text": "One person agreed to help."
+    },
+    {
+      "start": 279.84,
+      "end": 280.38,
+      "text": "Thank God."
+    },
+    {
+      "start": 281.1,
+      "end": 284.38,
+      "text": "Eight Sundays later, the little circle next to my ad campaign turned green."
+    },
+    {
+      "start": 284.92,
+      "end": 285.56,
+      "text": "It's alive."
+    },
+    {
+      "start": 286.12,
+      "end": 288.4,
+      "text": "I was officially spending 150 dollars per day on ads."
+    },
+    {
+      "start": 289.1,
+      "end": 290.98,
+      "text": "All I had to do now was watch the money pour in."
+    },
+    {
+      "start": 291.28,
+      "end": 292.0,
+      "text": "I was going to be rich."
+    },
+    {
+      "start": 292.84,
+      "end": 297.1,
+      "text": "Three days, 450 dollars, 80 leads, and zero sales later, I shut it all down."
+    },
+    {
+      "start": 297.76,
+      "end": 298.22,
+      "text": "I suck."
+    },
+    {
+      "start": 299.0,
+      "end": 300.1,
+      "text": "No one even watched my webinar."
+    },
+    {
+      "start": 300.36,
+      "end": 304.22,
+      "text": "Meanwhile, that guy posted again about how much money he was making off this webinar stuff."
+    },
+    {
+      "start": 304.7,
+      "end": 305.64,
+      "text": "Why do I suck so much?"
+    },
+    {
+      "start": 306.12,
+      "end": 310.9,
+      "text": "I spent most of my money to join this group, and I just set another 450 dollars on fire."
+    },
+    {
+      "start": 311.44,
+      "end": 312.86,
+      "text": "I didn't have the money to fail again."
+    },
+    {
+      "start": 313.32,
+      "end": 314.6,
+      "text": "I needed the next thing to work."
+    },
+    {
+      "start": 315.3,
+      "end": 318.22,
+      "text": "And if I couldn't even get anyone to watch, what was the point?"
+    },
+    {
+      "start": 318.96,
+      "end": 319.5,
+      "text": "The case study."
+    },
+    {
+      "start": 321.04,
+      "end": 323.16,
+      "text": "I scrolled my newsfeed to see what other people were doing."
+    },
+    {
+      "start": 323.5,
+      "end": 324.44,
+      "text": "An ad caught my eye."
+    },
+    {
+      "start": 324.76,
+      "end": 329.8,
+      "text": "Free case study on how I spent 1 dollar and made 120,000 dollars in a weekend, or something like that."
+    },
+    {
+      "start": 330.58,
+      "end": 334.66,
+      "text": "I punched in my email, and the page sent me to a video of walking through a successful advertising campaign."
+    },
+    {
+      "start": 335.08,
+      "end": 338.84,
+      "text": "Nothing fancy, no slides, no presenting, just the dude explaining how his stuff worked."
+    },
+    {
+      "start": 339.52,
+      "end": 340.46,
+      "text": "This I can do."
+    },
+    {
+      "start": 341.36,
+      "end": 342.44,
+      "text": "I fired up my screen recorder."
+    },
+    {
+      "start": 343.26,
+      "end": 343.92,
+      "text": "Okay, everyone."
+    },
+    {
+      "start": 344.2,
+      "end": 346.2,
+      "text": "So here's the ad account of a gym we just launched."
+    },
+    {
+      "start": 346.36,
+      "end": 347.3,
+      "text": "Here are the ads we ran."
+    },
+    {
+      "start": 347.5,
+      "end": 348.4,
+      "text": "This is how much we spent."
+    },
+    {
+      "start": 348.64,
+      "end": 350.16,
+      "text": "We sent them to this page with this offer."
+    },
+    {
+      "start": 350.36,
+      "end": 351.76,
+      "text": "You can see how many leads we got here."
+    },
+    {
+      "start": 352.4,
+      "end": 355.7,
+      "text": "They got this many people scheduled, this many people showed, this is how many they sold."
+    },
+    {
+      "start": 356.2,
+      "end": 357.36,
+      "text": "This is how much the gym owner made."
+    },
+    {
+      "start": 357.72,
+      "end": 358.56,
+      "text": "This is everything we did."
+    },
+    {
+      "start": 358.72,
+      "end": 363.66,
+      "text": "If you want help setting up something like this, we'll do the whole thing for free, and we only get paid off the sales you make."
+    },
+    {
+      "start": 364.18,
+      "end": 365.54,
+      "text": "If that sounds fair, book a call."
+    },
+    {
+      "start": 365.84,
+      "end": 367.18,
+      "text": "It took maybe 13 minutes."
+    },
+    {
+      "start": 367.6,
+      "end": 367.86,
+      "text": "Simple."
+    },
+    {
+      "start": 368.39,
+      "end": 370.63,
+      "text": "I swapped the webinar out for this video and changed the headline."
+    },
+    {
+      "start": 371.13,
+      "end": 371.81,
+      "text": "Free case study."
+    },
+    {
+      "start": 372.29,
+      "end": 376.67,
+      "text": "How we added 213 members and 112,000 dollars in revenue to a small gym in San Diego."
+    },
+    {
+      "start": 377.33,
+      "end": 378.79,
+      "text": "They would book a call on the next page."
+    },
+    {
+      "start": 379.41,
+      "end": 381.43,
+      "text": "I set up a fresh ad campaign and went to bed."
+    },
+    {
+      "start": 381.79,
+      "end": 382.35,
+      "text": "The next morning."
+    },
+    {
+      "start": 382.35,
+      "end": 383.69,
+      "text": "\"Alex, what did you do?\""
+    },
+    {
+      "start": 384.17,
+      "end": 384.65,
+      "text": "Layla asked."
+    },
+    {
+      "start": 384.95,
+      "end": 385.29,
+      "text": "\"What do you mean?\""
+    },
+    {
+      "start": 385.29,
+      "end": 387.97,
+      "text": "\"Strangers have booked my calendar solid for the next week.\""
+    },
+    {
+      "start": 387.97,
+      "end": 388.75,
+      "text": "\"Really?\""
+    },
+    {
+      "start": 389.81,
+      "end": 389.95,
+      "text": "\"Yeah."
+    },
+    {
+      "start": 390.01,
+      "end": 391.31,
+      "text": "Did you start a new campaign or something?\""
+    },
+    {
+      "start": 391.31,
+      "end": 394.01,
+      "text": "\"Yeah, but I didn't think it was going to go live so fast."
+    },
+    {
+      "start": 394.07,
+      "end": 394.99,
+      "text": "Wait, people booked calls?\""
+    },
+    {
+      "start": 395.01,
+      "end": 396.63,
+      "text": "\"Yeah, tons.\""
+    },
+    {
+      "start": 397.49,
+      "end": 400.03,
+      "text": "Seeing Layla's calendar stacked with appointments filled me with joy."
+    },
+    {
+      "start": 400.37,
+      "end": 401.15,
+      "text": "It's working."
+    },
+    {
+      "start": 402.13,
+      "end": 403.13,
+      "text": "I learned an important lesson."
+    },
+    {
+      "start": 403.55,
+      "end": 406.17,
+      "text": "They didn't want my webinar, but they did want my case study."
+    },
+    {
+      "start": 406.63,
+      "end": 409.63,
+      "text": "This accidental discovery showed me how getting leads actually works."
+    },
+    {
+      "start": 410.17,
+      "end": 411.69,
+      "text": "You have to give people something they want."
+    },
+    {
+      "start": 412.05,
+      "end": 413.95,
+      "text": "The best part is, it's easier than you think."
+    },
+    {
+      "start": 414.59,
+      "end": 416.07,
+      "text": "Author note, webinars still work."
+    },
+    {
+      "start": 416.49,
+      "end": 420.73,
+      "text": "Obviously, they worked for the other guy in the group, but I didn't have the skills at the time to make it work."
+    },
+    {
+      "start": 421.01,
+      "end": 424.15,
+      "text": "I was so scarred from my first experience, I didn't try another webinar for years."
+    },
+    {
+      "start": 425.01,
+      "end": 428.19,
+      "text": "Spend your time testing the offer rather than perfecting an untested product."
+    },
+    {
+      "start": 428.47,
+      "end": 429.41,
+      "text": "This was my breakthrough."
+    },
+    {
+      "start": 430.57,
+      "end": 433.03,
+      "text": "I just needed to give people something simple they wanted."
+    },
+    {
+      "start": 433.53,
+      "end": 436.59,
+      "text": "For gym owners, it was a case study showing how I filled gyms in 30 days."
+    },
+    {
+      "start": 437.35,
+      "end": 439.25,
+      "text": "Lead magnets get leads to engage."
+    },
+    {
+      "start": 440.05,
+      "end": 442.99,
+      "text": "Offers are what you promise to give in exchange for something of value."
+    },
+    {
+      "start": 443.71,
+      "end": 447.13,
+      "text": "Often, a business promises to give its product or service in exchange for money."
+    },
+    {
+      "start": 447.69,
+      "end": 448.67,
+      "text": "This is a core offer."
+    },
+    {
+      "start": 449.29,
+      "end": 452.95,
+      "text": "If you advertise your core offer, then you go straight for the sale, the direct path to money."
+    },
+    {
+      "start": 453.75,
+      "end": 456.67,
+      "text": "Advertising your core offer might be all you need to get leads to engage."
+    },
+    {
+      "start": 456.97,
+      "end": 457.89,
+      "text": "Try this way first."
+    },
+    {
+      "start": 458.33,
+      "end": 461.35,
+      "text": "Sometimes though, people want to know more about your offer before they buy."
+    },
+    {
+      "start": 461.75,
+      "end": 464.09,
+      "text": "This is common for businesses that sell more expensive stuff."
+    },
+    {
+      "start": 464.59,
+      "end": 469.01,
+      "text": "If that's you, then you'll get more leads to engage by advertising with a lead magnet first."
+    },
+    {
+      "start": 469.27,
+      "end": 471.77,
+      "text": "A lead magnet is a complete solution to a narrow problem."
+    },
+    {
+      "start": 472.31,
+      "end": 475.89,
+      "text": "It's typically a lower cost or free offer to see who's interested in your stuff."
+    },
+    {
+      "start": 476.51,
+      "end": 480.19,
+      "text": "And once solved, it reveals another problem solved by your core offer."
+    },
+    {
+      "start": 480.57,
+      "end": 488.25,
+      "text": "This is important because leads interested in lower cost or free offers now are more likely to buy a related higher cost offer later."
+    },
+    {
+      "start": 488.95,
+      "end": 490.71,
+      "text": "Think of it like salty pretzels at a bar."
+    },
+    {
+      "start": 491.33,
+      "end": 494.05,
+      "text": "If someone eats the pretzels, they'll get thirsty and order a drink."
+    },
+    {
+      "start": 494.47,
+      "end": 496.55,
+      "text": "The salty pretzels solve the narrow problem of hunger."
+    },
+    {
+      "start": 496.89,
+      "end": 501.67,
+      "text": "They also reveal a thirst problem to be solved by a drink, which they can get in exchange for money."
+    },
+    {
+      "start": 502.25,
+      "end": 507.33,
+      "text": "The pretzels have a cost, but when done right, the drink revenue covers the cost of the pretzels and nets a profit."
+    },
+    {
+      "start": 508.05,
+      "end": 511.75,
+      "text": "So your lead magnet should be valuable enough on its own that you could charge for it."
+    },
+    {
+      "start": 512.07,
+      "end": 515.07,
+      "text": "And after they get it, they should want more of what you offer."
+    },
+    {
+      "start": 515.51,
+      "end": 517.53,
+      "text": "This gets them one step closer to buying your stuff."
+    },
+    {
+      "start": 517.93,
+      "end": 521.57,
+      "text": "A person who pays with their time now is more likely to pay with their money later."
+    },
+    {
+      "start": 522.03,
+      "end": 526.63,
+      "text": "Good lead magnets get more engaged leads and customers than a core offer alone and do it for less money."
+    },
+    {
+      "start": 527.19,
+      "end": 528.45,
+      "text": "So let's make a lead magnet, shall we?"
+    },
+    {
+      "start": 529.17,
+      "end": 531.35,
+      "text": "Pro tip, even free stuff has a cost."
+    },
+    {
+      "start": 531.95,
+      "end": 535.83,
+      "text": "People will give you time before they give you their money, but time is still a cost."
+    },
+    {
+      "start": 536.27,
+      "end": 541.43,
+      "text": "If your lead magnet isn't worth their time, it's overpriced, and free or not, they won't buy from you again."
+    },
+    {
+      "start": 541.79,
+      "end": 542.63,
+      "text": "So look at it this way."
+    },
+    {
+      "start": 543.15,
+      "end": 547.15,
+      "text": "If they think your lead magnet is worth their time, they'll think your core offer is worth their money."
+    },
+    {
+      "start": 547.83,
+      "end": 549.95,
+      "text": "Seven steps to creating an effective lead magnet."
+    },
+    {
+      "start": 550.73,
+      "end": 553.77,
+      "text": "Step one, figure out the problem you want to solve and who to solve it for."
+    },
+    {
+      "start": 554.09,
+      "end": 555.57,
+      "text": "Step two, figure out how to solve it."
+    },
+    {
+      "start": 555.91,
+      "end": 557.59,
+      "text": "Step three, figure out how to deliver it."
+    },
+    {
+      "start": 557.87,
+      "end": 559.25,
+      "text": "Step four, test what to name it."
+    },
+    {
+      "start": 559.77,
+      "end": 561.69,
+      "text": "Step five, make it easy to consume."
+    },
+    {
+      "start": 562.31,
+      "end": 563.79,
+      "text": "Step six, make it darn good."
+    },
+    {
+      "start": 564.41,
+      "end": 566.81,
+      "text": "Step seven, make it easy for them to tell you they want more."
+    },
+    {
+      "start": 567.73,
+      "end": 569.11,
+      "text": "Something to keep in mind before we start."
+    },
+    {
+      "start": 569.93,
+      "end": 574.09,
+      "text": "Grand slam offers work for free stuff as much or better than they'd work for paid stuff."
+    },
+    {
+      "start": 574.79,
+      "end": 577.93,
+      "text": "So make your lead magnet so insanely good, people feel stupid saying no."
+    },
+    {
+      "start": 578.23,
+      "end": 582.51,
+      "text": "And yes, this means that you may have a few insanely valuable offers, even if some are free."
+    },
+    {
+      "start": 583.01,
+      "end": 583.85,
+      "text": "But that's a good thing."
+    },
+    {
+      "start": 584.35,
+      "end": 586.77,
+      "text": "The business that provides the most value wins, period."
+    },
+    {
+      "start": 586.99,
+      "end": 587.71,
+      "text": "So let's get started."
+    },
+    {
+      "start": 588.93,
+      "end": 591.53,
+      "text": "Step one, figure out the problem you want to solve and who to solve it for."
+    },
+    {
+      "start": 592.31,
+      "end": 593.99,
+      "text": "Here's a simple example we can walk through together."
+    },
+    {
+      "start": 594.37,
+      "end": 595.61,
+      "text": "This book is a lead magnet."
+    },
+    {
+      "start": 596.01,
+      "end": 596.81,
+      "text": "You are a lead."
+    },
+    {
+      "start": 597.19,
+      "end": 602.89,
+      "text": "I want to solve an engaged lead problem, and I want to solve it for businesses making less than a million dollars in annual profit."
+    },
+    {
+      "start": 603.29,
+      "end": 606.71,
+      "text": "With enough leads, they can make more than a million dollars in annual profit."
+    },
+    {
+      "start": 607.17,
+      "end": 610.51,
+      "text": "Then they qualify for my core offer, me investing in their company to help them scale."
+    },
+    {
+      "start": 611.03,
+      "end": 612.67,
+      "text": "The first problem is picking the problem to solve."
+    },
+    {
+      "start": 613.11,
+      "end": 614.57,
+      "text": "I use a simple model to figure this out."
+    },
+    {
+      "start": 614.97,
+      "end": 616.37,
+      "text": "I call it the problem-solution cycle."
+    },
+    {
+      "start": 616.55,
+      "end": 617.41,
+      "text": "You can see it below."
+    },
+    {
+      "start": 617.97,
+      "end": 622.47,
+      "text": "For those of you listening, it's just a circle of problem and solution that continue to go around and around."
+    },
+    {
+      "start": 623.19,
+      "end": 624.37,
+      "text": "Every problem has a solution."
+    },
+    {
+      "start": 624.97,
+      "end": 626.51,
+      "text": "Every solution reveals more problems."
+    },
+    {
+      "start": 626.87,
+      "end": 628.93,
+      "text": "This is the never-ending cycle of business and life."
+    },
+    {
+      "start": 629.51,
+      "end": 633.21,
+      "text": "And smaller problem-solution cycles sit inside of larger problem-solution cycles."
+    },
+    {
+      "start": 633.67,
+      "end": 635.25,
+      "text": "So how do we pick the right problem to solve?"
+    },
+    {
+      "start": 635.97,
+      "end": 639.49,
+      "text": "We start by picking a problem that's narrow and meaningful, then solve it."
+    },
+    {
+      "start": 639.99,
+      "end": 643.31,
+      "text": "And like we just learned, when we solve one problem, a new problem reveals itself."
+    },
+    {
+      "start": 643.95,
+      "end": 645.01,
+      "text": "Here comes the important part."
+    },
+    {
+      "start": 645.55,
+      "end": 648.69,
+      "text": "If we can solve that new problem with our core offer, we've got a winner."
+    },
+    {
+      "start": 649.19,
+      "end": 651.79,
+      "text": "This is because we solve this new problem in exchange for money."
+    },
+    {
+      "start": 652.21,
+      "end": 652.67,
+      "text": "That's it."
+    },
+    {
+      "start": 653.03,
+      "end": 653.67,
+      "text": "Don't overthink it."
+    },
+    {
+      "start": 654.37,
+      "end": 657.23,
+      "text": "Example, imagine we help homeowners sell their homes."
+    },
+    {
+      "start": 657.55,
+      "end": 658.81,
+      "text": "This is a broad solution."
+    },
+    {
+      "start": 659.43,
+      "end": 661.29,
+      "text": "What about the steps before selling a home?"
+    },
+    {
+      "start": 661.79,
+      "end": 663.17,
+      "text": "Owners want to know what their house is worth."
+    },
+    {
+      "start": 663.31,
+      "end": 664.65,
+      "text": "They want to know how to increase its value."
+    },
+    {
+      "start": 664.69,
+      "end": 671.23,
+      "text": "They need pictures, they need it cleaned, they need landscaping, they need minor things fixed, they need moving services, they may need staging, etc."
+    },
+    {
+      "start": 672.03,
+      "end": 674.69,
+      "text": "These are all narrow problems, great for lead magnets."
+    },
+    {
+      "start": 675.15,
+      "end": 677.61,
+      "text": "We pick one of the narrow problems and solve it for free."
+    },
+    {
+      "start": 678.11,
+      "end": 681.29,
+      "text": "And although it helps, it makes their other problems seem more obvious."
+    },
+    {
+      "start": 682.03,
+      "end": 683.31,
+      "text": "They still have to sell their home."
+    },
+    {
+      "start": 683.91,
+      "end": 689.59,
+      "text": "But now we've earned their trust, so we can charge to solve the remaining problems with our core offer and help them achieve their broader goal."
+    },
+    {
+      "start": 690.47,
+      "end": 696.43,
+      "text": "Action step, pick the narrowly defined problem you want to solve, then make sure your core offer can solve the next problem that comes up."
+    },
+    {
+      "start": 696.87,
+      "end": 699.37,
+      "text": "Step two, figure out how to solve it."
+    },
+    {
+      "start": 699.89,
+      "end": 703.13,
+      "text": "There are three types of lead magnets, and each offers a different type of solution."
+    },
+    {
+      "start": 703.83,
+      "end": 707.73,
+      "text": "First, if your audience has a problem they don't know about, your lead magnet will make them aware of it."
+    },
+    {
+      "start": 708.43,
+      "end": 713.83,
+      "text": "Second, you could solve a recurring problem for a short period of time with a sample or trial of your core offer."
+    },
+    {
+      "start": 714.65,
+      "end": 718.73,
+      "text": "Third, you can give them a one-step and a multi-step process that solves a bigger problem."
+    },
+    {
+      "start": 719.01,
+      "end": 721.49,
+      "text": "All three solve one problem and reveal others."
+    },
+    {
+      "start": 721.91,
+      "end": 728.63,
+      "text": "So your three types are, one, reveal problems, two, samples and trials, three, one step of a multi-step process."
+    },
+    {
+      "start": 729.13,
+      "end": 730.57,
+      "text": "Those are the three lead magnet types."
+    },
+    {
+      "start": 730.95,
+      "end": 732.41,
+      "text": "Number one, reveal their problem."
+    },
+    {
+      "start": 733.1,
+      "end": 734.38,
+      "text": "Think diagnosis."
+    },
+    {
+      "start": 734.88,
+      "end": 738.88,
+      "text": "These lead magnets work great when they reveal problems that get worse the longer you wait."
+    },
+    {
+      "start": 739.6,
+      "end": 744.1,
+      "text": "Example, you run a speed test that shows their website loads at 30% below the speed it should."
+    },
+    {
+      "start": 744.66,
+      "end": 748.72,
+      "text": "You draw a clear line between where they should be and how much money they lose by being below standards."
+    },
+    {
+      "start": 749.48,
+      "end": 753.3,
+      "text": "Example, you do a posture analysis and show them what their posture should look like."
+    },
+    {
+      "start": 753.84,
+      "end": 758.98,
+      "text": "You draw a clear line between what their pain-free life would look like if their posture were fixed and how you can help."
+    },
+    {
+      "start": 759.72,
+      "end": 764.0,
+      "text": "Example, you do a termite inspection that reveals what happens when bugs eat their home."
+    },
+    {
+      "start": 764.72,
+      "end": 769.24,
+      "text": "If they do have termites, you can get rid of them for cheaper than the cost of, let's say, another home."
+    },
+    {
+      "start": 769.76,
+      "end": 772.82,
+      "text": "If they don't, they can pay you to prevent the termites from coming to begin with."
+    },
+    {
+      "start": 773.24,
+      "end": 774.16,
+      "text": "You can sell them either way."
+    },
+    {
+      "start": 774.6,
+      "end": 775.02,
+      "text": "Win-win."
+    },
+    {
+      "start": 775.56,
+      "end": 777.68,
+      "text": "Those are examples of ways you could reveal their problem."
+    },
+    {
+      "start": 778.74,
+      "end": 780.44,
+      "text": "Two, samples and trials."
+    },
+    {
+      "start": 781.52,
+      "end": 784.16,
+      "text": "You give full but brief access to your core offer."
+    },
+    {
+      "start": 784.56,
+      "end": 787.36,
+      "text": "You can limit the number of uses, the time they have access, or both."
+    },
+    {
+      "start": 787.92,
+      "end": 791.42,
+      "text": "This works great when your core offer is a recurring solution to a recurring problem."
+    },
+    {
+      "start": 792.08,
+      "end": 796.82,
+      "text": "Example, you hook them up to your faster server and show their website loading at lightning speed."
+    },
+    {
+      "start": 797.2,
+      "end": 799.0,
+      "text": "They get more customers from your faster load times."
+    },
+    {
+      "start": 799.38,
+      "end": 801.18,
+      "text": "If they want to keep it, they need to keep paying you."
+    },
+    {
+      "start": 802.24,
+      "end": 806.82,
+      "text": "Example, you give a free adjustment for their bad posture, and they experience relief."
+    },
+    {
+      "start": 807.04,
+      "end": 809.14,
+      "text": "To get permanent benefits, they must buy more."
+    },
+    {
+      "start": 810.1,
+      "end": 814.08,
+      "text": "Example, food, cosmetics, medicine, or any other consumables."
+    },
+    {
+      "start": 814.48,
+      "end": 819.06,
+      "text": "Consumables, by their nature, have limited uses and solve recurring problems with recurring use."
+    },
+    {
+      "start": 819.66,
+      "end": 823.28,
+      "text": "So single-serving, fun-sized, et cetera, samples are great lead magnets."
+    },
+    {
+      "start": 823.42,
+      "end": 825.42,
+      "text": "It's how Costco sells more food than other stores."
+    },
+    {
+      "start": 825.7,
+      "end": 826.48,
+      "text": "They give out samples."
+    },
+    {
+      "start": 827.34,
+      "end": 828.62,
+      "text": "Pro tip, be a drug dealer."
+    },
+    {
+      "start": 829.48,
+      "end": 832.24,
+      "text": "Many people make money selling drugs, legally and illegally."
+    },
+    {
+      "start": 832.62,
+      "end": 834.36,
+      "text": "A free drug sample is a lead magnet."
+    },
+    {
+      "start": 834.78,
+      "end": 838.42,
+      "text": "They can afford to give a, quote, \"hit\" away because once people try it, they're hooked."
+    },
+    {
+      "start": 838.78,
+      "end": 840.38,
+      "text": "It's so good, they come back for more."
+    },
+    {
+      "start": 840.88,
+      "end": 844.56,
+      "text": "This is why we don't dilute the value of our lead magnets or give away sucky fluff."
+    },
+    {
+      "start": 845.02,
+      "end": 848.7,
+      "text": "If anything, like a drug dealer, you'd want to give the strongest hit first."
+    },
+    {
+      "start": 849.18,
+      "end": 850.54,
+      "text": "It keeps them coming back for more."
+    },
+    {
+      "start": 850.92,
+      "end": 852.54,
+      "text": "Your lead magnet is your first hit."
+    },
+    {
+      "start": 853.0,
+      "end": 854.54,
+      "text": "The next one, they have to pay for."
+    },
+    {
+      "start": 854.98,
+      "end": 857.2,
+      "text": "Be a legal drug dealer, and you'll make money like one."
+    },
+    {
+      "start": 857.56,
+      "end": 857.92,
+      "text": "P.S."
+    },
+    {
+      "start": 858.14,
+      "end": 859.38,
+      "text": "Whatever you do, make sure it's legal."
+    },
+    {
+      "start": 862.18,
+      "end": 863.46,
+      "text": "Hey, I hope you're enjoying the book right now."
+    },
+    {
+      "start": 863.68,
+      "end": 874.26,
+      "text": "Uh, something that took me way too long to learn when it came to learning in general was that if you consume a piece of content in multiple formats, it's stored in different parts of your brain, so you're more likely to recall it in different settings."
+    },
+    {
+      "start": 874.68,
+      "end": 883.58,
+      "text": "And so I started reading and listening to books at the same time, uh, and it dramatically enhanced how quickly I could get through things and how much I recalled them."
+    },
+    {
+      "start": 883.92,
+      "end": 892.52,
+      "text": "And so if that's at all interesting to you, there's-- we've made versions of the book available on Amazon, and there's, there's obviously physical copies of the book there as well."
+    },
+    {
+      "start": 892.94,
+      "end": 899.8,
+      "text": "And if you're a video learner, uh, like I am, you can go to the site, and you can consume the entire course that goes with this absolutely free."
+    },
+    {
+      "start": 899.84,
+      "end": 900.88,
+      "text": "Like, you don't even have to opt in."
+    },
+    {
+      "start": 900.92,
+      "end": 905.92,
+      "text": "Like, all the courses, the videos, and the downloads are available at acquisition.com."
+    },
+    {
+      "start": 906.42,
+      "end": 912.32,
+      "text": "Uh, you just click, uh, courses, and you can see all the courses that we have available there, and you can go through all of them if you want to."
+    },
+    {
+      "start": 912.46,
+      "end": 913.96,
+      "text": "They're absolutely free."
+    },
+    {
+      "start": 915.92,
+      "end": 918.46,
+      "text": "Three, one step of a multi-step process."
+    },
+    {
+      "start": 919.26,
+      "end": 923.58,
+      "text": "When your core offer has steps, you can give one valuable step for free and the rest when they buy."
+    },
+    {
+      "start": 924.02,
+      "end": 926.82,
+      "text": "This works great when your core offer solves a more complex problem."
+    },
+    {
+      "start": 927.62,
+      "end": 928.74,
+      "text": "Example, this book."
+    },
+    {
+      "start": 929.06,
+      "end": 930.86,
+      "text": "I help you get to a million dollars per year in profit."
+    },
+    {
+      "start": 931.12,
+      "end": 934.22,
+      "text": "Then you'll have a new problem we can help you solve and scale from there."
+    },
+    {
+      "start": 935.68,
+      "end": 943.02,
+      "text": "Example, you give away a free wood sealant for a garage door, but the sealing process requires three different coats to protect from all weather conditions."
+    },
+    {
+      "start": 943.48,
+      "end": 948.2,
+      "text": "I do the first one free, explain how it only gives partial coverage, and offer the other two in a bundle."
+    },
+    {
+      "start": 949.52,
+      "end": 954.2,
+      "text": "Example, you give away free finance courses, guides, calculators, templates, et cetera."
+    },
+    {
+      "start": 954.58,
+      "end": 961.08,
+      "text": "They're so valuable, people really can do it all by themselves, but they also reveal the time, effort, and sacrifice of doing it all."
+    },
+    {
+      "start": 961.6,
+      "end": 963.9,
+      "text": "So you offer financial services to solve all that."
+    },
+    {
+      "start": 964.68,
+      "end": 967.78,
+      "text": "Action step, pick how you want to solve your narrowly defined problem."
+    },
+    {
+      "start": 968.82,
+      "end": 973.06,
+      "text": "Author note, what we can learn from dressing rooms, try before you buy."
+    },
+    {
+      "start": 974.04,
+      "end": 976.54,
+      "text": "Years ago, you weren't allowed to try things on before you bought them."
+    },
+    {
+      "start": 976.86,
+      "end": 979.18,
+      "text": "Then one savvy business owner created a fitting room."
+    },
+    {
+      "start": 979.7,
+      "end": 985.04,
+      "text": "Their sales presumably skyrocketed, so much so that it's now a standard practice in all clothes stores."
+    },
+    {
+      "start": 985.62,
+      "end": 987.1,
+      "text": "Here's why the dressing room is so powerful."
+    },
+    {
+      "start": 987.62,
+      "end": 989.66,
+      "text": "It's all three types of lead magnets in one."
+    },
+    {
+      "start": 990.04,
+      "end": 992.08,
+      "text": "You get to try something on, like a trial."
+    },
+    {
+      "start": 992.5,
+      "end": 997.42,
+      "text": "It also reveals a problem, as once you try one thing on, you might find that you need something different than you intended."
+    },
+    {
+      "start": 998.04,
+      "end": 1002.0,
+      "text": "And once you find a shirt you like, a good salesperson would say, \"Do you want pants to go with it?\""
+    },
+    {
+      "start": 1002.36,
+      "end": 1005.84,
+      "text": "It becomes step one in a multi-step process of creating an outfit."
+    },
+    {
+      "start": 1006.3,
+      "end": 1009.04,
+      "text": "So if you can, try and get a lead magnet that does all three."
+    },
+    {
+      "start": 1009.46,
+      "end": 1014.82,
+      "text": "Reveal a problem, give them a taste of the solution, and show it as a small piece of a total package."
+    },
+    {
+      "start": 1016.02,
+      "end": 1018.3,
+      "text": "Step three, figure out how to deliver it."
+    },
+    {
+      "start": 1019.02,
+      "end": 1019.96,
+      "text": "Delivery mechanisms."
+    },
+    {
+      "start": 1021.04,
+      "end": 1027.72,
+      "text": "There are unlimited ways to solve problems, but my favorite lead magnets solve them with software, information, services, and physical products."
+    },
+    {
+      "start": 1028.24,
+      "end": 1031.8,
+      "text": "And each of those works great with the three types of lead magnets from step two."
+    },
+    {
+      "start": 1032.5,
+      "end": 1035.54,
+      "text": "I'll show you what I've done to attract gym owners using each lead magnet type."
+    },
+    {
+      "start": 1036.44,
+      "end": 1038.24,
+      "text": "Software, you give them a tool."
+    },
+    {
+      "start": 1038.92,
+      "end": 1043.36,
+      "text": "If you have a spreadsheet, calculator, or small software, your technology does a job for them."
+    },
+    {
+      "start": 1043.82,
+      "end": 1050.82,
+      "text": "Example, I give away a spreadsheet or dashboard that gives a gym owner all their relevant business stats, compares them to industry averages, and then gives them a rank."
+    },
+    {
+      "start": 1051.94,
+      "end": 1052.92,
+      "text": "Two, information."
+    },
+    {
+      "start": 1053.46,
+      "end": 1054.38,
+      "text": "You teach them something."
+    },
+    {
+      "start": 1054.96,
+      "end": 1060.7,
+      "text": "Courses, lessons, interviews with experts, keynote presentations, live events, mistakes and pitfalls, hacks and tips, et cetera."
+    },
+    {
+      "start": 1061.36,
+      "end": 1062.72,
+      "text": "Anything they can learn from."
+    },
+    {
+      "start": 1063.42,
+      "end": 1066.8,
+      "text": "Example, I give away a mini course for gyms on how to write an ad."
+    },
+    {
+      "start": 1067.46,
+      "end": 1068.94,
+      "text": "Three, services."
+    },
+    {
+      "start": 1069.54,
+      "end": 1070.58,
+      "text": "You do work for free."
+    },
+    {
+      "start": 1071.24,
+      "end": 1077.96,
+      "text": "Adjust their back, perform a website audit, apply the first layer of garage sealant, transform their video into an e-book, et cetera."
+    },
+    {
+      "start": 1078.56,
+      "end": 1082.1,
+      "text": "Example, I run gym owners' ads for free for 30 days."
+    },
+    {
+      "start": 1083.12,
+      "end": 1084.64,
+      "text": "Four, physical products."
+    },
+    {
+      "start": 1085.52,
+      "end": 1087.46,
+      "text": "You give them something they can hold in their hands."
+    },
+    {
+      "start": 1088.02,
+      "end": 1094.96,
+      "text": "A posture assessment chart, a supplement, a small bottle of garage door sealant, boxing gloves to get them into a boxing gym, et cetera."
+    },
+    {
+      "start": 1095.67,
+      "end": 1098.99,
+      "text": "Example, I sell a book for gym owners called Gym Launch Secrets."
+    },
+    {
+      "start": 1099.37,
+      "end": 1105.61,
+      "text": "With three different types of lead magnets and four ways to deliver them, that's up to 12 lead magnets that solve a single narrow problem."
+    },
+    {
+      "start": 1106.03,
+      "end": 1107.53,
+      "text": "So many magnets, so little time."
+    },
+    {
+      "start": 1108.33,
+      "end": 1110.81,
+      "text": "I make as many versions of lead magnets as I can and rotate them."
+    },
+    {
+      "start": 1111.03,
+      "end": 1113.39,
+      "text": "This keeps the advertising fresh and low effort."
+    },
+    {
+      "start": 1113.53,
+      "end": 1114.89,
+      "text": "Plus, you see which ones work best."
+    },
+    {
+      "start": 1115.49,
+      "end": 1120.31,
+      "text": "Like my case study story at the beginning of the chapter, the results are often surprising, and you won't know until you try."
+    },
+    {
+      "start": 1120.91,
+      "end": 1121.41,
+      "text": "Action step."
+    },
+    {
+      "start": 1121.67,
+      "end": 1125.91,
+      "text": "As a thought exercise, think of a lead magnet and then a version of it for each delivery method."
+    },
+    {
+      "start": 1126.69,
+      "end": 1128.03,
+      "text": "You always can, I promise."
+    },
+    {
+      "start": 1128.33,
+      "end": 1130.45,
+      "text": "Then pick how to deliver your lead magnet."
+    },
+    {
+      "start": 1131.57,
+      "end": 1133.03,
+      "text": "Step four, test what to name it."
+    },
+    {
+      "start": 1133.75,
+      "end": 1137.59,
+      "text": "David Ogilvy said, \"When you've written your headline, you've spent 80 cents of your advertising dollar.\""
+    },
+    {
+      "start": 1138.05,
+      "end": 1141.77,
+      "text": "What that means is, five times more people read your headline than any other part of your promotion."
+    },
+    {
+      "start": 1142.39,
+      "end": 1145.09,
+      "text": "They read it and make a snap decision to read further, or not."
+    },
+    {
+      "start": 1145.55,
+      "end": 1149.45,
+      "text": "Like Ogilvy hints, leads have to notice your lead magnet before they consume it."
+    },
+    {
+      "start": 1150.01,
+      "end": 1152.51,
+      "text": "Like it or not, this means how we present it matters more than anything."
+    },
+    {
+      "start": 1152.93,
+      "end": 1158.13,
+      "text": "For example, improving the headline, name, and display of your lead magnet can 2X, 3X, or 10X your engagement."
+    },
+    {
+      "start": 1158.45,
+      "end": 1159.27,
+      "text": "It's that important."
+    },
+    {
+      "start": 1159.73,
+      "end": 1163.31,
+      "text": "Besides, if no one shows interest in your lead magnet, no one will ever know how good it is."
+    },
+    {
+      "start": 1163.75,
+      "end": 1165.49,
+      "text": "You can't leave it to chance, so listen up."
+    },
+    {
+      "start": 1165.79,
+      "end": 1166.99,
+      "text": "Here's what you do next."
+    },
+    {
+      "start": 1167.35,
+      "end": 1168.03,
+      "text": "You test."
+    },
+    {
+      "start": 1168.89,
+      "end": 1172.59,
+      "text": "The three things you'll want to test are the headline, the images, and the subheadline, in that order."
+    },
+    {
+      "start": 1172.99,
+      "end": 1176.43,
+      "text": "The headline is the most important, so if you only test one thing, test that."
+    },
+    {
+      "start": 1176.79,
+      "end": 1181.27,
+      "text": "For example, I had no idea what to title this book, so here's what I did to figure out which name would do the best."
+    },
+    {
+      "start": 1181.61,
+      "end": 1182.09,
+      "text": "I tested."
+    },
+    {
+      "start": 1182.51,
+      "end": 1184.71,
+      "text": "The results may surprise you as much as they surprised me."
+    },
+    {
+      "start": 1185.25,
+      "end": 1186.37,
+      "text": "Here are some of my headline tests."
+    },
+    {
+      "start": 1186.97,
+      "end": 1189.95,
+      "text": "100 million dollar advertising versus 100 million dollar promotion."
+    },
+    {
+      "start": 1190.67,
+      "end": 1193.83,
+      "text": "In round one, advertising beat promotion 69 to 31."
+    },
+    {
+      "start": 1194.33,
+      "end": 1196.51,
+      "text": "Round two, advertising versus leads."
+    },
+    {
+      "start": 1196.91,
+      "end": 1199.11,
+      "text": "Leads beat advertising 58 to 42."
+    },
+    {
+      "start": 1199.93,
+      "end": 1200.95,
+      "text": "Leads versus marketing."
+    },
+    {
+      "start": 1201.75,
+      "end": 1204.03,
+      "text": "Leads beat marketing 54 to 46."
+    },
+    {
+      "start": 1204.63,
+      "end": 1206.63,
+      "text": "And I finally settled on leads."
+    },
+    {
+      "start": 1207.21,
+      "end": 1207.81,
+      "text": "Image test."
+    },
+    {
+      "start": 1208.43,
+      "end": 1209.51,
+      "text": "Real versus cartoon."
+    },
+    {
+      "start": 1210.05,
+      "end": 1210.69,
+      "text": "Real won."
+    },
+    {
+      "start": 1211.19,
+      "end": 1211.85,
+      "text": "Subheadlines."
+    },
+    {
+      "start": 1212.67,
+      "end": 1216.97,
+      "text": "How to get more people to want to buy your stuff versus how to get strangers to want to buy your stuff."
+    },
+    {
+      "start": 1217.67,
+      "end": 1218.41,
+      "text": "Strangers won."
+    },
+    {
+      "start": 1219.35,
+      "end": 1224.33,
+      "text": "Round two, how to get more strangers to want to buy your stuff versus how to get strangers to want to buy your stuff."
+    },
+    {
+      "start": 1225.51,
+      "end": 1229.49,
+      "text": "As minor as it sounds, the second one beat the first one 71 to 29."
+    },
+    {
+      "start": 1230.29,
+      "end": 1230.97,
+      "text": "Crazy, right?"
+    },
+    {
+      "start": 1231.89,
+      "end": 1237.15,
+      "text": "Round three, how to get as many leads as you darn well please versus how to get strangers to want to buy your stuff."
+    },
+    {
+      "start": 1237.67,
+      "end": 1239.81,
+      "text": "Again, how to get strangers to want to buy your stuff wins."
+    },
+    {
+      "start": 1240.67,
+      "end": 1245.05,
+      "text": "Round four, get strangers to want to buy your stuff versus how to get strangers to want to buy your stuff."
+    },
+    {
+      "start": 1245.57,
+      "end": 1248.43,
+      "text": "How to get strangers to want to buy your stuff won 70/30."
+    },
+    {
+      "start": 1249.17,
+      "end": 1251.47,
+      "text": "Note, two things with the sub headline tests."
+    },
+    {
+      "start": 1252.05,
+      "end": 1256.83,
+      "text": "How to get strangers to want to buy your stuff overwhelmingly beat get strangers to want to buy your stuff."
+    },
+    {
+      "start": 1257.33,
+      "end": 1259.67,
+      "text": "The only difference is two little words, how to."
+    },
+    {
+      "start": 1260.09,
+      "end": 1265.47,
+      "text": "And it also beat how to get more strangers to want to buy your stuff with a single word removed, more."
+    },
+    {
+      "start": 1265.99,
+      "end": 1267.63,
+      "text": "Small changes can make big differences."
+    },
+    {
+      "start": 1268.37,
+      "end": 1271.37,
+      "text": "Two, since so many people asked, I figured I'd answer it here."
+    },
+    {
+      "start": 1271.77,
+      "end": 1276.15,
+      "text": "I didn't subtitle the book How to Get Strangers to Buy Your Stuff because that's sales, not getting leads."
+    },
+    {
+      "start": 1276.53,
+      "end": 1280.33,
+      "text": "The point of this book is to get strangers to show interest, not to buy yet."
+    },
+    {
+      "start": 1281.05,
+      "end": 1282.85,
+      "text": "A raised hand is where this book ends."
+    },
+    {
+      "start": 1283.31,
+      "end": 1288.31,
+      "text": "Sales will be a future book, 100 million dollar sales, but let's solve one problem at a time."
+    },
+    {
+      "start": 1289.19,
+      "end": 1290.45,
+      "text": "Action step, test."
+    },
+    {
+      "start": 1291.13,
+      "end": 1293.69,
+      "text": "If people engage in droves, you've got a winner."
+    },
+    {
+      "start": 1294.29,
+      "end": 1296.87,
+      "text": "And if you have any following at all, you can run polls like these."
+    },
+    {
+      "start": 1297.07,
+      "end": 1299.29,
+      "text": "You don't need a lot of votes to get a directional idea."
+    },
+    {
+      "start": 1300.01,
+      "end": 1304.97,
+      "text": "If you can't do that, make a post on every platform and ask people to respond with a one or a two and then count them up."
+    },
+    {
+      "start": 1305.69,
+      "end": 1308.31,
+      "text": "If you still can't even do that, then just message people and ask."
+    },
+    {
+      "start": 1308.47,
+      "end": 1311.57,
+      "text": "There's always a way, and this is one of the highest leverage things you can do with your time."
+    },
+    {
+      "start": 1312.09,
+      "end": 1315.47,
+      "text": "Make sure how you package it gets engagement and give yourself a big head start."
+    },
+    {
+      "start": 1316.09,
+      "end": 1316.63,
+      "text": "Bonus points."
+    },
+    {
+      "start": 1317.17,
+      "end": 1321.73,
+      "text": "If people respond to the poll and ask when they can get their hands on it, you've got a mega winner."
+    },
+    {
+      "start": 1322.65,
+      "end": 1325.17,
+      "text": "Step five, make it easy for them to consume."
+    },
+    {
+      "start": 1325.69,
+      "end": 1327.55,
+      "text": "People prefer to do things that take less effort."
+    },
+    {
+      "start": 1327.89,
+      "end": 1328.11,
+      "text": "Duh."
+    },
+    {
+      "start": 1328.73,
+      "end": 1332.41,
+      "text": "So if we want more people to take us up on our lead magnet and consume it, we've got to make it easy."
+    },
+    {
+      "start": 1333.09,
+      "end": 1339.29,
+      "text": "You can see 2X, 3X, and even 4X plus increases in take rates and consumption simply by making it easier to consume."
+    },
+    {
+      "start": 1340.73,
+      "end": 1341.75,
+      "text": "One, software."
+    },
+    {
+      "start": 1343.39,
+      "end": 1347.15,
+      "text": "You want to make it accessible on their phones, on a computer, and in multiple different formats."
+    },
+    {
+      "start": 1347.27,
+      "end": 1349.07,
+      "text": "This way, they'll pick the one easiest for them."
+    },
+    {
+      "start": 1349.69,
+      "end": 1350.27,
+      "text": "Information."
+    },
+    {
+      "start": 1351.05,
+      "end": 1353.09,
+      "text": "People like to consume things in different ways."
+    },
+    {
+      "start": 1353.41,
+      "end": 1356.97,
+      "text": "Some people like watching, other people like reading, others like listening, etcetera."
+    },
+    {
+      "start": 1357.45,
+      "end": 1359.91,
+      "text": "Make your solution in as many different formats as you can."
+    },
+    {
+      "start": 1360.27,
+      "end": 1362.87,
+      "text": "Images, video, text, audio, etcetera."
+    },
+    {
+      "start": 1363.33,
+      "end": 1363.97,
+      "text": "Offer them all."
+    },
+    {
+      "start": 1364.37,
+      "end": 1366.87,
+      "text": "That's why this book comes in every format people consume."
+    },
+    {
+      "start": 1367.63,
+      "end": 1368.15,
+      "text": "Services."
+    },
+    {
+      "start": 1368.69,
+      "end": 1370.95,
+      "text": "Be available at more times in more ways."
+    },
+    {
+      "start": 1371.21,
+      "end": 1375.57,
+      "text": "More times of day, more days of the week, via video call, phone call, in person, etcetera."
+    },
+    {
+      "start": 1376.01,
+      "end": 1380.81,
+      "text": "The easier you are to get ahold of, the more likely people will become engaged leads to claim the free value."
+    },
+    {
+      "start": 1382.11,
+      "end": 1383.25,
+      "text": "Four, physical products."
+    },
+    {
+      "start": 1383.79,
+      "end": 1386.39,
+      "text": "Make it super simple to order and fast to get to them."
+    },
+    {
+      "start": 1386.73,
+      "end": 1388.89,
+      "text": "Make the product itself fast and easy to open."
+    },
+    {
+      "start": 1389.29,
+      "end": 1391.27,
+      "text": "Give simple directions on how to use the product."
+    },
+    {
+      "start": 1391.41,
+      "end": 1398.05,
+      "text": "Example, Apple made its products so well, they didn't even need directions, and the packaging is so good, most people keep the boxes."
+    },
+    {
+      "start": 1398.89,
+      "end": 1402.33,
+      "text": "Action step, package your lead magnet in every way you can."
+    },
+    {
+      "start": 1402.45,
+      "end": 1409.03,
+      "text": "It dramatically increases how many engaged leads come your way, and more leads engaging with your lead magnet means more leads getting value from it."
+    },
+    {
+      "start": 1409.21,
+      "end": 1409.91,
+      "text": "This is huge."
+    },
+    {
+      "start": 1410.61,
+      "end": 1421.59,
+      "text": "Fun fact, my book, 100 Million Dollar Offers, has a near perfect one-quarter, one-quarter, one-quarter, one-quarter split between e-books, physical books, audiobooks, and videos, which are free on acquisition.com."
+    },
+    {
+      "start": 1421.93,
+      "end": 1428.49,
+      "text": "Making the book available in multiple formats is the easiest way I know to get 2, 3, to 4X the amount of leads for the same work."
+    },
+    {
+      "start": 1429.15,
+      "end": 1435.15,
+      "text": "If I only made it available in one format, I'd miss out on three to four times the people who wouldn't have read the book otherwise."
+    },
+    {
+      "start": 1435.63,
+      "end": 1438.05,
+      "text": "What a shame that would have been, and what a waste."
+    },
+    {
+      "start": 1438.81,
+      "end": 1440.65,
+      "text": "Step six, make it darn good."
+    },
+    {
+      "start": 1441.53,
+      "end": 1443.97,
+      "text": "Give away the secrets, sell the implementation."
+    },
+    {
+      "start": 1444.83,
+      "end": 1451.41,
+      "text": "The marketplace judges everything you have to offer, free or not, and you can never provide too much value, but you can provide too little."
+    },
+    {
+      "start": 1452.05,
+      "end": 1455.37,
+      "text": "So you want your lead magnet to provide so much value people feel obligated to pay you."
+    },
+    {
+      "start": 1455.95,
+      "end": 1459.81,
+      "text": "The goal is to provide more value than the cost of your core offer before they've bought it."
+    },
+    {
+      "start": 1460.31,
+      "end": 1461.03,
+      "text": "Think about it this way."
+    },
+    {
+      "start": 1461.7,
+      "end": 1464.52,
+      "text": "If you're scared of giving away your secrets, imagine the alternative."
+    },
+    {
+      "start": 1464.88,
+      "end": 1465.96,
+      "text": "You give away sucky fluff."
+    },
+    {
+      "start": 1466.52,
+      "end": 1469.8,
+      "text": "Then people who might have become customers think, \"This person sucks."
+    },
+    {
+      "start": 1470.14,
+      "end": 1471.46,
+      "text": "They only give away sucky fluff.\""
+    },
+    {
+      "start": 1472.0,
+      "end": 1473.2,
+      "text": "Then they buy from someone else."
+    },
+    {
+      "start": 1473.58,
+      "end": 1474.06,
+      "text": "So sad."
+    },
+    {
+      "start": 1474.52,
+      "end": 1477.96,
+      "text": "Not only that, they tell other folks who might have bought from you not to."
+    },
+    {
+      "start": 1478.3,
+      "end": 1479.94,
+      "text": "It's a vicious cycle you don't want to ride."
+    },
+    {
+      "start": 1480.38,
+      "end": 1485.56,
+      "text": "But remember, people buy stuff based on how much value they think they'll get after they buy it."
+    },
+    {
+      "start": 1485.9,
+      "end": 1492.6,
+      "text": "And the easiest way to get them to think they'll get tons of value after they buy it is, drum roll please, to provide value before they buy it."
+    },
+    {
+      "start": 1493.18,
+      "end": 1497.52,
+      "text": "Imagine a company scaled from 1 million to 10 million just by consuming my free content."
+    },
+    {
+      "start": 1498.44,
+      "end": 1502.26,
+      "text": "The chance they'll partner with acquisition.com is huge because I paid for my share before we even started."
+    },
+    {
+      "start": 1503.4,
+      "end": 1510.46,
+      "text": "Action step: 99% of people aren't going to buy, but they will create or destroy your reputation based on the value of your free stuff."
+    },
+    {
+      "start": 1511.02,
+      "end": 1513.8,
+      "text": "So, make your lead magnets as good as your paid stuff."
+    },
+    {
+      "start": 1514.12,
+      "end": 1515.32,
+      "text": "Your reputation depends on it."
+    },
+    {
+      "start": 1515.86,
+      "end": 1518.46,
+      "text": "Provide value, stack the deck, reap the rewards."
+    },
+    {
+      "start": 1519.12,
+      "end": 1522.16,
+      "text": "Step 7: Make it easy for them to tell you they want more."
+    },
+    {
+      "start": 1522.82,
+      "end": 1526.82,
+      "text": "Once leads consume the lead magnet, some of them will be ready to buy or learn more about your offer."
+    },
+    {
+      "start": 1527.66,
+      "end": 1529.74,
+      "text": "This is the time to give a call to action."
+    },
+    {
+      "start": 1530.2,
+      "end": 1533.4,
+      "text": "A call to action, CTA, tells the audience what to do next."
+    },
+    {
+      "start": 1533.86,
+      "end": 1537.42,
+      "text": "But there's a little more to it than that, at least if you want your advertising to work."
+    },
+    {
+      "start": 1538.08,
+      "end": 1542.74,
+      "text": "A good CTA has two things: one, what to do, two, reasons to do it right now."
+    },
+    {
+      "start": 1543.46,
+      "end": 1548.68,
+      "text": "What to do: CTAs tell the audience to call the number, click the button, give the information, book the call, etcetera."
+    },
+    {
+      "start": 1549.08,
+      "end": 1550.32,
+      "text": "There are way too many to list."
+    },
+    {
+      "start": 1550.72,
+      "end": 1553.38,
+      "text": "Just know CTAs tell the audience how to become engaged leads."
+    },
+    {
+      "start": 1553.92,
+      "end": 1556.34,
+      "text": "Good CTAs have clear, simple, and direct language."
+    },
+    {
+      "start": 1556.92,
+      "end": 1559.64,
+      "text": "Not \"Don't delay,\" but instead, \"Call now.\""
+    },
+    {
+      "start": 1560.44,
+      "end": 1561.94,
+      "text": "Read the next paragraph to learn more."
+    },
+    {
+      "start": 1562.32,
+      "end": 1562.9,
+      "text": "See what I did there?"
+    },
+    {
+      "start": 1563.74,
+      "end": 1568.5,
+      "text": "Reasons to do it right now: If you give people a reason to take action, more people will do it."
+    },
+    {
+      "start": 1568.94,
+      "end": 1570.38,
+      "text": "But a couple things to keep in mind."
+    },
+    {
+      "start": 1570.84,
+      "end": 1573.4,
+      "text": "First, good reasons work better than bad reasons."
+    },
+    {
+      "start": 1573.64,
+      "end": 1577.66,
+      "text": "And second, any reason, even bad ones, tend to work better than no reason at all."
+    },
+    {
+      "start": 1578.08,
+      "end": 1581.82,
+      "text": "So to get more people to take action, I include as many effective reasons as I can."
+    },
+    {
+      "start": 1582.18,
+      "end": 1583.72,
+      "text": "Here are my favorite reasons to act now."
+    },
+    {
+      "start": 1584.62,
+      "end": 1590.88,
+      "text": "Scarcity: Scarcity is when there's a limited amount of something, especially when there is a small supply compared to demand."
+    },
+    {
+      "start": 1591.38,
+      "end": 1598.4,
+      "text": "When something is scarce, like your lead magnet or offer, people also tend to want it more, and this is why they're more likely to act right now."
+    },
+    {
+      "start": 1598.86,
+      "end": 1601.22,
+      "text": "The fewer you have, the more valuable people think it is."
+    },
+    {
+      "start": 1601.48,
+      "end": 1602.22,
+      "text": "But there's a catch."
+    },
+    {
+      "start": 1602.62,
+      "end": 1606.18,
+      "text": "The fewer you have, the fewer engaged leads you can get before running out."
+    },
+    {
+      "start": 1606.48,
+      "end": 1609.3,
+      "text": "So the best strategy I know for scarcity is reality."
+    },
+    {
+      "start": 1609.74,
+      "end": 1610.46,
+      "text": "Let me explain."
+    },
+    {
+      "start": 1611.02,
+      "end": 1614.3,
+      "text": "If you sold a thousand times the customers tomorrow, could you handle it?"
+    },
+    {
+      "start": 1614.82,
+      "end": 1618.0,
+      "text": "If not, you have some limit on how much you can sell."
+    },
+    {
+      "start": 1618.52,
+      "end": 1622.64,
+      "text": "Maybe you're limited by customer service, onboarding, inventory, time slots per week, etcetera."
+    },
+    {
+      "start": 1623.06,
+      "end": 1624.04,
+      "text": "Don't keep it a secret."
+    },
+    {
+      "start": 1624.48,
+      "end": 1625.12,
+      "text": "Advertise it."
+    },
+    {
+      "start": 1625.72,
+      "end": 1627.46,
+      "text": "This gives you ethical scarcity."
+    },
+    {
+      "start": 1627.8,
+      "end": 1631.06,
+      "text": "If you can't handle more than five new customers per week, say so."
+    },
+    {
+      "start": 1631.52,
+      "end": 1633.7,
+      "text": "Draw attention to the natural scarcity in your business."
+    },
+    {
+      "start": 1634.22,
+      "end": 1637.16,
+      "text": "If you have limitations, you may as well use them to make you money."
+    },
+    {
+      "start": 1638.4,
+      "end": 1641.48,
+      "text": "Example: The most convenient class times fill up fast."
+    },
+    {
+      "start": 1641.72,
+      "end": 1643.0,
+      "text": "Call now to get the one you want."
+    },
+    {
+      "start": 1643.46,
+      "end": 1648.36,
+      "text": "Example: I can only handle five people per week, so if you want it solved soon, do XYZ."
+    },
+    {
+      "start": 1649.18,
+      "end": 1654.04,
+      "text": "Example: We only printed one batch of shirts and will never reprint this design."
+    },
+    {
+      "start": 1654.36,
+      "end": 1656.02,
+      "text": "Get one so you don't regret missing out forever."
+    },
+    {
+      "start": 1657.32,
+      "end": 1663.34,
+      "text": "Urgency: You can have unlimited units to sell, but let's say you stop selling them in an hour on purpose."
+    },
+    {
+      "start": 1663.78,
+      "end": 1666.18,
+      "text": "I bet more people than normal will buy your thing in that hour."
+    },
+    {
+      "start": 1666.68,
+      "end": 1667.98,
+      "text": "This is urgency in action."
+    },
+    {
+      "start": 1668.64,
+      "end": 1671.54,
+      "text": "Urgency is when people act faster because they have a short amount of time."
+    },
+    {
+      "start": 1672.04,
+      "end": 1675.66,
+      "text": "And the less time people have, the faster, more urgent they tend to act."
+    },
+    {
+      "start": 1676.16,
+      "end": 1681.38,
+      "text": "So if you make the time they can act on your CTA shorter, you can get more of them to act on it faster."
+    },
+    {
+      "start": 1681.68,
+      "end": 1688.84,
+      "text": "You can also use the same urgency with discounts or bonuses that go away after X minutes or hours, after which this offer will never be available again."
+    },
+    {
+      "start": 1689.5,
+      "end": 1694.06,
+      "text": "Example: Our July 4th promotion ends Monday at midnight, so if you want it, take action now."
+    },
+    {
+      "start": 1694.56,
+      "end": 1696.18,
+      "text": "Our Black Friday promotion ends at midnight."
+    },
+    {
+      "start": 1696.22,
+      "end": 1697.34,
+      "text": "There are only four hours left."
+    },
+    {
+      "start": 1697.42,
+      "end": 1698.42,
+      "text": "Get it while the getting's good."
+    },
+    {
+      "start": 1699.06,
+      "end": 1703.74,
+      "text": "Through Friday, I'll also throw in a free hat to anyone who buys more than three books."
+    },
+    {
+      "start": 1704.04,
+      "end": 1706.92,
+      "text": "So if you want to look slick in an acquisition.com hat, buy now."
+    },
+    {
+      "start": 1707.2,
+      "end": 1710.28,
+      "text": "Pro tip: The urgency tactic I use most."
+    },
+    {
+      "start": 1711.36,
+      "end": 1712.78,
+      "text": "I put time limits on bonuses."
+    },
+    {
+      "start": 1713.14,
+      "end": 1716.02,
+      "text": "This way, I don't need to change my pricing or products all the time."
+    },
+    {
+      "start": 1716.52,
+      "end": 1717.8,
+      "text": "I can just change the bonus."
+    },
+    {
+      "start": 1718.28,
+      "end": 1721.52,
+      "text": "I like to make a handful of valuable bonuses and rotate them each week."
+    },
+    {
+      "start": 1722.22,
+      "end": 1725.8,
+      "text": "And if they don't take action by the end of the week, they'll actually miss out on the bonus."
+    },
+    {
+      "start": 1726.34,
+      "end": 1730.68,
+      "text": "The best part is, it's an easy way to make your CTA more effective without capping your sales."
+    },
+    {
+      "start": 1731.48,
+      "end": 1733.26,
+      "text": "C: Fraternity party planner."
+    },
+    {
+      "start": 1733.66,
+      "end": 1734.36,
+      "text": "My favorite."
+    },
+    {
+      "start": 1734.8,
+      "end": 1735.6,
+      "text": "Make up a reason."
+    },
+    {
+      "start": 1736.38,
+      "end": 1739.92,
+      "text": "Fraternities don't need a reason to party, but they sure make up some doozies."
+    },
+    {
+      "start": 1740.6,
+      "end": 1741.78,
+      "text": "John got his wisdom teeth out."
+    },
+    {
+      "start": 1742.04,
+      "end": 1742.68,
+      "text": "Kegger."
+    },
+    {
+      "start": 1743.06,
+      "end": 1746.2,
+      "text": "Margarita Monday, Toga Tuesdays, Thirsty Thursdays, etcetera."
+    },
+    {
+      "start": 1746.54,
+      "end": 1750.22,
+      "text": "Your reason doesn't even have to make sense, and it will still get more people to act."
+    },
+    {
+      "start": 1750.6,
+      "end": 1756.02,
+      "text": "In fact, Harvard ran an experiment showing that people were more likely to let someone cut in line if they only gave a reason."
+    },
+    {
+      "start": 1756.44,
+      "end": 1761.7,
+      "text": "The number of people that let other people cut increased if the reason made sense, like scarcity or urgency."
+    },
+    {
+      "start": 1762.06,
+      "end": 1765.92,
+      "text": "But any reason still works better than no reason, so I always try and include one."
+    },
+    {
+      "start": 1766.32,
+      "end": 1768.94,
+      "text": "Think the stuff you have to say after the word because."
+    },
+    {
+      "start": 1769.3,
+      "end": 1771.62,
+      "text": "Examples: Because mom knows best."
+    },
+    {
+      "start": 1772.04,
+      "end": 1773.28,
+      "text": "Because your country needs you."
+    },
+    {
+      "start": 1773.58,
+      "end": 1775.66,
+      "text": "Because it's my birthday and I want you to celebrate with me."
+    },
+    {
+      "start": 1776.38,
+      "end": 1780.2,
+      "text": "Action step: Give a clear, simple, action-oriented CTA."
+    },
+    {
+      "start": 1780.5,
+      "end": 1786.68,
+      "text": "Then give them a reason why using scarcity, urgency, and any other reasons you can think of, and do it often."
+    },
+    {
+      "start": 1787.08,
+      "end": 1788.5,
+      "text": "Don't be clever, be clear."
+    },
+    {
+      "start": 1789.0,
+      "end": 1793.4,
+      "text": "Even if your lead magnet costs money to deliver, it should still lower your cost to get a new customer."
+    },
+    {
+      "start": 1793.84,
+      "end": 1800.3,
+      "text": "This is because more engaged leads means more chances to get customers, and the extra customers more than cover your costs."
+    },
+    {
+      "start": 1800.6,
+      "end": 1801.3,
+      "text": "That's the point."
+    },
+    {
+      "start": 1802.04,
+      "end": 1808.44,
+      "text": "Let's say you make 10,000 dollars in profit on your core offer, and it costs you 1,000 dollars in advertising to get someone on a call for it."
+    },
+    {
+      "start": 1809.14,
+      "end": 1814.26,
+      "text": "If you close one out of three people, it costs you 3,000 dollars in advertising to get a customer."
+    },
+    {
+      "start": 1814.82,
+      "end": 1818.12,
+      "text": "Since we have 10,000 dollars in profit to work with, that's fine."
+    },
+    {
+      "start": 1818.78,
+      "end": 1821.54,
+      "text": "But we're savvy, we can do better, so let's do better."
+    },
+    {
+      "start": 1822.2,
+      "end": 1825.3,
+      "text": "Imagine you advertise a free lead magnet instead of your core offer."
+    },
+    {
+      "start": 1825.94,
+      "end": 1830.86,
+      "text": "Your lead magnet costs you 25 dollars to deliver, and because it's free to them, more will engage."
+    },
+    {
+      "start": 1831.58,
+      "end": 1835.6,
+      "text": "The extra engagement means it only costs 75 dollars in advertising to get someone on a call."
+    },
+    {
+      "start": 1836.22,
+      "end": 1839.82,
+      "text": "All in, that's 100 dollars per call, 75 dollars plus 25 dollars."
+    },
+    {
+      "start": 1840.8,
+      "end": 1845.16,
+      "text": "By delivering value before they buy, you get 10 times more engaged leads for the same cost."
+    },
+    {
+      "start": 1845.6,
+      "end": 1848.44,
+      "text": "Note, this happens all the time when you nail the lead magnet."
+    },
+    {
+      "start": 1849.1,
+      "end": 1853.04,
+      "text": "Now, let's say 1 out of 10 folks who get the lead magnet buys your core offer."
+    },
+    {
+      "start": 1853.64,
+      "end": 1859.86,
+      "text": "This means your new cost to acquire a customer is 1,000 dollars, because it's 10 people times 100 bucks."
+    },
+    {
+      "start": 1860.2,
+      "end": 1862.5,
+      "text": "We just cut our cost to get a customer by 3X."
+    },
+    {
+      "start": 1863.0,
+      "end": 1868.24,
+      "text": "So instead of spending 3,000 dollars to get a new customer, by using a lead magnet, we spend only 1,000."
+    },
+    {
+      "start": 1868.92,
+      "end": 1871.72,
+      "text": "Given we make 10,000 dollars, it's a 10 to 1 return."
+    },
+    {
+      "start": 1872.26,
+      "end": 1876.58,
+      "text": "So if we keep our advertising budget the same and use a lead magnet, we triple our business."
+    },
+    {
+      "start": 1877.02,
+      "end": 1879.82,
+      "text": "Remember, the goal is to print money, not just make our fair share."
+    },
+    {
+      "start": 1880.4,
+      "end": 1882.96,
+      "text": "This is where experienced business owners beat newbies."
+    },
+    {
+      "start": 1883.54,
+      "end": 1888.52,
+      "text": "With a 25 dollar budget to deliver your lead magnet, you can provide far more value than a 0 dollar budget."
+    },
+    {
+      "start": 1888.72,
+      "end": 1889.6,
+      "text": "Crazy, I know."
+    },
+    {
+      "start": 1890.34,
+      "end": 1895.2,
+      "text": "You attract more customers because your lead magnet is more valuable than other people's, oftentimes by a lot."
+    },
+    {
+      "start": 1895.68,
+      "end": 1898.22,
+      "text": "This translates into more strangers becoming engaged leads."
+    },
+    {
+      "start": 1898.7,
+      "end": 1902.04,
+      "text": "It also translates into more sales because you provide more value in advance."
+    },
+    {
+      "start": 1902.28,
+      "end": 1903.58,
+      "text": "Win, win, win."
+    },
+    {
+      "start": 1904.18,
+      "end": 1904.72,
+      "text": "Action steps."
+    },
+    {
+      "start": 1905.46,
+      "end": 1908.78,
+      "text": "Step zero, if you're struggling to get leads, make an amazing lead magnet."
+    },
+    {
+      "start": 1909.24,
+      "end": 1912.3,
+      "text": "Step one, figure out the problem you want to solve for the right customer."
+    },
+    {
+      "start": 1913.22,
+      "end": 1915.0,
+      "text": "Step two, figure out how you want to deliver it."
+    },
+    {
+      "start": 1915.52,
+      "end": 1917.2,
+      "text": "Step three, figure out how to deliver it."
+    },
+    {
+      "start": 1917.7,
+      "end": 1919.74,
+      "text": "Step four, make the name interesting and clear."
+    },
+    {
+      "start": 1920.08,
+      "end": 1921.66,
+      "text": "Step five, make it easy to consume."
+    },
+    {
+      "start": 1922.12,
+      "end": 1923.74,
+      "text": "Step six, make sure it's darn good."
+    },
+    {
+      "start": 1924.2,
+      "end": 1928.3,
+      "text": "Step seven, tell them what to do next, why it's a good idea, do it clearly, and do it often."
+    },
+    {
+      "start": 1929.22,
+      "end": 1930.12,
+      "text": "Section two conclusion."
+    },
+    {
+      "start": 1930.94,
+      "end": 1933.78,
+      "text": "My goal with this book is to demystify the lead-getting process."
+    },
+    {
+      "start": 1934.0,
+      "end": 1936.76,
+      "text": "In the first chapter, we covered why leads alone aren't enough."
+    },
+    {
+      "start": 1936.96,
+      "end": 1937.8,
+      "text": "You need engaged leads."
+    },
+    {
+      "start": 1938.4,
+      "end": 1942.52,
+      "text": "In the second chapter, we covered how to get leads to engage, a valuable lead magnet or offer."
+    },
+    {
+      "start": 1942.96,
+      "end": 1944.86,
+      "text": "And a good lead magnet does four things."
+    },
+    {
+      "start": 1945.48,
+      "end": 1947.56,
+      "text": "One, it engages ideal customers when they see it."
+    },
+    {
+      "start": 1948.02,
+      "end": 1950.76,
+      "text": "Two, gets more people to engage than your core offer alone."
+    },
+    {
+      "start": 1951.2,
+      "end": 1953.12,
+      "text": "Three, is valuable enough they consume it."
+    },
+    {
+      "start": 1953.52,
+      "end": 1955.74,
+      "text": "Four, makes the right people more likely to buy."
+    },
+    {
+      "start": 1956.8,
+      "end": 1963.7,
+      "text": "So, more people show interest in our stuff, we make more money from them, and we deliver more value than we ever have, all at the same time."
+    },
+    {
+      "start": 1964.94,
+      "end": 1968.0,
+      "text": "Next up, we've armed ourselves with a powerful lead magnet."
+    },
+    {
+      "start": 1968.4,
+      "end": 1970.64,
+      "text": "Now, I'll show you the four ways we can advertise it."
+    },
+    {
+      "start": 1970.68,
+      "end": 1974.42,
+      "text": "In other words, now that we have the stuff, we gotta tell people about it."
+    },
+    {
+      "start": 1974.9,
+      "end": 1975.7,
+      "text": "Let's get some leads."
+    },
+    {
+      "start": 1977.22,
+      "end": 1980.94,
+      "text": "Free gift number one, bonus tutorial on making the ultimate lead magnet."
+    },
+    {
+      "start": 1981.52,
+      "end": 1987.42,
+      "text": "If you want a more in-depth look at how we create insanely good lead magnets, go to acquisition.com/training/leads."
+    },
+    {
+      "start": 1987.56,
+      "end": 1988.76,
+      "text": "It's free and publicly available."
+    },
+    {
+      "start": 1988.96,
+      "end": 1992.42,
+      "text": "As promised, my goal is to earn your trust, and trust is built brick by brick."
+    },
+    {
+      "start": 1992.84,
+      "end": 1994.7,
+      "text": "Allow this training to be the first of many bricks."
+    },
+    {
+      "start": 1995.42,
+      "end": 1995.86,
+      "text": "Enjoy."
+    },
+    {
+      "start": 1998.9,
+      "end": 2004.68,
+      "text": "In the next episode, we're going to have a 29-minute banger on getting leads, the core four, and warm outreach."
+    },
+    {
+      "start": 2004.74,
+      "end": 2009.56,
+      "text": "If you don't have customers and you are starting a business, you do not want to miss this one."
+    },
+    {
+      "start": 2010.16,
+      "end": 2018.98,
+      "text": "I probably spent more time on these two chapters than any chapters in the entire book because I knew that these two chapters would apply to the widest amount of the people who listen to my content."
+    },
+    {
+      "start": 2019.4,
+      "end": 2030.9,
+      "text": "So, if there's ever a chapter or two that you listen, it's this next episode that's coming up, and it'll show you how you're to get your first five clients, which I think most of you, if you don't have a business, will need, or your next five clients if you have one."
+    },
+    {
+      "start": 2034.08,
+      "end": 2039.06,
+      "text": "This has been 100 Million Dollar Leads, written by Alex Hormozi, read by Alex Hormozi."
+    },
+    {
+      "start": 2039.26,
+      "end": 2041.74,
+      "text": "Copyright 2023, acquisition.com."
+    },
+    {
+      "start": 2042.02,
+      "end": 2045.8,
+      "text": "Audio production copyright 2023, acquisition.com media."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "ca1ec834864d3fc9e855bdae05c960eb444a779a3a3b4f59574483ffec877b05",
+  "audio_duration_sec": 2049.854694,
+  "elapsed_sec": 16.8,
+  "created": "2026-11-16T03:04:54+00:00"
+}

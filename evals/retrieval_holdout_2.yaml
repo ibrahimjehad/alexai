@@ -1,0 +1,765 @@
+# Second held-out retrieval test set for Alex AI search (105 questions).
+# Written against a frozen brain snapshot (before notes gained `questions:`
+# fields), without running the search command, so it can be used to compare
+# embedding models / search changes honestly. Do not tune search on these
+# questions one by one; report aggregate hit rates. Complements
+# evals/retrieval_holdout.yaml: it mostly targets notes that file does not use
+# as expected answers, and covers $100M Leads at least as heavily as the
+# other two books.
+#
+# Same keys as evals/retrieval_holdout.yaml:
+#   style: plain  -> everyday business-owner wording, no Hormozi framework names
+#          jargon -> uses the framework's own vocabulary (easy control group)
+# expect_notes: the 1-3 notes that most directly answer the question (two are
+# listed only when sibling notes answer it equally well).
+
+# ---------------------------------------------------------------------------
+# $100M Leads
+# ---------------------------------------------------------------------------
+
+- id: holdout2-cold-list-restaurant-owners
+  mode: strategy
+  style: plain
+  question: "I sell inventory software to independent restaurants. Where do I actually get names and contact details for owners I've never spoken to?"
+  expect_notes: [leads-cold-list-building]
+  must: []
+
+- id: holdout2-old-enquiries-still-interested
+  mode: strategy
+  style: plain
+  question: "There are about 4,000 old enquiries sitting in my email system from three years of running a kitchen remodeling business. Is there a quick way to find out who's still interested without sending a big newsletter?"
+  expect_notes: [leads-nine-word-email]
+  must: []
+
+- id: holdout2-run-out-of-post-ideas
+  mode: strategy
+  style: plain
+  question: "I'm a financial planner and I want to post online every day but I run out of things to say after about a week. how do people keep coming up with stuff to talk about?"
+  expect_notes: [leads-content-topics]
+  must: []
+
+- id: holdout2-good-at-customers-bad-at-hiring
+  mode: strategy
+  style: plain
+  question: "I'm great at bringing in customers for my plumbing company but terrible at finding good technicians. Is finding staff really that different from finding clients?"
+  expect_notes: [leads-internal-core-four-for-hiring]
+  must: []
+
+- id: holdout2-think-weve-tapped-the-area
+  mode: strategy
+  style: plain
+  question: "We do about $1.5M a year in clear aligners, all from Instagram ads, and I'm pretty sure we've already reached everyone around here who'd want them. Is it time to branch into a different product?"
+  expect_notes: [leads-size-of-pie-fallacy, leads-example-saturated-chiropractor]
+  must: []
+
+- id: holdout2-faster-to-do-it-myself
+  mode: strategy
+  style: plain
+  question: "Every time I hand sales calls to someone new at my roofing company they do worse than me, so I take them back. Honestly it's just faster if I do it myself, right?"
+  expect_notes: [leads-talent-beliefs]
+  must: []
+
+- id: holdout2-why-replace-myself
+  mode: strategy
+  style: plain
+  question: "My landscaping company clears $400k profit a year, but only because I'm there 70 hours a week. Why should I hire people to replace me if the money is already good?"
+  expect_notes: [leads-employees-make-you-wealthy]
+  must: []
+
+- id: holdout2-expert-without-dependence
+  mode: strategy
+  style: plain
+  question: "I can't afford to pay a marketing firm to run my Google ads every month forever, and I don't want to rely on them anyway. Is there a smarter way to use an outside expert?"
+  expect_notes: [leads-agency-learn-then-replace, leads-example-715-an-hour-agency]
+  must: []
+
+- id: holdout2-how-much-commission
+  mode: strategy
+  style: plain
+  question: "Beauty bloggers send buyers to my $200 skincare kit, which costs me $40 to make. How much commission can I afford to pay them, and should every partner get the same rate?"
+  expect_notes: [leads-affiliate-payout-tiers]
+  must: []
+
+- id: holdout2-partners-sign-up-do-nothing
+  mode: strategy
+  style: plain
+  question: "I signed up 60 fitness coaches to promote my meal-prep service and maybe five of them actually do anything. How do I get partners who take it seriously?"
+  expect_notes: [leads-qualify-affiliates-by-investment]
+  must: []
+
+- id: holdout2-low-ticket-outbound-too-expensive
+  mode: strategy
+  style: plain
+  question: "My product is a $29 pet grooming kit. Paying reps to call and email people one by one costs more than each sale brings in. Is reaching out to strangers just a dead end for me?"
+  expect_notes: [leads-cold-outreach-to-affiliates]
+  must: []
+
+- id: holdout2-test-more-video-ads-cheaply
+  mode: strategy
+  style: plain
+  question: "Making new video ads for my mattress brand is slow and expensive, so we only try two or three new ones a month. How can we try way more versions without a huge production budget?"
+  expect_notes: [leads-infinite-ads-hook-variations]
+  must: []
+
+- id: holdout2-daily-spend-now-profitable
+  mode: strategy
+  style: plain
+  question: "My Google ads for my HVAC company finally make more than they cost. How should I decide how much to spend per day now, instead of nudging the budget up a little each week?"
+  expect_notes: [leads-reverse-ad-budget]
+  must: []
+
+- id: holdout2-money-for-experiments
+  mode: strategy
+  style: plain
+  question: "We spend $80k a month on ads for our coffee brand and haven't found a new winner in six months. Should I be setting money aside for experiments I don't expect to pay off?"
+  expect_notes: [leads-education-test-budget]
+  must: []
+
+- id: holdout2-referral-cash-or-discount
+  mode: strategy
+  style: plain
+  question: "I want to start rewarding customers of my house-cleaning service for sending friends. Do I give them cash, give the friend money off, or both, and how much is reasonable?"
+  expect_notes: [leads-seven-ways-to-ask-for-referrals]
+  must: []
+
+- id: holdout2-grow-from-referrals-math
+  mode: strategy
+  style: plain
+  question: "About 3% of my pilates studio clients refer someone each month and about 6% cancel each month. Can I ever grow without ads with numbers like that?"
+  expect_notes: [leads-referral-growth-equation]
+  must: []
+
+- id: holdout2-who-to-show-ads
+  mode: strategy
+  style: plain
+  question: "Who should my Facebook ads for a luxury dog bakery be shown to? I have around 900 past customers' emails and a list of people I've messaged."
+  expect_notes: [leads-paid-ads-targeting]
+  must: []
+
+- id: holdout2-page-after-ad-click
+  mode: strategy
+  style: plain
+  question: "people click my ad for a free home energy audit, land on my website and leave without filling anything in. what should that page actually look like?"
+  expect_notes: [leads-landing-page-templates]
+  must: []
+
+- id: holdout2-one-email-then-move-on
+  mode: strategy
+  style: plain
+  question: "I email each office manager I want as a client for my coffee machine leasing company once, and if they don't reply I move on to the next. Am I giving up too fast?"
+  expect_notes: [leads-follow-up-multiple-ways]
+  must: []
+
+- id: holdout2-personal-messages-dont-scale
+  mode: strategy
+  style: plain
+  question: "Writing every message to prospects by hand for my staffing agency gets good replies, but I can only do about 30 a day. How do I go much bigger without it falling apart?"
+  expect_notes: [leads-cold-outreach-automation]
+  must: []
+
+- id: holdout2-small-town-plumber-videos
+  mode: strategy
+  style: plain
+  question: "I'm a plumber in a small town and I've been making videos with general business tips. Nobody watches. Should I change what I'm talking about?"
+  expect_notes: [leads-puddles-ponds-lakes-oceans]
+  must: []
+
+- id: holdout2-how-often-pitch-followers
+  mode: strategy
+  style: plain
+  question: "I have 20k followers on my sourdough baking account. How often can I pitch my paid course before people get annoyed and stop following?"
+  expect_notes: [leads-integrated-vs-intermittent-asks, leads-give-until-they-ask]
+  must: []
+
+- id: holdout2-ads-blamed-but-buyers-qualified
+  mode: strategy
+  style: plain
+  question: "We spent $60k on ads for my solar company. The calls are with real homeowners who need panels and can afford them, but almost nobody signs. I'm about to switch the ads off."
+  expect_notes: [leads-sales-problem-vs-ad-problem]
+  must: []
+
+- id: holdout2-funnel-which-step
+  mode: strategy
+  style: plain
+  question: "My numbers: 2% click the ad, 40% fill in the form, 8% book a call, 50% of those show up. I only have time to fix one thing this month. Which one?"
+  expect_notes: [leads-constraint-testing]
+  must: []
+
+- id: holdout2-eighty-messages-one-client
+  mode: strategy
+  style: plain
+  question: "I messaged about 80 people over two months about my bookkeeping service and got one client. I don't think reaching out works in my industry."
+  expect_notes: [leads-volume-inputs-outputs]
+  must: []
+
+- id: holdout2-chat-turns-small-talk
+  mode: strategy
+  style: plain
+  question: "When I message old friends about my life coaching, it just turns into small talk and I never know how to bring up what I do without it getting weird."
+  expect_notes: [leads-aca-framework]
+  must: []
+
+- id: holdout2-build-up-to-launch
+  mode: strategy
+  style: plain
+  question: "My cookbook comes out in four months and a dozen food bloggers have agreed to promote it. How should we build up to launch day so it doesn't land with a thud?"
+  expect_notes: [leads-whisper-tease-shout-launch]
+  must: []
+
+- id: holdout2-jargon-rule-of-100-side-business
+  mode: strategy
+  style: jargon
+  question: "How do I apply the Rule of 100 if I only have two hours a day for my side business?"
+  expect_notes: [leads-rule-of-100]
+  must: []
+
+- id: holdout2-jargon-lead-magnet-delivery-roofing
+  mode: strategy
+  style: jargon
+  question: "What are the four lead magnet delivery mechanisms, and how would each one look for a roofing company?"
+  expect_notes: [leads-lead-magnet-delivery-mechanisms]
+  must: []
+
+- id: holdout2-jargon-more-better-new
+  mode: strategy
+  style: jargon
+  question: "My podcast ads are profitable. Should I apply More, Better or New first, and in what order?"
+  expect_notes: [leads-more-better-new]
+  must: []
+
+- id: holdout2-jargon-ad-callouts-medspa
+  mode: strategy
+  style: jargon
+  question: "Write me verbal and non-verbal call-outs for a local med spa ad: labels, yes questions, if-then statements."
+  expect_notes: [leads-ad-callouts]
+  must: []
+
+- id: holdout2-jargon-what-who-when-security
+  mode: strategy
+  style: jargon
+  question: "Use the What-Who-When framework to generate ad copy angles for my home security company."
+  expect_notes: [leads-what-who-when-framework]
+  must: []
+
+# ---------------------------------------------------------------------------
+# $100M Offers
+# ---------------------------------------------------------------------------
+
+- id: holdout2-priced-under-the-average
+  mode: strategy
+  style: plain
+  question: "I set my dog grooming prices by checking the five other groomers in town and coming in a bit under their average. Why am I always broke?"
+  expect_notes: [offers-why-competitive-pricing-fails]
+  must: []
+
+- id: holdout2-compete-with-free-youtube
+  mode: strategy
+  style: plain
+  question: "Anyone can learn to do their own taxes for free on YouTube. How is my tax prep service supposed to compete with free?"
+  expect_notes: [offers-fast-beats-free]
+  must: []
+
+- id: holdout2-refuse-refunds-templates
+  mode: strategy
+  style: plain
+  question: "I sell a pack of proven cold-email templates. Once someone has seen them they can't unsee them, so refunds get abused. Should I just say no refunds, period?"
+  expect_notes: [offers-anti-guarantee]
+  must: []
+
+- id: holdout2-refund-abuse-fear
+  mode: strategy
+  style: plain
+  question: "If I put a strong money-back promise on my $200 language course, I'm scared refunds will double. How do I know if it's worth it?"
+  expect_notes: [offers-guarantee-math]
+  must: []
+
+- id: holdout2-hesitate-at-the-close
+  mode: strategy
+  style: plain
+  question: "Even though I offer a refund if they're unhappy, people sitting across from me at my personal training studio still hesitate right at the end. What can I say in that moment?"
+  expect_notes: [offers-best-case-worst-case-close]
+  must: []
+
+- id: holdout2-people-want-me-personally
+  mode: strategy
+  style: plain
+  question: "I'm a marketing consultant with a decent following, and lots of people want to talk to me directly. How do I make money from that without drowning in calls?"
+  expect_notes: [offers-extreme-scarcity-access]
+  must: []
+
+- id: holdout2-workshop-add-more-dates
+  mode: strategy
+  style: plain
+  question: "My $300 workshop sold all 20 seats the first time, then only 8 the next time. Should I just run it more often and fill more seats?"
+  expect_notes: [offers-delicate-dance-of-desire]
+  must: []
+
+- id: holdout2-cheap-extras-feel-valuable
+  mode: strategy
+  style: plain
+  question: "What kinds of extras should I throw in with my bookkeeping training program? I want things that are cheap for me to give but feel valuable to the buyer."
+  expect_notes: [offers-choosing-bonus-assets]
+  must: []
+
+- id: holdout2-rename-postnatal-program
+  mode: strategy
+  style: plain
+  question: "I run a 6-week program helping new moms in my neighborhood get back in shape and it's called 'Postnatal Fitness Program'. Help me come up with a name that actually grabs people."
+  expect_notes: [offers-magic-naming-formula]
+  must: []
+
+- id: holdout2-beyond-one-on-one-calls
+  mode: strategy
+  style: plain
+  question: "All my nutrition coaching happens on one-on-one calls. What other ways could I deliver the same help so I can serve more people at different price points?"
+  expect_notes: [offers-delivery-cube]
+  must: []
+
+- id: holdout2-four-hours-per-resume
+  mode: strategy
+  style: plain
+  question: "Every client of my resume-writing service takes me about four hours personally. How do I stop trading my own time for every sale?"
+  expect_notes: [offers-one-to-many-assets]
+  must: []
+
+- id: holdout2-overdelivering-exhausted
+  mode: strategy
+  style: plain
+  question: "I basically do everything for my early clients. It sells really easily, but my team and I are exhausted. Did I set this up wrong?"
+  expect_notes: [offers-sales-to-fulfillment-continuum]
+  must: []
+
+- id: holdout2-waiting-room-complaints
+  mode: strategy
+  style: plain
+  question: "Patients at my family clinic keep complaining about how long they wait, and hiring another doctor would cost a fortune. Is there a cheaper fix?"
+  expect_notes: [offers-psychological-vs-logical-solutions, offers-perception-is-reality]
+  must: []
+
+- id: holdout2-travel-objection
+  mode: strategy
+  style: plain
+  question: "I sell nutrition coaching and keep losing sales to people who say they travel for work all the time and can't follow a plan. Should I just accept they're not my clients?"
+  expect_notes: [offers-solve-every-problem]
+  must: []
+
+- id: holdout2-leading-with-features
+  mode: strategy
+  style: plain
+  question: "My sales calls for our IT security firm are mostly me walking through features. What should I be leading with instead?"
+  expect_notes: [offers-pain-is-the-pitch]
+  must: []
+
+- id: holdout2-which-area-always-demand
+  mode: strategy
+  style: plain
+  question: "I want to start a coaching business but can't decide what area to go into. Are there markets that will always have buyers no matter what?"
+  expect_notes: [offers-health-wealth-relationships]
+  must: []
+
+- id: holdout2-great-product-shrinking-industry
+  mode: strategy
+  style: plain
+  question: "My software for print shops is excellent and customers love me, but revenue drops every year as print shops close. I keep improving the product. What am I missing?"
+  expect_notes: [offers-newspaper-software-example]
+  must: []
+
+- id: holdout2-sales-training-or-not
+  mode: strategy
+  style: plain
+  question: "Should I spend $10k on sales training for my reps? We sell commercial cleaning contracts, the package is pretty standard, and close rates are mediocre."
+  expect_notes: [offers-market-offer-persuasion-hierarchy]
+  must: []
+
+- id: holdout2-specialist-day-rate
+  mode: strategy
+  style: plain
+  question: "A company wants me to consult for one day. I'm a supply-chain specialist who has fixed exactly their problem many times. How much can I charge, and how should I carry myself in the negotiation?"
+  expect_notes: [offers-scarce-expertise-pricing]
+  must: []
+
+- id: holdout2-drop-prices-20
+  mode: strategy
+  style: plain
+  question: "sales are slow at my martial arts gym so I'm thinking of cutting prices 20% to get more signups. good idea?"
+  expect_notes: [offers-price-to-value-discrepancy]
+  must: []
+
+- id: holdout2-promotions-flopped
+  mode: strategy
+  style: plain
+  question: "I've tried about ten different promotions for my bakery this year and most flopped. I'm starting to think I'm just bad at this."
+  expect_notes: [offers-long-tail-bets]
+  must: []
+
+- id: holdout2-customer-worth-revenue
+  mode: strategy
+  style: plain
+  question: "How should I calculate what a customer is worth to my software company? Right now I just use total revenue per customer."
+  expect_notes: [offers-lifetime-gross-profit]
+  must: []
+
+- id: holdout2-app-vs-pills
+  mode: strategy
+  style: plain
+  question: "My meditation app helps with anxiety, but people happily pay more for pills that do the same job. Why, when the app is healthier?"
+  expect_notes: [offers-meditation-vs-xanax-example]
+  must: []
+
+- id: holdout2-retainer-to-results-pay
+  mode: strategy
+  style: plain
+  question: "My lead-gen agency charges a $1,000 monthly retainer and I lose money upfront on every new client. Would being paid only when we deliver results actually make me more money?"
+  expect_notes: [offers-agency-pay-for-performance-example, offers-performance-implied-guarantees]
+  must: []
+
+- id: holdout2-buy-their-store-promise
+  mode: strategy
+  style: plain
+  question: "I sell a $2,500 course on building an online store. Would an outrageous promise, like buying the student's store from them if they follow the steps and still fail, actually work or would it bankrupt me?"
+  expect_notes: [offers-fladlien-store-buyback-example, offers-conditional-guarantees]
+  must: []
+
+- id: holdout2-no-questions-refund-cheap-class
+  mode: strategy
+  style: plain
+  question: "For a $49 online cooking class, should I give refunds with no questions asked, or attach conditions?"
+  expect_notes: [offers-unconditional-guarantees]
+  must: []
+
+- id: holdout2-jargon-offer-enhancers-web-design
+  mode: strategy
+  style: jargon
+  question: "Which of the five offer enhancers (scarcity, urgency, bonuses, guarantees, naming) should I layer onto my web design offer, and what does each one do to supply and demand?"
+  expect_notes: [offers-enhancers-shift-supply-and-demand]
+  must: []
+
+- id: holdout2-jargon-divergent-thinking-brick
+  mode: strategy
+  style: jargon
+  question: "Explain the brick exercise and divergent thinking for offer creation before I build an offer for my bakery."
+  expect_notes: [offers-convergent-vs-divergent-thinking]
+  must: []
+
+- id: holdout2-jargon-bonus-presentation-checklist
+  mode: strategy
+  style: jargon
+  question: "Walk me through the bonus presentation checklist for my bookkeeping course's bonus stack."
+  expect_notes: [offers-bonus-presentation-checklist]
+  must: []
+
+- id: holdout2-jargon-two-core-problems
+  mode: strategy
+  style: jargon
+  question: "In $100M Offers terms, is my tax firm's issue 'not enough clients' or 'not enough cash'? We're fully booked but nothing is left at month end."
+  expect_notes: [offers-two-core-business-problems]
+  must: []
+
+- id: holdout2-jargon-weight-loss-bundle-stack
+  mode: strategy
+  style: jargon
+  question: "Show me Hormozi's gym weight-loss Grand Slam Offer stack and how he got to its stated value versus the price."
+  expect_notes: [offers-weight-loss-bundle-example]
+  must: []
+
+# ---------------------------------------------------------------------------
+# $100M Money Models
+# ---------------------------------------------------------------------------
+
+- id: holdout2-wedding-clients-spend-early
+  mode: strategy
+  style: plain
+  question: "Couples who book my wedding planning seem to want to buy everything in the first couple of weeks. Should I be offering more stuff right then, or does that look greedy?"
+  expect_notes: [models-hyper-buying-cycle]
+  must: []
+
+- id: holdout2-clients-dont-rebook
+  mode: strategy
+  style: plain
+  question: "Patients at my physical therapy practice finish a session and walk out without scheduling the next one, and a lot of them just drift away."
+  expect_notes: [models-bam-fam]
+  must: []
+
+- id: holdout2-new-studio-discount-request
+  mode: strategy
+  style: plain
+  question: "New clients at my brand-new pilates studio keep asking for a discount. I badly need reviews and word of mouth. Can I get something useful out of giving in?"
+  expect_notes: [models-barter-discount-for-advertising]
+  must: []
+
+- id: holdout2-early-exit-from-annual
+  mode: strategy
+  style: plain
+  question: "My gym gives members a discount for signing up for 12 months. What should happen if someone wants out after five?"
+  expect_notes: [models-cancellation-fee-equals-discount]
+  must: []
+
+- id: holdout2-wallet-out-again
+  mode: strategy
+  style: plain
+  question: "Right after people pay for a treatment at my spa I offer them a skincare product, but they hesitate when they have to pull out their wallet a second time. Any trick for that?"
+  expect_notes: [models-card-on-file]
+  must: []
+
+- id: holdout2-installments-helping-or-hurting
+  mode: strategy
+  style: plain
+  question: "Since we started letting people spread our $3,000 coding bootcamp over six months, more people buy, but I'm worried fewer pay upfront. How do I check it's actually helping?"
+  expect_notes: [models-payment-plan-health-check]
+  must: []
+
+- id: holdout2-member-calls-to-cancel
+  mode: strategy
+  style: plain
+  question: "When someone calls to cancel their lawn-care subscription we just process it. Is there something better we should be doing in that conversation?"
+  expect_notes: [models-exit-interview-save]
+  must: []
+
+- id: holdout2-quick-cash-current-clients
+  mode: strategy
+  style: plain
+  question: "I need about $50k in the next month for my dog-walking business, which bills clients monthly, and I don't want to spend on ads. What could I offer the clients I already have?"
+  expect_notes: [models-bxgy-fast-cash-existing-customers]
+  must: []
+
+- id: holdout2-sell-without-building
+  mode: strategy
+  style: plain
+  question: "All I sell is website design. How can I make more from each client without building or delivering anything new myself?"
+  expect_notes: [models-affiliate-products-fill-gaps]
+  must: []
+
+- id: holdout2-how-to-word-the-deal
+  mode: strategy
+  style: plain
+  question: "I'm selling a $1,200 yearly coaching package for $900 as a promotion. Should I say 25% off, $300 off, or put it some other way?"
+  expect_notes: [models-four-ways-to-frame-a-discount]
+  must: []
+
+- id: holdout2-free-perk-long-time-members
+  mode: strategy
+  style: plain
+  question: "What's a perk I could give long-time members of my wine club that costs me basically nothing but they'd actually care about?"
+  expect_notes: [models-member-status-titles]
+  must: []
+
+- id: holdout2-contest-entry-window
+  mode: strategy
+  style: plain
+  question: "I'm running a contest to win a free year of window cleaning. How long should entries stay open, how many should I accept, and how fast should winners have to claim?"
+  expect_notes: [models-giveaway-deadlines]
+  must: []
+
+- id: holdout2-mention-paid-program-early
+  mode: strategy
+  style: plain
+  question: "I run free workshops for first-time investors and pitch my paid program at the very end, but sales are soft. Is when I bring it up part of the problem?"
+  expect_notes: [models-hint-next-offer-early]
+  must: []
+
+- id: holdout2-subscribers-quit-month-four
+  mode: strategy
+  style: plain
+  question: "Most subscribers to my coffee bean delivery cancel around month four. Is there a pricing move that gets them to stay past that point?"
+  expect_notes: [models-lifetime-discount-at-churn-point]
+  must: []
+
+- id: holdout2-challenge-missed-goal
+  mode: strategy
+  style: plain
+  question: "In my 30-day fitness challenge people get their entry fee back if they hit their goal. What do I do with the ones who didn't make it, so I don't lose them?"
+  expect_notes: [models-make-everyone-a-winner]
+  must: []
+
+- id: holdout2-failed-charges-installments
+  mode: strategy
+  style: plain
+  question: "Lots of my monthly charges for my tutoring service bounce, and I suspect some families paying in installments would happily pay off the rest early. What should I do?"
+  expect_notes: [models-payment-plan-upsell-and-declines]
+  must: []
+
+- id: holdout2-launch-everything-at-once
+  mode: strategy
+  style: plain
+  question: "Next month I want to roll out a free intro, a premium tier, a cheaper tier and a monthly membership all at once for my hair salon. Good plan?"
+  expect_notes: [models-perfect-one-offer-at-a-time]
+  must: []
+
+- id: holdout2-said-no-twice-money
+  mode: strategy
+  style: plain
+  question: "A prospect has said no twice to cheaper versions of my coaching, both times because of money. What do I ask next?"
+  expect_notes: [models-temperature-check]
+  must: []
+
+- id: holdout2-get-them-to-buy-both
+  mode: strategy
+  style: plain
+  question: "I sell an online course and a printed workbook. Almost everyone just buys the course. How do I set up the options so people take both?"
+  expect_notes: [models-economist-three-option-play]
+  must: []
+
+- id: holdout2-prepaid-pack-runs-out
+  mode: strategy
+  style: plain
+  question: "Customers buy a 10-pack of house cleanings from me up front, and when it runs out most of them don't come back. How do I keep them going?"
+  expect_notes: [models-attraction-to-continuity-auto-renew]
+  must: []
+
+- id: holdout2-lapsed-patients
+  mode: strategy
+  style: plain
+  question: "I have about 500 former patients at my chiropractic office who haven't been in for over a year. What kind of offer would bring them back?"
+  expect_notes: [models-rollover-win-back-campaign, models-upsell-rollover]
+  must: []
+
+- id: holdout2-unused-part-of-package
+  mode: strategy
+  style: plain
+  question: "Some clients pay for our full marketing package but never touch the social media part. Should I bring it up with them or leave it alone?"
+  expect_notes: [models-feature-downsell-current-customers]
+  must: []
+
+- id: holdout2-free-if-they-do-the-work
+  mode: strategy
+  style: plain
+  question: "Some people turn down my coaching because of the $500 start fee. Could I let them start free if they commit to doing the homework, and charge them if they don't?"
+  expect_notes: [models-downsell-trial-with-penalty]
+  must: []
+
+- id: holdout2-pay-only-if-happy-workshop
+  mode: strategy
+  style: plain
+  question: "I want to advertise my weekend real estate workshop as free but still get paid. Is there a way to let people pay afterwards only if they're happy, and still get some to pay today?"
+  expect_notes: [models-attraction-pay-less-now-or-later]
+  must: []
+
+- id: holdout2-keep-cutting-warranty-price
+  mode: strategy
+  style: plain
+  question: "When customers say no to our extended protection plan, my salespeople keep cutting its price until it's almost nothing. Is that actually a problem?"
+  expect_notes: [models-example-car-insurance-price-drop]
+  must: []
+
+- id: holdout2-jargon-three-stages-medspa
+  mode: strategy
+  style: jargon
+  question: "What are the three stages of a money model, and which stage should my new med spa build first?"
+  expect_notes: [models-three-stages-of-money-model, models-make-your-money-model-steps]
+  must: []
+
+- id: holdout2-jargon-continuity-as-attraction
+  mode: strategy
+  style: jargon
+  question: "Should I use a continuity offer as my attraction offer, or does continuity belong later in the money model?"
+  expect_notes: [models-continuity-offers-overview]
+  must: []
+
+- id: holdout2-jargon-newsletter-money-model
+  mode: strategy
+  style: jargon
+  question: "Show me an example money model for a paid newsletter, from attraction offer through continuity."
+  expect_notes: [models-example-money-model-breakdowns]
+  must: []
+
+- id: holdout2-jargon-bonus-creates-upsell-problem
+  mode: strategy
+  style: jargon
+  question: "How do I use a free bonus to create the problem my upsell solves, like the fur coat earmuffs example?"
+  expect_notes: [models-example-fur-coat-earmuffs]
+  must: []
+
+- id: holdout2-jargon-burger-upsell-math
+  mode: strategy
+  style: jargon
+  question: "Explain the burger upsell math and why my front-end offer doesn't need to be profitable on its own."
+  expect_notes: [models-example-burger-upsell-math]
+  must: []
+
+# ---------------------------------------------------------------------------
+# Cross-book (questions whose answer spans two books)
+# ---------------------------------------------------------------------------
+
+- id: holdout2-cross-tie-promise-to-paying-upfront
+  mode: strategy
+  style: plain
+  question: "I want more cash upfront for my $6,000 mentoring program. Could I tie my refund-if-no-results promise to whether they pay in full or in monthly chunks?"
+  expect_notes: [leads-prepay-guarantee, models-example-feature-downsell-guarantee]
+  must: []
+
+- id: holdout2-cross-will-outbound-calls-pay
+  mode: strategy
+  style: plain
+  question: "Before I hire people to cold call homeowners for my roofing company, how do I work out whether it'll make money? Each roof earns me about $4k profit."
+  expect_notes: [leads-cold-outreach-benchmarks, offers-lifetime-gross-profit]
+  must: []
+
+- id: holdout2-cross-results-promise-conditions
+  mode: strategy
+  style: plain
+  question: "I want to promise results on my SEO service but only for clients who hold up their end. How do I decide what they have to do to qualify?"
+  expect_notes: [leads-replicate-best-customer-actions, offers-conditional-guarantees]
+  must: []
+
+- id: holdout2-cross-happy-clients-just-leave
+  mode: strategy
+  style: plain
+  question: "Clients finish my 3-month business coaching program, say it was great, and then just leave. What should be happening at the end?"
+  expect_notes: [leads-sell-them-the-next-thing, models-upsell-offers-overview]
+  must: []
+
+- id: holdout2-cross-start-cheap-or-full-price
+  mode: strategy
+  style: plain
+  question: "I'm launching a new group coaching program. Do I start cheap and raise the price as I go, or launch at the price I eventually want?"
+  expect_notes: [models-raise-prices-in-stages, leads-raise-price-every-five]
+  must: []
+
+- id: holdout2-cross-long-project-feels-slow
+  mode: strategy
+  style: plain
+  question: "Our web development projects take about three months. Clients get anxious and go quiet in the middle, and few of them recommend us afterwards. How do I make it feel faster?"
+  expect_notes: [leads-faster-customer-wins, offers-time-delay]
+  must: []
+
+- id: holdout2-cross-new-accountant-trust
+  mode: strategy
+  style: plain
+  question: "I'm a newly qualified accountant with only a handful of clients. What can I show prospects so they believe I'll actually get results for them?"
+  expect_notes: [leads-perceived-likelihood-boosters, offers-perceived-likelihood-of-achievement]
+  must: []
+
+- id: holdout2-cross-profitable-but-no-cash
+  mode: strategy
+  style: plain
+  question: "Each customer for my water-softener rentals is worth about $2,000 over time and costs me $400 in ads to get, yet I'm constantly out of cash and can't afford to advertise more. How is that possible?"
+  expect_notes: [models-cash-constrained-business-trap, leads-client-financed-acquisition]
+  must: []
+
+- id: holdout2-cross-vouchers-for-friends
+  mode: strategy
+  style: plain
+  question: "For the holidays I want my med spa customers to hand out vouchers to their friends, maybe even buy them cheaply as gifts. How big should the vouchers be and what happens when the friend comes in?"
+  expect_notes: [models-gift-card-rollover-play, leads-referral-gift-card-promotion]
+  must: []
+
+- id: holdout2-cross-love-us-no-referrals
+  mode: strategy
+  style: plain
+  question: "Everyone says they love my bakery but hardly anyone brings friends. Should I knock some money off to get people talking about us?"
+  expect_notes: [leads-goodwill-price-minus-value, offers-price-to-value-discrepancy]
+  must: []
+
+- id: holdout2-cross-warranty-free-or-paid
+  mode: strategy
+  style: plain
+  question: "My furniture store replaces anything damaged in the first year at no charge. Should I keep giving that away to help close sales, or start charging for it?"
+  expect_notes: [models-sell-guarantees-and-warranties, offers-guarantees]
+  must: []
+
+- id: holdout2-cross-name-free-checklist
+  mode: strategy
+  style: plain
+  question: "I made a free checklist for first-time home buyers to get leads for my mortgage brokerage. How do I pick a name for it that people actually want, and how do I test which name works?"
+  expect_notes: [leads-lead-magnet-naming-tests, offers-magic-naming-formula]
+  must: []

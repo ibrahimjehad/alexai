@@ -1,0 +1,832 @@
+# FINAL held-out retrieval test set for Alex AI search (100 questions).
+# Written against a frozen brain snapshot (notes without `questions:` fields),
+# without running the search command. Use it ONCE, for the final verdict,
+# after all tuning on evals/retrieval_holdout.yaml and
+# evals/retrieval_holdout_2.yaml is finished. Do not look at individual
+# misses and re-tune; report aggregate hit rates only.
+#
+# Keys:
+#   style: plain  -> everyday business-owner wording, no Hormozi framework names
+#          jargon -> uses the framework's own vocabulary (easy control group)
+#   expect_notes: the 1-3 notes a correct answer must draw on (strict hit).
+#   accept_notes: other notes that would also be a fully acceptable landing
+#                 place (siblings, parent framework, near-duplicates); use
+#                 expect + accept for a lenient hit rate.
+#
+# Mix: ~29 per book, 13 that span two books; 85 plain, 15 jargon.
+
+# ---------------------------------------------------------------------------
+# $100M Offers
+# ---------------------------------------------------------------------------
+
+- id: final-solar-four-buyer-questions
+  mode: strategy
+  style: plain
+  question: "Every homeowner I quote for solar asks the same four things: what exactly do I get, how do I know it'll work on my roof, how long until I see savings, and how much hassle is it going to be. Is there one way of thinking about my offer that covers all of that?"
+  expect_notes: [offers-value-equation]
+  accept_notes: []
+  must: []
+
+- id: final-aligner-patients-bored-month-three
+  mode: strategy
+  style: plain
+  question: "Clear aligner treatment at my orthodontic practice takes 12 to 18 months and patients lose interest around month three. How do I keep them feeling like it's working long before the final smile shows up?"
+  expect_notes: [offers-time-delay]
+  accept_notes: [leads-faster-customer-wins]
+  must: []
+
+- id: final-diy-energy-kit-hassle
+  mode: strategy
+  style: plain
+  question: "I sell a DIY home energy-saving kit. People love the idea of lower bills but hate crawling around the attic sealing gaps. Would doing the install for them really justify charging a lot more?"
+  expect_notes: [offers-effort-and-sacrifice]
+  accept_notes: [offers-value-equation, offers-shrink-the-bottom-of-the-value-equation]
+  must: []
+
+- id: final-luxury-detail-what-they-want
+  mode: strategy
+  style: plain
+  question: "what do people actually want when they pay for a high end car detail? my ads all talk about shiny paint and swirl removal and nobody seems to care"
+  expect_notes: [offers-dream-outcome]
+  accept_notes: [offers-status-framing]
+  must: []
+
+- id: final-pickleball-copy-falls-flat
+  mode: strategy
+  style: plain
+  question: "Writing the sales page for my pickleball coaching. I keep saying 'win more games' and it feels flat. How do I make the result land harder emotionally?"
+  expect_notes: [offers-status-framing]
+  accept_notes: [offers-dream-outcome]
+  must: []
+
+- id: final-coffee-cart-hospital-shift
+  mode: strategy
+  style: plain
+  question: "A guy sells honestly mediocre coffee from a cart outside the hospital at shift change and makes a killing. My café downtown has way better coffee and struggles. What does he have that I don't?"
+  expect_notes: [offers-starving-crowd]
+  accept_notes: [offers-market-offer-persuasion-hierarchy]
+  must: []
+
+- id: final-meal-kits-for-students
+  mode: strategy
+  style: plain
+  question: "Thinking of starting a healthy meal-kit service for college students. They're easy to reach on campus and they all eat terribly. Anything wrong with that plan?"
+  expect_notes: [offers-market-selection-four-indicators]
+  accept_notes: []
+  must: []
+
+- id: final-agency-dentists-vets-lawyers
+  mode: strategy
+  style: plain
+  question: "Tried selling my marketing service to dentists for five months, it didn't really take off, so I switched to vets. Now I'm thinking about lawyers instead. Am I doing this right?"
+  expect_notes: [offers-niche-commitment]
+  accept_notes: []
+  must: []
+
+- id: final-managed-it-youre-all-the-same
+  mode: strategy
+  style: plain
+  question: "Prospects for my managed IT services literally tell me 'you're all the same, I'll go with whoever's cheapest.' How do I stop being one of the interchangeable options?"
+  expect_notes: [offers-commodity-vs-category-of-one]
+  accept_notes: [offers-grand-slam-offer]
+  must: []
+
+- id: final-cheapest-clients-worst-results
+  mode: strategy
+  style: plain
+  question: "At my web dev shop the clients paying the least are always the most demanding, get the worst results and complain the most. Is that a coincidence or am I doing something to cause it?"
+  expect_notes: [offers-virtuous-cycle-of-price]
+  accept_notes: []
+  must: []
+
+- id: final-guilty-400-logo
+  mode: strategy
+  style: plain
+  question: "I feel guilty charging $400 for a logo that takes me two hours and costs me basically nothing. What's a fair markup over my costs?"
+  expect_notes: [offers-charge-far-above-cost]
+  accept_notes: [offers-price-to-value-discrepancy]
+  must: []
+
+- id: final-doula-everything-that-goes-wrong
+  mode: strategy
+  style: plain
+  question: "Before I put together my postpartum doula package I want to map out everything that could go wrong for a new mom so I cover it all. How detailed should I get and how do I organize that list?"
+  expect_notes: [offers-list-customer-problems]
+  accept_notes: [offers-grand-slam-offer-creation-process]
+  must: []
+
+- id: final-bookkeeping-complaints-to-product
+  mode: strategy
+  style: plain
+  question: "I've written down a long list of complaints my bookkeeping clients have: receipts get lost, month-end is a nightmare, they don't understand the reports. How do I turn that list into something I can actually sell?"
+  expect_notes: [offers-problems-into-solutions]
+  accept_notes: [offers-grand-slam-offer-creation-process]
+  must: []
+
+- id: final-wedding-photo-40-ideas
+  mode: strategy
+  style: plain
+  question: "I brainstormed about 40 things I could include in my wedding photography package, from albums to drone shots to a planning call. It's way too much. How do I decide what stays and how to present what's left?"
+  expect_notes: [offers-trim-and-stack]
+  accept_notes: [offers-grand-slam-offer-creation-process]
+  must: []
+
+- id: final-pool-cleaning-satisfaction-guaranteed
+  mode: strategy
+  style: plain
+  question: "My pool cleaning website just says 'satisfaction guaranteed' and it feels weak. How do I word a promise so it actually means something to people?"
+  expect_notes: [offers-guarantees]
+  accept_notes: [offers-name-your-guarantee]
+  must: []
+
+- id: final-sat-prep-promise-without-refund
+  mode: strategy
+  style: plain
+  question: "I run a 12-week SAT prep course and I'd love to promise a score increase, but refunding people scares me. Are there options besides just giving the money back?"
+  expect_notes: [offers-conditional-guarantees]
+  accept_notes: [offers-guarantees]
+  must: []
+
+- id: final-copywriter-paid-on-results
+  mode: strategy
+  style: plain
+  question: "I'm a freelance email copywriter. A client wants to pay me only a cut of the extra sales my emails bring in. What are smart ways to structure a deal like that, and what are the risks for me?"
+  expect_notes: [offers-performance-implied-guarantees]
+  accept_notes: []
+  must: []
+
+- id: final-hot-sauce-limited-batches
+  mode: strategy
+  style: plain
+  question: "I make small-batch hot sauce. Should I do limited flavors that sell out on purpose, and how often should I run those?"
+  expect_notes: [offers-scarcity]
+  accept_notes: []
+  must: []
+
+- id: final-bootcamp-start-anytime
+  mode: strategy
+  style: plain
+  question: "People can start my online coding bootcamp whenever they want, and I think that's exactly why everyone procrastinates on signing up. Should I change how start dates work?"
+  expect_notes: [offers-urgency]
+  accept_notes: []
+  must: []
+
+- id: final-massage-price-rise-quietly
+  mode: strategy
+  style: plain
+  question: "I'm raising my massage therapy prices 20% next month. Should I just quietly update the website, or is there a smarter way to handle it?"
+  expect_notes: [offers-announce-price-increases]
+  accept_notes: []
+  must: []
+
+- id: final-home-theater-when-mention-extras
+  mode: strategy
+  style: plain
+  question: "On sales calls for my $3k home theater installs I throw in a few extras. Should I list them all at the start, or hold them back and bring them up later in the conversation?"
+  expect_notes: [offers-presenting-bonuses-one-on-one]
+  accept_notes: [models-surprise-and-delight-bonuses]
+  must: []
+
+- id: final-venue-vendor-freebies
+  mode: strategy
+  style: plain
+  question: "I own a small wedding venue. Could I get florists, DJs and caterers to throw in free stuff for couples who book with me? Why would they agree to that?"
+  expect_notes: [offers-partner-bonuses]
+  accept_notes: [offers-choosing-bonus-assets]
+  must: []
+
+- id: final-whitening-promo-wearing-out
+  mode: strategy
+  style: plain
+  question: "Our Facebook promo for a teeth-whitening deal is wearing out. What should I change first: the pictures, the wording, the name of the deal, the price, how long it runs?"
+  expect_notes: [offers-fatigue-variation-order]
+  accept_notes: [offers-naming-and-offer-fatigue]
+  must: []
+
+- id: final-pottery-waitlist-add-classes
+  mode: strategy
+  style: plain
+  question: "There's a long waitlist for my pottery classes. My plan is to add a bunch more classes so nobody has to wait anymore. Smart move?"
+  expect_notes: [offers-delicate-dance-of-desire]
+  accept_notes: [offers-service-scarcity-caps]
+  must: []
+
+- id: final-jargon-magic-decluttering
+  mode: strategy
+  style: jargon
+  question: "Use the MAGIC naming formula to name a 30-day home decluttering program for busy parents."
+  expect_notes: [offers-magic-naming-formula]
+  accept_notes: [offers-named-offer-examples]
+  must: []
+
+- id: final-jargon-scarcity-vs-urgency-roofing
+  mode: strategy
+  style: jargon
+  question: "What's the difference between scarcity and urgency as offer enhancers, and how should a roofing company use each one honestly?"
+  expect_notes: [offers-urgency, offers-scarcity]
+  accept_notes: [offers-enhancers-shift-supply-and-demand, offers-service-scarcity-caps]
+  must: []
+
+- id: final-jargon-delivery-cube-tutoring
+  mode: strategy
+  style: jargon
+  question: "Run the delivery cube on my math tutoring offer, including the 10x / one-tenth test."
+  expect_notes: [offers-delivery-cube]
+  accept_notes: [offers-grand-slam-offer-creation-process]
+  must: []
+
+- id: final-jargon-guarantee-type-b2b
+  mode: strategy
+  style: jargon
+  question: "Which guarantee type (unconditional, conditional, anti-guarantee or implied/performance) fits a $15k B2B consulting engagement?"
+  expect_notes: [offers-guarantees]
+  accept_notes: [offers-conditional-guarantees, offers-anti-guarantee, offers-performance-implied-guarantees, offers-unconditional-guarantees]
+  must: []
+
+- id: final-jargon-gso-mobile-mechanic
+  mode: strategy
+  style: jargon
+  question: "Take my mobile mechanic business through the five steps of building a Grand Slam Offer."
+  expect_notes: [offers-grand-slam-offer-creation-process]
+  accept_notes: [offers-grand-slam-offer, offers-book-recap-checklist]
+  must: []
+
+# ---------------------------------------------------------------------------
+# $100M Leads
+# ---------------------------------------------------------------------------
+
+- id: final-pet-grooming-van-phone-contacts
+  mode: strategy
+  style: plain
+  question: "I'm launching a mobile pet grooming van next month. Walk me through using the contacts already in my phone to get the first clients without being annoying about it."
+  expect_notes: [leads-warm-outreach-ten-steps]
+  accept_notes: [leads-warm-outreach, leads-warm-outreach-offer-script]
+  must: []
+
+- id: final-lactation-consultant-first-clients-price
+  mode: strategy
+  style: plain
+  question: "Just got certified as a lactation consultant. For my very first clients should I charge full price, give a discount, or do a few for free?"
+  expect_notes: [leads-first-five-free]
+  accept_notes: [leads-raise-price-every-five]
+  must: []
+
+- id: final-text-100-people-resume
+  mode: strategy
+  style: plain
+  question: "If I text 100 people I know about my new resume writing service, roughly how many paying clients should I realistically expect?"
+  expect_notes: [leads-warm-outreach-benchmarks]
+  accept_notes: []
+  must: []
+
+- id: final-linkedin-hr-directors-ignored
+  mode: strategy
+  style: plain
+  question: "I message HR directors on LinkedIn about my corporate wellness program and they clearly ignore me. My messages start 'Hi, I help companies reduce burnout...'. What am I doing wrong?"
+  expect_notes: [leads-cold-personalization]
+  accept_notes: [leads-cold-outreach]
+  must: []
+
+- id: final-seo-free-strategy-call-no-takers
+  mode: strategy
+  style: plain
+  question: "Business owners I contact out of the blue for my SEO agency never take me up on a free 30-minute strategy call. What would actually get them to bite?"
+  expect_notes: [leads-big-fast-value]
+  accept_notes: [leads-cold-outreach]
+  must: []
+
+- id: final-setters-shared-lead-pool
+  mode: strategy
+  style: plain
+  question: "I manage four appointment setters at our solar company. All incoming leads go into one shared pool and half of them never get called. How should I divide the leads up?"
+  expect_notes: [leads-rep-lead-allotment]
+  accept_notes: []
+  must: []
+
+- id: final-renovation-videos-drop-off
+  mode: strategy
+  style: plain
+  question: "People click on my home renovation YouTube videos but most drop off after about 40 seconds. How do I keep them watching?"
+  expect_notes: [leads-retain-lists-steps-stories]
+  accept_notes: [leads-content-unit]
+  must: []
+
+- id: final-20-minute-tax-videos-too-long
+  mode: strategy
+  style: plain
+  question: "Everyone says videos have to be under 60 seconds now. My breakdowns of tax rules for freelancers run 20 minutes. Am I shooting myself in the foot?"
+  expect_notes: [leads-content-reward]
+  accept_notes: [leads-content-unit]
+  must: []
+
+- id: final-realtor-free-advice-before-asking
+  mode: strategy
+  style: plain
+  question: "How much free advice should I give away on my real estate Instagram before I start asking people to book a call with me?"
+  expect_notes: [leads-give-until-they-ask]
+  accept_notes: [leads-integrated-vs-intermittent-asks, leads-give-away-secrets-sell-implementation]
+  must: []
+
+- id: final-career-coach-every-platform
+  mode: strategy
+  style: plain
+  question: "Should I be on TikTok, YouTube, Instagram and LinkedIn all at once for my career coaching, or go all in on one first?"
+  expect_notes: [leads-content-scaling-depth-width]
+  accept_notes: []
+  must: []
+
+- id: final-furniture-ads-profit-week-one
+  mode: strategy
+  style: plain
+  question: "About to start running ads for my online furniture store. I haven't set up any tracking yet, and I'm expecting to be profitable from week one. Is that reasonable?"
+  expect_notes: [leads-paid-ads-three-phases]
+  accept_notes: [leads-place-first-ad]
+  must: []
+
+- id: final-plumbing-ad-logo-and-number
+  mode: strategy
+  style: plain
+  question: "What are the parts of a good ad? Mine for my plumbing company are basically our logo, a picture of a van and our phone number."
+  expect_notes: [leads-ad-structure-callout-value-cta]
+  accept_notes: [leads-ad-callouts, leads-ad-call-to-action]
+  must: []
+
+- id: final-accounting-which-ad-platform
+  mode: strategy
+  style: plain
+  question: "Should my accounting firm advertise first on LinkedIn, Google, Facebook or TikTok? Personally I've only ever really used LinkedIn and Facebook."
+  expect_notes: [leads-paid-ads-platform-selection]
+  accept_notes: []
+  must: []
+
+- id: final-lawn-care-250-to-get-customer
+  mode: strategy
+  style: plain
+  question: "I spend about $250 in ads to land each new lawn care customer. They pay about $45 a month, stay roughly a year, and my costs are around 40% of what they pay. Is that a healthy setup or should I be worried?"
+  expect_notes: [leads-ltgp-cac-ratio]
+  accept_notes: [offers-lifetime-gross-profit]
+  must: []
+
+- id: final-pest-control-free-thing
+  mode: strategy
+  style: plain
+  question: "I run a pest control company and want to give homeowners something free that gets them to raise their hand. What kinds of free things actually work?"
+  expect_notes: [leads-lead-magnet-types]
+  accept_notes: [leads-lead-magnet, leads-lead-magnet-delivery-mechanisms]
+  must: []
+
+- id: final-kitchen-remodel-ads-straight-to-estimate
+  mode: strategy
+  style: plain
+  question: "Should my ads for $80k kitchen remodels go straight for booking an in-home estimate, or offer people something smaller first?"
+  expect_notes: [leads-core-offer-vs-lead-magnet]
+  accept_notes: [leads-lead-magnet-cac-math]
+  must: []
+
+- id: final-landscape-design-few-posts-meh
+  mode: strategy
+  style: plain
+  question: "For three months I've been posting maybe twice a week and sending a handful of emails for my landscape design business. Results are meh. How much should I actually be doing?"
+  expect_notes: [leads-volume-inputs-outputs, leads-rule-of-100]
+  accept_notes: []
+  must: []
+
+- id: final-med-spa-google-ads-whats-next
+  mode: strategy
+  style: plain
+  question: "Our Google ads for the med spa are profitable and steady. To get more leads, do I just raise the budget, work on making the ads better, or start on something new like TikTok?"
+  expect_notes: [leads-more-better-new]
+  accept_notes: [leads-new-expansion-order]
+  must: []
+
+- id: final-payroll-saas-construction-firms-stay
+  mode: strategy
+  style: plain
+  question: "Churn is brutal at my payroll software company, but construction firms, about 15% of our revenue, almost never leave. Should we aim all our marketing at them even if it means ignoring everyone else?"
+  expect_notes: [leads-sell-better-customers, leads-example-pr-firm-niche-down]
+  accept_notes: []
+  must: []
+
+- id: final-accounting-nobody-refers
+  mode: strategy
+  style: plain
+  question: "Nobody ever refers anyone to my accounting firm, even though clients seem fine with us. What's going on?"
+  expect_notes: [leads-goodwill-price-minus-value]
+  accept_notes: [leads-six-value-levers-for-referrals]
+  must: []
+
+- id: final-coaching-some-clients-amazing
+  mode: strategy
+  style: plain
+  question: "A few clients of my business coaching get amazing results and most get okay ones. How do I get everyone up to the amazing level?"
+  expect_notes: [leads-replicate-best-customer-actions]
+  accept_notes: [leads-example-gym-launch-first-7-days]
+  must: []
+
+- id: final-assistant-take-over-dms
+  mode: strategy
+  style: plain
+  question: "How do I train my new assistant to handle the Instagram DMs I've been doing myself, so she gets the same results I get?"
+  expect_notes: [leads-three-ds-training]
+  accept_notes: []
+  must: []
+
+- id: final-third-agency-two-years
+  mode: strategy
+  style: plain
+  question: "This is my third marketing agency in two years. Every time it starts great, then results slide and I end up firing them. Is it me, or is this just how agencies work?"
+  expect_notes: [leads-agency-dependency-cycle]
+  accept_notes: [leads-agency-learn-then-replace]
+  must: []
+
+- id: final-salon-app-who-has-my-customers
+  mode: strategy
+  style: plain
+  question: "I sell a booking and bookkeeping app for hair salons. Which other businesses already have salon owners as customers and might promote my app to them?"
+  expect_notes: [leads-find-ideal-affiliates]
+  accept_notes: [leads-affiliate-army-six-steps]
+  must: []
+
+- id: final-jargon-hook-retain-reward-accounting
+  mode: strategy
+  style: jargon
+  question: "Using hook, retain, reward, critique how I should structure YouTube videos for my accounting practice."
+  expect_notes: [leads-content-unit]
+  accept_notes: [leads-retain-lists-steps-stories, leads-content-reward]
+  must: []
+
+- id: final-jargon-lead-magnet-seven-steps-roofing
+  mode: strategy
+  style: jargon
+  question: "Walk me through the seven steps to create a lead magnet for my roofing company."
+  expect_notes: [leads-lead-magnet-seven-steps]
+  accept_notes: [leads-lead-magnet]
+  must: []
+
+- id: final-jargon-advertising-roadmap-level
+  mode: strategy
+  style: jargon
+  question: "I do all the warm outreach and content for my business myself and I'm maxed out. Which level of the advertising roadmap am I at, and what's the primary action to reach the next one?"
+  expect_notes: [leads-advertising-roadmap-levels]
+  accept_notes: []
+  must: []
+
+- id: final-jargon-callouts-coding-camp
+  mode: strategy
+  style: jargon
+  question: "Write me verbal and non-verbal ad call-outs for a kids' summer coding camp and tell me how to test them."
+  expect_notes: [leads-ad-callouts]
+  accept_notes: [leads-infinite-ads-hook-variations, leads-ad-structure-callout-value-cta]
+  must: []
+
+- id: final-jargon-referral-growth-equation
+  mode: strategy
+  style: jargon
+  question: "Explain the referral growth equation. With 2% of clients referring each month and 4% churning, am I on the hamster wheel?"
+  expect_notes: [leads-referral-growth-equation]
+  accept_notes: []
+  must: []
+
+# ---------------------------------------------------------------------------
+# $100M Money Models
+# ---------------------------------------------------------------------------
+
+- id: final-barbershop-sequence-of-offers
+  mode: strategy
+  style: plain
+  question: "My barbershop makes basically all its money from one haircut per visit. People keep talking about having a planned sequence of things you offer each customer. What does that actually mean?"
+  expect_notes: [models-money-model-definition]
+  accept_notes: [models-four-offer-types]
+  must: []
+
+- id: final-basic-kinds-of-offers
+  mode: strategy
+  style: plain
+  question: "What are the basic kinds of offers a business needs? Right now mine feels like 'buy my thing or don't', and that's it."
+  expect_notes: [models-four-offer-types]
+  accept_notes: [models-money-model-definition]
+  must: []
+
+- id: final-physio-order-to-add-offers
+  mode: strategy
+  style: plain
+  question: "I want to add more ways to make money from each patient at my physical therapy practice. What order should I add them in, and what's each one supposed to achieve?"
+  expect_notes: [models-make-your-money-model-steps]
+  accept_notes: [models-three-stages-of-money-model]
+  must: []
+
+- id: final-tires-feel-like-free
+  mode: strategy
+  style: plain
+  question: "I sell tires. Instead of advertising '25% off a set', is there a way to word the deal so it feels like people are getting stuff free?"
+  expect_notes: [models-attraction-buy-x-get-y-free]
+  accept_notes: [models-four-ways-to-frame-a-discount, models-example-boot-factory]
+  must: []
+
+- id: final-dog-obedience-free-class-to-program
+  mode: strategy
+  style: plain
+  question: "I want to advertise a free basic dog obedience class, then get most people into my 8-week program instead. How do I present the two side by side so they pick the bigger one?"
+  expect_notes: [models-attraction-decoy-offer, models-decoy-presentation-script]
+  accept_notes: []
+  must: []
+
+- id: final-kayak-what-to-sell-after
+  mode: strategy
+  style: plain
+  question: "I sell kayaks. What should I offer people right after they buy one, and how do I do it without it feeling pushy?"
+  expect_notes: [models-upsell-classic]
+  accept_notes: [models-upsell-offers-overview]
+  must: []
+
+- id: final-vet-ten-optional-products
+  mode: strategy
+  style: plain
+  question: "After an exam at my vet clinic, the techs list about ten optional products and owners get overwhelmed and buy nothing. What's a better way to handle that moment?"
+  expect_notes: [models-upsell-menu]
+  accept_notes: []
+  must: []
+
+- id: final-gym-desk-do-you-want-a-shake
+  mode: strategy
+  style: plain
+  question: "At my gym's front desk we ask 'Do you want a protein shake?' after workouts and most people say no. How should we ask instead?"
+  expect_notes: [models-ab-upsell]
+  accept_notes: [models-upsell-menu]
+  must: []
+
+- id: final-deli-reflexive-no-thanks
+  mode: strategy
+  style: plain
+  question: "Is there a closing line that makes people's automatic 'no thanks' work in my favor? My deli counter staff hear it all day."
+  expect_notes: [models-you-dont-want-anything-else]
+  accept_notes: []
+  must: []
+
+- id: final-photo-course-presets-feel-salesy
+  mode: strategy
+  style: plain
+  question: "I teach a beginner photography course and also sell a $400 pack of editing presets. Pitching the presets at the end feels salesy. Is there a better way to get people buying them?"
+  expect_notes: [models-integrate-upsells-into-delivery]
+  accept_notes: [models-hint-next-offer-early]
+  must: []
+
+- id: final-implant-financing-cheapest-monthly
+  mode: strategy
+  style: plain
+  question: "A $4,500 dental implant is too much for a lot of patients at once. How do I offer financing without everyone just grabbing the lowest monthly option?"
+  expect_notes: [models-downsell-payment-plan]
+  accept_notes: [models-seesaw-downsell, models-payment-plan-health-check]
+  must: []
+
+- id: final-it-support-cheaper-tier
+  mode: strategy
+  style: plain
+  question: "I want a cheaper tier of my IT support plan for small offices. What are the things I could dial back to justify the lower price?"
+  expect_notes: [models-feature-downsell-levers]
+  accept_notes: [models-downsell-feature]
+  must: []
+
+- id: final-bookkeeping-refused-done-for-you
+  mode: strategy
+  style: plain
+  question: "When someone turns down every version of my done-for-you bookkeeping, is there anything I can still sell them?"
+  expect_notes: [models-free-orientation-diy-downsell]
+  accept_notes: [models-downsell-offers-overview, models-downsell-feature]
+  must: []
+
+- id: final-says-no-to-2000-package
+  mode: strategy
+  style: plain
+  question: "When a prospect says no to my $2,000 package I just thank them and move on. Am I leaving money on the table?"
+  expect_notes: [models-downsell-offers-overview]
+  accept_notes: [models-four-offer-types]
+  must: []
+
+- id: final-plant-box-join-today
+  mode: strategy
+  style: plain
+  question: "I'm launching a $39/month houseplant subscription box. What could I give people to get them signing up today instead of 'thinking about it'?"
+  expect_notes: [models-continuity-bonus]
+  accept_notes: [models-continuity-discount]
+  must: []
+
+- id: final-bookkeeping-big-setup-fee
+  mode: strategy
+  style: plain
+  question: "I want my monthly bookkeeping clients to commit for a year. Would charging a big setup fee for month-to-month, and dropping it if they sign for 12 months, actually help?"
+  expect_notes: [models-continuity-waived-fee]
+  accept_notes: [models-continuity-discount]
+  must: []
+
+- id: final-saas-annual-or-monthly
+  mode: strategy
+  style: plain
+  question: "Should I push customers of my scheduling software toward annual plans or let them pay monthly? Does it actually change how long they stick around?"
+  expect_notes: [models-billing-cadence-churn]
+  accept_notes: []
+  must: []
+
+- id: final-cleaning-subs-more-without-price-rise
+  mode: strategy
+  style: plain
+  question: "Is there any way to bring in more revenue from my $80/month house cleaning subscriptions without raising the price?"
+  expect_notes: [models-bill-every-four-weeks]
+  accept_notes: [models-processing-fee-and-backup-payment]
+  must: []
+
+- id: final-coaching-one-time-price-option
+  mode: strategy
+  style: plain
+  question: "I sell my coaching at $300 a month. Should I also offer a one-time price for the whole thing, and if so how high should it be?"
+  expect_notes: [models-continuity-vs-standalone-pricing]
+  accept_notes: []
+  must: []
+
+- id: final-personal-chef-need-new-products
+  mode: strategy
+  style: plain
+  question: "I'm a personal chef and I feel like I need to invent new products to grow. Do I?"
+  expect_notes: [models-100-ways-to-offer-one-product]
+  accept_notes: []
+  must: []
+
+- id: final-challenge-check-ins-skipped
+  mode: strategy
+  style: plain
+  question: "People in my 8-week weight-loss challenge are supposed to come in for check-ins but lots of them skip. Should I make them mandatory, and what should happen at those meetings?"
+  expect_notes: [models-required-check-ins]
+  accept_notes: []
+  must: []
+
+- id: final-furniture-store-free-makes-money
+  mode: strategy
+  style: plain
+  question: "How can giving something away free or nearly free actually make my furniture store money?"
+  expect_notes: [models-attraction-offers-overview]
+  accept_notes: []
+  must: []
+
+- id: final-starter-web-package-refund-credit
+  mode: strategy
+  style: plain
+  question: "A client is unhappy with my $500 starter website package and wants a refund. Could I instead put what they've already paid toward my bigger package?"
+  expect_notes: [models-upsell-rollover]
+  accept_notes: [models-exit-interview-save]
+  must: []
+
+- id: final-mastermind-cheaper-without-refund
+  mode: strategy
+  style: plain
+  question: "When people push back on the price of my $10k mastermind, could I offer a lower price that just doesn't come with the money-back promise?"
+  expect_notes: [models-example-feature-downsell-guarantee]
+  accept_notes: [models-downsell-feature]
+  must: []
+
+- id: final-course-600-or-49-month
+  mode: strategy
+  style: plain
+  question: "Should I sell my online course as a one-time $600 purchase or as $49 a month? What's the trade-off?"
+  expect_notes: [models-continuity-offers-overview]
+  accept_notes: [models-continuity-vs-standalone-pricing]
+  must: []
+
+- id: final-jargon-money-model-car-wash
+  mode: strategy
+  style: jargon
+  question: "Design a money model for a mobile car wash: attraction offer, upsell, downsell and continuity."
+  expect_notes: [models-make-your-money-model-steps, models-four-offer-types]
+  accept_notes: [models-example-money-model-breakdowns, models-three-stages-of-money-model]
+  must: []
+
+- id: final-jargon-rollover-win-back-spa
+  mode: strategy
+  style: jargon
+  question: "How do I run a rollover win-back campaign for lapsed customers of my day spa?"
+  expect_notes: [models-rollover-win-back-campaign]
+  accept_notes: [models-upsell-rollover]
+  must: []
+
+- id: final-jargon-anchor-upsell-sofa
+  mode: strategy
+  style: jargon
+  question: "Give me the anchor upsell script for my furniture showroom. How much more expensive should the anchor be than a $1,500 sofa?"
+  expect_notes: [models-upsell-anchor]
+  accept_notes: [models-example-suit-anchor]
+  must: []
+
+- id: final-jargon-trial-penalty-vs-money-back
+  mode: strategy
+  style: jargon
+  question: "When should I use a trial with penalty downsell instead of a win-your-money-back attraction offer for my coaching program?"
+  expect_notes: [models-downsell-trial-with-penalty]
+  accept_notes: [models-attraction-win-your-money-back, models-example-hr-software-trial]
+  must: []
+
+# ---------------------------------------------------------------------------
+# Spanning two books
+# ---------------------------------------------------------------------------
+
+- id: final-hvac-plan-pay-back-first-month
+  mode: strategy
+  style: plain
+  question: "Each new customer for my HVAC maintenance plan costs me about $300 to get, but they only pay $25 a month, so I run out of cash every time I push ads. How do I get new customers to pay back what they cost within the first month?"
+  expect_notes: [leads-client-financed-acquisition, models-client-financed-in-30-days]
+  accept_notes: [models-cash-constrained-business-trap, leads-example-cfa-membership]
+  must: []
+
+- id: final-pool-store-never-sells-after
+  mode: strategy
+  style: plain
+  question: "Our pool supply store is obsessed with finding new buyers, but we basically never sell anything more to people once they've bought a pool. How much does that matter, and what should we be offering them?"
+  expect_notes: [leads-sell-them-the-next-thing, models-upsell-classic]
+  accept_notes: [models-upsell-offers-overview]
+  must: []
+
+- id: final-wedding-planner-free-then-paid
+  mode: strategy
+  style: plain
+  question: "Someone told me every problem you solve for a customer creates the next problem you can charge for. How do I use that to plan what I give away free and what I sell afterwards in my wedding planning business?"
+  expect_notes: [leads-problem-solution-cycle, models-upsell-offers-overview]
+  accept_notes: [models-money-model-definition, leads-lead-magnet]
+  must: []
+
+- id: final-contractor-books-promise-conditions
+  mode: strategy
+  style: plain
+  question: "I want to promise results on my bookkeeping setup for contractors, but only for clients who do their part. Ideally the things they have to do would also make them more successful so they recommend us. How do I pick those conditions?"
+  expect_notes: [offers-conditional-guarantees, leads-replicate-best-customer-actions]
+  accept_notes: [models-win-your-money-back-criteria]
+  must: []
+
+- id: final-landscape-design-15-off
+  mode: strategy
+  style: plain
+  question: "A prospect for my $2,000 landscape design asked for 15% off. Do I cut the price, offer a cheaper version, or something else?"
+  expect_notes: [offers-bonuses-instead-of-discounts, models-downsell-feature]
+  accept_notes: [models-example-car-insurance-price-drop, models-downsell-offers-overview]
+  must: []
+
+- id: final-roofing-only-two-ways
+  mode: strategy
+  style: plain
+  question: "Is it true that I can only grow my roofing business by getting more customers or getting more out of each one? Feels too simple. What's the full list of levers?"
+  expect_notes: [offers-three-ways-to-grow, leads-two-ways-to-grow]
+  accept_notes: []
+  must: []
+
+- id: final-whitening-ad-angles-others-react
+  mode: strategy
+  style: plain
+  question: "When I write ads for my teeth whitening studio I run out of reasons people should care after about two. How do I come up with lots of angles, including how friends, coworkers or a date will react to their smile?"
+  expect_notes: [leads-what-who-when-framework, offers-status-framing]
+  accept_notes: [offers-dream-outcome]
+  must: []
+
+- id: final-whitening-clinic-free-or-full
+  mode: strategy
+  style: plain
+  question: "For my cosmetic dentistry clinic, should I lead with something free or heavily discounted to get people in the door, or just advertise the full treatment?"
+  expect_notes: [leads-core-offer-vs-lead-magnet, models-attraction-offers-overview]
+  accept_notes: [models-free-vs-discount-show-rates]
+  must: []
+
+- id: final-crossfit-free-week-too-much
+  mode: strategy
+  style: plain
+  question: "Even when I offer a completely free trial week at my CrossFit gym, people don't come. They say it's 'too much right now'. If it's free, what's the problem?"
+  expect_notes: [leads-hidden-costs, offers-effort-and-sacrifice]
+  accept_notes: [offers-value-equation]
+  must: []
+
+- id: final-home-inspection-why-act-today
+  mode: strategy
+  style: plain
+  question: "My ads for home inspections tell people how to book, but there's no reason for them to do it today rather than next month. What honest reasons can I give?"
+  expect_notes: [leads-call-to-action, offers-urgency]
+  accept_notes: [leads-ad-call-to-action, offers-scarcity]
+  must: []
+
+- id: final-accountant-value-only-at-tax-time
+  mode: strategy
+  style: plain
+  question: "My accounting clients only really feel what we do for them at tax time once a year, so they forget about us in between and never refer anyone. How do I give them a sense of progress more often?"
+  expect_notes: [leads-faster-customer-wins, offers-time-delay]
+  accept_notes: [leads-six-value-levers-for-referrals]
+  must: []
+
+- id: final-massage-next-door-team-up
+  mode: strategy
+  style: plain
+  question: "The massage therapist next door wants to team up with my personal training studio. How could we build each other's services into what we sell so we both get customers out of it?"
+  expect_notes: [leads-affiliate-integration-three-ways, offers-partner-bonuses]
+  accept_notes: []
+  must: []
+
+- id: final-jargon-perceived-likelihood-online-fitness
+  mode: strategy
+  style: jargon
+  question: "How do I raise perceived likelihood of achievement for my online fitness program?"
+  expect_notes: [offers-perceived-likelihood-of-achievement, leads-perceived-likelihood-boosters]
+  accept_notes: []
+  must: []

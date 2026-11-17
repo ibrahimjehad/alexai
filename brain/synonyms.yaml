@@ -1,0 +1,27 @@
+# Query expansion for `python -m alexai brain search` (stdlib BM25 backend).
+# word: [phrases it should also match]. Expansions count half as much as the user's own words.
+# Words are stemmed, so list one form only (refer covers referred/referrals). Keep entries generic
+# to the business domain; do not tailor them to specific eval questions.
+channel: [core four, advertising, outreach, content, paid ads]
+marketing: [advertising, core four, leads]
+promote: [advertising, outreach]
+advertise: [ads, core four]
+ad: [advertising, paid ads]
+refer: [referral, word of mouth]
+word of mouth: [referral]
+customer: [client]
+client: [customer]
+valuable: [value, value equation]
+worth: [value]
+price: [pricing, value]
+cheap: [discount, pricing]
+discount: [price, bonuses]
+guarantee: [risk reversal, refund]
+refund: [guarantee]
+risk: [guarantee]
+free: [lead magnet, give away]
+giveaway: [lead magnet]
+churn: [retention]
+retention: [churn]
+profit: [gross profit, ltgp]
+losing: [cac, ltgp]

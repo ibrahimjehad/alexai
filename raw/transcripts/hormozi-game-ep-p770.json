@@ -1,0 +1,592 @@
+{
+  "source_id": "hormozi-game-ep-p770",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 0.38,
+      "text": "Hey, guys."
+    },
+    {
+      "start": 0.42,
+      "end": 1.14,
+      "text": "Welcome back to the game."
+    },
+    {
+      "start": 1.24,
+      "end": 13.22,
+      "text": "Today, I'm going to be talking about the three-pillar pitch and how to simplify a sales script to get, A, more salespeople to actually do it, and B, get your prospects to actually understand it so that they C, buy."
+    },
+    {
+      "start": 13.6,
+      "end": 20.16,
+      "text": "So recently, we, uh, improved one of the sales processes in one of our portfolio companies by 2.4X."
+    },
+    {
+      "start": 20.2,
+      "end": 24.76,
+      "text": "So we took a 14% close rate and took it to 35%, uh, within four months."
+    },
+    {
+      "start": 24.9,
+      "end": 30.12,
+      "text": "And there's a number of things we did, but I think one of the most significant things was we simplified the scripting itself."
+    },
+    {
+      "start": 30.14,
+      "end": 33.86,
+      "text": "And so I want to walk you through some of the things that we did there so that hopefully you can do the same."
+    },
+    {
+      "start": 34.2,
+      "end": 38.48,
+      "text": "First off, some of the people who were selling at the time, they were basically feature stacking."
+    },
+    {
+      "start": 38.52,
+      "end": 39.88,
+      "text": "They were blabbing all over the place."
+    },
+    {
+      "start": 39.9,
+      "end": 42.52,
+      "text": "They were talking about technical things, features, all this stuff."
+    },
+    {
+      "start": 42.9,
+      "end": 46.24,
+      "text": "It was a B2B sale, and business owners on the other side were like, \"I don't care,\" right?"
+    },
+    {
+      "start": 46.76,
+      "end": 50.66,
+      "text": "First thing we did with the script is we ran it through Hemingway, which is a reading calculator."
+    },
+    {
+      "start": 50.68,
+      "end": 55.14,
+      "text": "And so we got the, the grade level of the language we used in the script itself below third grade."
+    },
+    {
+      "start": 55.56,
+      "end": 61.24,
+      "text": "And you'll notice that in a lot of the content that I make, I purposely do that because I also think that it shows the level of mastery."
+    },
+    {
+      "start": 61.28,
+      "end": 63.48,
+      "text": "Like, if you can't explain it to a child, you don't understand it."
+    },
+    {
+      "start": 63.8,
+      "end": 72.3,
+      "text": "And so I think oftentimes, especially salespeople who are newer coming in, is they want to sound impressive, but all they end up doing is confusing people because they also are pretty confused themselves."
+    },
+    {
+      "start": 72.62,
+      "end": 78.22,
+      "text": "And so they use these big words that they don't know and the prospect doesn't know, and both people are just making face noise at each other, and at the end of the day, they don't buy."
+    },
+    {
+      "start": 78.56,
+      "end": 80.4,
+      "text": "And so big thing number one is we simplify the script."
+    },
+    {
+      "start": 80.62,
+      "end": 81.68,
+      "text": "That's the language itself."
+    },
+    {
+      "start": 82.06,
+      "end": 85.48,
+      "text": "The second level of simplification that we try to do is around the pitch itself."
+    },
+    {
+      "start": 85.62,
+      "end": 92.2,
+      "text": "And so I've been an advocate of a three-pillar pitch for a very, very, very long time, but I want to add a little bit of nuance to that today."
+    },
+    {
+      "start": 92.24,
+      "end": 94.86,
+      "text": "The first thing is that what type of thing you sell."
+    },
+    {
+      "start": 95.04,
+      "end": 107.76,
+      "text": "So if you sell, call it consulting or heavy implementation, where you're doing like done-for-you services, like you do all the work, they just pay you, then this is where you want to show tremendous detail in all of the stuff that you're going to do."
+    },
+    {
+      "start": 107.78,
+      "end": 118.92,
+      "text": "And so basically think about it like an education process where you say every single intricate detail, and you're like, \"Hey, you can do this on your own because this is what it takes to get to what you want, or if you want, we can just do it all for you.\""
+    },
+    {
+      "start": 119.16,
+      "end": 125.42,
+      "text": "And that gets people to be like, \"Wow, I really believe that this is what it takes to get what I want, and no, I don't want to do it.\""
+    },
+    {
+      "start": 125.78,
+      "end": 127.58,
+      "text": "And so they'll default to you doing it."
+    },
+    {
+      "start": 127.64,
+      "end": 133.5,
+      "text": "The problem is when you try and do that same process to sell something that's do it yourself or done with you."
+    },
+    {
+      "start": 133.54,
+      "end": 141.64,
+      "text": "And to be clear, for me, I see done with you and do it yourself as almost essentially the same sale, and the with you component is really just another feature that you add to the do it yourself component."
+    },
+    {
+      "start": 141.68,
+      "end": 145.18,
+      "text": "So it's like, \"Hey, it's so easy you could do it on your own, but we're just going to be there in case you get stuck.\""
+    },
+    {
+      "start": 145.46,
+      "end": 154.2,
+      "text": "So I see done with you as basically insurance on a do it yourself product where someone can just self-start and take it from, you know, click to close or whatever you want to say, on their own."
+    },
+    {
+      "start": 154.66,
+      "end": 159.16,
+      "text": "The thing is, is that the pitch style between both of these services are wildly different."
+    },
+    {
+      "start": 159.48,
+      "end": 161.66,
+      "text": "Hopefully, at this point, you understand the, the, the complex version."
+    },
+    {
+      "start": 161.7,
+      "end": 172.44,
+      "text": "You sell 27 steps, 11 steps, and you'll have all the, the sub-points and the details and why it's important and why aerating your grass, you know, two times a year or three times a year actually gets thicker grass, and that's how you beat the Jones, whatever, all the details."
+    },
+    {
+      "start": 172.78,
+      "end": 180.46,
+      "text": "In a three-pillar pitch, which is anything that's DIY or done with you, a light pitch, I like to simplify it to three steps."
+    },
+    {
+      "start": 180.72,
+      "end": 181.74,
+      "text": "And why three?"
+    },
+    {
+      "start": 181.96,
+      "end": 182.48,
+      "text": "No idea."
+    },
+    {
+      "start": 182.58,
+      "end": 185.56,
+      "text": "I just know that that seems to work pretty well in my past."
+    },
+    {
+      "start": 185.74,
+      "end": 186.94,
+      "text": "Fitness, nutrition, accountability."
+    },
+    {
+      "start": 187.34,
+      "end": 189.64,
+      "text": "Uh, the leads are timely, exclusive, and qualified."
+    },
+    {
+      "start": 190.1,
+      "end": 194.82,
+      "text": "You want the grass to be cut, you want it to be healthy, and you want it to be resilient, right?"
+    },
+    {
+      "start": 194.86,
+      "end": 202.74,
+      "text": "Like, whatever it is, it's like you can almost always chunk up whatever it is you do or whatever it is they have to do to three steps."
+    },
+    {
+      "start": 203.2,
+      "end": 205.76,
+      "text": "I like to use this as kind of like a three-legged stool."
+    },
+    {
+      "start": 205.92,
+      "end": 209.88,
+      "text": "And so there's something called the three-term contingency, which is before, during, after."
+    },
+    {
+      "start": 209.9,
+      "end": 212.5,
+      "text": "And so you can-- A lot of times I get questions that are like, \"How do you make frameworks?\""
+    },
+    {
+      "start": 212.92,
+      "end": 215.44,
+      "text": "Well, a meta framework is the three-term contingency."
+    },
+    {
+      "start": 215.58,
+      "end": 220.82,
+      "text": "Almost every process is something that happens before, something that happens during, and something that happens after, right?"
+    },
+    {
+      "start": 220.92,
+      "end": 224.2,
+      "text": "Attract, convert, deliver, pre-pitch, sale, and then closing, whatever."
+    },
+    {
+      "start": 224.24,
+      "end": 228.02,
+      "text": "Like, there's always-- You can usually break it into three because you can always-- because it's temporal."
+    },
+    {
+      "start": 228.24,
+      "end": 229.9,
+      "text": "It's always related to time, all right?"
+    },
+    {
+      "start": 230.02,
+      "end": 232.24,
+      "text": "So if you're like, \"I don't know how to do it,\" just think about it in those terms."
+    },
+    {
+      "start": 232.48,
+      "end": 237.3,
+      "text": "When we do a three-pillar pitch, the idea is to actually talk as little as possible."
+    },
+    {
+      "start": 237.48,
+      "end": 240.38,
+      "text": "The idea is to get them to understand as quickly as possible."
+    },
+    {
+      "start": 240.42,
+      "end": 245.32,
+      "text": "And so basically, the faster you get them to understand, the faster you get back to them talking and not you talking."
+    },
+    {
+      "start": 245.36,
+      "end": 252.2,
+      "text": "And so the idea is word concision and using analogies and metaphors to relate what you just said to something they understand."
+    },
+    {
+      "start": 252.48,
+      "end": 260.18,
+      "text": "And so I think of the three-pillar pitch as basically three statements that sound clean that you can understand, and sometimes it's just a word, fitness, nutrition, accountability."
+    },
+    {
+      "start": 260.5,
+      "end": 263.96,
+      "text": "You gotta set it up, you gotta drive traffic, and you gotta buy inventory."
+    },
+    {
+      "start": 264.08,
+      "end": 265.46,
+      "text": "What-- Or you gotta deliver it, whatever it is, right?"
+    },
+    {
+      "start": 265.5,
+      "end": 272.68,
+      "text": "Like, you, you just say the words or the sentence or the phrase that quickly communicates what this step is."
+    },
+    {
+      "start": 272.72,
+      "end": 277.66,
+      "text": "And so when you have a three-pillar pitch, there's two pillar setups that work."
+    },
+    {
+      "start": 278.12,
+      "end": 282.12,
+      "text": "One is a sequence, before, during, after, step one, two, three, that's that."
+    },
+    {
+      "start": 282.54,
+      "end": 289.62,
+      "text": "Or there's requirements for a result, which is you have to do thing one, thing two, and thing three, and once you have all three, then you get the result."
+    },
+    {
+      "start": 290.22,
+      "end": 293.0,
+      "text": "For example, fitness, nutrition, accountability is not a sequence."
+    },
+    {
+      "start": 293.1,
+      "end": 295.34,
+      "text": "You have to have all three, or you'll never get the result."
+    },
+    {
+      "start": 296.0,
+      "end": 300.56,
+      "text": "If you have a, uh, step-by-step process, then it's like, well, you can't move to step two until you do step one."
+    },
+    {
+      "start": 300.88,
+      "end": 306.76,
+      "text": "And so think about your product or service within either of those lenses to come up with the three-pillar pitch that you have."
+    },
+    {
+      "start": 307.06,
+      "end": 319.06,
+      "text": "Underneath of the three-pillar pitch, when I said the metaphors and the analogies, is like if I'm selling SEO, then I'll say, \"Okay, so the first thing that we have to do is we have to get you to understand the difference between you running ads and SEO.\""
+    },
+    {
+      "start": 319.14,
+      "end": 322.74,
+      "text": "So with search engine optimization, you know, your ads is kind of like your paycheck."
+    },
+    {
+      "start": 322.78,
+      "end": 324.98,
+      "text": "You work every month, and you get something back, right?"
+    },
+    {
+      "start": 325.0,
+      "end": 325.7,
+      "text": "And you get paid for what you do."
+    },
+    {
+      "start": 325.72,
+      "end": 328.08,
+      "text": "And the moment you stop is the moment you stop getting paid."
+    },
+    {
+      "start": 328.5,
+      "end": 337.16,
+      "text": "Whereas with SEO, it's kind of like an investment account where you put money in every month, and in the beginning, it doesn't really amount to very much, but over time, eventually, it surpasses what you do actively."
+    },
+    {
+      "start": 337.48,
+      "end": 338.92,
+      "text": "And so think of this like an investment account."
+    },
+    {
+      "start": 338.94,
+      "end": 347.8,
+      "text": "So that's a metaphor between something they understand, paid ads and working and getting a paycheck, and something they don't understand, SEO, and something else they understand, which is an investment account."
+    },
+    {
+      "start": 347.84,
+      "end": 350.48,
+      "text": "So three out of the four variables that we explain, hopefully they should understand."
+    },
+    {
+      "start": 350.82,
+      "end": 356.96,
+      "text": "And so this makes it easy for them to have an ecosystem or a latticework to hang the idea on in their minds."
+    },
+    {
+      "start": 357.32,
+      "end": 365.08,
+      "text": "For each of your points, you should have one to three analogies that, and this is key, that your prospect understands."
+    },
+    {
+      "start": 365.54,
+      "end": 365.7,
+      "text": "All right?"
+    },
+    {
+      "start": 365.74,
+      "end": 370.56,
+      "text": "So like if I'm selling women sewing kits, I'm not going to use a football or a car analogy."
+    },
+    {
+      "start": 370.88,
+      "end": 374.08,
+      "text": "And yes, this is me gendering people, so fuck off."
+    },
+    {
+      "start": 374.5,
+      "end": 378.52,
+      "text": "And so the point is, is that in general, more guys know about football than women."
+    },
+    {
+      "start": 378.93,
+      "end": 379.19,
+      "text": "Duh."
+    },
+    {
+      "start": 379.57,
+      "end": 393.49,
+      "text": "And so the idea is you just want to think about what is the makeup of your audience, what is the largest common shared experience they all have that you can relate the thing they don't know, your product, to the thing they do know, the story, narrative, analogy, or metaphor."
+    },
+    {
+      "start": 393.79,
+      "end": 398.63,
+      "text": "And you'll notice, by the way, that if you listen to some of your best sales guys, a lot of the best salespeople already have this."
+    },
+    {
+      "start": 399.07,
+      "end": 403.67,
+      "text": "They either tell a story that relates, that kind of communicates the point, and I'll give you an example of something like that."
+    },
+    {
+      "start": 403.73,
+      "end": 407.49,
+      "text": "So if I'm trying to sell accountability, for example, I'd say, \"Hey, when you were a kid,\" right?"
+    },
+    {
+      "start": 407.55,
+      "end": 408.55,
+      "text": "So this is now getting into a narrative."
+    },
+    {
+      "start": 408.91,
+      "end": 413.45,
+      "text": "\"Hey, when you were a kid, you probably, you know, or you have kids, you try to get them to brush their teeth.\""
+    },
+    {
+      "start": 413.45,
+      "end": 414.93,
+      "text": "They're like, \"Oh, I don't want to brush my teeth,\" right?"
+    },
+    {
+      "start": 414.97,
+      "end": 416.79,
+      "text": "But then you're like, \"Get out of bed, get in the bathroom.\""
+    },
+    {
+      "start": 416.81,
+      "end": 418.31,
+      "text": "They brush their teeth, they spit, they go, they go to bed."
+    },
+    {
+      "start": 418.73,
+      "end": 421.41,
+      "text": "But now that you're an adult, you probably brush your own teeth, right?"
+    },
+    {
+      "start": 421.79,
+      "end": 428.67,
+      "text": "Well, the thing is, is that your parents in the beginning were kind of the external accountability that held you accountable to brushing your teeth."
+    },
+    {
+      "start": 429.01,
+      "end": 434.59,
+      "text": "And then over time, your internal accountability kicked in, and so then you just start brushing your teeth overall."
+    },
+    {
+      "start": 434.85,
+      "end": 435.93,
+      "text": "And so it becomes a habit."
+    },
+    {
+      "start": 436.15,
+      "end": 440.21,
+      "text": "And so what we're trying to do is the exact same thing, but with this new habit that you're trying to learn."
+    },
+    {
+      "start": 440.39,
+      "end": 449.97,
+      "text": "Again, I took something people understand, and many people have had that experience, and then we relate it to something that they haven't done yet, but we throw a through line between the two things so there's like, \"Oh, I get it.\""
+    },
+    {
+      "start": 450.23,
+      "end": 451.51,
+      "text": "And then you can move on to the next step."
+    },
+    {
+      "start": 451.77,
+      "end": 454.45,
+      "text": "And so the idea is not to throw nine analogies at them."
+    },
+    {
+      "start": 454.61,
+      "end": 458.01,
+      "text": "The idea is to throw the right analogy that immediately gets them to say, \"I understand.\""
+    },
+    {
+      "start": 458.05,
+      "end": 460.41,
+      "text": "And then as soon as they do, you move to the next point."
+    },
+    {
+      "start": 460.77,
+      "end": 474.29,
+      "text": "And then once you have your three points, whether it's sequence or three requirements, you then recap the three and basically say, \"Do you understand that why you need to do step one, step two, step three in order to get the result, or why you need all three in order to get to where you're going?\""
+    },
+    {
+      "start": 474.57,
+      "end": 475.61,
+      "text": "They've basically closed."
+    },
+    {
+      "start": 475.89,
+      "end": 478.47,
+      "text": "And so at that point, you can just straight up ask for the sale."
+    },
+    {
+      "start": 478.51,
+      "end": 488.05,
+      "text": "And then everything after that is, you know, you overcoming money obstacles, decision-maker obstacles, or, uh, or past experiences, uh, or finally avoidance, like they stall and they say, \"I need to think about it,\" whatever."
+    },
+    {
+      "start": 488.29,
+      "end": 495.43,
+      "text": "Fundamentally, once you've done the three-pillar pitch, the rest of the time you're basically just asking for the sale over and over again and helping overcome whatever concerns they may have."
+    },
+    {
+      "start": 495.69,
+      "end": 502.25,
+      "text": "And so for most of you, if you're looking at your sales script, I would encourage you to, one, most of the time we shorten sales scripts."
+    },
+    {
+      "start": 502.53,
+      "end": 507.23,
+      "text": "We shorten the amount of words, and we just do it mostly based on a question framework because that's what I want closers doing."
+    },
+    {
+      "start": 507.29,
+      "end": 509.01,
+      "text": "I want them asking questions, not talking, all right?"
+    },
+    {
+      "start": 509.05,
+      "end": 511.35,
+      "text": "Because no one can disagree with a question."
+    },
+    {
+      "start": 511.87,
+      "end": 513.67,
+      "text": "No one can say, \"Your question is wrong.\""
+    },
+    {
+      "start": 513.75,
+      "end": 516.99,
+      "text": "Now, if you're a little bit more advanced, you can, but most people don't disagree with premises."
+    },
+    {
+      "start": 517.43,
+      "end": 536.65,
+      "text": "But big picture, you simplify the script, you simplify it to questions, you get under the third grade, you decide whether you're selling a full implementation, in which case then you are going to say 17,000 steps and say the details, or you're going to do the three-pillar pitch, which is for DIY or DWI, done with you or do it yourself, and you're going to say, \"Is this a sequence or is this requirements?\""
+    },
+    {
+      "start": 536.99,
+      "end": 542.45,
+      "text": "And then once you have that, you tie your analogy to each one of those three things, you say you got it, you recap it, you transition."
+    },
+    {
+      "start": 542.75,
+      "end": 545.43,
+      "text": "So with that being said, I hope that helps you out with your, uh, sales scripting process."
+    },
+    {
+      "start": 545.47,
+      "end": 550.45,
+      "text": "It's something that I feel like I do almost in every company that we acquire, and it just makes me and them a lot more money."
+    },
+    {
+      "start": 550.61,
+      "end": 552.57,
+      "text": "So hopefully it makes you a lot more money."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "be619929f241948c9461a82c6126a2a58b7d3133b4f5a672ebb1366b3d87e79e",
+  "audio_duration_sec": 553.508571,
+  "elapsed_sec": 9.5,
+  "created": "2026-11-16T15:44:30+00:00"
+}

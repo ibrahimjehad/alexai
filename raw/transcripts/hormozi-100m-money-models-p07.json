@@ -1,0 +1,3142 @@
+{
+  "source_id": "hormozi-100m-money-models-p07",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.12,
+      "end": 1.68,
+      "text": "Section five: Continuity offers."
+    },
+    {
+      "start": 1.7,
+      "end": 4.3,
+      "text": "\"You can shear a sheep for a lifetime, but you can only skin it once.\""
+    },
+    {
+      "start": 4.64,
+      "end": 5.64,
+      "text": "John, an early mentor."
+    },
+    {
+      "start": 6.72,
+      "end": 8.52,
+      "text": "I've been a continuity guy my entire life."
+    },
+    {
+      "start": 8.84,
+      "end": 13.3,
+      "text": "Personal fitness, then gyms, then gym licensing, then supplements, then software, and now with acquisition.com."
+    },
+    {
+      "start": 13.58,
+      "end": 14.12,
+      "text": "Lots of stuff."
+    },
+    {
+      "start": 14.82,
+      "end": 16.2,
+      "text": "Needless to say, I'm a fan."
+    },
+    {
+      "start": 16.5,
+      "end": 20.68,
+      "text": "Main reason: when you do continuity right, you get more customers and make more from them."
+    },
+    {
+      "start": 21.44,
+      "end": 25.72,
+      "text": "Continuity offers provide ongoing value that customers make ongoing payments for until they cancel."
+    },
+    {
+      "start": 26.34,
+      "end": 29.08,
+      "text": "They boost the profit from every customer and give you one last thing to sell."
+    },
+    {
+      "start": 29.72,
+      "end": 32.66,
+      "text": "Continuity offers are awesome because you sell once but get paid again and again."
+    },
+    {
+      "start": 33.08,
+      "end": 33.6,
+      "text": "Let me explain."
+    },
+    {
+      "start": 34.38,
+      "end": 37.0,
+      "text": "Let's say you offer a thousand dollar thing to a hundred people and 10 buy."
+    },
+    {
+      "start": 37.18,
+      "end": 39.42,
+      "text": "You make 10,000 dollars, 10 times a thousand dollars."
+    },
+    {
+      "start": 39.96,
+      "end": 45.78,
+      "text": "Now, let's say you offer the same thing to a hundred people, but you make a thousand dollar thing 50 dollars a month instead."
+    },
+    {
+      "start": 46.28,
+      "end": 48.84,
+      "text": "At 50 bucks, we can get 40 out of the 100 people to buy."
+    },
+    {
+      "start": 49.62,
+      "end": 53.06,
+      "text": "And if you keep those people for 20 months, you still make a thousand dollars from every customer."
+    },
+    {
+      "start": 53.52,
+      "end": 59.6,
+      "text": "So you go from making 10,000 dollars now and zero dollars over time to 2,000 dollars now and 40,000 dollars over time."
+    },
+    {
+      "start": 60.06,
+      "end": 64.76,
+      "text": "And as an added bonus, in the first example, if you only sold 10 customers, you'd only have 10 customers to upsell later."
+    },
+    {
+      "start": 65.46,
+      "end": 69.52,
+      "text": "If you used a continuity offer and sold 40 customers, you'd have four times the customers to upsell later."
+    },
+    {
+      "start": 69.88,
+      "end": 70.64,
+      "text": "A massive difference."
+    },
+    {
+      "start": 71.26,
+      "end": 72.96,
+      "text": "This illustrates the pros and cons of continuity."
+    },
+    {
+      "start": 73.74,
+      "end": 77.6,
+      "text": "You can attract more customers compared to something more expensive, but you make way less money now."
+    },
+    {
+      "start": 78.18,
+      "end": 80.52,
+      "text": "That makes it tough to use an attraction offer on its own."
+    },
+    {
+      "start": 81.08,
+      "end": 85.44,
+      "text": "Even if you have more money-making potential tomorrow, continuity attraction offers leave you strapped for cash today."
+    },
+    {
+      "start": 86.1,
+      "end": 89.1,
+      "text": "By making continuity offers last, we get the best of all worlds."
+    },
+    {
+      "start": 89.4,
+      "end": 92.34,
+      "text": "We get cash today from attraction offers, upsell offers, and downsell offers."
+    },
+    {
+      "start": 92.74,
+      "end": 96.08,
+      "text": "We get a little cash today and tons of cash tomorrow from continuity offers."
+    },
+    {
+      "start": 96.32,
+      "end": 99.34,
+      "text": "To be clear, you can make continuity offers wherever and however you want."
+    },
+    {
+      "start": 99.72,
+      "end": 103.3,
+      "text": "They can attract new customers, upsell, downsell current customers, and re-engage old customers."
+    },
+    {
+      "start": 103.76,
+      "end": 106.74,
+      "text": "Also, only some stuff makes sense for a continuity offer."
+    },
+    {
+      "start": 107.22,
+      "end": 109.88,
+      "text": "It's silly for someone to pay for a one-day workshop forever."
+    },
+    {
+      "start": 110.28,
+      "end": 113.4,
+      "text": "It makes sense for them to pay until they cover the cost, and that makes it a payment plan."
+    },
+    {
+      "start": 113.98,
+      "end": 118.9,
+      "text": "At the same time, you probably make a mistake to offer a single price, even a big price, to provide a service forever."
+    },
+    {
+      "start": 119.34,
+      "end": 122.82,
+      "text": "If your customers get ongoing value, it probably makes sense for them to make ongoing payments."
+    },
+    {
+      "start": 123.54,
+      "end": 124.62,
+      "text": "The three continuity offers."
+    },
+    {
+      "start": 125.52,
+      "end": 129.68,
+      "text": "All offers depend on getting customers to buy it, but continuity offers depend on getting customers to keep buying."
+    },
+    {
+      "start": 130.26,
+      "end": 132.78,
+      "text": "I get them to do both by combining bonuses, discounts, and fees."
+    },
+    {
+      "start": 134.8,
+      "end": 136.78,
+      "text": "Offer one: continuity bonus offers."
+    },
+    {
+      "start": 137.04,
+      "end": 138.86,
+      "text": "Offer two: continuity discount offers."
+    },
+    {
+      "start": 139.12,
+      "end": 140.62,
+      "text": "Offer three: the waived fee offer."
+    },
+    {
+      "start": 141.4,
+      "end": 145.0,
+      "text": "Now that we've got that covered, you can't get customers to stick to your continuity unless they've started."
+    },
+    {
+      "start": 145.28,
+      "end": 146.14,
+      "text": "So let's start there."
+    },
+    {
+      "start": 146.88,
+      "end": 147.26,
+      "text": "Free gift."
+    },
+    {
+      "start": 147.88,
+      "end": 149.56,
+      "text": "Continuity and continuity offers training."
+    },
+    {
+      "start": 150.06,
+      "end": 152.28,
+      "text": "Almost every business I've built has been driven by continuity."
+    },
+    {
+      "start": 152.72,
+      "end": 154.06,
+      "text": "It's a snowball that grows and grows."
+    },
+    {
+      "start": 154.46,
+      "end": 156.54,
+      "text": "I made a video for you that outlines more training on the topic."
+    },
+    {
+      "start": 156.68,
+      "end": 160.64,
+      "text": "You can watch it free without giving your email at acquisition.com/training/money."
+    },
+    {
+      "start": 160.96,
+      "end": 161.92,
+      "text": "Continuity bonus offers."
+    },
+    {
+      "start": 162.16,
+      "end": 164.0,
+      "text": "If you like this, you're going to love what I have next."
+    },
+    {
+      "start": 164.96,
+      "end": 165.76,
+      "text": "Fall 2019."
+    },
+    {
+      "start": 166.84,
+      "end": 170.44,
+      "text": "I taught gym owners how to sell six-week challenges, and they were making money hand over fist."
+    },
+    {
+      "start": 171.06,
+      "end": 174.1,
+      "text": "But some of them weren't that good at converting people into continuity after the challenge."
+    },
+    {
+      "start": 174.62,
+      "end": 179.04,
+      "text": "Then out of the blue, I saw a gym that used to struggle posting numbers way higher than some of our best performers."
+    },
+    {
+      "start": 179.62,
+      "end": 180.9,
+      "text": "Naturally, I investigated."
+    },
+    {
+      "start": 180.9,
+      "end": 182.88,
+      "text": "\"Dude, your numbers are insane."
+    },
+    {
+      "start": 183.44,
+      "end": 184.26,
+      "text": "How do you get so many members?\""
+    },
+    {
+      "start": 184.62,
+      "end": 185.0,
+      "text": "I asked."
+    },
+    {
+      "start": 185.0,
+      "end": 188.46,
+      "text": "\"I'm not really doing the six-week challenge,\" he said."
+    },
+    {
+      "start": 188.9,
+      "end": 189.52,
+      "text": "\"Wait, what do you mean?"
+    },
+    {
+      "start": 189.94,
+      "end": 191.34,
+      "text": "You're marketing six-week challenges though, right?\""
+    },
+    {
+      "start": 191.48,
+      "end": 194.42,
+      "text": "\"Yeah, but I offer them something else when they come in.\""
+    },
+    {
+      "start": 194.9,
+      "end": 196.04,
+      "text": "\"Okay, help me understand.\""
+    },
+    {
+      "start": 196.06,
+      "end": 199.52,
+      "text": "\"So we go through the normal pitch, we explain the price, yada yada."
+    },
+    {
+      "start": 199.76,
+      "end": 202.28,
+      "text": "As soon as they say they're interested, we ask if they want to get it for free."
+    },
+    {
+      "start": 202.72,
+      "end": 203.74,
+      "text": "Of course, they say yes."
+    },
+    {
+      "start": 204.22,
+      "end": 207.18,
+      "text": "Then I tell them that if they become a member, we'll make it free, which they love."
+    },
+    {
+      "start": 207.62,
+      "end": 211.2,
+      "text": "And on top of that, if they become members, they also get member-exclusive bonuses."
+    },
+    {
+      "start": 211.64,
+      "end": 215.06,
+      "text": "Members get better class times, a tanning booth, VIP events, all sorts of cool stuff."
+    },
+    {
+      "start": 215.46,
+      "end": 216.36,
+      "text": "It converts like crazy."
+    },
+    {
+      "start": 216.74,
+      "end": 218.7,
+      "text": "Last, we upsell a discounted prepaid membership.\""
+    },
+    {
+      "start": 219.08,
+      "end": 219.52,
+      "text": "\"How's that go?\""
+    },
+    {
+      "start": 219.6,
+      "end": 219.94,
+      "text": "I asked."
+    },
+    {
+      "start": 220.38,
+      "end": 223.2,
+      "text": "\"Well, for anyone who joins, we immediately say, 'Want to save even more money?'"
+    },
+    {
+      "start": 223.82,
+      "end": 224.36,
+      "text": "They lean in."
+    },
+    {
+      "start": 224.68,
+      "end": 227.18,
+      "text": "We offer a prepaid discount and bonus for six months of membership.\""
+    },
+    {
+      "start": 227.24,
+      "end": 228.4,
+      "text": "\"This is awesome."
+    },
+    {
+      "start": 228.78,
+      "end": 230.7,
+      "text": "Does anyone even take the original challenge offer anymore?\""
+    },
+    {
+      "start": 231.22,
+      "end": 232.0,
+      "text": "\"Some do, sure."
+    },
+    {
+      "start": 232.32,
+      "end": 233.88,
+      "text": "Can't be mad about more upfront cash,\" he said."
+    },
+    {
+      "start": 234.36,
+      "end": 234.78,
+      "text": "\"I dig it."
+    },
+    {
+      "start": 234.94,
+      "end": 235.88,
+      "text": "Break down some of your numbers, would you?\""
+    },
+    {
+      "start": 236.42,
+      "end": 240.84,
+      "text": "He continued, \"Before, we'd get 34 out of 100 to sign up for the challenge."
+    },
+    {
+      "start": 241.28,
+      "end": 244.44,
+      "text": "Then a few weeks later, we convert half, 17, to stay."
+    },
+    {
+      "start": 244.98,
+      "end": 250.34,
+      "text": "Now, we only get like 15 to sign up for the challenge, but we get 40 straight into continuity."
+    },
+    {
+      "start": 250.7,
+      "end": 253.88,
+      "text": "And of those 40, about eight of them take the six-month prepaid upsell.\""
+    },
+    {
+      "start": 254.42,
+      "end": 255.26,
+      "text": "\"So let me get this straight."
+    },
+    {
+      "start": 255.82,
+      "end": 262.04,
+      "text": "You tripled membership sales, and you still get upfront cash from challenges, and you stack even more upfront cash from prepaid memberships.\""
+    },
+    {
+      "start": 262.52,
+      "end": 264.84,
+      "text": "He could barely contain his grin, and for good reason."
+    },
+    {
+      "start": 265.06,
+      "end": 266.24,
+      "text": "His tiny tweak was genius."
+    },
+    {
+      "start": 266.94,
+      "end": 267.48,
+      "text": "Description."
+    },
+    {
+      "start": 268.06,
+      "end": 271.32,
+      "text": "With continuity bonuses, you give the customer an awesome thing if they sign up today."
+    },
+    {
+      "start": 271.82,
+      "end": 274.66,
+      "text": "Typically, the bonus itself has more value than the first continuity payment."
+    },
+    {
+      "start": 275.0,
+      "end": 275.76,
+      "text": "That's all there is to it."
+    },
+    {
+      "start": 276.38,
+      "end": 276.76,
+      "text": "Bonus."
+    },
+    {
+      "start": 277.24,
+      "end": 277.84,
+      "text": "Adding value."
+    },
+    {
+      "start": 278.5,
+      "end": 283.16,
+      "text": "For products, you can give away many small things or one big product that complements the subscription."
+    },
+    {
+      "start": 283.56,
+      "end": 287.84,
+      "text": "For services, you give away a defined program, onboarding, setup, or a feature that adds value."
+    },
+    {
+      "start": 288.72,
+      "end": 289.1,
+      "text": "Discount."
+    },
+    {
+      "start": 289.46,
+      "end": 290.16,
+      "text": "Lowering costs."
+    },
+    {
+      "start": 290.8,
+      "end": 294.64,
+      "text": "Remember, anything you offer for free, you can also offer as a discount."
+    },
+    {
+      "start": 295.14,
+      "end": 297.86,
+      "text": "Free stuff and discounts both affect how we make decisions."
+    },
+    {
+      "start": 298.16,
+      "end": 300.86,
+      "text": "So we want to do both to get the benefits of both."
+    },
+    {
+      "start": 301.48,
+      "end": 307.6,
+      "text": "When making continuity offers, I get more people to start if I add more good stuff, bonuses, and take away more bad stuff, discounts."
+    },
+    {
+      "start": 308.12,
+      "end": 311.38,
+      "text": "And of course, it all works better with a dash of urgency if they join now."
+    },
+    {
+      "start": 312.12,
+      "end": 317.68,
+      "text": "Also, you can offer the bonus as a standalone purchase, or you can only make it available if they buy your continuity."
+    },
+    {
+      "start": 318.12,
+      "end": 318.66,
+      "text": "Either works."
+    },
+    {
+      "start": 319.44,
+      "end": 324.22,
+      "text": "On their own, continuity offers get less cash now, and that makes it tough for getting customers profitably."
+    },
+    {
+      "start": 324.56,
+      "end": 327.48,
+      "text": "But the way I use them, we can still hit our 30-day profit goals."
+    },
+    {
+      "start": 327.74,
+      "end": 328.22,
+      "text": "Here's how."
+    },
+    {
+      "start": 328.7,
+      "end": 333.44,
+      "text": "First, I like to do all my big cash attraction offers, upsell, and downsell offers."
+    },
+    {
+      "start": 334.14,
+      "end": 337.36,
+      "text": "Then continuity offers get a little bit of cash for the first month's payment."
+    },
+    {
+      "start": 337.78,
+      "end": 340.94,
+      "text": "Then I offer people who bought one month a discount on prepaying more months."
+    },
+    {
+      "start": 341.34,
+      "end": 346.16,
+      "text": "This further boosts 30-day profits, giving me more cash to advertise and stacks recurring revenue."
+    },
+    {
+      "start": 346.42,
+      "end": 347.12,
+      "text": "Not too shabby."
+    },
+    {
+      "start": 348.86,
+      "end": 349.3,
+      "text": "Author note."
+    },
+    {
+      "start": 350.36,
+      "end": 353.8,
+      "text": "No successful continuity business I've seen has a standalone membership offer."
+    },
+    {
+      "start": 354.42,
+      "end": 356.46,
+      "text": "They all have other bells and whistles to upsell."
+    },
+    {
+      "start": 356.78,
+      "end": 359.64,
+      "text": "Main reason: continuity offers are tough to advertise profitably."
+    },
+    {
+      "start": 360.24,
+      "end": 362.96,
+      "text": "Nobody wants to make a recurring commitment to something they haven't tried."
+    },
+    {
+      "start": 363.58,
+      "end": 366.46,
+      "text": "To make up for this, businesses attract customers with stuff like trials."
+    },
+    {
+      "start": 366.88,
+      "end": 370.32,
+      "text": "Then, once people join, they upsell other features and longer-term prepayment options."
+    },
+    {
+      "start": 370.82,
+      "end": 373.94,
+      "text": "This gets them the cash they need to advertise while building their recurring revenue."
+    },
+    {
+      "start": 374.66,
+      "end": 376.54,
+      "text": "Examples of getting people to start on continuity."
+    },
+    {
+      "start": 378.06,
+      "end": 378.7,
+      "text": "Physical product."
+    },
+    {
+      "start": 379.3,
+      "end": 380.34,
+      "text": "Pet food continuity offer."
+    },
+    {
+      "start": 380.78,
+      "end": 381.42,
+      "text": "One-time bonus."
+    },
+    {
+      "start": 382.06,
+      "end": 387.44,
+      "text": "Get every dog toy you've ever made for free, an 800 dollar value, when you sign up for monthly dog food shipments for 59 dollars a month."
+    },
+    {
+      "start": 388.16,
+      "end": 388.82,
+      "text": "Monthly bonuses."
+    },
+    {
+      "start": 389.08,
+      "end": 391.0,
+      "text": "You'll get a new dog toy every month as a member."
+    },
+    {
+      "start": 392.54,
+      "end": 392.92,
+      "text": "Service."
+    },
+    {
+      "start": 393.64,
+      "end": 394.76,
+      "text": "Short-term accelerator offer."
+    },
+    {
+      "start": 395.86,
+      "end": 396.48,
+      "text": "One-time bonus."
+    },
+    {
+      "start": 396.98,
+      "end": 399.0,
+      "text": "Short-term accelerator costs 1,000 dollars on its own."
+    },
+    {
+      "start": 399.4,
+      "end": 401.56,
+      "text": "Get it free when you become a member for 100 dollars a month."
+    },
+    {
+      "start": 402.16,
+      "end": 402.76,
+      "text": "Bonus package."
+    },
+    {
+      "start": 403.08,
+      "end": 407.96,
+      "text": "The VIP community enjoys first in line access to our events, longer support hours, and better support reps."
+    },
+    {
+      "start": 408.62,
+      "end": 409.46,
+      "text": "Digital product offer."
+    },
+    {
+      "start": 410.02,
+      "end": 410.62,
+      "text": "One-time bonus."
+    },
+    {
+      "start": 411.42,
+      "end": 419.28,
+      "text": "Get all my past 40 newsletters valued at 15,880 by becoming a member today only for 399 dollars per month after a 30-day trial."
+    },
+    {
+      "start": 420.0,
+      "end": 421.88,
+      "text": "Limited discount plus lifetime bonus."
+    },
+    {
+      "start": 422.22,
+      "end": 425.56,
+      "text": "And if you pay today, you can unlock a lifetime discount to 200 dollars per month."
+    },
+    {
+      "start": 425.92,
+      "end": 428.04,
+      "text": "Get early digital access and a physical copy every month."
+    },
+    {
+      "start": 428.88,
+      "end": 431.86,
+      "text": "Note, use the elements from the feature downsells to create better bonuses."
+    },
+    {
+      "start": 432.58,
+      "end": 433.14,
+      "text": "Important notes."
+    },
+    {
+      "start": 433.9,
+      "end": 435.46,
+      "text": "Focus on the bonus, not the membership."
+    },
+    {
+      "start": 436.18,
+      "end": 442.04,
+      "text": "Join my membership program isn't nearly as compelling as get this free valuable thing, so advertise that, then explain the rest after they show interest."
+    },
+    {
+      "start": 442.86,
+      "end": 444.22,
+      "text": "Bonuses kind of work like upsells."
+    },
+    {
+      "start": 444.88,
+      "end": 448.32,
+      "text": "More of the same, you get two years of past newsletters for free by becoming a member."
+    },
+    {
+      "start": 449.16,
+      "end": 452.7,
+      "text": "Complimentary, you get nutrition services for free when you sign up for a fitness membership."
+    },
+    {
+      "start": 453.22,
+      "end": 457.02,
+      "text": "Upgrade, you get a gold membership when you buy a bronze membership, limited availability."
+    },
+    {
+      "start": 458.6,
+      "end": 460.46,
+      "text": "Keep your bonuses related to your core offer."
+    },
+    {
+      "start": 460.98,
+      "end": 463.2,
+      "text": "If the bonus is too different, you'll attract the wrong customers."
+    },
+    {
+      "start": 463.44,
+      "end": 469.86,
+      "text": "For instance, don't advertise a free T-shirt to upsell tech services, but advertising a free T-shirt to upsell T-shirt printing makes sense."
+    },
+    {
+      "start": 470.84,
+      "end": 472.98,
+      "text": "Make bonuses things you already have and do."
+    },
+    {
+      "start": 473.28,
+      "end": 477.4,
+      "text": "For instance, the past two years of newsletters cost no extra time but are super high value."
+    },
+    {
+      "start": 478.2,
+      "end": 482.8,
+      "text": "And onboarding is something that you have to do with a client anyways, so you might as well slap a price on it and give it to them as a bonus."
+    },
+    {
+      "start": 483.24,
+      "end": 484.5,
+      "text": "If you value it, they will too."
+    },
+    {
+      "start": 485.6,
+      "end": 488.84,
+      "text": "Physical bonuses and digital products and digital bonuses with physical products."
+    },
+    {
+      "start": 489.5,
+      "end": 494.38,
+      "text": "If I have a digital membership, I might offer a hat, shirt, or tool, etcetera, related to the offer."
+    },
+    {
+      "start": 494.88,
+      "end": 500.58,
+      "text": "If I have a physical product or service, like a boxing gym membership, offering to live stream classes can get more people to sign up."
+    },
+    {
+      "start": 501.16,
+      "end": 505.2,
+      "text": "This strategy often lowers the cost of getting customers more than the cost of the bonus, and that's the point."
+    },
+    {
+      "start": 505.5,
+      "end": 509.84,
+      "text": "Also, if some people take the bonus and run, the lower advertising costs still make up for it."
+    },
+    {
+      "start": 510.14,
+      "end": 511.92,
+      "text": "If customers are too expensive, give it a try."
+    },
+    {
+      "start": 512.58,
+      "end": 513.74,
+      "text": "Use realistic bonus pricing."
+    },
+    {
+      "start": 514.48,
+      "end": 517.08,
+      "text": "The bigger the value anchor on your bonus, the more compelling the offer."
+    },
+    {
+      "start": 517.66,
+      "end": 519.5,
+      "text": "But you also have to make that anchor believable."
+    },
+    {
+      "start": 520.06,
+      "end": 521.76,
+      "text": "Some business owners make up ridiculous values."
+    },
+    {
+      "start": 522.08,
+      "end": 522.56,
+      "text": "Don't do this."
+    },
+    {
+      "start": 522.92,
+      "end": 524.94,
+      "text": "It won't anchor the customer, and you'll lose trust with them."
+    },
+    {
+      "start": 525.42,
+      "end": 527.68,
+      "text": "This is a great opportunity to give away products you've sold before."
+    },
+    {
+      "start": 528.08,
+      "end": 530.94,
+      "text": "You can anchor their actual prices as real discounts and bonuses."
+    },
+    {
+      "start": 532.56,
+      "end": 534.36,
+      "text": "You can bonus your customers by giving them titles."
+    },
+    {
+      "start": 534.88,
+      "end": 538.36,
+      "text": "Consider giving customers titles after they stay 3, 6, or 12 months and beyond."
+    },
+    {
+      "start": 538.7,
+      "end": 541.14,
+      "text": "Titles like silver, gold, diamond, double diamond, etcetera."
+    },
+    {
+      "start": 541.7,
+      "end": 545.76,
+      "text": "A good friend of mine does this, and after a while, she found her customers cared more about the title than the other bonuses."
+    },
+    {
+      "start": 546.5,
+      "end": 549.98,
+      "text": "She told me that they even introduced themselves to her by their title."
+    },
+    {
+      "start": 550.82,
+      "end": 554.04,
+      "text": "So if you can't think of something to give them, at the very least, you can call them something special."
+    },
+    {
+      "start": 555.98,
+      "end": 558.96,
+      "text": "You can make free bonuses discounts and make discounts free bonuses."
+    },
+    {
+      "start": 559.52,
+      "end": 559.98,
+      "text": "Free bonus."
+    },
+    {
+      "start": 560.52,
+      "end": 564.06,
+      "text": "Become a member for 200 dollars, then you get this 1,000 dollar program as a free bonus."
+    },
+    {
+      "start": 564.78,
+      "end": 565.42,
+      "text": "Steep discount."
+    },
+    {
+      "start": 565.84,
+      "end": 569.0,
+      "text": "Get the 1,000 dollar program for a dollar when you become a member for 200 dollars."
+    },
+    {
+      "start": 569.84,
+      "end": 571.86,
+      "text": "When making your continuity offer, anchor the bonuses."
+    },
+    {
+      "start": 572.38,
+      "end": 577.32,
+      "text": "First, sell them the benefits of the amazing bonus, not your continuity offer, the bonus."
+    },
+    {
+      "start": 578.04,
+      "end": 580.32,
+      "text": "Then use your high-value bonus as an anchor."
+    },
+    {
+      "start": 580.6,
+      "end": 584.86,
+      "text": "It may shock them, and that's okay, because then when you ask, \"Do you want to know how you can get this for free?\""
+    },
+    {
+      "start": 585.4,
+      "end": 587.7,
+      "text": "If they do, which they will, explain how."
+    },
+    {
+      "start": 588.22,
+      "end": 591.76,
+      "text": "Become a VIP member today, and you'll get it all as a free gift for joining."
+    },
+    {
+      "start": 592.16,
+      "end": 594.4,
+      "text": "Or you can just buy it for X, very big number."
+    },
+    {
+      "start": 594.74,
+      "end": 595.46,
+      "text": "Which would you prefer?"
+    },
+    {
+      "start": 596.22,
+      "end": 597.8,
+      "text": "More bonuses get more people to join."
+    },
+    {
+      "start": 599.0,
+      "end": 602.96,
+      "text": "After you ask them if they want to know how to get it for free, you tell them they can get it when they join."
+    },
+    {
+      "start": 603.62,
+      "end": 608.94,
+      "text": "Then you say, \"On top of that, when you become a member, you'll get amazing thing one, amazing thing two, and amazing thing three.\""
+    },
+    {
+      "start": 609.4,
+      "end": 611.94,
+      "text": "Mention the individual dollar values of each to anchor the value."
+    },
+    {
+      "start": 612.36,
+      "end": 614.78,
+      "text": "Stacking bonuses this way gets more people to join your community."
+    },
+    {
+      "start": 615.54,
+      "end": 617.82,
+      "text": "Making bonuses available only to those who join."
+    },
+    {
+      "start": 618.34,
+      "end": 621.92,
+      "text": "If you want to force everyone into continuity, then offer continuity as the only option."
+    },
+    {
+      "start": 622.12,
+      "end": 625.2,
+      "text": "In other words, make the bonuses only available if they join the membership."
+    },
+    {
+      "start": 626.28,
+      "end": 628.02,
+      "text": "Pricing for continuity versus upfront cash."
+    },
+    {
+      "start": 628.56,
+      "end": 632.88,
+      "text": "For whatever reason, some people pick one-time payments over continuity, even with higher one-time payments."
+    },
+    {
+      "start": 633.3,
+      "end": 634.98,
+      "text": "So offer a higher one-time payment option."
+    },
+    {
+      "start": 635.52,
+      "end": 639.32,
+      "text": "This way, some customers will make you more money today, while others stack recurring revenue for you tomorrow."
+    },
+    {
+      "start": 640.1,
+      "end": 641.4,
+      "text": "We change the price depending on our goals."
+    },
+    {
+      "start": 641.64,
+      "end": 642.6,
+      "text": "I've tested this a ton."
+    },
+    {
+      "start": 642.94,
+      "end": 644.86,
+      "text": "At least for me, the data on this range looks clear."
+    },
+    {
+      "start": 645.0,
+      "end": 645.38,
+      "text": "Check it out."
+    },
+    {
+      "start": 646.26,
+      "end": 651.38,
+      "text": "To get 50% to choose continuity, make your standalone offer 1.33 times more."
+    },
+    {
+      "start": 651.84,
+      "end": 657.32,
+      "text": "Example, 399 standalone offer is 266 a month or 199 per month membership."
+    },
+    {
+      "start": 658.74,
+      "end": 663.58,
+      "text": "To get 60% to choose continuity, make the standalone offer 1.66 times more."
+    },
+    {
+      "start": 664.08,
+      "end": 669.28,
+      "text": "Example, 499 standalone offer, which is 333 a month, or the 199 membership."
+    },
+    {
+      "start": 669.96,
+      "end": 674.22,
+      "text": "To get 70% to choose continuity, make the standalone offer two times more."
+    },
+    {
+      "start": 674.72,
+      "end": 680.28,
+      "text": "Example, 600 dollar standalone is 399 dollars a month or 199 per month membership."
+    },
+    {
+      "start": 681.24,
+      "end": 684.92,
+      "text": "To get 80% to choose continuity, make the standalone offer 2.33 times more."
+    },
+    {
+      "start": 685.42,
+      "end": 691.82,
+      "text": "Example, 699 standalone membership, which is 466 a month or 199 per month as a membership."
+    },
+    {
+      "start": 692.74,
+      "end": 696.92,
+      "text": "To get 90% to choose continuity, make the standalone offer 2.66 times more."
+    },
+    {
+      "start": 697.56,
+      "end": 704.7,
+      "text": "That's 799 as a standalone offer, which is 532 a month, or 199 a month if you become a member."
+    },
+    {
+      "start": 705.76,
+      "end": 712.4,
+      "text": "I got these numbers from testing a lot of different standalone offers versus continuity pricing across thousands of gyms."
+    },
+    {
+      "start": 714.4,
+      "end": 717.06,
+      "text": "You may have to figure this out for yourself with your own pricing."
+    },
+    {
+      "start": 718.02,
+      "end": 719.88,
+      "text": "The exact numbers matter less than the principle."
+    },
+    {
+      "start": 720.18,
+      "end": 723.56,
+      "text": "The smaller the standalone price compared to the continuity price, the more people buy the standalone."
+    },
+    {
+      "start": 724.12,
+      "end": 727.2,
+      "text": "The larger the standalone price compared to the continuity, the more people choose continuity."
+    },
+    {
+      "start": 728.08,
+      "end": 732.82,
+      "text": "If you want more cash up front, make bonuses and continuity plus bonuses separate offers."
+    },
+    {
+      "start": 733.22,
+      "end": 740.5,
+      "text": "Make the bonus only offer a single payment that's 33 to 266% more expensive than the first month of continuity plus bonus offer."
+    },
+    {
+      "start": 741.22,
+      "end": 746.8,
+      "text": "The bigger the price difference, the fewer standalone purchases you'll have, but the more money you'll make upfront from each."
+    },
+    {
+      "start": 747.2,
+      "end": 751.84,
+      "text": "Based on the data I just shared, people pay 33% more to avoid continuity."
+    },
+    {
+      "start": 752.16,
+      "end": 756.18,
+      "text": "In other words, even if you charge 33% more for a one-time purchase, half will buy it."
+    },
+    {
+      "start": 756.58,
+      "end": 759.56,
+      "text": "If you want even more cash, offer bulk prepaid discounts."
+    },
+    {
+      "start": 760.24,
+      "end": 762.82,
+      "text": "Bulk continuity upsells boost 30-day profits by a lot."
+    },
+    {
+      "start": 763.38,
+      "end": 765.9,
+      "text": "Let's say you offer buy five months, get one free."
+    },
+    {
+      "start": 766.54,
+      "end": 770.92,
+      "text": "Only one out of every eight people have to take that upsell to raise 30-day profits by 50%."
+    },
+    {
+      "start": 771.68,
+      "end": 773.02,
+      "text": "That can make or break your money bottle."
+    },
+    {
+      "start": 773.8,
+      "end": 775.82,
+      "text": "Note, the laws of discounting apply."
+    },
+    {
+      "start": 776.0,
+      "end": 777.68,
+      "text": "The larger the discount, the more people will take it."
+    },
+    {
+      "start": 778.74,
+      "end": 781.5,
+      "text": "If you want commitments, you can pair the bonus with a commitment."
+    },
+    {
+      "start": 781.88,
+      "end": 787.44,
+      "text": "For example, only allow customers to get the bonus if they join and commit for three, six, or 12 months plus."
+    },
+    {
+      "start": 788.3,
+      "end": 792.34,
+      "text": "You'll get more people to commit this way, but fewer will take it, at least compared to giving it to everyone."
+    },
+    {
+      "start": 792.84,
+      "end": 794.06,
+      "text": "In the beginning, keep it simple."
+    },
+    {
+      "start": 794.38,
+      "end": 797.08,
+      "text": "Just offer bonuses standalone and continuity month to month."
+    },
+    {
+      "start": 797.62,
+      "end": 798.2,
+      "text": "Summary points."
+    },
+    {
+      "start": 799.42,
+      "end": 804.48,
+      "text": "When it comes down to it, offering real discounts and then following with your valuable free bonuses makes people excited about your offer."
+    },
+    {
+      "start": 805.18,
+      "end": 810.22,
+      "text": "Then, if they agree to your continuity offer, you can further upsell blocks of time to boost your 30-day profits even more."
+    },
+    {
+      "start": 810.94,
+      "end": 814.32,
+      "text": "With continuity bonuses, you give the customer an awesome thing if they sign up today."
+    },
+    {
+      "start": 814.8,
+      "end": 817.48,
+      "text": "Typically, the bonus itself has more value than the first continuity payment."
+    },
+    {
+      "start": 818.18,
+      "end": 821.82,
+      "text": "If you use continuity as an attraction offer, advertise what you give away, not what you sell."
+    },
+    {
+      "start": 822.92,
+      "end": 825.6,
+      "text": "Make your bonus related to your core offer so you engage the right leads."
+    },
+    {
+      "start": 826.18,
+      "end": 828.4,
+      "text": "If possible, make your bonuses stuff you already have and do."
+    },
+    {
+      "start": 828.54,
+      "end": 830.54,
+      "text": "This way, you don't need to change your business or create new products."
+    },
+    {
+      "start": 831.36,
+      "end": 833.88,
+      "text": "More people start continuity if you add more bonuses and discounts."
+    },
+    {
+      "start": 834.38,
+      "end": 837.12,
+      "text": "To add bonuses, add more good stuff only if they sign up."
+    },
+    {
+      "start": 837.62,
+      "end": 840.72,
+      "text": "To discount, take away the cost of actual products, services, and features you sell."
+    },
+    {
+      "start": 841.6,
+      "end": 844.46,
+      "text": "Sell the value of the bonus before telling them how they can get it for free."
+    },
+    {
+      "start": 845.4,
+      "end": 848.0,
+      "text": "Offer bonuses as a standalone option for more cash up front."
+    },
+    {
+      "start": 848.8,
+      "end": 853.02,
+      "text": "If you want half the people to take the standalone offer, price it 33% above your continuity."
+    },
+    {
+      "start": 854.06,
+      "end": 857.62,
+      "text": "Boost upfront cash even more by offering a continuity to discount if they buy in bulk."
+    },
+    {
+      "start": 858.48,
+      "end": 858.9,
+      "text": "Free gift."
+    },
+    {
+      "start": 859.28,
+      "end": 860.58,
+      "text": "Continuity bonus offers training."
+    },
+    {
+      "start": 861.0,
+      "end": 863.92,
+      "text": "There are so many ways to structure bonuses to drive more continuity sales."
+    },
+    {
+      "start": 864.48,
+      "end": 867.66,
+      "text": "I made a video for you that covers this chapter and other creative ways I've seen them used."
+    },
+    {
+      "start": 867.86,
+      "end": 871.6,
+      "text": "You can watch for free at acquisition.com/training/money."
+    },
+    {
+      "start": 874.42,
+      "end": 875.48,
+      "text": "Continuity discount offers."
+    },
+    {
+      "start": 875.7,
+      "end": 877.6,
+      "text": "If you sign up today, you get X time free."
+    },
+    {
+      "start": 878.28,
+      "end": 879.06,
+      "text": "Spring 2018."
+    },
+    {
+      "start": 880.08,
+      "end": 882.64,
+      "text": "Layla and I had just moved into one of the nicer Austin suburbs."
+    },
+    {
+      "start": 883.12,
+      "end": 885.44,
+      "text": "On our afternoon walk, a neighbor smiled and waved us over."
+    },
+    {
+      "start": 886.1,
+      "end": 888.42,
+      "text": "It looked like she wanted to make welcome to the neighborhood small talk."
+    },
+    {
+      "start": 888.88,
+      "end": 889.58,
+      "text": "I hate small talk."
+    },
+    {
+      "start": 890.1,
+      "end": 891.78,
+      "text": "But as I got closer, I got more interested."
+    },
+    {
+      "start": 892.08,
+      "end": 892.88,
+      "text": "The yard was perfect."
+    },
+    {
+      "start": 893.34,
+      "end": 895.42,
+      "text": "A Ferrari stuck out the garage for spring cleaning."
+    },
+    {
+      "start": 895.92,
+      "end": 897.94,
+      "text": "The patio table littered with cigarettes and beer cans."
+    },
+    {
+      "start": 898.28,
+      "end": 898.4,
+      "text": "Huh?"
+    },
+    {
+      "start": 899.26,
+      "end": 899.62,
+      "text": "\"Hi there."
+    },
+    {
+      "start": 900.12,
+      "end": 900.8,
+      "text": "Welcome to the neighborhood."
+    },
+    {
+      "start": 901.2,
+      "end": 901.94,
+      "text": "Let me get the husband.\""
+    },
+    {
+      "start": 902.7,
+      "end": 903.66,
+      "text": "I smiled through gritted teeth."
+    },
+    {
+      "start": 903.88,
+      "end": 904.36,
+      "text": "Here we go."
+    },
+    {
+      "start": 905.0,
+      "end": 910.92,
+      "text": "Out came the character, in backwards hat, flip-flops, with a strong Midwest accent, speaking a mile a minute, in the widest grin you've ever seen."
+    },
+    {
+      "start": 910.92,
+      "end": 913.54,
+      "text": "\"Hey, brother man, nice to meet you."
+    },
+    {
+      "start": 914.44,
+      "end": 916.78,
+      "text": "I can tell you're no doctor or lawyer living here, so young."
+    },
+    {
+      "start": 917.38,
+      "end": 918.24,
+      "text": "What kind of hustle you got?\""
+    },
+    {
+      "start": 919.64,
+      "end": 920.66,
+      "text": "He also got straight to the point."
+    },
+    {
+      "start": 920.92,
+      "end": 921.26,
+      "text": "Relief."
+    },
+    {
+      "start": 921.84,
+      "end": 924.7,
+      "text": "I told him a bit about my gyms, launching gyms, the rise of gym launch."
+    },
+    {
+      "start": 925.18,
+      "end": 926.04,
+      "text": "He nodded with approval."
+    },
+    {
+      "start": 926.58,
+      "end": 928.64,
+      "text": "He said he liked having another business owner on the street."
+    },
+    {
+      "start": 928.64,
+      "end": 929.94,
+      "text": "\"What about you?\""
+    },
+    {
+      "start": 930.04,
+      "end": 930.34,
+      "text": "I asked."
+    },
+    {
+      "start": 930.7,
+      "end": 931.12,
+      "text": "He smirked."
+    },
+    {
+      "start": 931.36,
+      "end": 931.78,
+      "text": "\"Trash.\""
+    },
+    {
+      "start": 931.88,
+      "end": 932.42,
+      "text": "\"What?\""
+    },
+    {
+      "start": 932.58,
+      "end": 933.52,
+      "text": "\"Trash.\""
+    },
+    {
+      "start": 934.36,
+      "end": 935.86,
+      "text": "He saw my confused look and continued."
+    },
+    {
+      "start": 935.86,
+      "end": 940.66,
+      "text": "\"All right, so you see, I knew from my time working trash, there wasn't much competition."
+    },
+    {
+      "start": 941.1,
+      "end": 943.92,
+      "text": "Big commercial places and all went to the same place for their trash needs.\""
+    },
+    {
+      "start": 943.92,
+      "end": 945.06,
+      "text": "\"So what'd you do?\""
+    },
+    {
+      "start": 945.06,
+      "end": 947.7,
+      "text": "\"Well, I had a truck, took my credit card, and I gambled."
+    },
+    {
+      "start": 947.9,
+      "end": 953.54,
+      "text": "I went to all the big apartments and said I'd do their trash for a whole year free if they contracted me to do the next five years paid."
+    },
+    {
+      "start": 954.12,
+      "end": 954.88,
+      "text": "It worked good enough."
+    },
+    {
+      "start": 955.08,
+      "end": 956.8,
+      "text": "They all made me their trash man before I knew it.\""
+    },
+    {
+      "start": 956.82,
+      "end": 958.5,
+      "text": "\"Dang,\" I said."
+    },
+    {
+      "start": 958.52,
+      "end": 960.34,
+      "text": "\"You fronted an entire year?\""
+    },
+    {
+      "start": 960.5,
+      "end": 961.38,
+      "text": "\"Uh-huh."
+    },
+    {
+      "start": 961.68,
+      "end": 963.86,
+      "text": "And I'll tell you what, it was the toughest thing I ever did."
+    },
+    {
+      "start": 964.62,
+      "end": 966.72,
+      "text": "No one would invest in my business, not even my family."
+    },
+    {
+      "start": 967.04,
+      "end": 967.9,
+      "text": "They all called me crazy."
+    },
+    {
+      "start": 968.52,
+      "end": 971.26,
+      "text": "But after that one-year mark passed, the cash came flooding."
+    },
+    {
+      "start": 971.72,
+      "end": 972.78,
+      "text": "I ate real fat then."
+    },
+    {
+      "start": 973.26,
+      "end": 976.42,
+      "text": "And after a few years using that plan, I sold the whole shebang for a pretty penny.\""
+    },
+    {
+      "start": 976.42,
+      "end": 977.9,
+      "text": "\"Nice, man."
+    },
+    {
+      "start": 978.28,
+      "end": 980.26,
+      "text": "I never would have thought there was so much money in trash.\""
+    },
+    {
+      "start": 980.26,
+      "end": 982.08,
+      "text": "\"There's cash in trash, baby."
+    },
+    {
+      "start": 982.12,
+      "end": 982.72,
+      "text": "What can I say?"
+    },
+    {
+      "start": 983.16,
+      "end": 984.32,
+      "text": "Oh, yeah, you want a beer or what?\""
+    },
+    {
+      "start": 984.92,
+      "end": 986.98,
+      "text": "Needless to say, we stayed friends to this day."
+    },
+    {
+      "start": 987.5,
+      "end": 990.88,
+      "text": "Listening to his success showed me the sheer power of a simple offer done right."
+    },
+    {
+      "start": 991.42,
+      "end": 994.42,
+      "text": "That said, let's go over some important stuff so you can make it work like he did."
+    },
+    {
+      "start": 995.06,
+      "end": 999.84,
+      "text": "Also, if you think this looks like buy X, get Y free, done continuity style, then you'd be right."
+    },
+    {
+      "start": 1000.4,
+      "end": 1004.08,
+      "text": "However, there are enough differences specific to continuity that it justified its own chapter."
+    },
+    {
+      "start": 1004.68,
+      "end": 1005.22,
+      "text": "Description."
+    },
+    {
+      "start": 1005.9,
+      "end": 1012.14,
+      "text": "To make a one-time continuity discount, you give products or services away for free if the customer commits to buying more products and services over time."
+    },
+    {
+      "start": 1012.68,
+      "end": 1016.1,
+      "text": "This can attract loads of potential customers and make an easy sale anyone can close."
+    },
+    {
+      "start": 1017.02,
+      "end": 1019.36,
+      "text": "If you look around, you'll see this offer in many different industries."
+    },
+    {
+      "start": 1019.68,
+      "end": 1020.08,
+      "text": "It works."
+    },
+    {
+      "start": 1020.48,
+      "end": 1024.16,
+      "text": "Think internet, pool cleaning, gym memberships, landscaping, and anything rentable."
+    },
+    {
+      "start": 1025.0,
+      "end": 1029.18,
+      "text": "I mentioned common ones, but you can make this work in any business so long as you know two things."
+    },
+    {
+      "start": 1029.76,
+      "end": 1031.2,
+      "text": "First, how you'll apply the discount."
+    },
+    {
+      "start": 1031.54,
+      "end": 1032.44,
+      "text": "I do it five ways."
+    },
+    {
+      "start": 1033.06,
+      "end": 1036.46,
+      "text": "And second, your cancellation policy, because people don't always keep their commitments."
+    },
+    {
+      "start": 1037.4,
+      "end": 1037.88,
+      "text": "Examples."
+    },
+    {
+      "start": 1038.56,
+      "end": 1043.28,
+      "text": "I discount in four ways: upfront, at the end, an even spread, or after the first month or two."
+    },
+    {
+      "start": 1044.0,
+      "end": 1045.32,
+      "text": "So let's walk through each."
+    },
+    {
+      "start": 1046.16,
+      "end": 1046.56,
+      "text": "Upfront."
+    },
+    {
+      "start": 1047.28,
+      "end": 1052.8,
+      "text": "You apply the discount upfront and push out the term, as in the official time starts after their free time ends."
+    },
+    {
+      "start": 1054.02,
+      "end": 1060.14,
+      "text": "This works best in industries who have successful history of enforcing contracts, cell phones, storage, real estate, equipment, or anything with collateral."
+    },
+    {
+      "start": 1060.68,
+      "end": 1061.16,
+      "text": "Two notes."
+    },
+    {
+      "start": 1061.78,
+      "end": 1065.26,
+      "text": "First, if you have historically high churn, then skip this one and consider the others."
+    },
+    {
+      "start": 1065.7,
+      "end": 1068.62,
+      "text": "Second, this does not get customers profitably."
+    },
+    {
+      "start": 1069.1,
+      "end": 1070.74,
+      "text": "It gets customers, but delays cash."
+    },
+    {
+      "start": 1071.14,
+      "end": 1073.2,
+      "text": "So if you want more profitable options, continue on."
+    },
+    {
+      "start": 1075.78,
+      "end": 1076.9,
+      "text": "Two, at the end."
+    },
+    {
+      "start": 1077.58,
+      "end": 1079.94,
+      "text": "You can apply the entire discount at the end and push out the term."
+    },
+    {
+      "start": 1080.58,
+      "end": 1085.08,
+      "text": "So long as they make every payment on time, they get a bonus time equal to the value of the discount."
+    },
+    {
+      "start": 1085.38,
+      "end": 1086.58,
+      "text": "They earn their free time."
+    },
+    {
+      "start": 1087.56,
+      "end": 1088.72,
+      "text": "Third, spread over time."
+    },
+    {
+      "start": 1089.57,
+      "end": 1091.17,
+      "text": "Apply the discount across the term."
+    },
+    {
+      "start": 1091.47,
+      "end": 1093.55,
+      "text": "Say you give three months free for a one-year commitment."
+    },
+    {
+      "start": 1094.13,
+      "end": 1097.09,
+      "text": "At 200 dollars per month, you've discounted 600 dollars."
+    },
+    {
+      "start": 1097.47,
+      "end": 1103.81,
+      "text": "By spreading that 600 dollars over 12 months, they get a 600 divided by 12 months equals 50 dollar discount each month."
+    },
+    {
+      "start": 1104.39,
+      "end": 1109.33,
+      "text": "You can also tell them that if they made all their payments on time, they can keep the discount for life after the term is over."
+    },
+    {
+      "start": 1110.19,
+      "end": 1112.67,
+      "text": "Fourth way, after the first or second payments."
+    },
+    {
+      "start": 1114.05,
+      "end": 1116.85,
+      "text": "They pay a few times, and then they get their one-time discount."
+    },
+    {
+      "start": 1117.31,
+      "end": 1120.29,
+      "text": "This way you collect a bit of cash to cover advertising and some delivery costs."
+    },
+    {
+      "start": 1121.05,
+      "end": 1128.77,
+      "text": "I prefer to do it by presenting the offer as first and last, or last month upfront, or adding some sort of activation fee before getting the bonus value."
+    },
+    {
+      "start": 1129.23,
+      "end": 1133.91,
+      "text": "It ensures your customer used a valid form of payment, a small but important detail when you run a business."
+    },
+    {
+      "start": 1135.03,
+      "end": 1135.73,
+      "text": "Important notes."
+    },
+    {
+      "start": 1136.55,
+      "end": 1139.21,
+      "text": "Highest value per word note in this book."
+    },
+    {
+      "start": 1140.19,
+      "end": 1141.61,
+      "text": "Skip this if you hate money."
+    },
+    {
+      "start": 1142.83,
+      "end": 1143.73,
+      "text": "Bill weekly."
+    },
+    {
+      "start": 1144.47,
+      "end": 1147.47,
+      "text": "Weekly, every two weeks, every four weeks, every 12 weeks, etc."
+    },
+    {
+      "start": 1148.05,
+      "end": 1148.69,
+      "text": "Here's why."
+    },
+    {
+      "start": 1149.31,
+      "end": 1153.49,
+      "text": "There are 12 months in a year, but the year has 13 four-week cycles."
+    },
+    {
+      "start": 1154.03,
+      "end": 1155.65,
+      "text": "That's an 8.3% difference."
+    },
+    {
+      "start": 1156.29,
+      "end": 1165.23,
+      "text": "If I offer my thing at 100 dollars every four weeks versus 100 dollars a month, the same number of people will buy, but I make 8.3% more annually."
+    },
+    {
+      "start": 1165.67,
+      "end": 1172.45,
+      "text": "To put this in perspective, if your business has 20% margins, this skyrockets annual profit by 41%."
+    },
+    {
+      "start": 1173.03,
+      "end": 1175.07,
+      "text": "And the best part is, you don't do any more work."
+    },
+    {
+      "start": 1175.49,
+      "end": 1176.55,
+      "text": "Just change a few words."
+    },
+    {
+      "start": 1177.09,
+      "end": 1180.77,
+      "text": "What else can you do legally that makes so much money for so little work?"
+    },
+    {
+      "start": 1181.29,
+      "end": 1184.17,
+      "text": "This has literally made me millions in pure profit."
+    },
+    {
+      "start": 1184.51,
+      "end": 1185.53,
+      "text": "So yeah, do it."
+    },
+    {
+      "start": 1186.07,
+      "end": 1188.49,
+      "text": "Don't eat into the term with discounts, extend them."
+    },
+    {
+      "start": 1189.35,
+      "end": 1192.35,
+      "text": "Let's say you offer three months free when you sign up for a year."
+    },
+    {
+      "start": 1192.93,
+      "end": 1197.37,
+      "text": "That could mean they pay for nine months, then get three free, so 12 months total."
+    },
+    {
+      "start": 1197.91,
+      "end": 1201.97,
+      "text": "Or that could mean they pay 12 months and get three free, 15 months total."
+    },
+    {
+      "start": 1202.57,
+      "end": 1207.15,
+      "text": "I prefer with extending the term, then I can feature downsell to a shorter one."
+    },
+    {
+      "start": 1208.61,
+      "end": 1211.01,
+      "text": "Get 3% more revenue for four extra words."
+    },
+    {
+      "start": 1211.79,
+      "end": 1214.97,
+      "text": "Yeah, it's X dollars plus a 3% processing fee."
+    },
+    {
+      "start": 1215.51,
+      "end": 1218.83,
+      "text": "In my life, I've never had anyone not buy because of a processing fee."
+    },
+    {
+      "start": 1219.37,
+      "end": 1223.03,
+      "text": "But 3% added to your top line for no extra work goes straight to your bottom line."
+    },
+    {
+      "start": 1223.61,
+      "end": 1227.71,
+      "text": "If you run a 10% margin business and add 3%, you just added 30% to your profit."
+    },
+    {
+      "start": 1228.29,
+      "end": 1228.67,
+      "text": "Worth it."
+    },
+    {
+      "start": 1228.99,
+      "end": 1233.15,
+      "text": "And this works especially well when paired to get two forms of payment."
+    },
+    {
+      "start": 1233.63,
+      "end": 1237.13,
+      "text": "Recurring businesses lose mountains of cash because of payment processing problems."
+    },
+    {
+      "start": 1237.99,
+      "end": 1242.21,
+      "text": "First, customers don't cancel, but their payment information changes or expires."
+    },
+    {
+      "start": 1242.97,
+      "end": 1246.01,
+      "text": "Second, customers max out cards or have insufficient funds."
+    },
+    {
+      "start": 1246.51,
+      "end": 1248.51,
+      "text": "We fix both issues with the same solution."
+    },
+    {
+      "start": 1249.05,
+      "end": 1252.45,
+      "text": "I ask them if they want a 3% discount, a pretty standard processing fee."
+    },
+    {
+      "start": 1253.21,
+      "end": 1254.37,
+      "text": "Do you want to save the processing fee?"
+    },
+    {
+      "start": 1254.87,
+      "end": 1255.19,
+      "text": "Awesome."
+    },
+    {
+      "start": 1255.43,
+      "end": 1258.05,
+      "text": "Give us a second form of payment in case anything happens to the first one."
+    },
+    {
+      "start": 1258.51,
+      "end": 1266.21,
+      "text": "If they ask why, which they rarely do, just say, \"We only have the processing fee because it costs us man-hours to get new information every month from our customers."
+    },
+    {
+      "start": 1266.57,
+      "end": 1268.73,
+      "text": "So if you save us time, we pass the savings onto you.\""
+    },
+    {
+      "start": 1270.03,
+      "end": 1271.35,
+      "text": "Get ACH if you can."
+    },
+    {
+      "start": 1272.13,
+      "end": 1274.67,
+      "text": "If you get a second form of payment, try to get ACH."
+    },
+    {
+      "start": 1276.21,
+      "end": 1277.75,
+      "text": "This is short for Automated Clearing House."
+    },
+    {
+      "start": 1278.49,
+      "end": 1281.69,
+      "text": "This is a form of payment that links directly to their bank account."
+    },
+    {
+      "start": 1281.85,
+      "end": 1283.95,
+      "text": "It's the cheapest way to transact besides cash."
+    },
+    {
+      "start": 1284.31,
+      "end": 1286.03,
+      "text": "If you don't know what ACH is, look it up."
+    },
+    {
+      "start": 1286.89,
+      "end": 1287.35,
+      "text": "Gift cards."
+    },
+    {
+      "start": 1287.71,
+      "end": 1290.03,
+      "text": "Give the discount in time in the form of a physical gift card."
+    },
+    {
+      "start": 1290.41,
+      "end": 1292.17,
+      "text": "You can mail it to them if they're out of the area."
+    },
+    {
+      "start": 1292.79,
+      "end": 1296.59,
+      "text": "The customer can apply the discount whenever they want after their first three payments or so."
+    },
+    {
+      "start": 1297.17,
+      "end": 1300.65,
+      "text": "Then you can say they can also gift that to a friend if they want."
+    },
+    {
+      "start": 1301.29,
+      "end": 1302.41,
+      "text": "And now you've got a lead magnet."
+    },
+    {
+      "start": 1302.73,
+      "end": 1304.87,
+      "text": "Beyond that, many people simply forget to use it."
+    },
+    {
+      "start": 1304.93,
+      "end": 1306.91,
+      "text": "In that instance, you just got a full price sign-up."
+    },
+    {
+      "start": 1307.19,
+      "end": 1307.45,
+      "text": "Nice."
+    },
+    {
+      "start": 1308.93,
+      "end": 1311.63,
+      "text": "Try giving a lifetime discount at your most common churn point."
+    },
+    {
+      "start": 1312.77,
+      "end": 1316.39,
+      "text": "You advertise the lifetime discount, but you make customers earn it."
+    },
+    {
+      "start": 1316.83,
+      "end": 1319.61,
+      "text": "They get a lower rate if they stay past X period."
+    },
+    {
+      "start": 1320.11,
+      "end": 1322.33,
+      "text": "Make X month your average customer drop-off."
+    },
+    {
+      "start": 1322.93,
+      "end": 1325.75,
+      "text": "Let's say you know every customer stays four months on average."
+    },
+    {
+      "start": 1326.11,
+      "end": 1329.43,
+      "text": "You tell everyone upfront they get a lifetime discount after month four."
+    },
+    {
+      "start": 1329.89,
+      "end": 1333.21,
+      "text": "As the time approaches, tell them their new lower rate is right around the corner."
+    },
+    {
+      "start": 1333.97,
+      "end": 1334.79,
+      "text": "Real-world example."
+    },
+    {
+      "start": 1335.43,
+      "end": 1337.41,
+      "text": "I saw a rice company selling a lot of rice."
+    },
+    {
+      "start": 1337.85,
+      "end": 1339.27,
+      "text": "They offered three pricing options."
+    },
+    {
+      "start": 1339.87,
+      "end": 1341.01,
+      "text": "One, a one-time price."
+    },
+    {
+      "start": 1341.27,
+      "end": 1342.91,
+      "text": "Two, a 5% off subscription."
+    },
+    {
+      "start": 1342.97,
+      "end": 1346.87,
+      "text": "And three, 15% off if you stayed on the subscription for five straight months."
+    },
+    {
+      "start": 1347.35,
+      "end": 1348.93,
+      "text": "You earned the lifetime lower rate."
+    },
+    {
+      "start": 1349.33,
+      "end": 1352.09,
+      "text": "I'm sure they figured out that that was just beyond where most people canceled."
+    },
+    {
+      "start": 1353.51,
+      "end": 1354.15,
+      "text": "Cancellations."
+    },
+    {
+      "start": 1355.13,
+      "end": 1357.71,
+      "text": "You need to have a cancellation policy figured out ahead of time."
+    },
+    {
+      "start": 1358.27,
+      "end": 1359.19,
+      "text": "There are many common ones."
+    },
+    {
+      "start": 1360.09,
+      "end": 1363.49,
+      "text": "30 or 60 days notice, cancellation fees, cancel anytime, etc."
+    },
+    {
+      "start": 1364.51,
+      "end": 1368.91,
+      "text": "Since everyone comes into my continuity offers on a discount of some kind, this is my favorite."
+    },
+    {
+      "start": 1369.69,
+      "end": 1372.53,
+      "text": "Just make the cancellation fee equal to the discount they agreed to."
+    },
+    {
+      "start": 1372.97,
+      "end": 1377.67,
+      "text": "So if they got 600 dollars in discounts by committing, they can pay 600 dollars whenever they want to cancel."
+    },
+    {
+      "start": 1378.11,
+      "end": 1379.41,
+      "text": "This is very simple to explain."
+    },
+    {
+      "start": 1381.21,
+      "end": 1382.89,
+      "text": "Make sure customers know how to cancel."
+    },
+    {
+      "start": 1383.51,
+      "end": 1387.33,
+      "text": "If customers have nowhere to complain inside your business, they will definitely complain outside of your business."
+    },
+    {
+      "start": 1387.87,
+      "end": 1391.67,
+      "text": "If you have no obvious way for them to cancel, more people will vanish and complain."
+    },
+    {
+      "start": 1392.07,
+      "end": 1396.09,
+      "text": "By having a clear way for them to contact you, then you can have a real chance to save it."
+    },
+    {
+      "start": 1396.79,
+      "end": 1399.87,
+      "text": "Small businesses don't get rich by making stuff hard for their customers."
+    },
+    {
+      "start": 1400.35,
+      "end": 1406.39,
+      "text": "If you make it easy, you'll suffer fewer one-star reviews and have a chance to save them when they do, because you'll know about it."
+    },
+    {
+      "start": 1407.07,
+      "end": 1409.81,
+      "text": "If a customer wants to cancel, ask to do an exit interview."
+    },
+    {
+      "start": 1410.35,
+      "end": 1411.23,
+      "text": "Some people like to vent."
+    },
+    {
+      "start": 1411.61,
+      "end": 1411.97,
+      "text": "Let them."
+    },
+    {
+      "start": 1412.17,
+      "end": 1413.83,
+      "text": "Get more angry about the problem than them."
+    },
+    {
+      "start": 1414.43,
+      "end": 1415.55,
+      "text": "They may try to calm you down."
+    },
+    {
+      "start": 1416.03,
+      "end": 1417.61,
+      "text": "Sometimes they'll save themselves."
+    },
+    {
+      "start": 1418.13,
+      "end": 1420.87,
+      "text": "If they complained about something that you can solve, by golly, solve it."
+    },
+    {
+      "start": 1421.27,
+      "end": 1425.85,
+      "text": "If they wanted a better product, do a rollover upsell into a higher level of service if you have one to offer."
+    },
+    {
+      "start": 1426.43,
+      "end": 1430.69,
+      "text": "I've had many people buy a lower-cost offer, then complain because they wanted a higher-cost feature."
+    },
+    {
+      "start": 1431.13,
+      "end": 1434.03,
+      "text": "So I offer the higher-cost feature, and then they buy."
+    },
+    {
+      "start": 1434.45,
+      "end": 1436.19,
+      "text": "Yes, it happens, and yes, it works."
+    },
+    {
+      "start": 1437.19,
+      "end": 1439.11,
+      "text": "Use cancellation fees to the customer's advantage."
+    },
+    {
+      "start": 1439.91,
+      "end": 1443.65,
+      "text": "I might say, \"I'll waive your cancellation fee if you come in and tell me what I could do better.\""
+    },
+    {
+      "start": 1444.29,
+      "end": 1446.31,
+      "text": "This gives customer a real reason to give feedback."
+    },
+    {
+      "start": 1446.71,
+      "end": 1450.23,
+      "text": "Then I can use their feedback to fix the problem or offer something better suited for them."
+    },
+    {
+      "start": 1450.65,
+      "end": 1454.77,
+      "text": "At the very least, they'll have nicer things to say about the business if I actually try to solve the problem."
+    },
+    {
+      "start": 1455.21,
+      "end": 1458.67,
+      "text": "I routinely save a third to half of customers that agree to exit interviews."
+    },
+    {
+      "start": 1460.32,
+      "end": 1460.9,
+      "text": "Summary points."
+    },
+    {
+      "start": 1462.04,
+      "end": 1465.62,
+      "text": "Continuity discount offers give continuity time for free if the customer signs up today."
+    },
+    {
+      "start": 1466.78,
+      "end": 1469.94,
+      "text": "Front-loaded discounts convert more customers, but may have higher churn."
+    },
+    {
+      "start": 1470.76,
+      "end": 1473.42,
+      "text": "Backloading discounts convert fewer customers, but they have lower churn."
+    },
+    {
+      "start": 1474.12,
+      "end": 1477.16,
+      "text": "Spreading the discount keeps cash flowing while providing the full discount."
+    },
+    {
+      "start": 1477.92,
+      "end": 1482.9,
+      "text": "Use gift cards to give the discount to new customers and allow them to gift it to a friend or use it on themselves at a later date."
+    },
+    {
+      "start": 1483.36,
+      "end": 1484.98,
+      "text": "You get a full price sign-up and a referral."
+    },
+    {
+      "start": 1485.64,
+      "end": 1491.62,
+      "text": "Allow customers to earn a lifetime discount at your month of greatest churn to encourage customers to stick through it for a lifetime lower rate."
+    },
+    {
+      "start": 1493.54,
+      "end": 1496.58,
+      "text": "Light cancellation terms get more people to sign up, but more people to leave."
+    },
+    {
+      "start": 1497.12,
+      "end": 1499.42,
+      "text": "Harsher terms get fewer people to sign up, but fewer to leave."
+    },
+    {
+      "start": 1499.96,
+      "end": 1503.3,
+      "text": "I prefer customers cancel by paying the discount they got with their commitment."
+    },
+    {
+      "start": 1503.72,
+      "end": 1505.4,
+      "text": "This puts them back to the month-to-month rate."
+    },
+    {
+      "start": 1506.56,
+      "end": 1508.12,
+      "text": "Make sure customers know how to cancel."
+    },
+    {
+      "start": 1509.18,
+      "end": 1511.56,
+      "text": "If a customer wants to cancel, ask for an exit interview."
+    },
+    {
+      "start": 1512.24,
+      "end": 1514.82,
+      "text": "Incentivize them by saying you'll waive the cancellation fee if they do."
+    },
+    {
+      "start": 1515.52,
+      "end": 1518.24,
+      "text": "You'll often be able to save or upsell them from the conversation."
+    },
+    {
+      "start": 1518.54,
+      "end": 1521.02,
+      "text": "At the very least, you'll understand what went wrong, so you can do better."
+    },
+    {
+      "start": 1524.08,
+      "end": 1524.62,
+      "text": "Free gift."
+    },
+    {
+      "start": 1525.1,
+      "end": 1526.42,
+      "text": "Continuity discount offers training."
+    },
+    {
+      "start": 1526.96,
+      "end": 1529.96,
+      "text": "Like bonuses, discounts are only limited by your creativity."
+    },
+    {
+      "start": 1530.5,
+      "end": 1532.08,
+      "text": "In this chapter, I give you the building blocks."
+    },
+    {
+      "start": 1532.44,
+      "end": 1535.82,
+      "text": "I also made you a video covering some of the creative ways I've seen used and work."
+    },
+    {
+      "start": 1536.6,
+      "end": 1540.28,
+      "text": "As usual, you can watch for free at acquisition.com/training/money."
+    },
+    {
+      "start": 1540.74,
+      "end": 1541.66,
+      "text": "Waived fee offer."
+    },
+    {
+      "start": 1542.1,
+      "end": 1545.7,
+      "text": "You can sign up month to month with a setup fee, or I'll waive it if you commit to a year."
+    },
+    {
+      "start": 1547.52,
+      "end": 1548.58,
+      "text": "January 2021."
+    },
+    {
+      "start": 1549.52,
+      "end": 1552.34,
+      "text": "For years, I've heard stories about the legend of this high-ticket sales guy."
+    },
+    {
+      "start": 1552.74,
+      "end": 1554.06,
+      "text": "Today, I finally got to meet him."
+    },
+    {
+      "start": 1554.62,
+      "end": 1555.52,
+      "text": "But then it got weird."
+    },
+    {
+      "start": 1555.9,
+      "end": 1558.66,
+      "text": "You'd think a man with a reputation like his would love working, but not him."
+    },
+    {
+      "start": 1558.88,
+      "end": 1561.28,
+      "text": "In fact, his views about work nearly opposed mine."
+    },
+    {
+      "start": 1561.72,
+      "end": 1565.64,
+      "text": "He aimed to work as little as possible, and those lifestyle guys tend to put me off."
+    },
+    {
+      "start": 1566.06,
+      "end": 1569.64,
+      "text": "But he had his legendary reputation for a reason, so it made me all the more interested."
+    },
+    {
+      "start": 1569.64,
+      "end": 1577.1,
+      "text": "\"I'd rather make a few million bucks a year with zero employees and cool customers than build some gigantic business that panders to anyone willing to give me a buck,\" he said."
+    },
+    {
+      "start": 1577.2,
+      "end": 1578.7,
+      "text": "\"I don't need to feed my ego."
+    },
+    {
+      "start": 1579.24,
+      "end": 1580.74,
+      "text": "I just collect monthly payments and chill.\""
+    },
+    {
+      "start": 1581.5,
+      "end": 1582.06,
+      "text": "Yeah, right."
+    },
+    {
+      "start": 1582.06,
+      "end": 1583.4,
+      "text": "\"Monthly payments?\""
+    },
+    {
+      "start": 1583.62,
+      "end": 1585.32,
+      "text": "I was like, \"That sounds less chill than upfront."
+    },
+    {
+      "start": 1585.72,
+      "end": 1588.36,
+      "text": "Don't you have to deal with churn, backouts, and all the other hassles of continuity?\""
+    },
+    {
+      "start": 1588.42,
+      "end": 1588.7,
+      "text": "I said."
+    },
+    {
+      "start": 1588.7,
+      "end": 1590.78,
+      "text": "\"Nope, not really."
+    },
+    {
+      "start": 1591.18,
+      "end": 1594.06,
+      "text": "The way I sell is so simple, you'll kick yourself once you hear it,\" he said."
+    },
+    {
+      "start": 1594.12,
+      "end": 1595.5,
+      "text": "\"I'm all ears.\""
+    },
+    {
+      "start": 1596.0,
+      "end": 1597.38,
+      "text": "\"I tell customers they have two options."
+    },
+    {
+      "start": 1597.92,
+      "end": 1599.82,
+      "text": "You can go month to month with a big setup fee."
+    },
+    {
+      "start": 1600.28,
+      "end": 1603.04,
+      "text": "It covers the cost of getting you started, but you can leave whenever."
+    },
+    {
+      "start": 1603.56,
+      "end": 1605.8,
+      "text": "Or if you commit to a year, I'll waive the fee."
+    },
+    {
+      "start": 1606.5,
+      "end": 1608.8,
+      "text": "And I make the fee huge, so buyers commit to avoid it."
+    },
+    {
+      "start": 1609.46,
+      "end": 1612.78,
+      "text": "I also have them initial they understand they can quit early if they pay the fee I waived.\""
+    },
+    {
+      "start": 1612.78,
+      "end": 1614.4,
+      "text": "\"Why such a big fee?\""
+    },
+    {
+      "start": 1614.5,
+      "end": 1614.84,
+      "text": "I asked."
+    },
+    {
+      "start": 1614.86,
+      "end": 1618.28,
+      "text": "\"It costs a lot to quit in the beginning, so that keeps them engaged.\""
+    },
+    {
+      "start": 1618.4,
+      "end": 1625.06,
+      "text": "\"And,\" I chimed in, \"and once they pass that point, it costs about the same to cancel as it does to stick it out, so they just stick it out.\""
+    },
+    {
+      "start": 1625.46,
+      "end": 1625.84,
+      "text": "\"Bingo.\""
+    },
+    {
+      "start": 1627.0,
+      "end": 1627.58,
+      "text": "Description."
+    },
+    {
+      "start": 1628.74,
+      "end": 1630.24,
+      "text": "Waived fee offer works like this."
+    },
+    {
+      "start": 1630.84,
+      "end": 1634.56,
+      "text": "First, you ask the customer to pay a startup fee as part of joining a month-to-month program."
+    },
+    {
+      "start": 1635.06,
+      "end": 1637.38,
+      "text": "Typically, I do three to five times my monthly rate."
+    },
+    {
+      "start": 1637.86,
+      "end": 1641.44,
+      "text": "Then you offer to discount the entire fee if they commit to a longer term."
+    },
+    {
+      "start": 1641.88,
+      "end": 1644.52,
+      "text": "But if they cancel inside the term, they pay the fee."
+    },
+    {
+      "start": 1645.3,
+      "end": 1651.74,
+      "text": "Customers can choose to pay a significant fee and keep the option to quit at any time, or they can commit to 12 months and get the fee waived."
+    },
+    {
+      "start": 1653.2,
+      "end": 1654.66,
+      "text": "Many will commit to avoid the big fee."
+    },
+    {
+      "start": 1655.56,
+      "end": 1659.74,
+      "text": "We take a greater risk if they pay month to month, but they take a greater risk if they commit."
+    },
+    {
+      "start": 1660.26,
+      "end": 1666.9,
+      "text": "If a customer chooses month to month, we lower our risk with the startup fee, but we lower their risk year to year by waiving those fees."
+    },
+    {
+      "start": 1667.4,
+      "end": 1669.9,
+      "text": "And if they commit and want to quit early, then okay."
+    },
+    {
+      "start": 1670.46,
+      "end": 1673.28,
+      "text": "They pay as if they had chosen month to month from the beginning."
+    },
+    {
+      "start": 1673.7,
+      "end": 1674.2,
+      "text": "Very simple."
+    },
+    {
+      "start": 1674.8,
+      "end": 1678.2,
+      "text": "Bottom line, customers will stay longer if leaving costs more than staying."
+    },
+    {
+      "start": 1679.6,
+      "end": 1680.04,
+      "text": "Example."
+    },
+    {
+      "start": 1680.62,
+      "end": 1684.32,
+      "text": "Since the offer focuses more on pricing, it'll look the same in all continuity businesses."
+    },
+    {
+      "start": 1684.66,
+      "end": 1688.38,
+      "text": "The following examples pulls from the story to give you a closer look at the mechanics."
+    },
+    {
+      "start": 1690.06,
+      "end": 1691.26,
+      "text": "Waived fees with commitment."
+    },
+    {
+      "start": 1692.06,
+      "end": 1693.4,
+      "text": "Commitment length, 12 months."
+    },
+    {
+      "start": 1693.72,
+      "end": 1695.44,
+      "text": "Monthly rate, 1,000 dollars per month."
+    },
+    {
+      "start": 1695.76,
+      "end": 1698.56,
+      "text": "Fee, 5,000 dollars if they pay month to month."
+    },
+    {
+      "start": 1699.32,
+      "end": 1707.2,
+      "text": "So, option A, pay one-time fee of 5,000 dollars plus 1,000 dollars for the first month, then pay 1,000 dollars per month thereafter."
+    },
+    {
+      "start": 1707.42,
+      "end": 1708.38,
+      "text": "Cancel whenever you want."
+    },
+    {
+      "start": 1708.92,
+      "end": 1712.62,
+      "text": "Option B, waive the 5,000 dollars if you commit to 12 months."
+    },
+    {
+      "start": 1713.1,
+      "end": 1714.32,
+      "text": "Pay 1,000 dollars per month."
+    },
+    {
+      "start": 1714.86,
+      "end": 1717.6,
+      "text": "Only pay the 5,000 dollars if you break your commitment early."
+    },
+    {
+      "start": 1719.58,
+      "end": 1720.34,
+      "text": "Important notes."
+    },
+    {
+      "start": 1721.54,
+      "end": 1722.62,
+      "text": "Fees get them to start."
+    },
+    {
+      "start": 1723.24,
+      "end": 1726.38,
+      "text": "People get value out of committing immediately because they avoid the fee."
+    },
+    {
+      "start": 1726.92,
+      "end": 1730.56,
+      "text": "People want to avoid fees, so more people sign up to continuity."
+    },
+    {
+      "start": 1730.92,
+      "end": 1731.72,
+      "text": "Mission accomplished."
+    },
+    {
+      "start": 1732.42,
+      "end": 1733.44,
+      "text": "Fees get them to stick."
+    },
+    {
+      "start": 1734.02,
+      "end": 1735.72,
+      "text": "People will stick for the same reason they started."
+    },
+    {
+      "start": 1736.26,
+      "end": 1737.72,
+      "text": "By sticking, they avoid the fee."
+    },
+    {
+      "start": 1738.3,
+      "end": 1748.0,
+      "text": "People quit for millions of reasons, but incurring an additional and larger fee in order to cancel, their original reason for quitting immediately shrinks compared to the value of avoiding the fee."
+    },
+    {
+      "start": 1748.5,
+      "end": 1752.94,
+      "text": "In English, if the cost to quit exceeds the cost to stay, they'll probably stay."
+    },
+    {
+      "start": 1754.66,
+      "end": 1755.52,
+      "text": "Presenting the fee."
+    },
+    {
+      "start": 1756.38,
+      "end": 1760.36,
+      "text": "Justify the fee by explaining the cost of taking on new customers for long-term programs."
+    },
+    {
+      "start": 1760.84,
+      "end": 1765.08,
+      "text": "Basically, if they want short-term flexibility, they pay their own setup costs."
+    },
+    {
+      "start": 1765.62,
+      "end": 1769.1,
+      "text": "But if they commit to staying long term, we pay their setup costs for them."
+    },
+    {
+      "start": 1769.58,
+      "end": 1773.12,
+      "text": "If someone asks for additional reasoning, just say, \"It costs us money to get you started."
+    },
+    {
+      "start": 1773.62,
+      "end": 1775.5,
+      "text": "If you only want to test this out, you cover those costs."
+    },
+    {
+      "start": 1775.58,
+      "end": 1777.08,
+      "text": "If you commit to longer, I'll cover them.\""
+    },
+    {
+      "start": 1778.18,
+      "end": 1781.04,
+      "text": "If more than 5% of people want to cancel early, look into it."
+    },
+    {
+      "start": 1781.54,
+      "end": 1785.88,
+      "text": "Pricing incentivizes stick, but can't and shouldn't overcome a terrible product."
+    },
+    {
+      "start": 1786.38,
+      "end": 1789.4,
+      "text": "You want to nudge them, not handcuff people into paying for something they hate."
+    },
+    {
+      "start": 1789.86,
+      "end": 1790.76,
+      "text": "Then they'll just hate you."
+    },
+    {
+      "start": 1792.8,
+      "end": 1795.0,
+      "text": "If you want more cash upfront, have a smaller fee."
+    },
+    {
+      "start": 1795.54,
+      "end": 1797.62,
+      "text": "A smaller fee encourages people to go month to month."
+    },
+    {
+      "start": 1798.04,
+      "end": 1800.04,
+      "text": "A larger fee encourages people to make the commitment."
+    },
+    {
+      "start": 1800.5,
+      "end": 1804.9,
+      "text": "But if you need more cash upfront, you can make the fee one and a half to three times the monthly rate."
+    },
+    {
+      "start": 1805.1,
+      "end": 1807.88,
+      "text": "When you do this, more people will take it, and you'll get more cash upfront."
+    },
+    {
+      "start": 1809.06,
+      "end": 1811.22,
+      "text": "Drop the fee after the customer fulfills the commitment."
+    },
+    {
+      "start": 1811.72,
+      "end": 1816.24,
+      "text": "If someone stays the entirety of their commitment, then wants to cancel, they have earned their free cancellation."
+    },
+    {
+      "start": 1816.64,
+      "end": 1817.52,
+      "text": "It doesn't stick forever."
+    },
+    {
+      "start": 1817.78,
+      "end": 1818.66,
+      "text": "This makes it equitable."
+    },
+    {
+      "start": 1819.86,
+      "end": 1823.06,
+      "text": "I prefer this offer for commitments of one year and longer."
+    },
+    {
+      "start": 1823.93,
+      "end": 1825.93,
+      "text": "The longer the commitment, the better this works."
+    },
+    {
+      "start": 1826.31,
+      "end": 1828.87,
+      "text": "It works especially well with services that take a long time to work."
+    },
+    {
+      "start": 1829.31,
+      "end": 1831.87,
+      "text": "Think SEO, investing, weight loss, etc."
+    },
+    {
+      "start": 1832.65,
+      "end": 1834.49,
+      "text": "It keeps people committed when they get emotional."
+    },
+    {
+      "start": 1835.69,
+      "end": 1837.69,
+      "text": "Cancellation fees for a cause."
+    },
+    {
+      "start": 1839.31,
+      "end": 1845.35,
+      "text": "If you want to keep customers extra motivated, you can donate their fee to a cause that they are against."
+    },
+    {
+      "start": 1845.71,
+      "end": 1848.07,
+      "text": "Example, what cause do you absolutely hate?"
+    },
+    {
+      "start": 1848.45,
+      "end": 1848.73,
+      "text": "Great."
+    },
+    {
+      "start": 1849.15,
+      "end": 1851.63,
+      "text": "If you cancel early, I will be donating your setup fee to them."
+    },
+    {
+      "start": 1852.29,
+      "end": 1853.83,
+      "text": "This gives them two reasons to stay."
+    },
+    {
+      "start": 1854.23,
+      "end": 1855.79,
+      "text": "First, because they don't want to shell out the cash."
+    },
+    {
+      "start": 1856.11,
+      "end": 1858.01,
+      "text": "Second, because they don't want it to go to a cause they hate."
+    },
+    {
+      "start": 1859.05,
+      "end": 1859.69,
+      "text": "Summary points."
+    },
+    {
+      "start": 1860.21,
+      "end": 1865.21,
+      "text": "Waived fee offers present a month-to-month option with a fee or waive the fee if they commit."
+    },
+    {
+      "start": 1866.33,
+      "end": 1869.07,
+      "text": "I typically make the fee three to five times my monthly rate."
+    },
+    {
+      "start": 1869.65,
+      "end": 1871.45,
+      "text": "At minimum, the commitment length should be a year."
+    },
+    {
+      "start": 1871.95,
+      "end": 1874.15,
+      "text": "The larger your fee, the more buyers will offer the commitment."
+    },
+    {
+      "start": 1874.49,
+      "end": 1876.87,
+      "text": "The smaller your fee, the more upfront cash you'll get."
+    },
+    {
+      "start": 1877.51,
+      "end": 1880.27,
+      "text": "If the customer meets the commitment, the fee officially goes away."
+    },
+    {
+      "start": 1881.83,
+      "end": 1882.29,
+      "text": "Free gift."
+    },
+    {
+      "start": 1882.79,
+      "end": 1883.87,
+      "text": "Waive fee video training."
+    },
+    {
+      "start": 1884.49,
+      "end": 1886.91,
+      "text": "Waive fees are so, so, so effective."
+    },
+    {
+      "start": 1887.39,
+      "end": 1889.41,
+      "text": "I can't wait for you to actually use them and see for yourself."
+    },
+    {
+      "start": 1889.87,
+      "end": 1894.11,
+      "text": "To make sure you feel confident doing them on your own, I made a video walking you through them."
+    },
+    {
+      "start": 1894.65,
+      "end": 1899.01,
+      "text": "As usual, you can watch for free at acquisition.com/training/money."
+    },
+    {
+      "start": 1900.97,
+      "end": 1902.29,
+      "text": "Continuity offers conclusion."
+    },
+    {
+      "start": 1902.95,
+      "end": 1906.27,
+      "text": "The only thing better than getting someone to buy once is getting them to buy again."
+    },
+    {
+      "start": 1907.61,
+      "end": 1912.49,
+      "text": "Continuity offers provide ongoing value that customers make ongoing payments for until they cancel."
+    },
+    {
+      "start": 1913.15,
+      "end": 1918.17,
+      "text": "Many businesses use continuity offers to attract customers for less, but it crashes their day-to-day profits."
+    },
+    {
+      "start": 1918.57,
+      "end": 1920.35,
+      "text": "This makes profitable advertising difficult."
+    },
+    {
+      "start": 1920.97,
+      "end": 1922.49,
+      "text": "I use continuity offers differently."
+    },
+    {
+      "start": 1923.01,
+      "end": 1923.79,
+      "text": "I make them last."
+    },
+    {
+      "start": 1924.17,
+      "end": 1929.41,
+      "text": "I start with profitable attraction offers, then make my upsell and downsell offers, then I offer continuity."
+    },
+    {
+      "start": 1929.69,
+      "end": 1933.93,
+      "text": "And if they accept, I upsell bulk payments of time or product at a discount."
+    },
+    {
+      "start": 1934.39,
+      "end": 1937.47,
+      "text": "Then they automatically enter continuity after they've used up their bulk purchase."
+    },
+    {
+      "start": 1937.91,
+      "end": 1943.05,
+      "text": "This way, I make even more cash, and I get the recurring cash benefits of the other continuity customers."
+    },
+    {
+      "start": 1943.69,
+      "end": 1945.89,
+      "text": "Continuity offers work with rewards or punishment."
+    },
+    {
+      "start": 1946.21,
+      "end": 1949.63,
+      "text": "I prefer rewards, and two of the three continuity offers I explained use them."
+    },
+    {
+      "start": 1950.07,
+      "end": 1952.61,
+      "text": "But there will always be times when a more traditional contract makes sense."
+    },
+    {
+      "start": 1952.77,
+      "end": 1955.33,
+      "text": "In those situation, I like waived fee offers."
+    },
+    {
+      "start": 1956.35,
+      "end": 1963.73,
+      "text": "In the next section, we will create our 100 million dollar money model by combining all four offer types: attraction offers, upsell offers, downsell offers, and continuity offers."
+    },
+    {
+      "start": 1964.11,
+      "end": 1964.93,
+      "text": "Let's put a bow on it."
+    },
+    {
+      "start": 1965.89,
+      "end": 1966.33,
+      "text": "Author note."
+    },
+    {
+      "start": 1966.59,
+      "end": 1967.15,
+      "text": "Last call."
+    },
+    {
+      "start": 1967.45,
+      "end": 1968.53,
+      "text": "Have a cool continuity offer?"
+    },
+    {
+      "start": 1968.91,
+      "end": 1969.97,
+      "text": "If you do, I'd love to see it."
+    },
+    {
+      "start": 1970.25,
+      "end": 1972.21,
+      "text": "You can send it to value@acquisition.com."
+    },
+    {
+      "start": 1973.11,
+      "end": 1978.63,
+      "text": "Just follow the five-step format I use in all the examples in this book and send any links that you can so I can check it out."
+    },
+    {
+      "start": 1979.05,
+      "end": 1981.07,
+      "text": "I'll give you credit, and I'll publish the cool ones on my channel."
+    },
+    {
+      "start": 1982.57,
+      "end": 1983.07,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 1983.35,
+      "end": 1988.51,
+      "text": "I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 1989.19,
+      "end": 1994.49,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 1994.59,
+      "end": 2000.15,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 2000.19,
+      "end": 2006.29,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 2006.63,
+      "end": 2010.65,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 2010.81,
+      "end": 2014.23,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 2014.33,
+      "end": 2016.75,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 2016.89,
+      "end": 2021.87,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 2021.91,
+      "end": 2028.09,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 2028.73,
+      "end": 2035.13,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap, R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "fa331b1c793d75190f7aae363c4207e4f74efb9196673fe9fc8d22d64f29733a",
+  "audio_duration_sec": 2040.372245,
+  "elapsed_sec": 16.8,
+  "created": "2026-11-16T03:31:58+00:00"
+}

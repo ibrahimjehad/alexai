@@ -1,0 +1,1277 @@
+{
+  "source_id": "hormozi-game-ep-p275",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 5.9,
+      "text": "If you're trying to close a deal, you want to educate the person, but the reality is, that's not-- they're not going to listen to you until they buy."
+    },
+    {
+      "start": 6.24,
+      "end": 10.46,
+      "text": "And so there's no actual point in, quote, \"teaching,\" but you do want to coach."
+    },
+    {
+      "start": 10.9,
+      "end": 17.48,
+      "text": "Welcome to the game, where we talk about how to get more customers, how to make more per customer, and how to keep them longer, and the many failures and lessons we have learned along the way."
+    },
+    {
+      "start": 17.6,
+      "end": 18.88,
+      "text": "I hope you enjoy and subscribe."
+    },
+    {
+      "start": 19.98,
+      "end": 20.72,
+      "text": "What's going on, everyone?"
+    },
+    {
+      "start": 20.94,
+      "end": 25.72,
+      "text": "I want to make a quick video for you guys about the only three things to say when closing or selling."
+    },
+    {
+      "start": 26.2,
+      "end": 35.64,
+      "text": "And the reason this came up was, uh, recently I was on, uh, I was, I was coaching our sales team, uh, on just, just going over game tape footage, which is like, \"Hey, how's, you know, let's, let's watch a sale from yesterday."
+    },
+    {
+      "start": 36.0,
+      "end": 41.08,
+      "text": "You know, what we could, what, what, what was done well, what was great, what was bad, what could have been improved, et cetera.\""
+    },
+    {
+      "start": 41.68,
+      "end": 47.26,
+      "text": "And one of the, the habits that some of our team gets in, because our, our sales team is really knowledgeable."
+    },
+    {
+      "start": 47.54,
+      "end": 49.68,
+      "text": "Um, we call them business consultants because they really are."
+    },
+    {
+      "start": 50.24,
+      "end": 51.86,
+      "text": "I mean, they really are business consultants, you know what I mean?"
+    },
+    {
+      "start": 52.18,
+      "end": 58.44,
+      "text": "And that's why sometimes it's harder to find good salespeople, because they have to have, um, a really high level of understanding."
+    },
+    {
+      "start": 58.48,
+      "end": 63.88,
+      "text": "If you're going to-- like, the higher the level of the business that you're going to be selling, the higher level of expertise the person talking to them must have."
+    },
+    {
+      "start": 64.22,
+      "end": 76.6,
+      "text": "If they have no context, that's why, like, low-level transactional sales, like if you're doing B2C, you know, supplement sales over the phone, you really don't know-- need to have an ex- an exquisitely, you know, knowledgeable, uh, uh, rep."
+    },
+    {
+      "start": 76.64,
+      "end": 82.08,
+      "text": "It's more about, uh, a very transactional process that's going to be very highly scripted, minimal variability, right?"
+    },
+    {
+      "start": 82.52,
+      "end": 91.52,
+      "text": "Whereas if you're talking about a complex business deal, right, um, then you need to have a very good understanding of their business, where there's potential opportunities, et cetera, right?"
+    },
+    {
+      "start": 92.02,
+      "end": 116.22,
+      "text": "And so sometimes it can be difficult because you may want to switch, and this is especially true when it's, uh, if you're the owner of the business or you're, you know, integrally involved in, in just a couple of, of salespeople, you may get into the mode of trying to teach, which is one of the biggest, um, A, mistakes, but B, um, one of the biggest hard things to not do, there's some good words, um, as a salesperson, right?"
+    },
+    {
+      "start": 116.3,
+      "end": 122.2,
+      "text": "Because if you're trying to close a deal, you want to educate the person, but the reality is, that's not-- they're not going to listen to you until they buy."
+    },
+    {
+      "start": 122.5,
+      "end": 126.7,
+      "text": "And so there's no actual point in, quote, \"teaching,\" but you do want to coach."
+    },
+    {
+      "start": 127.06,
+      "end": 132.26,
+      "text": "And that's something that I was talking about with my team yesterday, is the difference between, uh, teaching and coaching."
+    },
+    {
+      "start": 132.28,
+      "end": 137.02,
+      "text": "And so fundamentally, there's only three types of statements that should come out of your mouth when you are selling."
+    },
+    {
+      "start": 137.48,
+      "end": 140.36,
+      "text": "Number one, and most likely to be coming out, is questions."
+    },
+    {
+      "start": 140.72,
+      "end": 140.9,
+      "text": "All right?"
+    },
+    {
+      "start": 141.24,
+      "end": 149.72,
+      "text": "So if you don't know what types of questions, um, like for us, I, I prefer question-based frameworks for more complex sales."
+    },
+    {
+      "start": 150.2,
+      "end": 154.38,
+      "text": "Um, and the reason for that is these are the types of questions that we would need to know the answer to in order to work with someone."
+    },
+    {
+      "start": 154.78,
+      "end": 158.32,
+      "text": "It's also the only way that you can get someone to change their beliefs about something."
+    },
+    {
+      "start": 158.62,
+      "end": 168.3,
+      "text": "Because ultimately, the person, especially the more complex, the higher level the sale, the, the more the person has to come to the conclusion on their own that they should work with you and less feel forced or suggested."
+    },
+    {
+      "start": 168.74,
+      "end": 169.52,
+      "text": "Hopefully that makes sense."
+    },
+    {
+      "start": 169.84,
+      "end": 175.88,
+      "text": "And so we should ask leading questions that lead them to the conclusion that they should work with you and you can solve their problems."
+    },
+    {
+      "start": 176.82,
+      "end": 184.6,
+      "text": "The second, uh, type of thing is a restatement, which means, uh, after they say something, you say it back to them,"
+    },
+    {
+      "start": 186.36,
+      "end": 189.0,
+      "text": "which means that you understand and you are listening."
+    },
+    {
+      "start": 189.32,
+      "end": 189.52,
+      "text": "All right?"
+    },
+    {
+      "start": 189.78,
+      "end": 193.4,
+      "text": "So it's like, \"So what I'm hearing is, this is the primary issue that you've been trying to solve."
+    },
+    {
+      "start": 193.44,
+      "end": 195.8,
+      "text": "This is what you've done so far, and this is why it hasn't worked."
+    },
+    {
+      "start": 195.82,
+      "end": 196.56,
+      "text": "Does that sound about right?\""
+    },
+    {
+      "start": 197.1,
+      "end": 198.52,
+      "text": "So that would be an example of a restatement."
+    },
+    {
+      "start": 198.84,
+      "end": 204.76,
+      "text": "Notice, none of these things are, are, are, are, are declarative statements of fact."
+    },
+    {
+      "start": 204.86,
+      "end": 206.16,
+      "text": "I'm not teaching them anything."
+    },
+    {
+      "start": 206.56,
+      "end": 206.7,
+      "text": "All right?"
+    },
+    {
+      "start": 206.72,
+      "end": 209.98,
+      "text": "Which is the same reason that people get in trouble when they do presentations to try and pitch."
+    },
+    {
+      "start": 210.38,
+      "end": 211.24,
+      "text": "They try and teach."
+    },
+    {
+      "start": 211.7,
+      "end": 220.94,
+      "text": "The thing is, is person has to have their beliefs broken in order to take action, and you're not providing value in a real way because the reality is they're not going to execute on anything you teach them."
+    },
+    {
+      "start": 221.34,
+      "end": 226.46,
+      "text": "They will only execute if they have their beliefs broken and believe you can help them, and then that they can trust what you are saying."
+    },
+    {
+      "start": 226.8,
+      "end": 234.18,
+      "text": "This is like, this was so hard for me to learn because in the very beginning when I started Gym Launch, I just wanted to go in and get on the phone with gyms and, \"No, no, your pricing is all wrong."
+    },
+    {
+      "start": 234.2,
+      "end": 235.44,
+      "text": "You gotta do this, you gotta do this, you gotta do this.\""
+    },
+    {
+      "start": 235.7,
+      "end": 242.32,
+      "text": "And they were just like, take lots of notes and then end up getting off the call, not buying, and then be like, \"Well, uh, I don't even know who this guy is."
+    },
+    {
+      "start": 242.36,
+      "end": 243.06,
+      "text": "I'm just gonna ignore it.\""
+    },
+    {
+      "start": 243.1,
+      "end": 244.24,
+      "text": "And so I didn't actually help them."
+    },
+    {
+      "start": 244.32,
+      "end": 247.18,
+      "text": "I thought I was helping them, but I was not actually helping them."
+    },
+    {
+      "start": 247.2,
+      "end": 249.66,
+      "text": "And I actually heard this from Taki Moore, a good friend of mine."
+    },
+    {
+      "start": 249.76,
+      "end": 254.52,
+      "text": "Um, he said, uh, \"Everyone gets benefits from breaking beliefs."
+    },
+    {
+      "start": 254.94,
+      "end": 257.58,
+      "text": "Only 10% of people get benefits from tactics.\""
+    },
+    {
+      "start": 257.92,
+      "end": 271.08,
+      "text": "And so you actually are providing more value on the call by questioning their beliefs because you're actually servicing 100% of the people providing value compared to trying to give tactical advice that only one out of 10 people may or may not use."
+    },
+    {
+      "start": 271.32,
+      "end": 273.48,
+      "text": "And likely the people who will use it are not buying from you."
+    },
+    {
+      "start": 273.76,
+      "end": 277.34,
+      "text": "So either way, you're, you're not benefiting your business and you're also not benefiting theirs."
+    },
+    {
+      "start": 277.36,
+      "end": 279.8,
+      "text": "That was a huge thing that I had to break with my own beliefs."
+    },
+    {
+      "start": 280.24,
+      "end": 284.22,
+      "text": "And so then you might be wondering, \"Well, if I'm only asking questions and restating things, how do I close the deal?\""
+    },
+    {
+      "start": 284.78,
+      "end": 285.94,
+      "text": "Great, great question."
+    },
+    {
+      "start": 286.0,
+      "end": 286.6,
+      "text": "Glad you asked."
+    },
+    {
+      "start": 286.76,
+      "end": 286.94,
+      "text": "All right?"
+    },
+    {
+      "start": 288.64,
+      "end": 290.96,
+      "text": "And so what I like are short stories."
+    },
+    {
+      "start": 292.0,
+      "end": 297.28,
+      "text": "And so the reason we do this is that, so we ask a question, ask a series of questions."
+    },
+    {
+      "start": 297.3,
+      "end": 298.06,
+      "text": "\"Hey, why are you here?"
+    },
+    {
+      "start": 298.42,
+      "end": 299.18,
+      "text": "What are you struggling with?"
+    },
+    {
+      "start": 299.26,
+      "end": 299.86,
+      "text": "Where are you at right now?"
+    },
+    {
+      "start": 299.9,
+      "end": 300.48,
+      "text": "Where are you trying to go?"
+    },
+    {
+      "start": 300.52,
+      "end": 301.38,
+      "text": "What have you tried so far?"
+    },
+    {
+      "start": 301.42,
+      "end": 302.42,
+      "text": "How's that working for you?"
+    },
+    {
+      "start": 302.84,
+      "end": 304.1,
+      "text": "Um, why is this important?"
+    },
+    {
+      "start": 304.14,
+      "end": 307.48,
+      "text": "Does it matter, like within the bigger context of, of your life and what you're trying to do?"
+    },
+    {
+      "start": 307.9,
+      "end": 308.48,
+      "text": "Okay, great."
+    },
+    {
+      "start": 308.52,
+      "end": 309.22,
+      "text": "This is what I'm hearing."
+    },
+    {
+      "start": 309.28,
+      "end": 311.54,
+      "text": "I think this is why, uh, you haven't been successful."
+    },
+    {
+      "start": 311.58,
+      "end": 312.3,
+      "text": "Would you agree with that?"
+    },
+    {
+      "start": 312.34,
+      "end": 313.0,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 313.36,
+      "end": 313.92,
+      "text": "Fantastic."
+    },
+    {
+      "start": 313.94,
+      "end": 315.06,
+      "text": "Do you want to hear how our program works?\""
+    },
+    {
+      "start": 315.66,
+      "end": 315.94,
+      "text": "Right."
+    },
+    {
+      "start": 316.12,
+      "end": 318.04,
+      "text": "So at that point, you'd enter, quote, \"the pitch,\" right?"
+    },
+    {
+      "start": 318.1,
+      "end": 319.52,
+      "text": "Which is where you're gonna explain how the services work."
+    },
+    {
+      "start": 319.84,
+      "end": 323.7,
+      "text": "This is where most guys and gals will just blab, right?"
+    },
+    {
+      "start": 323.74,
+      "end": 331.56,
+      "text": "They'll just talk and talk and talk and talk and talk and try and teach and about how they have this secret system and they-- and really, uh, I think Russell Brunson calls it technobabble."
+    },
+    {
+      "start": 331.6,
+      "end": 337.68,
+      "text": "It's like you talk about your periodization, or you talk about your plan, or you talk about your programs, or talk about the softwares or whatever, right?"
+    },
+    {
+      "start": 338.0,
+      "end": 339.6,
+      "text": "And the reality is, they don't care."
+    },
+    {
+      "start": 339.98,
+      "end": 346.84,
+      "text": "And so all we have to do, realistically, is tell a story that illustrates what they're going to experience as a result."
+    },
+    {
+      "start": 347.28,
+      "end": 347.44,
+      "text": "All right?"
+    },
+    {
+      "start": 347.76,
+      "end": 353.88,
+      "text": "And so, um, if I were trying to sell, uh, you know, I'll, I'll just use Gym Launch as a simple example."
+    },
+    {
+      "start": 353.94,
+      "end": 359.88,
+      "text": "So if I'm like, \"Listen, fundamentally, until you learn how to market your business, you're never going to be free.\""
+    },
+    {
+      "start": 360.58,
+      "end": 364.64,
+      "text": "And earlier, you said that the goal, when we asked for context, is that you want to, you want to be free."
+    },
+    {
+      "start": 364.66,
+      "end": 366.42,
+      "text": "You want this business to be able to run on its own."
+    },
+    {
+      "start": 366.9,
+      "end": 368.04,
+      "text": "Um, does that sound about right?"
+    },
+    {
+      "start": 368.16,
+      "end": 368.38,
+      "text": "Yes."
+    },
+    {
+      "start": 368.5,
+      "end": 368.98,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 369.26,
+      "end": 377.44,
+      "text": "Well, then, then do you see a world in which you're going to be able to outsource the most important part of your business, which is acquisition, lead generation, lead nurture, and sales?"
+    },
+    {
+      "start": 377.68,
+      "end": 382.76,
+      "text": "Do you feel like there's a world where you can just offload that responsibility and then somehow have a reliable business?"
+    },
+    {
+      "start": 382.78,
+      "end": 386.58,
+      "text": "Because what if that business goes out of business, which is likely, happens all the time, then what?"
+    },
+    {
+      "start": 387.04,
+      "end": 387.24,
+      "text": "Right."
+    },
+    {
+      "start": 387.28,
+      "end": 394.2,
+      "text": "You're never actually going to be free until you learn this, which means you have to confront this either today, tomorrow, or 10 years from now, but you're going to have to do it."
+    },
+    {
+      "start": 394.24,
+      "end": 394.96,
+      "text": "Does that sound fair?"
+    },
+    {
+      "start": 395.0,
+      "end": 395.74,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 396.28,
+      "end": 396.42,
+      "text": "Right?"
+    },
+    {
+      "start": 396.86,
+      "end": 400.42,
+      "text": "And so here, what I'm doing is I'm trying to, I'm telling, I'm telling a story to break a belief."
+    },
+    {
+      "start": 400.76,
+      "end": 405.04,
+      "text": "I'm not saying, \"Let me show you how we're going to teach you how to market.\""
+    },
+    {
+      "start": 405.58,
+      "end": 409.6,
+      "text": "Instead, I'm saying, \"We have to at least come to an agreement that you need to learn this skill."
+    },
+    {
+      "start": 409.8,
+      "end": 410.72,
+      "text": "Does that sound fair?\""
+    },
+    {
+      "start": 411.24,
+      "end": 411.56,
+      "text": "Yes."
+    },
+    {
+      "start": 411.88,
+      "end": 418.26,
+      "text": "And then the next kind of mini story, and if I, if they didn't understand it, then it would be like, well, this is the difference between giving a fish and teaching a man to fish."
+    },
+    {
+      "start": 418.46,
+      "end": 420.66,
+      "text": "Right now, you need to learn how to fish for yourself, right?"
+    },
+    {
+      "start": 420.72,
+      "end": 422.84,
+      "text": "In order for this business to be sustainable for you, right?"
+    },
+    {
+      "start": 423.38,
+      "end": 423.6,
+      "text": "Right."
+    },
+    {
+      "start": 423.84,
+      "end": 426.82,
+      "text": "And so these are little analogies that you've already prepackaged."
+    },
+    {
+      "start": 427.26,
+      "end": 434.3,
+      "text": "If I was selling weight loss, I would say something like, \"All right, well, fundamentally, you know, fitness, nutrition, accountability, you need these three things."
+    },
+    {
+      "start": 434.4,
+      "end": 436.52,
+      "text": "Fitness-wise, you're going to have to come and work out here."
+    },
+    {
+      "start": 436.58,
+      "end": 438.04,
+      "text": "We agree that you need to work out, right?\""
+    },
+    {
+      "start": 438.42,
+      "end": 438.6,
+      "text": "\"Right.\""
+    },
+    {
+      "start": 439.0,
+      "end": 440.2,
+      "text": "\"Why haven't you been working out so far?\""
+    },
+    {
+      "start": 440.44,
+      "end": 441.1,
+      "text": "\"I don't know how.\""
+    },
+    {
+      "start": 441.6,
+      "end": 442.16,
+      "text": "\"Fair enough."
+    },
+    {
+      "start": 442.22,
+      "end": 443.62,
+      "text": "Is it also because you're not motivated to do it?\""
+    },
+    {
+      "start": 443.98,
+      "end": 444.26,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 444.56,
+      "end": 446.78,
+      "text": "\"What if you actually, what do you, what's something that you like doing?\""
+    },
+    {
+      "start": 447.08,
+      "end": 449.08,
+      "text": "\"Well, I like doing, I like watching TV.\""
+    },
+    {
+      "start": 449.18,
+      "end": 449.44,
+      "text": "\"Cool."
+    },
+    {
+      "start": 449.68,
+      "end": 454.52,
+      "text": "What if, what if working out was something that you could look forward to as much as or more than watching TV?"
+    },
+    {
+      "start": 454.8,
+      "end": 457.52,
+      "text": "If you liked working out more than watching television, which one do you think you would do?\""
+    },
+    {
+      "start": 458.0,
+      "end": 458.92,
+      "text": "\"Well, I'd probably work out.\""
+    },
+    {
+      "start": 459.1,
+      "end": 459.28,
+      "text": "\"Right."
+    },
+    {
+      "start": 459.34,
+      "end": 464.72,
+      "text": "So our goal is not to get you to work out, but learn to like working out more than watching television."
+    },
+    {
+      "start": 464.8,
+      "end": 467.14,
+      "text": "If we can accomplish that, then we're going to solve this problem for good."
+    },
+    {
+      "start": 467.18,
+      "end": 467.82,
+      "text": "Does that make sense?\""
+    },
+    {
+      "start": 468.2,
+      "end": 468.52,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 468.86,
+      "end": 471.14,
+      "text": "Notice, I told them they're going to have to work out."
+    },
+    {
+      "start": 471.42,
+      "end": 483.26,
+      "text": "I did not talk about the, the, the new, the, the exercise selection we're going to do, the programming, how we're going to ramp up their volume, their undulating periodization, the fancy exercises, like none of that stuff we talked about because it doesn't matter."
+    },
+    {
+      "start": 483.68,
+      "end": 487.52,
+      "text": "We have to just come to an agreement that this is what we are going to be doing to solve the problem."
+    },
+    {
+      "start": 487.78,
+      "end": 488.56,
+      "text": "Does that make sense?"
+    },
+    {
+      "start": 489.02,
+      "end": 489.34,
+      "text": "Yes."
+    },
+    {
+      "start": 489.72,
+      "end": 490.18,
+      "text": "Fantastic."
+    },
+    {
+      "start": 490.2,
+      "end": 491.06,
+      "text": "Then we move forward, right?"
+    },
+    {
+      "start": 493.42,
+      "end": 494.0,
+      "text": "Real quick, guys."
+    },
+    {
+      "start": 494.04,
+      "end": 497.82,
+      "text": "You guys already know that I don't run any ads on this, and I don't sell anything."
+    },
+    {
+      "start": 497.88,
+      "end": 508.08,
+      "text": "And so the only ask that I can ever have from you guys is that you help me spread the word so we can help more entrepreneurs make more money, feed their families, make better products, and have better experiences for their employees and customers."
+    },
+    {
+      "start": 508.3,
+      "end": 512.6,
+      "text": "And the only way we do that is if you can rate and review and share this podcast."
+    },
+    {
+      "start": 512.82,
+      "end": 515.06,
+      "text": "So the single thing that I ask you to do is you can just leave a review."
+    },
+    {
+      "start": 515.32,
+      "end": 517.18,
+      "text": "It'll take you 10 seconds or one type of the thumb."
+    },
+    {
+      "start": 517.28,
+      "end": 521.0,
+      "text": "It would mean the absolute world to me, and more importantly, it may change the world for someone else."
+    },
+    {
+      "start": 523.48,
+      "end": 525.46,
+      "text": "And so you'll have these prepackaged ideas."
+    },
+    {
+      "start": 525.5,
+      "end": 527.3,
+      "text": "Another example is if I, if I had somebody who wasn't..."
+    },
+    {
+      "start": 527.64,
+      "end": 529.44,
+      "text": "I'm giving you these examples to hopefully drive the point home."
+    },
+    {
+      "start": 529.78,
+      "end": 532.98,
+      "text": "If someone said, uh, you know, \"You're going to have to change the way you eat,\" for example."
+    },
+    {
+      "start": 533.34,
+      "end": 535.52,
+      "text": "Then I'd say, \"Okay, well, you've probably tried stuff in the past, right?\""
+    },
+    {
+      "start": 535.58,
+      "end": 537.5,
+      "text": "I'm not going to talk to them about a fucking meal plan, right?"
+    },
+    {
+      "start": 537.72,
+      "end": 538.68,
+      "text": "Doesn't matter, right?"
+    },
+    {
+      "start": 539.04,
+      "end": 541.44,
+      "text": "It does matter, but not in this conversation, it does not matter."
+    },
+    {
+      "start": 541.98,
+      "end": 545.18,
+      "text": "Fundamentally, you're going to change the way you eat because what you got..."
+    },
+    {
+      "start": 546.08,
+      "end": 548.44,
+      "text": "Like, why you are here is because of something you are currently doing."
+    },
+    {
+      "start": 548.48,
+      "end": 549.2,
+      "text": "Does that sound fair?"
+    },
+    {
+      "start": 549.76,
+      "end": 549.98,
+      "text": "Right."
+    },
+    {
+      "start": 550.28,
+      "end": 550.7,
+      "text": "Okay, cool."
+    },
+    {
+      "start": 550.9,
+      "end": 553.28,
+      "text": "So again, with this example, I'd be like, \"Well, do you like cake?"
+    },
+    {
+      "start": 553.56,
+      "end": 554.22,
+      "text": "Do you like cookies?\""
+    },
+    {
+      "start": 554.5,
+      "end": 554.78,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 555.1,
+      "end": 556.04,
+      "text": "\"Okay, so then the key..."
+    },
+    {
+      "start": 556.14,
+      "end": 558.18,
+      "text": "Do you think you could not eat cookies for the rest of your life?"
+    },
+    {
+      "start": 558.58,
+      "end": 560.56,
+      "text": "Do you think you could not eat cake or not eat ice cream for the rest of your life?"
+    },
+    {
+      "start": 560.58,
+      "end": 561.4,
+      "text": "Do you think that's reasonable?\""
+    },
+    {
+      "start": 561.98,
+      "end": 562.88,
+      "text": "\"No, I don't think that's reasonable.\""
+    },
+    {
+      "start": 563.02,
+      "end": 563.24,
+      "text": "\"Cool."
+    },
+    {
+      "start": 563.44,
+      "end": 569.86,
+      "text": "So then we have to figure out a way for you to eat the things that you enjoy and still lose weight and do it in a way so that you look forward to it."
+    },
+    {
+      "start": 570.1,
+      "end": 574.2,
+      "text": "Because at the end of the day, if you like the food more than you're currently eating, you will stick with it."
+    },
+    {
+      "start": 574.22,
+      "end": 574.92,
+      "text": "Does that sound fair?\""
+    },
+    {
+      "start": 575.52,
+      "end": 575.8,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 576.0,
+      "end": 579.42,
+      "text": "\"Because do you think that you can sustainably give yourself willpower for the rest of your life?\""
+    },
+    {
+      "start": 579.42,
+      "end": 580.26,
+      "text": "\"No.\""
+    },
+    {
+      "start": 580.62,
+      "end": 580.92,
+      "text": "\"Okay."
+    },
+    {
+      "start": 581.18,
+      "end": 587.28,
+      "text": "Well, then can we agree that all we have to do is just simply figure out the foods that you will like, and that's an iterative process for us, and we'll walk through it."
+    },
+    {
+      "start": 587.46,
+      "end": 594.68,
+      "text": "But the end goal is that you will like this more than you're currently eating, and as a result of that, we'll stick with it, which means that over the long haul, you'll get to where you want to go."
+    },
+    {
+      "start": 594.92,
+      "end": 595.42,
+      "text": "Does that sound fair?\""
+    },
+    {
+      "start": 595.86,
+      "end": 596.08,
+      "text": "\"Yes.\""
+    },
+    {
+      "start": 596.34,
+      "end": 598.18,
+      "text": "Notice, again, this is an explanation."
+    },
+    {
+      "start": 598.22,
+      "end": 599.74,
+      "text": "This is a, this is a mini story."
+    },
+    {
+      "start": 599.78,
+      "end": 607.48,
+      "text": "This is an analogy that we'll use, and you should have multiple of these so you can drive the point home if you feel like the prospect does not understand what you are saying, right?"
+    },
+    {
+      "start": 607.8,
+      "end": 611.38,
+      "text": "And so this is where we are, we are coaching based on beliefs."
+    },
+    {
+      "start": 611.88,
+      "end": 620.56,
+      "text": "We are not explaining or tacticalizing or technobabbling about our program because fundamentally, it does not matter."
+    },
+    {
+      "start": 621.1,
+      "end": 623.58,
+      "text": "They don't care, nor will they listen."
+    },
+    {
+      "start": 623.62,
+      "end": 624.4,
+      "text": "They're not even paying attention."
+    },
+    {
+      "start": 624.42,
+      "end": 627.12,
+      "text": "Whenever you have a monotone, you can see it in Gong recordings."
+    },
+    {
+      "start": 627.18,
+      "end": 631.04,
+      "text": "If you don't, uh, if you don't record this, you can see talk time, you can see where engagement goes down."
+    },
+    {
+      "start": 631.92,
+      "end": 637.78,
+      "text": "And in-invariably, it's when a salesman gets to this part of the pitch, and then they talk for five minutes straight."
+    },
+    {
+      "start": 638.66,
+      "end": 639.48,
+      "text": "No one cares."
+    },
+    {
+      "start": 640.26,
+      "end": 641.72,
+      "text": "I'm sure, like, I'm sure that when you've been..."
+    },
+    {
+      "start": 641.78,
+      "end": 645.76,
+      "text": "If you've ever been sold something, you feel like the person isn't listening to you, right?"
+    },
+    {
+      "start": 646.18,
+      "end": 654.04,
+      "text": "And so what I can say is, the best way to sell is to have the person feel like you understand them."
+    },
+    {
+      "start": 654.72,
+      "end": 658.82,
+      "text": "And the best way for someone to feel understood is for you to actually give a shit."
+    },
+    {
+      "start": 659.34,
+      "end": 665.06,
+      "text": "If you actually give a shit, you will know what questions to ask in what order because those are the questions that you would naturally ask."
+    },
+    {
+      "start": 665.38,
+      "end": 672.98,
+      "text": "The reason scripts were even invented is to mimic or structure a conversation between somebody who cares and someone that they can help."
+    },
+    {
+      "start": 673.86,
+      "end": 677.2,
+      "text": "That is what a sale is, is we're, we're, we're breaking their beliefs."
+    },
+    {
+      "start": 677.34,
+      "end": 682.72,
+      "text": "We're coaching them to the conclusion that they have not been able to make up to this point, which is that they need to work with us in order to solve their problem."
+    },
+    {
+      "start": 683.02,
+      "end": 687.8,
+      "text": "And we should be okay with the fact that I would like to provide value to this person so that I can break their beliefs around this."
+    },
+    {
+      "start": 687.86,
+      "end": 691.02,
+      "text": "Whether they work with me or not, this is still the type of solution that they're going to need."
+    },
+    {
+      "start": 692.06,
+      "end": 701.08,
+      "text": "And if you can approach it like that, you stop having your ego tied up in your closing percentages and your numbers, and instead you start helping people on the phone, and by extension, you will sell more deals, all right?"
+    },
+    {
+      "start": 701.28,
+      "end": 708.0,
+      "text": "And it's not by proving your expertise and, and ego, ego babbling about how smart you are, right?"
+    },
+    {
+      "start": 708.48,
+      "end": 725.12,
+      "text": "Instead, it's asking them questions, making sure they understand that you're, that you're tracking what they're saying, asking more leading questions, restating what they said, and then when they ask you about how they could potentially work for you, then and only then do you give them the stories to explain how it works."
+    },
+    {
+      "start": 726.1,
+      "end": 726.76,
+      "text": "That's the deal."
+    },
+    {
+      "start": 727.14,
+      "end": 735.72,
+      "text": "And one of the big rules that I was hitting on with our sales team yesterday is, you do not pitch the program until you believe the person will say yes."
+    },
+    {
+      "start": 736.72,
+      "end": 739.64,
+      "text": "Lawyers do not ask questions they do not already, already know the answers to."
+    },
+    {
+      "start": 740.0,
+      "end": 744.26,
+      "text": "No guy, most guys, don't propose to someone without already knowing the person's going to say yes."
+    },
+    {
+      "start": 744.3,
+      "end": 747.08,
+      "text": "The, the take rate on proposals is very high, right?"
+    },
+    {
+      "start": 747.18,
+      "end": 747.68,
+      "text": "Let's be real."
+    },
+    {
+      "start": 748.12,
+      "end": 750.68,
+      "text": "Most, you know, girls say yes to a proposal."
+    },
+    {
+      "start": 750.94,
+      "end": 751.92,
+      "text": "Most, right?"
+    },
+    {
+      "start": 751.98,
+      "end": 753.38,
+      "text": "I'm not saying all, but most do."
+    },
+    {
+      "start": 753.7,
+      "end": 755.66,
+      "text": "And sales should be the same way."
+    },
+    {
+      "start": 756.02,
+      "end": 760.18,
+      "text": "If you feel like you don't think you're going to close this person, do not pitch them."
+    },
+    {
+      "start": 760.52,
+      "end": 775.18,
+      "text": "Continue to stay in this circle where you are asking questions and reinstating and clarifying until you can eventually find that, that piece, that thread that was unexposed that you need to pull to then get them to say that, \"Aha, that's the issue,\" right?"
+    },
+    {
+      "start": 775.46,
+      "end": 790.2,
+      "text": "And so from this, the three things that you should be using when you are closing is you should be asking questions, you should be restating what they said, and then once you've exhausted these pieces where it becomes obvious that they-- you need to move on the sale, only at that point they'll say, \"Well, how do I, how do I work with you?"
+    },
+    {
+      "start": 790.24,
+      "end": 790.98,
+      "text": "How does the program work?\""
+    },
+    {
+      "start": 791.24,
+      "end": 794.74,
+      "text": "They should be asking you, or you can at the very least say, \"Would you like to know how the program works?"
+    },
+    {
+      "start": 794.8,
+      "end": 795.78,
+      "text": "I think it might be a good fit for you.\""
+    },
+    {
+      "start": 796.12,
+      "end": 798.7,
+      "text": "At that point, they can give you permission to say yes."
+    },
+    {
+      "start": 799.24,
+      "end": 801.54,
+      "text": "Now, if someone says, \"Yeah, yeah, hey, hey, tell me how the program works.\""
+    },
+    {
+      "start": 801.76,
+      "end": 803.6,
+      "text": "It's like, \"No, I don't think we're ready for that right now."
+    },
+    {
+      "start": 803.92,
+      "end": 807.04,
+      "text": "I need to understand more about your business, otherwise it's not going to, it's not going to make any sense."
+    },
+    {
+      "start": 807.76,
+      "end": 809.22,
+      "text": "I don't have enough context,\" right?"
+    },
+    {
+      "start": 809.44,
+      "end": 812.16,
+      "text": "And again, when you do that, you can retake the frame in the conversation."
+    },
+    {
+      "start": 812.2,
+      "end": 814.8,
+      "text": "If someone's commanding you around, you're not going to close the deal, right?"
+    },
+    {
+      "start": 815.14,
+      "end": 819.66,
+      "text": "And so a lot of times, usually within the first five to 10 minutes, you can tell whether you're not going to close the deal."
+    },
+    {
+      "start": 820.02,
+      "end": 829.86,
+      "text": "Most people, most experienced salespeople know by how the first five to 10 minutes go, whether this person's-- really even five minutes, um, you can tell whether you're going to be able to close this person or not."
+    },
+    {
+      "start": 830.22,
+      "end": 833.7,
+      "text": "And if you don't feel like you're going to be able to close this person, it means you need a state shift."
+    },
+    {
+      "start": 833.74,
+      "end": 835.08,
+      "text": "You need to shift the frame."
+    },
+    {
+      "start": 835.58,
+      "end": 839.12,
+      "text": "And the only way to do that is to ask questions that are challenging."
+    },
+    {
+      "start": 839.26,
+      "end": 841.78,
+      "text": "One of the things I have my team say is, \"Closers ask hard questions,\" right?"
+    },
+    {
+      "start": 842.08,
+      "end": 844.3,
+      "text": "Is ask questions that are going to challenge their current paradigm."
+    },
+    {
+      "start": 844.84,
+      "end": 853.1,
+      "text": "If they're in a current paradigm that they're getting on the phone because they want to prove to themselves that nothing's going to work for them, then you need to say, \"It sounds like, it sounds like you're out of luck."
+    },
+    {
+      "start": 853.26,
+      "end": 856.22,
+      "text": "It sounds like your business is kind of, there's no way for you to succeed."
+    },
+    {
+      "start": 856.94,
+      "end": 857.8,
+      "text": "Does that sound about right?\""
+    },
+    {
+      "start": 858.92,
+      "end": 860.62,
+      "text": "And then they're going to sell you on why you're wrong."
+    },
+    {
+      "start": 860.72,
+      "end": 864.72,
+      "text": "But by selling you on why they're wrong, they're taking a contrarian stance, which then proves to you that there is a way."
+    },
+    {
+      "start": 865.04,
+      "end": 868.48,
+      "text": "Rather than saying, \"No, I think you can be successful,\" and they're like, \"No, I can't be successful,\" right?"
+    },
+    {
+      "start": 868.9,
+      "end": 875.66,
+      "text": "And so understanding that before you get into your pitch, the person must already be sold on working with you is one of the biggest things I can give you right now."
+    },
+    {
+      "start": 875.72,
+      "end": 881.36,
+      "text": "So if your script has too many paragraphs and too much explanation and all of that stuff, then it's off."
+    },
+    {
+      "start": 881.74,
+      "end": 891.96,
+      "text": "It just needs to be questions and restating for clarification that you are hearing what they're saying and asking the next natural question that will lead logically to them working with you and asking the question at the end, which is, \"Well, how do, how do I do this?"
+    },
+    {
+      "start": 892.0,
+      "end": 892.54,
+      "text": "That sounds amazing."
+    },
+    {
+      "start": 892.56,
+      "end": 893.38,
+      "text": "That's exactly what I want."
+    },
+    {
+      "start": 893.64,
+      "end": 894.32,
+      "text": "Like, how do I move forward?"
+    },
+    {
+      "start": 894.34,
+      "end": 894.9,
+      "text": "What's the details?\""
+    },
+    {
+      "start": 894.96,
+      "end": 895.4,
+      "text": "Et cetera."
+    },
+    {
+      "start": 895.72,
+      "end": 897.54,
+      "text": "And then at that point you say, \"Cool, this is how it works."
+    },
+    {
+      "start": 897.82,
+      "end": 898.44,
+      "text": "Ready to rock and roll.\""
+    },
+    {
+      "start": 898.7,
+      "end": 899.64,
+      "text": "All right, fair enough."
+    },
+    {
+      "start": 900.52,
+      "end": 901.1,
+      "text": "Hope that makes sense."
+    },
+    {
+      "start": 901.2,
+      "end": 901.8,
+      "text": "Keep being awesome."
+    },
+    {
+      "start": 901.82,
+      "end": 903.76,
+      "text": "Lots of love, and, um, I'll see you guys on the flip side."
+    },
+    {
+      "start": 903.98,
+      "end": 904.2,
+      "text": "Bye."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "eec8c1749b90c5e5411069a20160642771cbe2bce34b08564d678728962526ce",
+  "audio_duration_sec": 912.692245,
+  "elapsed_sec": 14.1,
+  "created": "2026-11-16T15:27:07+00:00"
+}

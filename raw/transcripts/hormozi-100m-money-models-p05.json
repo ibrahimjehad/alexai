@@ -1,0 +1,4792 @@
+{
+  "source_id": "hormozi-100m-money-models-p05",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 0.46,
+      "end": 0.9,
+      "text": "Section three."
+    },
+    {
+      "start": 1.34,
+      "end": 1.92,
+      "text": "Upsell offers."
+    },
+    {
+      "start": 2.58,
+      "end": 3.38,
+      "text": "Do you want fries with that?"
+    },
+    {
+      "start": 3.9,
+      "end": 4.84,
+      "text": "McDonald's famous upsell."
+    },
+    {
+      "start": 5.74,
+      "end": 8.4,
+      "text": "With an attraction offer in place, you've got customers and cash."
+    },
+    {
+      "start": 8.84,
+      "end": 10.62,
+      "text": "If we did a good job, we've turned a profit too."
+    },
+    {
+      "start": 11.2,
+      "end": 11.48,
+      "text": "Nice."
+    },
+    {
+      "start": 12.1,
+      "end": 13.82,
+      "text": "Now we want to maximize 30-day profits."
+    },
+    {
+      "start": 14.2,
+      "end": 14.72,
+      "text": "So what do we do?"
+    },
+    {
+      "start": 15.16,
+      "end": 16.24,
+      "text": "Answer: make more money."
+    },
+    {
+      "start": 16.56,
+      "end": 18.04,
+      "text": "To do that, we make upsell offers."
+    },
+    {
+      "start": 18.44,
+      "end": 21.54,
+      "text": "And when it comes down to it, upsells just means whatever we offer next."
+    },
+    {
+      "start": 22.82,
+      "end": 23.62,
+      "text": "How upsells work."
+    },
+    {
+      "start": 25.22,
+      "end": 27.34,
+      "text": "When an offer solves a problem, another appears."
+    },
+    {
+      "start": 27.7,
+      "end": 29.68,
+      "text": "You upsell the solution to the problem your offer reveals."
+    },
+    {
+      "start": 30.24,
+      "end": 33.28,
+      "text": "So every offer opens the door to an upsell, even upsells."
+    },
+    {
+      "start": 34.02,
+      "end": 35.72,
+      "text": "Often, upsells make the majority of the profit."
+    },
+    {
+      "start": 36.04,
+      "end": 37.38,
+      "text": "They make or break a money model."
+    },
+    {
+      "start": 37.68,
+      "end": 38.4,
+      "text": "Let me show you how much."
+    },
+    {
+      "start": 39.12,
+      "end": 42.04,
+      "text": "Let's say a burger shop makes 25 cents in profit on a 2 dollar burger."
+    },
+    {
+      "start": 42.9,
+      "end": 47.84,
+      "text": "If it was the only offer they had, they'd have to sell 10,000 burgers a day to cover costs and barely eke out a living."
+    },
+    {
+      "start": 48.08,
+      "end": 48.52,
+      "text": "Good luck."
+    },
+    {
+      "start": 49.08,
+      "end": 51.24,
+      "text": "But they have more offers beyond just the burger."
+    },
+    {
+      "start": 51.5,
+      "end": 52.66,
+      "text": "They ask, \"Do you want fries with that?\""
+    },
+    {
+      "start": 53.14,
+      "end": 57.9,
+      "text": "If the person says yes, they profit another 75 cents and then ask, \"Do you want to make it a meal?\""
+    },
+    {
+      "start": 58.14,
+      "end": 58.76,
+      "text": "Which adds a drink."
+    },
+    {
+      "start": 59.14,
+      "end": 61.96,
+      "text": "If someone says yes, they profit an extra 1 dollar 75."
+    },
+    {
+      "start": 62.36,
+      "end": 65.44,
+      "text": "Their profit goes from 25 cents to 2 dollars, an 8X increase."
+    },
+    {
+      "start": 65.9,
+      "end": 67.5,
+      "text": "And on top of that, they offer a third upsell."
+    },
+    {
+      "start": 67.94,
+      "end": 69.76,
+      "text": "\"Do you want to supersize your meal for just a buck more?\""
+    },
+    {
+      "start": 70.38,
+      "end": 75.46,
+      "text": "This takes profit from a measly 25 cents to a massive 3 dollars, an 11.6X increase."
+    },
+    {
+      "start": 76.02,
+      "end": 78.7,
+      "text": "And now this little burger place actually has a chance of succeeding."
+    },
+    {
+      "start": 80.8,
+      "end": 83.42,
+      "text": "I show this basic and common example to point one thing."
+    },
+    {
+      "start": 84.08,
+      "end": 86.4,
+      "text": "Your first offer doesn't always have to make a profit."
+    },
+    {
+      "start": 87.56,
+      "end": 91.26,
+      "text": "In other words, the thing you sell the most isn't always the thing you make the most profit on."
+    },
+    {
+      "start": 92.36,
+      "end": 96.14,
+      "text": "You make it on the second, third, and in the case of the burger business, fourth offers and beyond."
+    },
+    {
+      "start": 96.74,
+      "end": 99.86,
+      "text": "If McDonald's didn't upsell fries and soda, there wouldn't be a McDonald's."
+    },
+    {
+      "start": 100.46,
+      "end": 103.76,
+      "text": "If you want to win, you have to figure out your version of, \"Do you want fries with that?\""
+    },
+    {
+      "start": 104.02,
+      "end": 105.24,
+      "text": "If you don't, others will."
+    },
+    {
+      "start": 105.84,
+      "end": 117.14,
+      "text": "Upsells fail when you offer something they don't want, too different, or doesn't solve their problem, you offer it at the wrong time before they've experienced the problem, you offer it the wrong way, they don't believe you, or a combination of all three."
+    },
+    {
+      "start": 117.84,
+      "end": 120.94,
+      "text": "In summary, offers tend to offer more of what they just got."
+    },
+    {
+      "start": 121.2,
+      "end": 121.88,
+      "text": "Think quantity."
+    },
+    {
+      "start": 122.22,
+      "end": 123.5,
+      "text": "Why have one burger when you could have two?"
+    },
+    {
+      "start": 124.02,
+      "end": 124.8,
+      "text": "Better versions of it."
+    },
+    {
+      "start": 124.98,
+      "end": 125.56,
+      "text": "Think quality."
+    },
+    {
+      "start": 125.72,
+      "end": 127.38,
+      "text": "Why have mystery meat when you could have sirloin?"
+    },
+    {
+      "start": 128.04,
+      "end": 129.12,
+      "text": "New or complementary stuff."
+    },
+    {
+      "start": 129.32,
+      "end": 129.76,
+      "text": "Think different."
+    },
+    {
+      "start": 129.92,
+      "end": 131.1,
+      "text": "Do you want fries and a soda with that?"
+    },
+    {
+      "start": 132.42,
+      "end": 135.1,
+      "text": "I use four simple and brutally effective upsell offers."
+    },
+    {
+      "start": 135.6,
+      "end": 139.42,
+      "text": "The classic upsell, menu upsells, anchor upsells, and rollover upsells."
+    },
+    {
+      "start": 139.98,
+      "end": 142.48,
+      "text": "And with just a few tweaks, you can fit them into your business today."
+    },
+    {
+      "start": 142.88,
+      "end": 147.1,
+      "text": "Warning: this section is brutally effective and must be used ethically."
+    },
+    {
+      "start": 147.34,
+      "end": 148.84,
+      "text": "That being said, let's make some money."
+    },
+    {
+      "start": 150.52,
+      "end": 150.98,
+      "text": "Free gift."
+    },
+    {
+      "start": 151.56,
+      "end": 152.16,
+      "text": "Upsell offers."
+    },
+    {
+      "start": 152.38,
+      "end": 152.88,
+      "text": "No opt-in."
+    },
+    {
+      "start": 153.58,
+      "end": 156.06,
+      "text": "If you want to make more profit per customer, you got to sell more stuff."
+    },
+    {
+      "start": 156.62,
+      "end": 159.22,
+      "text": "Knowing the right time, way, and stuff to sell is key."
+    },
+    {
+      "start": 159.76,
+      "end": 161.6,
+      "text": "I've learned my fair share of lessons doing it the wrong way."
+    },
+    {
+      "start": 162.04,
+      "end": 165.38,
+      "text": "I hope I can help you avoid those mistakes and get it done right the first time."
+    },
+    {
+      "start": 165.94,
+      "end": 170.34,
+      "text": "I made you an additional training on this chapter you can watch for free at acquisition.com/training/money."
+    },
+    {
+      "start": 171.02,
+      "end": 171.78,
+      "text": "The classic upsell."
+    },
+    {
+      "start": 172.44,
+      "end": 173.56,
+      "text": "You can't have X without Y."
+    },
+    {
+      "start": 175.62,
+      "end": 180.34,
+      "text": "He was a premier fur coat dealer, a fourth-generation business savant, and a childhood mentor of mine."
+    },
+    {
+      "start": 180.92,
+      "end": 183.66,
+      "text": "We sat down to catch up in a swanky restaurant across from his shop."
+    },
+    {
+      "start": 184.58,
+      "end": 186.34,
+      "text": "Within a minute of ordering, our salmon appeared."
+    },
+    {
+      "start": 186.34,
+      "end": 188.92,
+      "text": "\"What do you think this salmon cost the restaurant?"
+    },
+    {
+      "start": 189.04,
+      "end": 189.56,
+      "text": "Three bucks?"
+    },
+    {
+      "start": 190.04,
+      "end": 191.54,
+      "text": "Maybe a few extra pennies for the garnish."
+    },
+    {
+      "start": 191.74,
+      "end": 192.32,
+      "text": "And look at the menu."
+    },
+    {
+      "start": 192.38,
+      "end": 193.48,
+      "text": "They're charging 32 bucks."
+    },
+    {
+      "start": 193.74,
+      "end": 194.22,
+      "text": "Unbelievable."
+    },
+    {
+      "start": 194.42,
+      "end": 195.08,
+      "text": "But we pay it.\""
+    },
+    {
+      "start": 195.68,
+      "end": 198.34,
+      "text": "He took his first bite and chuckled to himself, then continued."
+    },
+    {
+      "start": 198.34,
+      "end": 199.96,
+      "text": "\"So I heard you got into the game."
+    },
+    {
+      "start": 200.22,
+      "end": 200.76,
+      "text": "Good for you."
+    },
+    {
+      "start": 201.04,
+      "end": 202.42,
+      "text": "Never would have guessed when you worked at the shop."
+    },
+    {
+      "start": 202.5,
+      "end": 203.18,
+      "text": "You were kind of awkward.\""
+    },
+    {
+      "start": 203.22,
+      "end": 205.3,
+      "text": "\"What can I say?"
+    },
+    {
+      "start": 205.56,
+      "end": 208.0,
+      "text": "Brushing 7,000 fur coats in a row melted my brain.\""
+    },
+    {
+      "start": 208.12,
+      "end": 208.56,
+      "text": "I chuckled."
+    },
+    {
+      "start": 208.56,
+      "end": 210.74,
+      "text": "\"You still making a killing on that?\""
+    },
+    {
+      "start": 211.44,
+      "end": 212.42,
+      "text": "A sheepish grin appeared."
+    },
+    {
+      "start": 212.42,
+      "end": 214.66,
+      "text": "\"Yeah, and that's not even the best part."
+    },
+    {
+      "start": 215.04,
+      "end": 216.4,
+      "text": "My son came up with something genius.\""
+    },
+    {
+      "start": 216.98,
+      "end": 219.1,
+      "text": "His son would be the fifth-generation owner."
+    },
+    {
+      "start": 219.12,
+      "end": 221.08,
+      "text": "\"Tell me about it,\" I asked."
+    },
+    {
+      "start": 221.08,
+      "end": 223.92,
+      "text": "\"We advertise free earmuffs with coat storage."
+    },
+    {
+      "start": 224.08,
+      "end": 230.84,
+      "text": "And get this, when customers come in to get their muffs and store their coats,\" he says, \"Great, and we'll store those as well for 30 dollars."
+    },
+    {
+      "start": 231.12,
+      "end": 232.3,
+      "text": "You don't want to store anything else, do you?\""
+    },
+    {
+      "start": 232.78,
+      "end": 234.22,
+      "text": "And of course, they say no."
+    },
+    {
+      "start": 234.24,
+      "end": 235.3,
+      "text": "\"Wait a second."
+    },
+    {
+      "start": 235.7,
+      "end": 241.82,
+      "text": "So you get them to pay for additional storage for free earmuffs by getting them to say no to another upsell?"
+    },
+    {
+      "start": 242.58,
+      "end": 243.46,
+      "text": "You guys are legends.\""
+    },
+    {
+      "start": 244.0,
+      "end": 244.34,
+      "text": "\"Us?"
+    },
+    {
+      "start": 244.6,
+      "end": 244.98,
+      "text": "No."
+    },
+    {
+      "start": 245.44,
+      "end": 248.1,
+      "text": "We stay creative, and if something works, we stick with it.\""
+    },
+    {
+      "start": 249.24,
+      "end": 250.66,
+      "text": "Whenever he talked business, he'd light up."
+    },
+    {
+      "start": 250.86,
+      "end": 254.18,
+      "text": "Despite being awkward around his shop, I learned many lifelong lessons from him."
+    },
+    {
+      "start": 254.5,
+      "end": 256.14,
+      "text": "I share this story in homage to those lessons."
+    },
+    {
+      "start": 256.84,
+      "end": 257.3,
+      "text": "Description."
+    },
+    {
+      "start": 257.94,
+      "end": 261.94,
+      "text": "The classic upsell offers a solution to the customer's next problem the moment they become aware of it."
+    },
+    {
+      "start": 262.46,
+      "end": 266.78,
+      "text": "I explain the classic upsell first because it's extremely profitable, easy, and anyone can do it."
+    },
+    {
+      "start": 267.34,
+      "end": 270.52,
+      "text": "Main reason: current customers always have a higher chance of buying your stuff than strangers."
+    },
+    {
+      "start": 270.98,
+      "end": 272.98,
+      "text": "And when timed right, customers upsell themselves."
+    },
+    {
+      "start": 274.18,
+      "end": 276.8,
+      "text": "The classic upsell relies on knowing more about your customer's problem than they do."
+    },
+    {
+      "start": 277.4,
+      "end": 278.22,
+      "text": "And you darn well should."
+    },
+    {
+      "start": 278.36,
+      "end": 279.36,
+      "text": "It's your business after all."
+    },
+    {
+      "start": 280.04,
+      "end": 280.66,
+      "text": "The idea is simple."
+    },
+    {
+      "start": 281.2,
+      "end": 283.28,
+      "text": "Your core offer solves one problem and creates another."
+    },
+    {
+      "start": 283.86,
+      "end": 285.68,
+      "text": "Your upsell immediately solves that next problem."
+    },
+    {
+      "start": 286.36,
+      "end": 289.58,
+      "text": "This gives the classic upsell its you can't have X without Y structure."
+    },
+    {
+      "start": 290.32,
+      "end": 296.4,
+      "text": "Like the rental car story, you can't have a car without insurance, you can't have a car without gas, you can't have a good trip without a late checkout, etc."
+    },
+    {
+      "start": 296.92,
+      "end": 300.08,
+      "text": "All these things become immediately apparent as soon as the customer makes the first purchase."
+    },
+    {
+      "start": 300.56,
+      "end": 305.26,
+      "text": "Bottom line: if a problem appears and you can solve it immediately in exchange for money, do it."
+    },
+    {
+      "start": 307.12,
+      "end": 307.58,
+      "text": "Examples."
+    },
+    {
+      "start": 308.5,
+      "end": 309.58,
+      "text": "Local car wash service."
+    },
+    {
+      "start": 309.92,
+      "end": 311.16,
+      "text": "First purchase, car wash."
+    },
+    {
+      "start": 311.58,
+      "end": 312.44,
+      "text": "Upsell, sealant."
+    },
+    {
+      "start": 312.96,
+      "end": 314.8,
+      "text": "You're not going to undo the car wash without the sealant."
+    },
+    {
+      "start": 314.84,
+      "end": 315.96,
+      "text": "You'll get way more for your money."
+    },
+    {
+      "start": 316.82,
+      "end": 317.5,
+      "text": "Physical product."
+    },
+    {
+      "start": 317.68,
+      "end": 318.94,
+      "text": "First purchase, bicycle."
+    },
+    {
+      "start": 319.18,
+      "end": 320.56,
+      "text": "Upsell one, helmet."
+    },
+    {
+      "start": 320.62,
+      "end": 321.88,
+      "text": "Upsell two, lights."
+    },
+    {
+      "start": 322.2,
+      "end": 323.8,
+      "text": "Upsell three, puncture-resistant tires."
+    },
+    {
+      "start": 324.2,
+      "end": 325.36,
+      "text": "You can't have a bike without a helmet."
+    },
+    {
+      "start": 326.74,
+      "end": 327.42,
+      "text": "Digital product."
+    },
+    {
+      "start": 327.78,
+      "end": 329.34,
+      "text": "First purchase, course on exercising."
+    },
+    {
+      "start": 329.5,
+      "end": 330.66,
+      "text": "Upsell, nutrition course."
+    },
+    {
+      "start": 331.08,
+      "end": 334.02,
+      "text": "You cannot exercise a bad diet, so you're going to want our course on nutrition."
+    },
+    {
+      "start": 335.6,
+      "end": 336.18,
+      "text": "Important notes."
+    },
+    {
+      "start": 337.08,
+      "end": 337.74,
+      "text": "Actually do it."
+    },
+    {
+      "start": 338.42,
+      "end": 341.32,
+      "text": "You'd be amazed how many businesses come to me and only sell one thing."
+    },
+    {
+      "start": 341.72,
+      "end": 343.44,
+      "text": "I usually tell them, \"You barely have a business."
+    },
+    {
+      "start": 343.48,
+      "end": 344.1,
+      "text": "You have a front end."
+    },
+    {
+      "start": 344.38,
+      "end": 345.46,
+      "text": "Figure out what you're going to sell next.\""
+    },
+    {
+      "start": 346.34,
+      "end": 351.48,
+      "text": "Months later, I hear they actually 5X their business because they actually offered an upsell."
+    },
+    {
+      "start": 353.08,
+      "end": 354.68,
+      "text": "Offer more profitable upsells first."
+    },
+    {
+      "start": 355.56,
+      "end": 360.28,
+      "text": "If I offer two products and one has a higher profit than the other, I offer the higher profit option first."
+    },
+    {
+      "start": 360.72,
+      "end": 361.98,
+      "text": "Get them to say no to say yes."
+    },
+    {
+      "start": 362.78,
+      "end": 366.32,
+      "text": "I was always amazed at how often the fur coat dealer got people to buy stuff by saying no."
+    },
+    {
+      "start": 367.04,
+      "end": 370.66,
+      "text": "He knew people had been trained to say no in response to, \"You don't want anything else, do you?\""
+    },
+    {
+      "start": 371.14,
+      "end": 372.9,
+      "text": "But this actually turns a no into a yes."
+    },
+    {
+      "start": 373.62,
+      "end": 378.68,
+      "text": "So when upselling, the question translates to, \"You don't want anything else besides what I just offered, do you?\""
+    },
+    {
+      "start": 379.3,
+      "end": 380.26,
+      "text": "Clever salesmanship."
+    },
+    {
+      "start": 380.88,
+      "end": 384.34,
+      "text": "So let the nos, parentheses, yeses, roll in."
+    },
+    {
+      "start": 386.04,
+      "end": 386.84,
+      "text": "Surprise and delight."
+    },
+    {
+      "start": 387.44,
+      "end": 391.66,
+      "text": "Let's say you have four bonuses you save to get people to buy who are on the fence."
+    },
+    {
+      "start": 392.42,
+      "end": 393.18,
+      "text": "Add one at a time."
+    },
+    {
+      "start": 393.62,
+      "end": 396.66,
+      "text": "If they say yes before you add them, still give them all four."
+    },
+    {
+      "start": 397.2,
+      "end": 402.06,
+      "text": "It will surprise and delight them, and it guarantees you still sell the same thing to everyone, so no one feels left out later."
+    },
+    {
+      "start": 402.86,
+      "end": 404.1,
+      "text": "Sell more when they're buying more."
+    },
+    {
+      "start": 404.38,
+      "end": 405.24,
+      "text": "Hyper-buying cycle."
+    },
+    {
+      "start": 406.0,
+      "end": 409.08,
+      "text": "Most buyers enter a hyper-buying cycle when they decide to do something new."
+    },
+    {
+      "start": 409.26,
+      "end": 412.6,
+      "text": "It's a short window of time when they're most excited about a new thing they're going to do."
+    },
+    {
+      "start": 413.02,
+      "end": 415.56,
+      "text": "This is when they spend a huge chunk of money in a short period of time."
+    },
+    {
+      "start": 415.96,
+      "end": 419.54,
+      "text": "Think weddings, starting new hobbies, having babies, moving to new places, and so on."
+    },
+    {
+      "start": 420.04,
+      "end": 424.12,
+      "text": "If you have a business that caters to these sort of problems, don't shy away from upsell offers."
+    },
+    {
+      "start": 424.28,
+      "end": 426.22,
+      "text": "Embrace it and keep making offers."
+    },
+    {
+      "start": 427.28,
+      "end": 430.1,
+      "text": "Use free bonuses to create problems upsell offers solve."
+    },
+    {
+      "start": 430.66,
+      "end": 431.78,
+      "text": "Bonuses solve problems."
+    },
+    {
+      "start": 432.28,
+      "end": 433.3,
+      "text": "That's what makes them valuable."
+    },
+    {
+      "start": 433.66,
+      "end": 436.34,
+      "text": "And because of the problem-solution cycle, they can also reveal them."
+    },
+    {
+      "start": 437.16,
+      "end": 438.66,
+      "text": "Upsells can solve that new problem."
+    },
+    {
+      "start": 439.06,
+      "end": 447.18,
+      "text": "The earmuffs, for example, cost materials and labor, but they were able to give them away for free by getting customers to pay 30 dollars to store something they just got for free."
+    },
+    {
+      "start": 447.62,
+      "end": 450.3,
+      "text": "The faster people get access to stuff, the more they'll value it."
+    },
+    {
+      "start": 451.44,
+      "end": 457.14,
+      "text": "A 10,000 dollar thing you get later is worth less than a 10,000 dollar thing you get now."
+    },
+    {
+      "start": 457.7,
+      "end": 460.96,
+      "text": "The longer it takes someone to access something, the less value it has in the moment."
+    },
+    {
+      "start": 461.44,
+      "end": 465.2,
+      "text": "So if you want to raise the chance of someone taking an upsell, make it available as soon as you can."
+    },
+    {
+      "start": 465.76,
+      "end": 468.24,
+      "text": "Bonus points if you can put it in their hands before they've said yes."
+    },
+    {
+      "start": 468.58,
+      "end": 470.48,
+      "text": "It's way harder to give something back once you've gotten it."
+    },
+    {
+      "start": 473.82,
+      "end": 475.5,
+      "text": "If you bundle upsells, name them."
+    },
+    {
+      "start": 476.02,
+      "end": 478.48,
+      "text": "It's easier to sell someone one thing than nine things."
+    },
+    {
+      "start": 478.86,
+      "end": 482.32,
+      "text": "By bundling items together, you can make one ask and get nine sales."
+    },
+    {
+      "start": 483.2,
+      "end": 486.04,
+      "text": "I named the packages based on the customer type and/or result."
+    },
+    {
+      "start": 486.28,
+      "end": 490.64,
+      "text": "For example, fastest results bundle or a transformation package or minimum package."
+    },
+    {
+      "start": 491.22,
+      "end": 493.16,
+      "text": "All these will boost upsells per person."
+    },
+    {
+      "start": 493.6,
+      "end": 497.54,
+      "text": "Last, you can peel some of the products or features from the packages away to downsell."
+    },
+    {
+      "start": 498.0,
+      "end": 499.94,
+      "text": "More on that in section five, downsell offers."
+    },
+    {
+      "start": 501.32,
+      "end": 503.0,
+      "text": "Integrate upsells into your other offers."
+    },
+    {
+      "start": 504.1,
+      "end": 507.1,
+      "text": "Make stuff you upsell part of how you deliver other offers."
+    },
+    {
+      "start": 507.66,
+      "end": 508.98,
+      "text": "Then more customers will take them."
+    },
+    {
+      "start": 509.42,
+      "end": 511.92,
+      "text": "My meal plans included optional supplement suggestions."
+    },
+    {
+      "start": 512.32,
+      "end": 514.72,
+      "text": "So when I went over nutrition, people asked about supplements."
+    },
+    {
+      "start": 515.22,
+      "end": 518.0,
+      "text": "Gym launch sales and marketing training suggested optional softwares."
+    },
+    {
+      "start": 518.36,
+      "end": 519.6,
+      "text": "This led gym owners to buy them."
+    },
+    {
+      "start": 520.04,
+      "end": 522.6,
+      "text": "Integrate the next thing you want to sell into the first thing they buy."
+    },
+    {
+      "start": 523.52,
+      "end": 525.14,
+      "text": "Make sure you book a meeting from a meeting."
+    },
+    {
+      "start": 525.48,
+      "end": 526.06,
+      "text": "Bam fam."
+    },
+    {
+      "start": 527.22,
+      "end": 530.82,
+      "text": "The more times you can upsell, the more people you will upsell."
+    },
+    {
+      "start": 532.34,
+      "end": 534.48,
+      "text": "If you upsell more people, you can make more money."
+    },
+    {
+      "start": 534.88,
+      "end": 538.28,
+      "text": "And since you want that, end every appointment by scheduling the next appointment."
+    },
+    {
+      "start": 538.9,
+      "end": 540.16,
+      "text": "Don't let them leave without booking."
+    },
+    {
+      "start": 540.72,
+      "end": 548.52,
+      "text": "As my big fancy public CEO friend Sharon says, \"A customer should know the next time they see you and why before they leave.\""
+    },
+    {
+      "start": 549.04,
+      "end": 552.14,
+      "text": "So if you agree to meet again, agree on why and when right then."
+    },
+    {
+      "start": 553.0,
+      "end": 554.64,
+      "text": "Upsell as many times as it makes sense to."
+    },
+    {
+      "start": 555.38,
+      "end": 557.2,
+      "text": "The rental car agency had lots of upsells."
+    },
+    {
+      "start": 557.46,
+      "end": 559.16,
+      "text": "Their burger place had lots of upsells."
+    },
+    {
+      "start": 559.38,
+      "end": 560.68,
+      "text": "My gym had lots of upsells."
+    },
+    {
+      "start": 561.5,
+      "end": 562.86,
+      "text": "Gym launch had lots of upsells."
+    },
+    {
+      "start": 563.34,
+      "end": 566.22,
+      "text": "Offer many solutions as there are problems that you can solve."
+    },
+    {
+      "start": 566.8,
+      "end": 567.4,
+      "text": "Don't be shy."
+    },
+    {
+      "start": 567.78,
+      "end": 569.4,
+      "text": "If you can solve it, offer to."
+    },
+    {
+      "start": 569.6,
+      "end": 571.52,
+      "text": "The second worst thing that happens is they say no."
+    },
+    {
+      "start": 571.92,
+      "end": 574.92,
+      "text": "The worst thing is if they would have said yes, but you never asked."
+    },
+    {
+      "start": 575.92,
+      "end": 576.84,
+      "text": "The magnetic middle."
+    },
+    {
+      "start": 577.82,
+      "end": 580.28,
+      "text": "Pro tip: how to offer more of the same thing."
+    },
+    {
+      "start": 581.22,
+      "end": 586.24,
+      "text": "If you have two things and want to sell one, add a third option to nudge the option you want them to buy."
+    },
+    {
+      "start": 587.06,
+      "end": 589.72,
+      "text": "Movie theaters do this all the time with soda and popcorn."
+    },
+    {
+      "start": 590.02,
+      "end": 590.56,
+      "text": "Here's how."
+    },
+    {
+      "start": 591.18,
+      "end": 594.76,
+      "text": "Their small, medium, and large pricing works something like this."
+    },
+    {
+      "start": 595.48,
+      "end": 596.76,
+      "text": "Small, 5 dollars."
+    },
+    {
+      "start": 597.16,
+      "end": 601.48,
+      "text": "Medium, 8 dollars, rather than the rational price of 7, which would be in between."
+    },
+    {
+      "start": 602.18,
+      "end": 604.42,
+      "text": "And then C, large, 9 dollars."
+    },
+    {
+      "start": 605.3,
+      "end": 607.52,
+      "text": "Result, more people take the large."
+    },
+    {
+      "start": 608.26,
+      "end": 610.78,
+      "text": "People who take the small option will always take the small option."
+    },
+    {
+      "start": 611.24,
+      "end": 612.86,
+      "text": "People who take the large will always take the large."
+    },
+    {
+      "start": 613.22,
+      "end": 617.38,
+      "text": "But the people who would normally take the medium will now probably take the large."
+    },
+    {
+      "start": 618.28,
+      "end": 621.84,
+      "text": "If you want to get more people to buy the medium option, you'd price it like this."
+    },
+    {
+      "start": 622.6,
+      "end": 625.94,
+      "text": "Small would be 6 dollars, rather than the rational price of 5 dollars."
+    },
+    {
+      "start": 626.22,
+      "end": 629.18,
+      "text": "The medium is 7, halfway in between the original pricing."
+    },
+    {
+      "start": 629.64,
+      "end": 631.16,
+      "text": "And then large is 9 dollars."
+    },
+    {
+      "start": 631.96,
+      "end": 637.3,
+      "text": "This upsells more people into the medium option because now most people who would normally get a small will get a medium."
+    },
+    {
+      "start": 637.66,
+      "end": 641.32,
+      "text": "Bottom line, if you have a lot of customers buying small, you can bump them into mediums."
+    },
+    {
+      "start": 641.74,
+      "end": 644.04,
+      "text": "If you have a lot of customers buying medium, bump them to large."
+    },
+    {
+      "start": 644.44,
+      "end": 646.76,
+      "text": "If you have a lot of customers buying large, raise all your prices."
+    },
+    {
+      "start": 647.62,
+      "end": 649.62,
+      "text": "Upsell guarantees, warranties, and insurance."
+    },
+    {
+      "start": 650.22,
+      "end": 652.04,
+      "text": "Many businesses offer guarantees on products."
+    },
+    {
+      "start": 652.54,
+      "end": 654.36,
+      "text": "Many businesses offer warranties on products."
+    },
+    {
+      "start": 654.84,
+      "end": 656.64,
+      "text": "Many businesses offer insurance on products."
+    },
+    {
+      "start": 657.0,
+      "end": 658.2,
+      "text": "You can upsell all of them."
+    },
+    {
+      "start": 658.64,
+      "end": 664.96,
+      "text": "So instead of doing it for free, just add 5 to 50% onto the price in exchange for a guarantee that the thing does what you say it will."
+    },
+    {
+      "start": 665.52,
+      "end": 668.92,
+      "text": "Example, an art studio used to replace damaged portraits at no charge."
+    },
+    {
+      "start": 669.5,
+      "end": 672.16,
+      "text": "I told them to start asking for customers if they'd pay an extra 10% for it."
+    },
+    {
+      "start": 672.54,
+      "end": 675.8,
+      "text": "Now 30% of customers buy stuff the art studio used to give away for free."
+    },
+    {
+      "start": 676.5,
+      "end": 677.16,
+      "text": "Pure profit."
+    },
+    {
+      "start": 678.06,
+      "end": 678.4,
+      "text": "Summary."
+    },
+    {
+      "start": 679.38,
+      "end": 680.8,
+      "text": "Your attraction offer reveals a problem."
+    },
+    {
+      "start": 681.4,
+      "end": 683.42,
+      "text": "Upsells, whatever you offer next, solve it."
+    },
+    {
+      "start": 684.32,
+      "end": 687.46,
+      "text": "Use the classic upsell for immediate problems revealed by your previous offer."
+    },
+    {
+      "start": 688.24,
+      "end": 689.7,
+      "text": "Asking, \"You don't want anything else, do you?\""
+    },
+    {
+      "start": 690.4,
+      "end": 692.02,
+      "text": "gets people to agree by saying no."
+    },
+    {
+      "start": 692.36,
+      "end": 692.78,
+      "text": "It works."
+    },
+    {
+      "start": 693.46,
+      "end": 697.1,
+      "text": "Increase the chance customers take upsells by giving them access to it as soon as possible."
+    },
+    {
+      "start": 697.6,
+      "end": 701.18,
+      "text": "Give away bonuses that create an upsell opportunity, a great way to make more cash."
+    },
+    {
+      "start": 701.64,
+      "end": 704.62,
+      "text": "To get more chances to upsell customers, make Bam Fam a way of life."
+    },
+    {
+      "start": 704.76,
+      "end": 705.72,
+      "text": "Book a meeting from a meeting."
+    },
+    {
+      "start": 706.86,
+      "end": 709.76,
+      "text": "You can have as many upsell offers as you want as long as you keep solving problems."
+    },
+    {
+      "start": 710.3,
+      "end": 712.52,
+      "text": "You lose nothing by offering to solve someone's problem."
+    },
+    {
+      "start": 713.18,
+      "end": 718.04,
+      "text": "If it makes sense for your business, you can charge for guarantees, warranties, or insurance rather than giving them away for free."
+    },
+    {
+      "start": 719.14,
+      "end": 719.5,
+      "text": "Free gift."
+    },
+    {
+      "start": 720.26,
+      "end": 721.7,
+      "text": "Watch the classic upsell video training."
+    },
+    {
+      "start": 721.86,
+      "end": 722.54,
+      "text": "No opt-in required."
+    },
+    {
+      "start": 722.9,
+      "end": 725.0,
+      "text": "The first upsell everyone should learn is the classic upsell."
+    },
+    {
+      "start": 725.44,
+      "end": 727.24,
+      "text": "There are a bunch of tiny tips that can make a big difference."
+    },
+    {
+      "start": 727.42,
+      "end": 730.34,
+      "text": "I made a training video to make sure that you didn't miss any of these tiny details."
+    },
+    {
+      "start": 730.68,
+      "end": 733.38,
+      "text": "You can watch for free at acquisition.com/training/money."
+    },
+    {
+      "start": 733.64,
+      "end": 734.26,
+      "text": "Menu upsells."
+    },
+    {
+      "start": 734.6,
+      "end": 735.92,
+      "text": "You don't need that, you need this."
+    },
+    {
+      "start": 736.85,
+      "end": 737.79,
+      "text": "December 2013."
+    },
+    {
+      "start": 738.69,
+      "end": 741.51,
+      "text": "People kept joining the gym like normal, but nobody cared about my supplements."
+    },
+    {
+      "start": 742.47,
+      "end": 747.05,
+      "text": "I read somewhere keeping shelves full got more people to buy, so I stocked my shelves with all the labels in a perfect row."
+    },
+    {
+      "start": 747.37,
+      "end": 747.89,
+      "text": "It didn't work."
+    },
+    {
+      "start": 748.35,
+      "end": 750.73,
+      "text": "I also read if I told someone about the cool science, they would buy."
+    },
+    {
+      "start": 750.93,
+      "end": 751.69,
+      "text": "That didn't work either."
+    },
+    {
+      "start": 752.43,
+      "end": 756.05,
+      "text": "I got a few pity purchases from loyal members, but I was doing something seriously wrong."
+    },
+    {
+      "start": 756.33,
+      "end": 757.27,
+      "text": "Why do I suck so much?"
+    },
+    {
+      "start": 758.09,
+      "end": 762.13,
+      "text": "On a particularly rough day, I had 19 nutrition consults, and nobody bought anything."
+    },
+    {
+      "start": 762.45,
+      "end": 763.11,
+      "text": "It was miserable."
+    },
+    {
+      "start": 763.67,
+      "end": 765.01,
+      "text": "Then appointment number 20 came in."
+    },
+    {
+      "start": 765.39,
+      "end": 767.45,
+      "text": "She had a nice purse and a big diamond ring on her hand."
+    },
+    {
+      "start": 767.73,
+      "end": 769.67,
+      "text": "If I can't sell her, I should just quit trying."
+    },
+    {
+      "start": 770.07,
+      "end": 772.67,
+      "text": "But then I remembered, I've got 5,000 dollars in inventory on my shelf."
+    },
+    {
+      "start": 772.77,
+      "end": 773.55,
+      "text": "I gotta figure this out."
+    },
+    {
+      "start": 774.23,
+      "end": 776.67,
+      "text": "We went through her nutrition consultation, and I started getting nervous."
+    },
+    {
+      "start": 776.97,
+      "end": 778.49,
+      "text": "I got so nervous, I forgot my script."
+    },
+    {
+      "start": 778.87,
+      "end": 782.81,
+      "text": "And rather than gabbing about science stuff, I just asked, \"You've got a protein shake for breakfast."
+    },
+    {
+      "start": 782.99,
+      "end": 783.93,
+      "text": "Do you like chocolate or vanilla?\""
+    },
+    {
+      "start": 784.05,
+      "end": 785.51,
+      "text": "\"Which one's your favorite?\""
+    },
+    {
+      "start": 785.69,
+      "end": 786.05,
+      "text": "she asked."
+    },
+    {
+      "start": 786.15,
+      "end": 787.39,
+      "text": "\"Uh, chocolate.\""
+    },
+    {
+      "start": 787.39,
+      "end": 788.49,
+      "text": "\"Great."
+    },
+    {
+      "start": 788.63,
+      "end": 789.31,
+      "text": "I'll take one of those.\""
+    },
+    {
+      "start": 789.85,
+      "end": 790.93,
+      "text": "Wait, what just happened?"
+    },
+    {
+      "start": 791.67,
+      "end": 792.91,
+      "text": "I didn't talk about the benefits or anything."
+    },
+    {
+      "start": 793.41,
+      "end": 795.05,
+      "text": "I just asked what she wanted, and she told me."
+    },
+    {
+      "start": 795.63,
+      "end": 797.53,
+      "text": "Taking the hint, I moved on to the next item."
+    },
+    {
+      "start": 797.53,
+      "end": 800.87,
+      "text": "\"Do you want kiwi or strawberry lemonade pre-workout?\""
+    },
+    {
+      "start": 801.01,
+      "end": 802.09,
+      "text": "Then I remembered her last question."
+    },
+    {
+      "start": 802.09,
+      "end": 804.15,
+      "text": "\"Uh, I like strawberry lemonade.\""
+    },
+    {
+      "start": 804.73,
+      "end": 805.87,
+      "text": "Smiling, \"Great."
+    },
+    {
+      "start": 806.01,
+      "end": 806.57,
+      "text": "I'll take that one.\""
+    },
+    {
+      "start": 807.35,
+      "end": 810.55,
+      "text": "I had more products, but selling two was a record, and I didn't want to scare her away."
+    },
+    {
+      "start": 810.99,
+      "end": 811.87,
+      "text": "I still had to ask for money."
+    },
+    {
+      "start": 812.69,
+      "end": 816.95,
+      "text": "So I grabbed her membership contract that already had her card on it, and I asked, \"Do you want to just use the card that we have on file?\""
+    },
+    {
+      "start": 817.03,
+      "end": 818.91,
+      "text": "\"Yep, that's fine.\""
+    },
+    {
+      "start": 819.69,
+      "end": 822.35,
+      "text": "After that conversation, I sold the next 20 customers in a row."
+    },
+    {
+      "start": 822.71,
+      "end": 824.73,
+      "text": "At the end of the day, I stared at my empty shelf in disbelief."
+    },
+    {
+      "start": 825.31,
+      "end": 826.25,
+      "text": "I know how to sell supplements."
+    },
+    {
+      "start": 827.25,
+      "end": 827.69,
+      "text": "Takeaway."
+    },
+    {
+      "start": 828.29,
+      "end": 830.93,
+      "text": "I stumbled on two tactics that changed my upsell game forever."
+    },
+    {
+      "start": 831.45,
+      "end": 832.69,
+      "text": "First, the A/B upsell."
+    },
+    {
+      "start": 833.19,
+      "end": 837.75,
+      "text": "I ask which product they prefer rather than whether they want to buy a product at all."
+    },
+    {
+      "start": 838.25,
+      "end": 841.93,
+      "text": "Second, asking if they want to use a card on file rather than asking them to take out their card again."
+    },
+    {
+      "start": 842.21,
+      "end": 843.51,
+      "text": "I still use both to this day."
+    },
+    {
+      "start": 844.53,
+      "end": 845.37,
+      "text": "August 2014."
+    },
+    {
+      "start": 846.27,
+      "end": 848.15,
+      "text": "Now, I closed sales left and right."
+    },
+    {
+      "start": 848.37,
+      "end": 849.21,
+      "text": "Bing, bang, boom."
+    },
+    {
+      "start": 849.61,
+      "end": 851.97,
+      "text": "Now, it wasn't exactly big stuff, but I was selling consistently."
+    },
+    {
+      "start": 852.33,
+      "end": 856.73,
+      "text": "Every month, I start a new group of challengers, and like clockwork, I'd upsell 5 grand to 10 grand of supplements."
+    },
+    {
+      "start": 857.15,
+      "end": 858.15,
+      "text": "Not bad for a day's work."
+    },
+    {
+      "start": 858.71,
+      "end": 861.51,
+      "text": "But on one day, I had a lady who just wouldn't stop asking questions."
+    },
+    {
+      "start": 861.79,
+      "end": 864.87,
+      "text": "She wanted more information, how to take them, how many, when, what times."
+    },
+    {
+      "start": 865.51,
+      "end": 866.41,
+      "text": "What if she was working?"
+    },
+    {
+      "start": 866.57,
+      "end": 867.37,
+      "text": "What if she was at home?"
+    },
+    {
+      "start": 867.63,
+      "end": 868.55,
+      "text": "What if she was at the gym?"
+    },
+    {
+      "start": 868.69,
+      "end": 869.41,
+      "text": "She was relentless."
+    },
+    {
+      "start": 869.55,
+      "end": 870.87,
+      "text": "I was going to be late for my next consult."
+    },
+    {
+      "start": 870.93,
+      "end": 874.35,
+      "text": "So finally, I just wrote up a step-by-step instruction on the back of scratch paper."
+    },
+    {
+      "start": 874.71,
+      "end": 878.11,
+      "text": "Take one of these at night, take two of these after lunch, take one of these after workout, yada, yada, yada."
+    },
+    {
+      "start": 878.79,
+      "end": 880.57,
+      "text": "I walked her through what I wrote and asked, \"Make sense?\""
+    },
+    {
+      "start": 880.93,
+      "end": 881.23,
+      "text": "Nodding."
+    },
+    {
+      "start": 881.47,
+      "end": 881.83,
+      "text": "\"Thanks.\""
+    },
+    {
+      "start": 881.93,
+      "end": 882.83,
+      "text": "She grabbed the paper and left."
+    },
+    {
+      "start": 883.43,
+      "end": 885.59,
+      "text": "My next appointment had overheard our entire conversation."
+    },
+    {
+      "start": 886.01,
+      "end": 889.35,
+      "text": "As soon as she sat down, she asked, \"Do you think you could write it all out like you did for that lady?\""
+    },
+    {
+      "start": 890.05,
+      "end": 891.31,
+      "text": "I tried not to let out a sigh."
+    },
+    {
+      "start": 891.73,
+      "end": 892.13,
+      "text": "I failed."
+    },
+    {
+      "start": 892.65,
+      "end": 894.29,
+      "text": "I was going to be late for my next consult again."
+    },
+    {
+      "start": 895.05,
+      "end": 896.75,
+      "text": "But I did as she asked."
+    },
+    {
+      "start": 897.05,
+      "end": 899.43,
+      "text": "This time, I wrote instructions right on the order form."
+    },
+    {
+      "start": 899.59,
+      "end": 902.13,
+      "text": "Next to each item, I wrote how much to take and when."
+    },
+    {
+      "start": 902.63,
+      "end": 905.97,
+      "text": "Because I didn't want to push my appointments back another 15 minutes, I just went for the upsell."
+    },
+    {
+      "start": 905.97,
+      "end": 907.85,
+      "text": "\"I got all your instructions here."
+    },
+    {
+      "start": 907.99,
+      "end": 908.93,
+      "text": "Do you want to just use the card on file?\""
+    },
+    {
+      "start": 908.97,
+      "end": 909.23,
+      "text": "I asked."
+    },
+    {
+      "start": 909.49,
+      "end": 910.15,
+      "text": "\"Yeah, that's fine.\""
+    },
+    {
+      "start": 910.63,
+      "end": 911.51,
+      "text": "Hot diggity dog."
+    },
+    {
+      "start": 911.71,
+      "end": 912.61,
+      "text": "She just bought all those products."
+    },
+    {
+      "start": 912.65,
+      "end": 913.57,
+      "text": "I didn't even ask her anything."
+    },
+    {
+      "start": 913.63,
+      "end": 915.47,
+      "text": "I just told her, and she did."
+    },
+    {
+      "start": 916.05,
+      "end": 917.87,
+      "text": "And she did it, like magic."
+    },
+    {
+      "start": 918.83,
+      "end": 922.17,
+      "text": "I did this from that day forward, and my 30-day profits skyrocketed."
+    },
+    {
+      "start": 922.75,
+      "end": 923.19,
+      "text": "Takeaway."
+    },
+    {
+      "start": 923.83,
+      "end": 928.09,
+      "text": "I learned detailed and personalized instructions upsell more people than vague and general instructions."
+    },
+    {
+      "start": 928.59,
+      "end": 930.01,
+      "text": "I call this prescription upselling."
+    },
+    {
+      "start": 930.75,
+      "end": 931.71,
+      "text": "November 2016."
+    },
+    {
+      "start": 932.57,
+      "end": 936.35,
+      "text": "By now, I was on the road launching other people's gyms, and that included selling supplements."
+    },
+    {
+      "start": 936.79,
+      "end": 937.89,
+      "text": "I sold thousands of people."
+    },
+    {
+      "start": 938.45,
+      "end": 942.67,
+      "text": "I'd see 40 to 50 people a day, two people every 30 minutes, 12 hours straight."
+    },
+    {
+      "start": 943.07,
+      "end": 947.05,
+      "text": "My supplement selling marathons alone covered the flight there, my hotel, and advertising costs."
+    },
+    {
+      "start": 947.27,
+      "end": 949.11,
+      "text": "I got so good, I'd run out of stuff to sell."
+    },
+    {
+      "start": 949.51,
+      "end": 950.55,
+      "text": "Today was one of those days."
+    },
+    {
+      "start": 951.47,
+      "end": 953.83,
+      "text": "I just sold a lady the last four of different products."
+    },
+    {
+      "start": 954.47,
+      "end": 957.27,
+      "text": "In situations like this, I'd sell whatever I had left to the next customer."
+    },
+    {
+      "start": 957.61,
+      "end": 960.05,
+      "text": "But before I could pitch, she blurted out, \"Can I just get what she got?\""
+    },
+    {
+      "start": 960.51,
+      "end": 960.91,
+      "text": "Oh, boy."
+    },
+    {
+      "start": 961.41,
+      "end": 962.75,
+      "text": "I said, \"Sorry, I just ran out."
+    },
+    {
+      "start": 963.23,
+      "end": 967.31,
+      "text": "But honestly, you can get something close at the shop down the street for about 20 bucks less."
+    },
+    {
+      "start": 967.35,
+      "end": 968.99,
+      "text": "It's not as good, but it'll do for the first month."
+    },
+    {
+      "start": 969.13,
+      "end": 969.31,
+      "text": "Cool?\""
+    },
+    {
+      "start": 969.95,
+      "end": 971.11,
+      "text": "\"Thank you so much for helping me out.\""
+    },
+    {
+      "start": 971.17,
+      "end": 972.03,
+      "text": "She seemed so grateful."
+    },
+    {
+      "start": 972.37,
+      "end": 972.89,
+      "text": "It felt good."
+    },
+    {
+      "start": 973.77,
+      "end": 975.33,
+      "text": "So I continued unselling."
+    },
+    {
+      "start": 975.77,
+      "end": 977.17,
+      "text": "\"Oh, this other thing, same story."
+    },
+    {
+      "start": 977.25,
+      "end": 979.65,
+      "text": "Again, not as good, but it'll get you through the first month.\""
+    },
+    {
+      "start": 980.25,
+      "end": 980.97,
+      "text": "She seemed so happy."
+    },
+    {
+      "start": 981.03,
+      "end": 982.05,
+      "text": "I couldn't stop myself now."
+    },
+    {
+      "start": 982.41,
+      "end": 984.45,
+      "text": "I started unselling stuff I wasn't going to sell her anyways."
+    },
+    {
+      "start": 984.73,
+      "end": 985.81,
+      "text": "\"You're not trying to gain weight, right?\""
+    },
+    {
+      "start": 985.99,
+      "end": 986.31,
+      "text": "I joked."
+    },
+    {
+      "start": 986.37,
+      "end": 986.95,
+      "text": "\"Oh, God no.\""
+    },
+    {
+      "start": 986.97,
+      "end": 987.53,
+      "text": "\"Okay, great."
+    },
+    {
+      "start": 988.07,
+      "end": 989.35,
+      "text": "Well, then you won't be needing this either.\""
+    },
+    {
+      "start": 989.73,
+      "end": 991.11,
+      "text": "I crossed out the weight gainer shake."
+    },
+    {
+      "start": 991.39,
+      "end": 994.63,
+      "text": "\"Oh, and you aren't going to need to boost your testosterone, right?\""
+    },
+    {
+      "start": 994.75,
+      "end": 996.81,
+      "text": "\"No, ha ha, I don't think so,\" she said."
+    },
+    {
+      "start": 997.29,
+      "end": 997.59,
+      "text": "\"Great."
+    },
+    {
+      "start": 998.09,
+      "end": 999.49,
+      "text": "Well, you won't be needing this either.\""
+    },
+    {
+      "start": 999.75,
+      "end": 1000.45,
+      "text": "I crossed it out."
+    },
+    {
+      "start": 1000.89,
+      "end": 1002.87,
+      "text": "Then I started making suggestions from what I had left."
+    },
+    {
+      "start": 1003.11,
+      "end": 1005.95,
+      "text": "\"Okay, so you need to take two of these, three of these,\" and I went on."
+    },
+    {
+      "start": 1006.17,
+      "end": 1007.79,
+      "text": "She loved it and bought without hesitation."
+    },
+    {
+      "start": 1008.23,
+      "end": 1008.69,
+      "text": "Takeaway."
+    },
+    {
+      "start": 1009.57,
+      "end": 1014.33,
+      "text": "I went out of my way to cross out what she didn't need, and this built enough goodwill to upsell what she did."
+    },
+    {
+      "start": 1014.83,
+      "end": 1017.03,
+      "text": "Later, I kept products just to cross them out."
+    },
+    {
+      "start": 1017.41,
+      "end": 1019.09,
+      "text": "I called this process unselling."
+    },
+    {
+      "start": 1020.05,
+      "end": 1020.55,
+      "text": "Description."
+    },
+    {
+      "start": 1021.09,
+      "end": 1029.13,
+      "text": "In a menu upsell, you tell customers which options they don't need, then tell them what they do need, their preferences, and how they get value from it."
+    },
+    {
+      "start": 1029.73,
+      "end": 1034.89,
+      "text": "Menu upsells combine up to four tactics: A/B upselling, prescription upselling, unselling, and card on file."
+    },
+    {
+      "start": 1035.55,
+      "end": 1037.91,
+      "text": "First, I insult what customers don't need."
+    },
+    {
+      "start": 1038.35,
+      "end": 1040.17,
+      "text": "Second, I prescribe what they do need."
+    },
+    {
+      "start": 1040.57,
+      "end": 1042.63,
+      "text": "Third, I ask their preference between A and B."
+    },
+    {
+      "start": 1043.03,
+      "end": 1045.75,
+      "text": "Last, I make the buying easy by asking if they want to use the card on file."
+    },
+    {
+      "start": 1046.67,
+      "end": 1047.19,
+      "text": "Unselling."
+    },
+    {
+      "start": 1047.95,
+      "end": 1052.33,
+      "text": "You unsell them by telling customers what they don't need so that you can emphasize what they do."
+    },
+    {
+      "start": 1052.83,
+      "end": 1058.99,
+      "text": "Here, instead of asking if they want to buy or not, you explain what they don't need as a way to get them excited about what they do."
+    },
+    {
+      "start": 1059.57,
+      "end": 1061.59,
+      "text": "Unsells vary based on the customer's needs."
+    },
+    {
+      "start": 1062.49,
+      "end": 1065.09,
+      "text": "When some options work best, you can cross out the rest."
+    },
+    {
+      "start": 1065.59,
+      "end": 1068.65,
+      "text": "After telling them what they don't need, prescription upsell."
+    },
+    {
+      "start": 1069.61,
+      "end": 1070.89,
+      "text": "We tell them what they do need."
+    },
+    {
+      "start": 1071.31,
+      "end": 1076.33,
+      "text": "Prescription upsells work well when offering a choice is inconvenient and you only have one thing that solves the problem."
+    },
+    {
+      "start": 1076.81,
+      "end": 1078.83,
+      "text": "Prescription upselling has two important components."
+    },
+    {
+      "start": 1079.29,
+      "end": 1082.07,
+      "text": "First, you have to explain how it integrates with the offers they already bought."
+    },
+    {
+      "start": 1082.61,
+      "end": 1085.43,
+      "text": "Second, you personalize in detail how to maximize its value."
+    },
+    {
+      "start": 1085.81,
+      "end": 1090.81,
+      "text": "Here, instead of asking if they want to buy it or not, you explain how to use it as if they already have."
+    },
+    {
+      "start": 1091.21,
+      "end": 1094.93,
+      "text": "Again, you remove the option of not buying to lower the chance that they don't buy."
+    },
+    {
+      "start": 1095.45,
+      "end": 1099.09,
+      "text": "And once I've told them exactly how they're going to use everything, A/B upsell."
+    },
+    {
+      "start": 1099.67,
+      "end": 1100.97,
+      "text": "We ask them for their preferences."
+    },
+    {
+      "start": 1101.43,
+      "end": 1104.01,
+      "text": "A/B upsells work for multiple offers that solve the same problem."
+    },
+    {
+      "start": 1104.57,
+      "end": 1106.55,
+      "text": "You make AB upsells by asking their preference."
+    },
+    {
+      "start": 1106.99,
+      "end": 1112.85,
+      "text": "Instead of asking if customers want to buy a product, yes or no, we ask which product they prefer, A or B."
+    },
+    {
+      "start": 1113.43,
+      "end": 1114.87,
+      "text": "Either choice results in an upsell."
+    },
+    {
+      "start": 1115.25,
+      "end": 1118.01,
+      "text": "Basically, when you give people the option not to buy, some don't buy."
+    },
+    {
+      "start": 1118.35,
+      "end": 1120.51,
+      "text": "So I give the option to pick between buying two similar things."
+    },
+    {
+      "start": 1121.01,
+      "end": 1125.93,
+      "text": "Once they know what they're buying and how they're going to use it, I suggest the easiest way for them to pay, card on file."
+    },
+    {
+      "start": 1126.73,
+      "end": 1131.11,
+      "text": "A cherry on top of all this upsell goodness, I literally ask, \"Do you want to use the card you have on file?\""
+    },
+    {
+      "start": 1131.83,
+      "end": 1135.61,
+      "text": "Here, instead of asking if they want to pay or not, you refer to ways they already have."
+    },
+    {
+      "start": 1136.11,
+      "end": 1146.79,
+      "text": "This gets more people to buy because it lowers the hidden costs of buying, picking which card to use, taking it out, being reminded of the ugly buying decisions in the past, even the hassle of buying stuff in a rush, and who knows how many more."
+    },
+    {
+      "start": 1147.51,
+      "end": 1150.51,
+      "text": "Just know, if you make it easy for people to buy, more people will."
+    },
+    {
+      "start": 1151.07,
+      "end": 1152.45,
+      "text": "This took me 10 years to learn."
+    },
+    {
+      "start": 1153.23,
+      "end": 1154.79,
+      "text": "May you get the same value in 10 minutes."
+    },
+    {
+      "start": 1155.53,
+      "end": 1156.07,
+      "text": "Examples."
+    },
+    {
+      "start": 1156.71,
+      "end": 1157.49,
+      "text": "Massage therapist."
+    },
+    {
+      "start": 1157.91,
+      "end": 1158.29,
+      "text": "Unsell."
+    },
+    {
+      "start": 1158.37,
+      "end": 1162.75,
+      "text": "\"We have a lymphatic massage available, but you're not pregnant or just out of surgery, right?"
+    },
+    {
+      "start": 1163.29,
+      "end": 1164.15,
+      "text": "So we can cross that out.\""
+    },
+    {
+      "start": 1164.71,
+      "end": 1165.25,
+      "text": "Prescribe."
+    },
+    {
+      "start": 1165.25,
+      "end": 1170.87,
+      "text": "\"Since your shoulder hurts, we'll heat you up first, then hit your trigger points, and after that, we'll do some dynamic stretches.\""
+    },
+    {
+      "start": 1171.29,
+      "end": 1171.61,
+      "text": "AB."
+    },
+    {
+      "start": 1171.67,
+      "end": 1174.11,
+      "text": "\"So would you rather do it before work or on your way home?\""
+    },
+    {
+      "start": 1174.65,
+      "end": 1175.23,
+      "text": "Card on file."
+    },
+    {
+      "start": 1175.59,
+      "end": 1176.75,
+      "text": "\"Want to just use the card on file?\""
+    },
+    {
+      "start": 1178.85,
+      "end": 1179.35,
+      "text": "Dog food."
+    },
+    {
+      "start": 1180.01,
+      "end": 1180.43,
+      "text": "Unsell."
+    },
+    {
+      "start": 1180.43,
+      "end": 1183.45,
+      "text": "\"You're not going to need this small bag or this puppy stuff."
+    },
+    {
+      "start": 1183.49,
+      "end": 1184.29,
+      "text": "You've got a big dog."
+    },
+    {
+      "start": 1184.61,
+      "end": 1186.87,
+      "text": "You don't need these vitamins either because we've got that in the food already.\""
+    },
+    {
+      "start": 1187.83,
+      "end": 1188.33,
+      "text": "Prescribe."
+    },
+    {
+      "start": 1188.33,
+      "end": 1195.25,
+      "text": "\"You're also going to want to give your dog one of these joint chews at each meal, and every 90 days, give them one of these wafers for heartworms."
+    },
+    {
+      "start": 1195.81,
+      "end": 1197.89,
+      "text": "Also, make sure you bring them back next month."
+    },
+    {
+      "start": 1197.95,
+      "end": 1198.87,
+      "text": "Let's get that book now.\""
+    },
+    {
+      "start": 1199.29,
+      "end": 1199.59,
+      "text": "AB."
+    },
+    {
+      "start": 1200.03,
+      "end": 1202.21,
+      "text": "\"So does your dog prefer beef or chicken flavor?\""
+    },
+    {
+      "start": 1202.47,
+      "end": 1203.13,
+      "text": "Card on file."
+    },
+    {
+      "start": 1203.49,
+      "end": 1204.63,
+      "text": "\"Want to just use the card on file?\""
+    },
+    {
+      "start": 1205.87,
+      "end": 1206.61,
+      "text": "Digital product."
+    },
+    {
+      "start": 1206.95,
+      "end": 1207.29,
+      "text": "Unsell."
+    },
+    {
+      "start": 1208.43,
+      "end": 1209.69,
+      "text": "\"You don't need all eight courses yet."
+    },
+    {
+      "start": 1209.93,
+      "end": 1211.55,
+      "text": "You just need to solve X, Y, and Z."
+    },
+    {
+      "start": 1211.97,
+      "end": 1215.63,
+      "text": "Tell you what, I'll send you some free stuff that'll solve problems X and Y."
+    },
+    {
+      "start": 1216.13,
+      "end": 1218.27,
+      "text": "Then you'll just need one course for problem Z.\""
+    },
+    {
+      "start": 1218.67,
+      "end": 1219.21,
+      "text": "Prescribe."
+    },
+    {
+      "start": 1219.57,
+      "end": 1223.55,
+      "text": "\"But to solve problem Z, you're definitely going to want to do this course this particular way."
+    },
+    {
+      "start": 1224.19,
+      "end": 1225.77,
+      "text": "Can you put an hour a day towards it?"
+    },
+    {
+      "start": 1225.99,
+      "end": 1226.57,
+      "text": "Okay, great."
+    },
+    {
+      "start": 1226.97,
+      "end": 1229.31,
+      "text": "This will prevent any other Z problems cropping up later.\""
+    },
+    {
+      "start": 1229.75,
+      "end": 1230.13,
+      "text": "AB."
+    },
+    {
+      "start": 1230.49,
+      "end": 1232.51,
+      "text": "\"Would you rather have direct messages or phone support?"
+    },
+    {
+      "start": 1232.73,
+      "end": 1233.29,
+      "text": "Okay, great."
+    },
+    {
+      "start": 1233.67,
+      "end": 1235.25,
+      "text": "And would you like to start today or Monday?\""
+    },
+    {
+      "start": 1236.69,
+      "end": 1237.33,
+      "text": "Card on file."
+    },
+    {
+      "start": 1237.51,
+      "end": 1237.91,
+      "text": "\"Awesome."
+    },
+    {
+      "start": 1238.19,
+      "end": 1239.37,
+      "text": "Want to just use the card on file?\""
+    },
+    {
+      "start": 1240.05,
+      "end": 1240.47,
+      "text": "Pro tip."
+    },
+    {
+      "start": 1240.87,
+      "end": 1243.85,
+      "text": "Card on file for first purchases, \"What do you want to use?\""
+    },
+    {
+      "start": 1244.85,
+      "end": 1245.23,
+      "text": "Pro tip."
+    },
+    {
+      "start": 1245.61,
+      "end": 1249.53,
+      "text": "If you don't have the card on file, you get it on file by asking which card they want to use."
+    },
+    {
+      "start": 1250.69,
+      "end": 1251.35,
+      "text": "Important notes."
+    },
+    {
+      "start": 1252.23,
+      "end": 1253.71,
+      "text": "Make anything AB sellable."
+    },
+    {
+      "start": 1254.11,
+      "end": 1256.27,
+      "text": "You can turn anything into an AB offer."
+    },
+    {
+      "start": 1256.71,
+      "end": 1257.79,
+      "text": "Just to give you a few ideas."
+    },
+    {
+      "start": 1258.41,
+      "end": 1258.91,
+      "text": "Quantity."
+    },
+    {
+      "start": 1259.27,
+      "end": 1260.59,
+      "text": "Do you want one bottle or two?"
+    },
+    {
+      "start": 1261.25,
+      "end": 1261.81,
+      "text": "Start dates."
+    },
+    {
+      "start": 1262.25,
+      "end": 1263.55,
+      "text": "Start tomorrow or Monday?"
+    },
+    {
+      "start": 1264.09,
+      "end": 1264.73,
+      "text": "Payment preference."
+    },
+    {
+      "start": 1265.05,
+      "end": 1265.71,
+      "text": "Cash or card?"
+    },
+    {
+      "start": 1266.25,
+      "end": 1266.69,
+      "text": "Flavors."
+    },
+    {
+      "start": 1267.01,
+      "end": 1267.81,
+      "text": "Chocolate or vanilla?"
+    },
+    {
+      "start": 1268.25,
+      "end": 1268.81,
+      "text": "Time slots."
+    },
+    {
+      "start": 1269.15,
+      "end": 1269.95,
+      "text": "Morning or afternoon?"
+    },
+    {
+      "start": 1270.29,
+      "end": 1270.67,
+      "text": "Media."
+    },
+    {
+      "start": 1271.13,
+      "end": 1271.75,
+      "text": "Read or listen?"
+    },
+    {
+      "start": 1272.03,
+      "end": 1272.65,
+      "text": "Delivery speeds."
+    },
+    {
+      "start": 1272.89,
+      "end": 1273.75,
+      "text": "Standard or overnight?"
+    },
+    {
+      "start": 1274.15,
+      "end": 1274.65,
+      "text": "Sizes."
+    },
+    {
+      "start": 1275.03,
+      "end": 1275.63,
+      "text": "Small or medium?"
+    },
+    {
+      "start": 1276.03,
+      "end": 1276.41,
+      "text": "Colors."
+    },
+    {
+      "start": 1276.63,
+      "end": 1277.21,
+      "text": "Black or white?"
+    },
+    {
+      "start": 1277.69,
+      "end": 1278.21,
+      "text": "Materials."
+    },
+    {
+      "start": 1278.41,
+      "end": 1279.21,
+      "text": "Paper or plastic?"
+    },
+    {
+      "start": 1279.47,
+      "end": 1279.99,
+      "text": "Personnel."
+    },
+    {
+      "start": 1280.25,
+      "end": 1280.93,
+      "text": "John or Sarah?"
+    },
+    {
+      "start": 1281.19,
+      "end": 1281.75,
+      "text": "Communication."
+    },
+    {
+      "start": 1281.95,
+      "end": 1282.57,
+      "text": "Call or text?"
+    },
+    {
+      "start": 1282.97,
+      "end": 1285.87,
+      "text": "With some creativity, you can make anything an AB upsell."
+    },
+    {
+      "start": 1286.87,
+      "end": 1288.69,
+      "text": "If you make an AB offer, add a nudge."
+    },
+    {
+      "start": 1289.15,
+      "end": 1292.33,
+      "text": "If your customers have limited experience with your products or service, give them a nudge."
+    },
+    {
+      "start": 1292.33,
+      "end": 1302.07,
+      "text": "\"This is my favorite,\" or, \"X is usually a safe bet,\" or, \"A lot of people love this,\" or, \"Tuesday sessions are a little smaller if you like that,\" or, \"Amy does great with high schoolers.\""
+    },
+    {
+      "start": 1303.21,
+      "end": 1305.23,
+      "text": "These one-liners really help move sales along."
+    },
+    {
+      "start": 1305.75,
+      "end": 1309.87,
+      "text": "Hint, if you want to move one particular product faster, nudge that one more."
+    },
+    {
+      "start": 1310.79,
+      "end": 1313.15,
+      "text": "If you've sold out of it, take payment and delay delivery."
+    },
+    {
+      "start": 1313.73,
+      "end": 1319.05,
+      "text": "Later, I learned I could just sell stuff, order it, and then set the expectation of when it will arrive."
+    },
+    {
+      "start": 1319.47,
+      "end": 1322.35,
+      "text": "This allowed me to sell way more selection because I didn't have to carry inventory."
+    },
+    {
+      "start": 1322.97,
+      "end": 1326.79,
+      "text": "If you run out, consider collecting the cash and changing the delivery expectation."
+    },
+    {
+      "start": 1327.01,
+      "end": 1328.15,
+      "text": "You'd be surprised how well this works."
+    },
+    {
+      "start": 1329.41,
+      "end": 1331.07,
+      "text": "Employees love unselling."
+    },
+    {
+      "start": 1331.53,
+      "end": 1334.31,
+      "text": "Employees often like helping customers game the system."
+    },
+    {
+      "start": 1334.75,
+      "end": 1335.11,
+      "text": "Let them."
+    },
+    {
+      "start": 1335.71,
+      "end": 1338.79,
+      "text": "Encourage customers to help customers game the system on purpose."
+    },
+    {
+      "start": 1339.31,
+      "end": 1344.69,
+      "text": "Your employees have insider knowledge, so allow them to show customers how to get the most value out of what you have to offer."
+    },
+    {
+      "start": 1344.95,
+      "end": 1345.57,
+      "text": "Everyone wins."
+    },
+    {
+      "start": 1347.05,
+      "end": 1348.81,
+      "text": "Pro tip, the economist play."
+    },
+    {
+      "start": 1350.15,
+      "end": 1352.77,
+      "text": "If you have two options and want people to buy both."
+    },
+    {
+      "start": 1353.55,
+      "end": 1361.57,
+      "text": "In the late 1990s, The Economist magazine started offering a digital subscription because more people got their news online, but it also wanted to keep its profitable print subscription."
+    },
+    {
+      "start": 1361.89,
+      "end": 1370.11,
+      "text": "So, thinking people would buy both, The Economist offered the following: a digital subscription for 59 dollars a year, a digital plus print subscription for 125 a year."
+    },
+    {
+      "start": 1370.67,
+      "end": 1373.93,
+      "text": "Result, print sales plummeted as customers flocked to the cheaper option."
+    },
+    {
+      "start": 1374.37,
+      "end": 1374.65,
+      "text": "Oops."
+    },
+    {
+      "start": 1375.39,
+      "end": 1378.53,
+      "text": "To fix it, they added a decoy option for the same price as the bundle."
+    },
+    {
+      "start": 1379.31,
+      "end": 1382.63,
+      "text": "So option A, digital subscription, 59 dollars a year."
+    },
+    {
+      "start": 1383.17,
+      "end": 1386.61,
+      "text": "Option B, print subscription only, 125 a year."
+    },
+    {
+      "start": 1387.27,
+      "end": 1391.21,
+      "text": "C, digital plus print subscription, also 125 a year."
+    },
+    {
+      "start": 1391.61,
+      "end": 1397.09,
+      "text": "Result, customers now took C, digital plus print subscription for 125 a year."
+    },
+    {
+      "start": 1397.57,
+      "end": 1405.83,
+      "text": "Bottom line, present three options, option A, option B, option C, which is both, but you make the price of C the same as the more expensive option B."
+    },
+    {
+      "start": 1406.13,
+      "end": 1410.59,
+      "text": "So as long as you price the options to preserve your margins, you make the customer's choice easy and sell both."
+    },
+    {
+      "start": 1411.53,
+      "end": 1412.11,
+      "text": "Summary points."
+    },
+    {
+      "start": 1412.77,
+      "end": 1415.39,
+      "text": "Menu upsells work best when you have multiple offers available."
+    },
+    {
+      "start": 1416.21,
+      "end": 1418.23,
+      "text": "Menu upsells combine up to four tactics."
+    },
+    {
+      "start": 1418.77,
+      "end": 1420.51,
+      "text": "Unselling, you tell customers what they don't need."
+    },
+    {
+      "start": 1420.67,
+      "end": 1422.35,
+      "text": "Prescribing, you tell them what they do need."
+    },
+    {
+      "start": 1422.61,
+      "end": 1424.51,
+      "text": "AB offer, ask them which they prefer."
+    },
+    {
+      "start": 1424.87,
+      "end": 1428.39,
+      "text": "And last, make the buying easy by asking if they want to use the card on file."
+    },
+    {
+      "start": 1429.23,
+      "end": 1432.75,
+      "text": "Unselling lower margin stuff where appropriate incentivizes higher margin upsells."
+    },
+    {
+      "start": 1433.33,
+      "end": 1435.97,
+      "text": "Encourage employees to unsell and game the system on purpose."
+    },
+    {
+      "start": 1436.57,
+      "end": 1438.37,
+      "text": "Nudge new customers toward what makes sense for them."
+    },
+    {
+      "start": 1439.55,
+      "end": 1439.99,
+      "text": "Free gift."
+    },
+    {
+      "start": 1440.67,
+      "end": 1441.77,
+      "text": "Watch the menu upsell training."
+    },
+    {
+      "start": 1442.11,
+      "end": 1443.19,
+      "text": "I rarely make commands."
+    },
+    {
+      "start": 1443.61,
+      "end": 1444.11,
+      "text": "Just do it."
+    },
+    {
+      "start": 1444.59,
+      "end": 1444.97,
+      "text": "Watch it."
+    },
+    {
+      "start": 1445.29,
+      "end": 1446.87,
+      "text": "I could teach a master class on this upsell."
+    },
+    {
+      "start": 1446.93,
+      "end": 1447.97,
+      "text": "It's made me millions."
+    },
+    {
+      "start": 1448.35,
+      "end": 1448.67,
+      "text": "That's it."
+    },
+    {
+      "start": 1448.89,
+      "end": 1451.05,
+      "text": "Just go to acquisition.com/training/money."
+    },
+    {
+      "start": 1451.11,
+      "end": 1451.67,
+      "text": "Yes, it's free."
+    },
+    {
+      "start": 1452.01,
+      "end": 1452.77,
+      "text": "No, you won't be sorry."
+    },
+    {
+      "start": 1452.93,
+      "end": 1453.47,
+      "text": "Anchor upsell."
+    },
+    {
+      "start": 1454.15,
+      "end": 1460.37,
+      "text": "The only thing worse than making a 1,000 dollar offer to a person with a 100 dollar budget is making a 100 dollar offer to someone with a 1,000 dollar budget."
+    },
+    {
+      "start": 1461.45,
+      "end": 1464.17,
+      "text": "2016, after starting Gym Launch, but before making money."
+    },
+    {
+      "start": 1465.29,
+      "end": 1468.29,
+      "text": "I had spent my last five years showerless, in sweats, and a tank top."
+    },
+    {
+      "start": 1468.81,
+      "end": 1471.83,
+      "text": "But now I had gym wash, and a fashionable friend said I should look professional."
+    },
+    {
+      "start": 1471.89,
+      "end": 1474.03,
+      "text": "\"Businessmen don't wear tank tops, Alex."
+    },
+    {
+      "start": 1474.57,
+      "end": 1475.85,
+      "text": "I know the owner of a local suit shop."
+    },
+    {
+      "start": 1476.01,
+      "end": 1476.67,
+      "text": "I'll tell him you're coming.\""
+    },
+    {
+      "start": 1477.37,
+      "end": 1478.31,
+      "text": "I took his advice and went."
+    },
+    {
+      "start": 1478.85,
+      "end": 1482.31,
+      "text": "So I budgeted 500 dollars for a suit, which was a big purchase for me at the time."
+    },
+    {
+      "start": 1482.93,
+      "end": 1485.05,
+      "text": "I walked into the suit shop and made small talk."
+    },
+    {
+      "start": 1485.33,
+      "end": 1486.17,
+      "text": "He knew I was coming."
+    },
+    {
+      "start": 1486.51,
+      "end": 1486.79,
+      "text": "Wow."
+    },
+    {
+      "start": 1487.39,
+      "end": 1489.73,
+      "text": "I told him I just started a new business and wanted a boss suit."
+    },
+    {
+      "start": 1490.33,
+      "end": 1492.87,
+      "text": "He took my measurements, then grabbed two suits off the rack."
+    },
+    {
+      "start": 1493.23,
+      "end": 1494.11,
+      "text": "I put the first one on."
+    },
+    {
+      "start": 1494.11,
+      "end": 1495.47,
+      "text": "\"How does it look?"
+    },
+    {
+      "start": 1495.75,
+      "end": 1496.29,
+      "text": "How's it feel?\""
+    },
+    {
+      "start": 1496.43,
+      "end": 1496.79,
+      "text": "he asked."
+    },
+    {
+      "start": 1498.11,
+      "end": 1498.59,
+      "text": "I smiled."
+    },
+    {
+      "start": 1499.07,
+      "end": 1500.83,
+      "text": "I felt cool, like a rich guy."
+    },
+    {
+      "start": 1501.21,
+      "end": 1501.61,
+      "text": "It was nice."
+    },
+    {
+      "start": 1502.35,
+      "end": 1504.25,
+      "text": "He talked about some accessories, but I didn't listen much."
+    },
+    {
+      "start": 1504.63,
+      "end": 1505.79,
+      "text": "I was too cool to listen now."
+    },
+    {
+      "start": 1506.03,
+      "end": 1506.29,
+      "text": "Ha."
+    },
+    {
+      "start": 1507.19,
+      "end": 1508.03,
+      "text": "This was going to be awesome."
+    },
+    {
+      "start": 1508.31,
+      "end": 1509.33,
+      "text": "He turned to talk to an employee."
+    },
+    {
+      "start": 1509.63,
+      "end": 1511.11,
+      "text": "I flipped the price tag over so I could see it."
+    },
+    {
+      "start": 1511.73,
+      "end": 1513.01,
+      "text": "16,000 dollars."
+    },
+    {
+      "start": 1513.75,
+      "end": 1514.57,
+      "text": "My face turned red."
+    },
+    {
+      "start": 1515.19,
+      "end": 1519.43,
+      "text": "All I could think of was my friend who asked the owner to make time for me, and I couldn't even afford anything here."
+    },
+    {
+      "start": 1519.95,
+      "end": 1520.63,
+      "text": "I felt horrible."
+    },
+    {
+      "start": 1521.67,
+      "end": 1523.71,
+      "text": "I kept my head down, try and hide my shock."
+    },
+    {
+      "start": 1524.29,
+      "end": 1525.59,
+      "text": "I took a deep breath and looked up."
+    },
+    {
+      "start": 1525.93,
+      "end": 1526.33,
+      "text": "I failed."
+    },
+    {
+      "start": 1526.69,
+      "end": 1527.55,
+      "text": "He had seen me blush."
+    },
+    {
+      "start": 1528.79,
+      "end": 1531.49,
+      "text": "Coming to my aid, he asked, \"Do you care about the designer much?\""
+    },
+    {
+      "start": 1531.85,
+      "end": 1532.43,
+      "text": "\"Not at all.\""
+    },
+    {
+      "start": 1533.23,
+      "end": 1536.81,
+      "text": "Almost before I finished replying, the owner rolled around and draped the next suit over my shoulder."
+    },
+    {
+      "start": 1537.03,
+      "end": 1538.49,
+      "text": "\"Try this one on for size,\" he said."
+    },
+    {
+      "start": 1538.73,
+      "end": 1540.03,
+      "text": "I looked in the mirror, looks good."
+    },
+    {
+      "start": 1540.47,
+      "end": 1542.55,
+      "text": "Then I looked down at the price tag, 2,200 dollars."
+    },
+    {
+      "start": 1542.91,
+      "end": 1545.29,
+      "text": "It wasn't 500, but it wasn't 16 grand either."
+    },
+    {
+      "start": 1545.59,
+      "end": 1546.15,
+      "text": "Sigh of relief."
+    },
+    {
+      "start": 1546.23,
+      "end": 1547.57,
+      "text": "\"Yeah, this works."
+    },
+    {
+      "start": 1547.71,
+      "end": 1548.29,
+      "text": "I'll take this one.\""
+    },
+    {
+      "start": 1548.53,
+      "end": 1549.35,
+      "text": "He winked and nodded."
+    },
+    {
+      "start": 1549.51,
+      "end": 1550.19,
+      "text": "\"You got it, boss.\""
+    },
+    {
+      "start": 1551.75,
+      "end": 1554.43,
+      "text": "The owner sold me some socks, a handkerchief, and a shirt to go with it."
+    },
+    {
+      "start": 1554.81,
+      "end": 1556.21,
+      "text": "All in, another 300 dollars."
+    },
+    {
+      "start": 1556.55,
+      "end": 1560.01,
+      "text": "But after seeing the 16,000 dollar price tag on the first suit, everything seemed cheap."
+    },
+    {
+      "start": 1560.73,
+      "end": 1563.01,
+      "text": "Looking back, this wasn't the owner's first rodeo."
+    },
+    {
+      "start": 1563.31,
+      "end": 1564.13,
+      "text": "He was a real pro."
+    },
+    {
+      "start": 1564.67,
+      "end": 1567.55,
+      "text": "I spent five times more than I had budgeted, and I felt okay about it."
+    },
+    {
+      "start": 1568.11,
+      "end": 1570.61,
+      "text": "I only later realized he used a price anchor."
+    },
+    {
+      "start": 1571.41,
+      "end": 1574.63,
+      "text": "Description: With anchor upsells, you offer premium stuff first."
+    },
+    {
+      "start": 1574.87,
+      "end": 1578.25,
+      "text": "If the customer gasps, you offer a cheaper but acceptable alternative."
+    },
+    {
+      "start": 1579.03,
+      "end": 1581.59,
+      "text": "Basically, if you present your main offer, some people will buy it."
+    },
+    {
+      "start": 1581.85,
+      "end": 1582.07,
+      "text": "Duh."
+    },
+    {
+      "start": 1582.41,
+      "end": 1586.93,
+      "text": "But if you present a premium version that's 5 to 10 times the price first, lots of people will say no."
+    },
+    {
+      "start": 1587.43,
+      "end": 1590.03,
+      "text": "Then when you present your main offer, it looks like a much better deal."
+    },
+    {
+      "start": 1590.55,
+      "end": 1591.95,
+      "text": "So more people will buy it."
+    },
+    {
+      "start": 1592.23,
+      "end": 1592.65,
+      "text": "Aha."
+    },
+    {
+      "start": 1593.07,
+      "end": 1594.51,
+      "text": "That's the power of anchor upsells."
+    },
+    {
+      "start": 1595.12,
+      "end": 1599.71,
+      "text": "Anchor upsells work best when lower price offer has the same core function as the premium one."
+    },
+    {
+      "start": 1600.23,
+      "end": 1602.67,
+      "text": "For instance, I didn't care about the designer that much."
+    },
+    {
+      "start": 1602.91,
+      "end": 1603.67,
+      "text": "I just needed a suit."
+    },
+    {
+      "start": 1604.15,
+      "end": 1607.53,
+      "text": "So compared to the 16,000 dollar suit, the 2,200 dollar suit was a way better deal."
+    },
+    {
+      "start": 1608.13,
+      "end": 1610.09,
+      "text": "Anchor upsells also have two amazing bonuses."
+    },
+    {
+      "start": 1610.61,
+      "end": 1613.01,
+      "text": "First, anchored customers spend more than they normally would."
+    },
+    {
+      "start": 1613.39,
+      "end": 1615.95,
+      "text": "Second, some customers will still buy the super expensive thing."
+    },
+    {
+      "start": 1616.51,
+      "end": 1617.09,
+      "text": "Here are the steps."
+    },
+    {
+      "start": 1618.17,
+      "end": 1620.73,
+      "text": "One, present the anchor, the really expensive thing."
+    },
+    {
+      "start": 1621.25,
+      "end": 1622.57,
+      "text": "Two, get the gasp."
+    },
+    {
+      "start": 1623.09,
+      "end": 1624.81,
+      "text": "Expect the customer to freak out about the cost."
+    },
+    {
+      "start": 1625.29,
+      "end": 1626.51,
+      "text": "Three, come to the rescue."
+    },
+    {
+      "start": 1626.91,
+      "end": 1628.53,
+      "text": "Ask if they care what makes it premium."
+    },
+    {
+      "start": 1629.31,
+      "end": 1630.91,
+      "text": "Four, present your main offer."
+    },
+    {
+      "start": 1631.29,
+      "end": 1633.53,
+      "text": "Expect the customer to feel relieved and see the better deal."
+    },
+    {
+      "start": 1634.75,
+      "end": 1636.35,
+      "text": "Step five, ask how they want to pay."
+    },
+    {
+      "start": 1636.73,
+      "end": 1637.57,
+      "text": "Which card would you prefer?"
+    },
+    {
+      "start": 1638.37,
+      "end": 1644.55,
+      "text": "Pro tip: The only thing worse than making a 1,000 dollar offer to a person with 100 dollar budget is making 100 dollar offer to someone with 1,000 dollar budget."
+    },
+    {
+      "start": 1644.99,
+      "end": 1646.83,
+      "text": "In the first situation, you lose 100 dollars."
+    },
+    {
+      "start": 1646.95,
+      "end": 1648.37,
+      "text": "In the second, you lose 900."
+    },
+    {
+      "start": 1648.87,
+      "end": 1652.63,
+      "text": "I've lost tons of customers and mountains of cash because customers wanted more than I had to offer."
+    },
+    {
+      "start": 1652.99,
+      "end": 1653.35,
+      "text": "Boo."
+    },
+    {
+      "start": 1653.85,
+      "end": 1655.87,
+      "text": "So now I always have premium upsells ready."
+    },
+    {
+      "start": 1656.29,
+      "end": 1660.13,
+      "text": "Only a handful of customers buy them, but that handful of customers bring in big profits."
+    },
+    {
+      "start": 1660.57,
+      "end": 1663.17,
+      "text": "So always have premium offers, even if most people don't buy."
+    },
+    {
+      "start": 1663.43,
+      "end": 1666.45,
+      "text": "Remember, you won't lose customers by offering premium stuff first."
+    },
+    {
+      "start": 1666.79,
+      "end": 1668.27,
+      "text": "You will lose money if you don't."
+    },
+    {
+      "start": 1668.75,
+      "end": 1671.09,
+      "text": "Examples: Local service, lawn care."
+    },
+    {
+      "start": 1671.67,
+      "end": 1677.67,
+      "text": "Premium anchor: Get my cell phone number, fancy mulch, natural pest control, bi-weekly yard maintenance, 1,000 dollars a week."
+    },
+    {
+      "start": 1678.17,
+      "end": 1683.97,
+      "text": "Main offer: Get my team's number, generic mulch, normal pest control, bi-weekly yard maintenance, 200 dollars a week."
+    },
+    {
+      "start": 1684.73,
+      "end": 1686.29,
+      "text": "Physical product: A painting."
+    },
+    {
+      "start": 1686.93,
+      "end": 1692.37,
+      "text": "Premium offer: Super productive packaging, 20-year insurance, plus gift wrapped, 1,000 dollars."
+    },
+    {
+      "start": 1693.19,
+      "end": 1697.31,
+      "text": "Main offer: Normal packaging, one-year insurance, and a sticker, 200 dollars."
+    },
+    {
+      "start": 1698.71,
+      "end": 1699.83,
+      "text": "Digital product: Newsletter."
+    },
+    {
+      "start": 1700.21,
+      "end": 1705.43,
+      "text": "Premium anchor: All previous issues, new issues, 24-hour early access, 199 a month."
+    },
+    {
+      "start": 1705.87,
+      "end": 1709.73,
+      "text": "Main offer: New issues only, plus on time, 19 dollars a month."
+    },
+    {
+      "start": 1710.55,
+      "end": 1714.73,
+      "text": "Important notes: If you treat the anchor like a fake, so will the customer."
+    },
+    {
+      "start": 1715.71,
+      "end": 1720.41,
+      "text": "Some people hear about this technique, try it, gloss over the premium payment, and then say that it doesn't work."
+    },
+    {
+      "start": 1720.75,
+      "end": 1723.97,
+      "text": "If you do that, then the person never really considered it because you never really offered it."
+    },
+    {
+      "start": 1724.27,
+      "end": 1725.42,
+      "text": "You just went through the motions."
+    },
+    {
+      "start": 1725.97,
+      "end": 1729.33,
+      "text": "For this to work, you need to actually sell it, and they have to actually consider it."
+    },
+    {
+      "start": 1729.91,
+      "end": 1733.67,
+      "text": "Only after they pause, hesitate, or ask for something else do you move on to the next thing."
+    },
+    {
+      "start": 1734.81,
+      "end": 1736.51,
+      "text": "Make a premium offer you actually want people to buy."
+    },
+    {
+      "start": 1737.07,
+      "end": 1738.41,
+      "text": "A friend of mine struggled to get this working."
+    },
+    {
+      "start": 1739.33,
+      "end": 1741.31,
+      "text": "I only had to listen to one call to figure out the problem."
+    },
+    {
+      "start": 1741.65,
+      "end": 1743.71,
+      "text": "He made up some BS that he didn't really want them to buy."
+    },
+    {
+      "start": 1744.37,
+      "end": 1750.75,
+      "text": "So we tweaked the offer to something he would actually feel happy to deliver if someone paid, and they did, tripling his profits."
+    },
+    {
+      "start": 1751.67,
+      "end": 1754.57,
+      "text": "Actually present your premium offer like you want people to take it."
+    },
+    {
+      "start": 1754.93,
+      "end": 1757.83,
+      "text": "And when you do, some will, and if they don't, you still anchored them."
+    },
+    {
+      "start": 1758.75,
+      "end": 1760.49,
+      "text": "A proper anchor gets the gasp."
+    },
+    {
+      "start": 1761.01,
+      "end": 1764.21,
+      "text": "When you do an anchor upsell correctly, customers will have a mini panic attack."
+    },
+    {
+      "start": 1764.65,
+      "end": 1765.89,
+      "text": "I call this the gasp."
+    },
+    {
+      "start": 1766.37,
+      "end": 1769.83,
+      "text": "Gasps used to really stress me out when I was selling, but then I realized something huge."
+    },
+    {
+      "start": 1770.05,
+      "end": 1771.47,
+      "text": "The bigger the gasp, the more they bought."
+    },
+    {
+      "start": 1771.91,
+      "end": 1773.51,
+      "text": "Once you get the gasp, come to the rescue."
+    },
+    {
+      "start": 1773.93,
+      "end": 1779.79,
+      "text": "In the story, I gave the gasp, then the sales pro saved my ego by asking if I cared about the designer."
+    },
+    {
+      "start": 1780.35,
+      "end": 1782.55,
+      "text": "When I said no, he presented the next suit."
+    },
+    {
+      "start": 1783.03,
+      "end": 1783.91,
+      "text": "Here's the key point."
+    },
+    {
+      "start": 1784.57,
+      "end": 1788.73,
+      "text": "He already had the one-eighth price suit pulled up before my reaction."
+    },
+    {
+      "start": 1789.19,
+      "end": 1790.73,
+      "text": "He knew I would probably gasp."
+    },
+    {
+      "start": 1791.21,
+      "end": 1794.99,
+      "text": "And if your customers don't gasp, then they probably find your premium offer reasonable."
+    },
+    {
+      "start": 1795.27,
+      "end": 1797.05,
+      "text": "So just ask if they want to use the card on file."
+    },
+    {
+      "start": 1797.37,
+      "end": 1797.91,
+      "text": "Go for it."
+    },
+    {
+      "start": 1798.71,
+      "end": 1800.93,
+      "text": "Just don't do a gasp of your own when they say yes."
+    },
+    {
+      "start": 1801.57,
+      "end": 1802.09,
+      "text": "You're welcome."
+    },
+    {
+      "start": 1802.21,
+      "end": 1803.21,
+      "text": "You can buy me a beer later."
+    },
+    {
+      "start": 1803.61,
+      "end": 1805.85,
+      "text": "To get more people to buy your main offer, make it a better deal."
+    },
+    {
+      "start": 1806.67,
+      "end": 1809.57,
+      "text": "Only tweak a few features from your premium offer to make your main offer."
+    },
+    {
+      "start": 1810.13,
+      "end": 1811.23,
+      "text": "Every offer has features."
+    },
+    {
+      "start": 1811.79,
+      "end": 1813.27,
+      "text": "Some features matter more than others."
+    },
+    {
+      "start": 1813.75,
+      "end": 1815.63,
+      "text": "You want the primary features to stay the same."
+    },
+    {
+      "start": 1816.07,
+      "end": 1818.99,
+      "text": "Fewer people care about the secondary features, so change those."
+    },
+    {
+      "start": 1819.37,
+      "end": 1822.47,
+      "text": "This allows customers to get the same primary features in a way better deal."
+    },
+    {
+      "start": 1822.99,
+      "end": 1824.35,
+      "text": "Most people just want a suit."
+    },
+    {
+      "start": 1824.67,
+      "end": 1826.15,
+      "text": "A few people want a fancy suit."
+    },
+    {
+      "start": 1826.43,
+      "end": 1827.77,
+      "text": "A suit is a primary feature."
+    },
+    {
+      "start": 1828.09,
+      "end": 1830.57,
+      "text": "The material, designer, et cetera, is secondary."
+    },
+    {
+      "start": 1830.93,
+      "end": 1836.81,
+      "text": "After anchoring, offering the primary feature for one- Fit the price makes the main offer a great deal."
+    },
+    {
+      "start": 1838.07,
+      "end": 1838.39,
+      "text": "Summary."
+    },
+    {
+      "start": 1839.15,
+      "end": 1844.91,
+      "text": "If you present a more expensive offer before a less expensive offer, more people buy the less expensive offer than they would have on its own."
+    },
+    {
+      "start": 1845.75,
+      "end": 1850.39,
+      "text": "Present anchor, get gasp, come to the rescue, present core offer, ask for payment."
+    },
+    {
+      "start": 1850.91,
+      "end": 1855.23,
+      "text": "For the most effective anchor, make your premium five to ten times more expensive than your core offer."
+    },
+    {
+      "start": 1856.23,
+      "end": 1858.43,
+      "text": "Anchored customers spend a bit more than they plan to."
+    },
+    {
+      "start": 1859.09,
+      "end": 1861.45,
+      "text": "Don't treat the anchor like a fake or the customers will too."
+    },
+    {
+      "start": 1861.67,
+      "end": 1863.05,
+      "text": "You lose trust and waste time."
+    },
+    {
+      "start": 1863.59,
+      "end": 1864.03,
+      "text": "Important."
+    },
+    {
+      "start": 1864.35,
+      "end": 1866.05,
+      "text": "Some customers will buy the premium offer."
+    },
+    {
+      "start": 1866.61,
+      "end": 1870.67,
+      "text": "Expensive premium offers add outsized profits even with just a few sales."
+    },
+    {
+      "start": 1871.71,
+      "end": 1874.97,
+      "text": "The main offer and the premium offer should have the same primary features."
+    },
+    {
+      "start": 1875.73,
+      "end": 1879.11,
+      "text": "The premium offer has different secondary, AKA premium features."
+    },
+    {
+      "start": 1879.97,
+      "end": 1884.77,
+      "text": "After anchoring, offering the primary features for one-fifth the price makes the main offer a great deal."
+    },
+    {
+      "start": 1885.19,
+      "end": 1887.57,
+      "text": "It gives them basically the same thing for way less."
+    },
+    {
+      "start": 1888.59,
+      "end": 1889.01,
+      "text": "Free gift."
+    },
+    {
+      "start": 1889.47,
+      "end": 1890.31,
+      "text": "Anchor upsell training."
+    },
+    {
+      "start": 1891.05,
+      "end": 1893.37,
+      "text": "This thing can help you make insane amounts of profit overnight."
+    },
+    {
+      "start": 1893.75,
+      "end": 1894.71,
+      "text": "Truly life-changing."
+    },
+    {
+      "start": 1895.33,
+      "end": 1896.87,
+      "text": "I made an additional video for you on it."
+    },
+    {
+      "start": 1897.07,
+      "end": 1898.17,
+      "text": "Don't worry, it's free."
+    },
+    {
+      "start": 1898.57,
+      "end": 1901.01,
+      "text": "Watch it at acquisition.com/training/money."
+    },
+    {
+      "start": 1902.39,
+      "end": 1903.11,
+      "text": "Rollover upsell."
+    },
+    {
+      "start": 1903.81,
+      "end": 1904.73,
+      "text": "Want to just roll it forward?"
+    },
+    {
+      "start": 1905.59,
+      "end": 1906.43,
+      "text": "June 2014."
+    },
+    {
+      "start": 1907.35,
+      "end": 1911.39,
+      "text": "I've been running a win your money back offer, attraction offer number one, at my gym for the last year."
+    },
+    {
+      "start": 1912.15,
+      "end": 1915.47,
+      "text": "A 600 dollar fitness program where members could win their money back if they hit a goal."
+    },
+    {
+      "start": 1915.87,
+      "end": 1916.31,
+      "text": "It crushed."
+    },
+    {
+      "start": 1916.53,
+      "end": 1917.17,
+      "text": "I sold tons of them."
+    },
+    {
+      "start": 1917.61,
+      "end": 1918.21,
+      "text": "But there was a problem."
+    },
+    {
+      "start": 1918.81,
+      "end": 1920.39,
+      "text": "Good gyms have lots of recurring revenue."
+    },
+    {
+      "start": 1920.75,
+      "end": 1921.31,
+      "text": "I had none."
+    },
+    {
+      "start": 1921.75,
+      "end": 1924.03,
+      "text": "Most winners put their 600 dollars towards three months membership."
+    },
+    {
+      "start": 1924.39,
+      "end": 1924.73,
+      "text": "Fine."
+    },
+    {
+      "start": 1925.11,
+      "end": 1927.15,
+      "text": "But then they churned out before their first out-of-pocket payment."
+    },
+    {
+      "start": 1927.21,
+      "end": 1930.95,
+      "text": "So I essentially sold buy six weeks, get three months free, then they'd leave."
+    },
+    {
+      "start": 1931.23,
+      "end": 1931.73,
+      "text": "Not fine."
+    },
+    {
+      "start": 1932.31,
+      "end": 1934.45,
+      "text": "That 600 dollar thing was my only source of income."
+    },
+    {
+      "start": 1934.85,
+      "end": 1938.05,
+      "text": "So even though I got a bunch of people in the door, my revenue started at zero every month."
+    },
+    {
+      "start": 1938.39,
+      "end": 1939.05,
+      "text": "It was stressful."
+    },
+    {
+      "start": 1939.51,
+      "end": 1940.99,
+      "text": "I had to figure out a better way to boost profit."
+    },
+    {
+      "start": 1941.57,
+      "end": 1945.99,
+      "text": "That's when my friend Justin posted about how he added another 100 members to his recurring revenue."
+    },
+    {
+      "start": 1946.59,
+      "end": 1948.83,
+      "text": "He also attracted customers with a win your money back offer."
+    },
+    {
+      "start": 1949.21,
+      "end": 1950.03,
+      "text": "But there was one difference."
+    },
+    {
+      "start": 1950.19,
+      "end": 1952.11,
+      "text": "My customers left, and his kept buying stuff."
+    },
+    {
+      "start": 1952.63,
+      "end": 1954.71,
+      "text": "So I invited myself over to spy on him."
+    },
+    {
+      "start": 1955.11,
+      "end": 1956.07,
+      "text": "He was totally cool with it."
+    },
+    {
+      "start": 1956.57,
+      "end": 1961.61,
+      "text": "I spent two days there, and he and I ran some things differently, but nothing that explained why he was doing so much better than me."
+    },
+    {
+      "start": 1961.61,
+      "end": 1964.45,
+      "text": "\"Do you get lots of people winning their money back?\""
+    },
+    {
+      "start": 1964.45,
+      "end": 1965.47,
+      "text": "\"Yeah,\" he said."
+    },
+    {
+      "start": 1965.47,
+      "end": 1968.29,
+      "text": "\"Then how do you deal with all the free time you have to give away?\""
+    },
+    {
+      "start": 1968.63,
+      "end": 1969.19,
+      "text": "\"Free time?"
+    },
+    {
+      "start": 1969.47,
+      "end": 1969.61,
+      "text": "Ha."
+    },
+    {
+      "start": 1969.85,
+      "end": 1971.69,
+      "text": "I just roll over their winnings into a year-long membership.\""
+    },
+    {
+      "start": 1971.71,
+      "end": 1972.37,
+      "text": "\"What?\""
+    },
+    {
+      "start": 1972.49,
+      "end": 1973.37,
+      "text": "\"Yeah."
+    },
+    {
+      "start": 1974.01,
+      "end": 1975.99,
+      "text": "We have to do that so they can spread the money out.\""
+    },
+    {
+      "start": 1976.13,
+      "end": 1976.69,
+      "text": "\"Spread the money?"
+    },
+    {
+      "start": 1976.75,
+      "end": 1977.47,
+      "text": "What are you talking about?"
+    },
+    {
+      "start": 1977.67,
+      "end": 1978.05,
+      "text": "Seriously?"
+    },
+    {
+      "start": 1978.49,
+      "end": 1979.59,
+      "text": "What, you give it all up front?\""
+    },
+    {
+      "start": 1980.09,
+      "end": 1980.99,
+      "text": "He didn't wait for me to answer."
+    },
+    {
+      "start": 1981.53,
+      "end": 1983.45,
+      "text": "\"We just give them 50 bucks off per month for a year.\""
+    },
+    {
+      "start": 1983.55,
+      "end": 1986.67,
+      "text": "\"So even if they won their money back, they start paying immediately?\""
+    },
+    {
+      "start": 1987.03,
+      "end": 1987.59,
+      "text": "\"Of course."
+    },
+    {
+      "start": 1987.79,
+      "end": 1988.73,
+      "text": "I don't want people not paying."
+    },
+    {
+      "start": 1988.81,
+      "end": 1990.27,
+      "text": "What sort of business doesn't have paying customers?\""
+    },
+    {
+      "start": 1990.31,
+      "end": 1990.75,
+      "text": "He laughed."
+    },
+    {
+      "start": 1990.75,
+      "end": 1992.51,
+      "text": "\"They still get their money back."
+    },
+    {
+      "start": 1992.69,
+      "end": 1993.43,
+      "text": "It just takes a year.\""
+    },
+    {
+      "start": 1993.97,
+      "end": 1994.29,
+      "text": "Boom."
+    },
+    {
+      "start": 1994.59,
+      "end": 1995.17,
+      "text": "This was it."
+    },
+    {
+      "start": 1995.49,
+      "end": 1996.79,
+      "text": "The missing link in my money model."
+    },
+    {
+      "start": 1998.13,
+      "end": 2004.81,
+      "text": "This one thing, the rollover upsell, changed my life, thousands of gym owners' lives, and the lives of our customers."
+    },
+    {
+      "start": 2005.37,
+      "end": 2007.43,
+      "text": "The rollover upsell changed everything."
+    },
+    {
+      "start": 2008.21,
+      "end": 2013.11,
+      "text": "Now, instead of hoping customers spend money again, I roll over the cost of what they just bought towards the next thing."
+    },
+    {
+      "start": 2013.59,
+      "end": 2017.23,
+      "text": "And when paired with more expensive offers, it skyrockets 30-day profits."
+    },
+    {
+      "start": 2017.91,
+      "end": 2021.65,
+      "text": "And although I learned the rollover upsell this way, you don't need a win your money back offer to use it."
+    },
+    {
+      "start": 2021.87,
+      "end": 2025.69,
+      "text": "You can rollover upsell anyone, anything, even stuff people bought at other businesses."
+    },
+    {
+      "start": 2025.97,
+      "end": 2026.71,
+      "text": "Mwahaha."
+    },
+    {
+      "start": 2026.93,
+      "end": 2027.57,
+      "text": "I'll explain later."
+    },
+    {
+      "start": 2028.79,
+      "end": 2029.29,
+      "text": "Description."
+    },
+    {
+      "start": 2029.95,
+      "end": 2033.57,
+      "text": "Rollover upsells credit some or all of a customer's previous purchase towards your next offer."
+    },
+    {
+      "start": 2034.01,
+      "end": 2036.53,
+      "text": "And this, in my experience, gets way more people to take it."
+    },
+    {
+      "start": 2037.31,
+      "end": 2043.11,
+      "text": "So once I know how much credit to give, I figure out three things: who to upsell, what to upsell, and how to roll over the credit."
+    },
+    {
+      "start": 2043.63,
+      "end": 2046.79,
+      "text": "For the who, I use rollover upsells in four situations."
+    },
+    {
+      "start": 2047.37,
+      "end": 2049.69,
+      "text": "First, to re-engage customers who left a while ago."
+    },
+    {
+      "start": 2050.17,
+      "end": 2053.29,
+      "text": "Second, to rescue upsell customers as a better alternative to a refund."
+    },
+    {
+      "start": 2053.81,
+      "end": 2056.15,
+      "text": "Third, to rescue other people's upset customers."
+    },
+    {
+      "start": 2056.57,
+      "end": 2058.55,
+      "text": "And fourth, to upsell regular customers."
+    },
+    {
+      "start": 2059.01,
+      "end": 2063.37,
+      "text": "For the what, remember that you can upsell more what they just got, something better, or something new and different."
+    },
+    {
+      "start": 2063.55,
+      "end": 2066.23,
+      "text": "To make money, roll their credit over to something more expensive."
+    },
+    {
+      "start": 2067.49,
+      "end": 2071.09,
+      "text": "For the how, you can apply all or part of the discount upfront or spread it over time."
+    },
+    {
+      "start": 2072.83,
+      "end": 2074.09,
+      "text": "Examples of rollover upsells."
+    },
+    {
+      "start": 2075.01,
+      "end": 2075.57,
+      "text": "Chiropractor."
+    },
+    {
+      "start": 2076.47,
+      "end": 2078.65,
+      "text": "Re-engage old patients with a win-back campaign."
+    },
+    {
+      "start": 2079.25,
+      "end": 2079.47,
+      "text": "Who?"
+    },
+    {
+      "start": 2080.21,
+      "end": 2082.35,
+      "text": "Customers with six months since their last purchase."
+    },
+    {
+      "start": 2082.93,
+      "end": 2083.15,
+      "text": "What?"
+    },
+    {
+      "start": 2083.71,
+      "end": 2084.27,
+      "text": "New plan."
+    },
+    {
+      "start": 2084.65,
+      "end": 2084.89,
+      "text": "How?"
+    },
+    {
+      "start": 2085.51,
+      "end": 2086.01,
+      "text": "Upfront."
+    },
+    {
+      "start": 2086.91,
+      "end": 2093.77,
+      "text": "Reach out to your old patients, look at their purchase history, offer to apply some or all their past purchases towards something more expensive than what they bought."
+    },
+    {
+      "start": 2094.73,
+      "end": 2096.25,
+      "text": "For example, \"Hi, Mrs."
+    },
+    {
+      "start": 2096.33,
+      "end": 2096.63,
+      "text": "Banks."
+    },
+    {
+      "start": 2097.19,
+      "end": 2098.09,
+      "text": "I wanted to give you your money back."
+    },
+    {
+      "start": 2098.23,
+      "end": 2098.81,
+      "text": "Do you have a minute?\""
+    },
+    {
+      "start": 2098.81,
+      "end": 2100.09,
+      "text": "\"Great."
+    },
+    {
+      "start": 2100.27,
+      "end": 2100.51,
+      "text": "Yeah."
+    },
+    {
+      "start": 2100.97,
+      "end": 2102.49,
+      "text": "I wanted to see how your back pain was going."
+    },
+    {
+      "start": 2102.79,
+      "end": 2104.05,
+      "text": "Oh, I'm sorry to hear that."
+    },
+    {
+      "start": 2104.43,
+      "end": 2105.33,
+      "text": "Well, I've got some good news."
+    },
+    {
+      "start": 2105.55,
+      "end": 2110.27,
+      "text": "As a way of saying thank you, I want to give you 500 dollars of your money back as credit towards staying pain-free for good."
+    },
+    {
+      "start": 2110.51,
+      "end": 2111.25,
+      "text": "Is that of any interest?"
+    },
+    {
+      "start": 2111.63,
+      "end": 2111.87,
+      "text": "Great."
+    },
+    {
+      "start": 2112.15,
+      "end": 2112.83,
+      "text": "Let's get you in.\""
+    },
+    {
+      "start": 2114.29,
+      "end": 2114.69,
+      "text": "Dentist."
+    },
+    {
+      "start": 2116.01,
+      "end": 2118.27,
+      "text": "Save your own upset customer with rollover upsell."
+    },
+    {
+      "start": 2119.87,
+      "end": 2120.07,
+      "text": "Who?"
+    },
+    {
+      "start": 2120.51,
+      "end": 2121.03,
+      "text": "Upset customer."
+    },
+    {
+      "start": 2121.31,
+      "end": 2121.49,
+      "text": "What?"
+    },
+    {
+      "start": 2121.71,
+      "end": 2122.25,
+      "text": "Teeth whitening."
+    },
+    {
+      "start": 2122.31,
+      "end": 2122.51,
+      "text": "How?"
+    },
+    {
+      "start": 2122.77,
+      "end": 2123.87,
+      "text": "Front load 200 dollar credit."
+    },
+    {
+      "start": 2124.27,
+      "end": 2127.11,
+      "text": "The person pays 200 dollars for teeth cleaning, but doesn't think their teeth got whiter."
+    },
+    {
+      "start": 2127.63,
+      "end": 2134.77,
+      "text": "We explain they need to get more than one and upsell teeth whitening package, which includes multiple sessions, an at-home kit, and multiple deep cleanings."
+    },
+    {
+      "start": 2135.35,
+      "end": 2139.07,
+      "text": "You offer to credit the 200 dollars they paid for the cleaning towards the whitening package."
+    },
+    {
+      "start": 2139.97,
+      "end": 2140.41,
+      "text": "Software."
+    },
+    {
+      "start": 2141.29,
+      "end": 2144.15,
+      "text": "Rescue, cough, steal other people's upset customers."
+    },
+    {
+      "start": 2144.75,
+      "end": 2144.93,
+      "text": "Who?"
+    },
+    {
+      "start": 2146.03,
+      "end": 2146.87,
+      "text": "Competitors' customers."
+    },
+    {
+      "start": 2147.17,
+      "end": 2147.37,
+      "text": "What?"
+    },
+    {
+      "start": 2147.95,
+      "end": 2148.53,
+      "text": "Service agreement."
+    },
+    {
+      "start": 2148.83,
+      "end": 2149.09,
+      "text": "How?"
+    },
+    {
+      "start": 2149.43,
+      "end": 2151.01,
+      "text": "Rollover cost to break old agreement."
+    },
+    {
+      "start": 2152.33,
+      "end": 2156.97,
+      "text": "You find competitors' upset customers and credit their old purchase with them towards a new purchase with you."
+    },
+    {
+      "start": 2157.77,
+      "end": 2161.21,
+      "text": "Roll over the amount they owe with them as a credit towards a longer agreement with you."
+    },
+    {
+      "start": 2161.79,
+      "end": 2162.21,
+      "text": "Example."
+    },
+    {
+      "start": 2162.21,
+      "end": 2163.23,
+      "text": "\"Hi, John."
+    },
+    {
+      "start": 2163.53,
+      "end": 2166.13,
+      "text": "I saw your negative review on their product, and it really upset me."
+    },
+    {
+      "start": 2166.43,
+      "end": 2170.11,
+      "text": "To make it up to you, I'll credit whatever payments you have left with them to switch to ours."
+    },
+    {
+      "start": 2170.39,
+      "end": 2172.89,
+      "text": "This way, you don't lose a thing, and you start getting the benefits now."
+    },
+    {
+      "start": 2173.27,
+      "end": 2173.65,
+      "text": "Fair enough?\""
+    },
+    {
+      "start": 2174.05,
+      "end": 2174.45,
+      "text": "Membership."
+    },
+    {
+      "start": 2175.93,
+      "end": 2177.39,
+      "text": "Spread first purchase over a term."
+    },
+    {
+      "start": 2177.75,
+      "end": 2177.95,
+      "text": "Who?"
+    },
+    {
+      "start": 2178.23,
+      "end": 2178.83,
+      "text": "Current customers."
+    },
+    {
+      "start": 2178.95,
+      "end": 2179.15,
+      "text": "What?"
+    },
+    {
+      "start": 2179.33,
+      "end": 2180.11,
+      "text": "12-month membership."
+    },
+    {
+      "start": 2180.21,
+      "end": 2180.39,
+      "text": "How?"
+    },
+    {
+      "start": 2181.17,
+      "end": 2182.57,
+      "text": "Spread first purchase."
+    },
+    {
+      "start": 2182.93,
+      "end": 2185.09,
+      "text": "Somebody buys a small block of service or membership time."
+    },
+    {
+      "start": 2185.39,
+      "end": 2189.07,
+      "text": "As soon as they do, you can offer to apply the entire amount towards more time, like 12 months."
+    },
+    {
+      "start": 2189.79,
+      "end": 2191.39,
+      "text": "I can do the rollover upsell at any time."
+    },
+    {
+      "start": 2191.79,
+      "end": 2193.07,
+      "text": "I just prefer to do it right then."
+    },
+    {
+      "start": 2193.45,
+      "end": 2197.25,
+      "text": "When you do, you take the first purchase's cost and apply it as a discount over the longer agreement."
+    },
+    {
+      "start": 2197.63,
+      "end": 2202.53,
+      "text": "For example, a 600 dollar first purchase makes a 50 dollar a month rollover discount for 12 months."
+    },
+    {
+      "start": 2203.04,
+      "end": 2203.74,
+      "text": "Important notes."
+    },
+    {
+      "start": 2205.02,
+      "end": 2206.78,
+      "text": "Use rollover offers to attract new customers."
+    },
+    {
+      "start": 2207.3,
+      "end": 2211.02,
+      "text": "For example, you roll over some or all of what a customer has paid somebody else towards your thing."
+    },
+    {
+      "start": 2211.52,
+      "end": 2215.58,
+      "text": "You can find leads for this by scraping contact information from negative product reviews where available."
+    },
+    {
+      "start": 2216.06,
+      "end": 2218.82,
+      "text": "Voila, a hot new leads list of people who want what you have."
+    },
+    {
+      "start": 2219.24,
+      "end": 2222.12,
+      "text": "Bonus, create a way for people to complain about products in your industry."
+    },
+    {
+      "start": 2222.28,
+      "end": 2223.76,
+      "text": "Think of media where people can leave comments."
+    },
+    {
+      "start": 2223.98,
+      "end": 2226.02,
+      "text": "Then roll over upsell all of them."
+    },
+    {
+      "start": 2226.32,
+      "end": 2226.76,
+      "text": "Nasty."
+    },
+    {
+      "start": 2227.22,
+      "end": 2229.08,
+      "text": "Do rollover upsells before refunding."
+    },
+    {
+      "start": 2230.2,
+      "end": 2232.62,
+      "text": "This has saved me tons of customers and cash."
+    },
+    {
+      "start": 2232.88,
+      "end": 2236.5,
+      "text": "If you did a bad job, hey, it happens, roll over for a do-over."
+    },
+    {
+      "start": 2237.1,
+      "end": 2240.1,
+      "text": "If they want something different, roll over their purchase toward that thing instead."
+    },
+    {
+      "start": 2241.16,
+      "end": 2242.86,
+      "text": "Previous customers are still customers."
+    },
+    {
+      "start": 2243.18,
+      "end": 2243.74,
+      "text": "Upsell them."
+    },
+    {
+      "start": 2244.48,
+      "end": 2247.48,
+      "text": "Reach out to old customers, six-plus months since their last purchase."
+    },
+    {
+      "start": 2247.86,
+      "end": 2252.84,
+      "text": "Look at how much they paid before, decide how much you're willing to roll over, offer it, actually do this."
+    },
+    {
+      "start": 2253.24,
+      "end": 2254.42,
+      "text": "I called these win-back campaigns."
+    },
+    {
+      "start": 2254.86,
+      "end": 2259.42,
+      "text": "I made personalized videos for 200 past customers, offering them 4,000 dollars of credit to return."
+    },
+    {
+      "start": 2259.82,
+      "end": 2262.18,
+      "text": "We got about 20% of the people to take the offer."
+    },
+    {
+      "start": 2262.76,
+      "end": 2266.26,
+      "text": "One day of recording videos got us an extra 1.9 million dollars in annual revenue."
+    },
+    {
+      "start": 2266.68,
+      "end": 2267.04,
+      "text": "Worth it."
+    },
+    {
+      "start": 2268.38,
+      "end": 2270.2,
+      "text": "Add urgency to rollover upsells."
+    },
+    {
+      "start": 2270.78,
+      "end": 2272.0,
+      "text": "Make them one-time only."
+    },
+    {
+      "start": 2272.66,
+      "end": 2278.8,
+      "text": "If you're spicy, make the moment you present the offer the time to take it, a once-in-a-customer lifetime offer."
+    },
+    {
+      "start": 2279.4,
+      "end": 2280.4,
+      "text": "They don't get to sleep on it."
+    },
+    {
+      "start": 2280.6,
+      "end": 2282.5,
+      "text": "And yes, I know they might not expect it."
+    },
+    {
+      "start": 2282.74,
+      "end": 2283.3,
+      "text": "That's the point."
+    },
+    {
+      "start": 2283.54,
+      "end": 2284.5,
+      "text": "You want to surprise and delight."
+    },
+    {
+      "start": 2284.92,
+      "end": 2286.7,
+      "text": "So if they want the credit, they gotta take it now."
+    },
+    {
+      "start": 2287.04,
+      "end": 2288.18,
+      "text": "If not, no big deal."
+    },
+    {
+      "start": 2288.36,
+      "end": 2289.54,
+      "text": "They can still pay full price later."
+    },
+    {
+      "start": 2290.76,
+      "end": 2291.98,
+      "text": "How to price your rollover upsell."
+    },
+    {
+      "start": 2292.64,
+      "end": 2296.06,
+      "text": "To make money on a discounted offer, you must have profit left over after you discount it."
+    },
+    {
+      "start": 2296.52,
+      "end": 2301.44,
+      "text": "Since I prefer to make a profit, I try to make the upsell offer at least four times more than the rollover credit."
+    },
+    {
+      "start": 2301.9,
+      "end": 2305.98,
+      "text": "So even if I apply the whole amount to their first purchase, it discounts 25% at most."
+    },
+    {
+      "start": 2306.18,
+      "end": 2308.0,
+      "text": "Remember, the rules of discounting apply."
+    },
+    {
+      "start": 2308.62,
+      "end": 2311.18,
+      "text": "Bigger discounts make you less profit per sale, but they get more sales."
+    },
+    {
+      "start": 2312.6,
+      "end": 2314.8,
+      "text": "You don't need to credit the entire amount of their first purchase."
+    },
+    {
+      "start": 2315.1,
+      "end": 2318.08,
+      "text": "You can roll over as much or as little of the first purchase as you choose."
+    },
+    {
+      "start": 2318.7,
+      "end": 2321.56,
+      "text": "I roll over whatever amount I think would incentivize them to buy the next thing."
+    },
+    {
+      "start": 2321.98,
+      "end": 2323.02,
+      "text": "Test to find the sweet spot."
+    },
+    {
+      "start": 2323.7,
+      "end": 2325.86,
+      "text": "Pro tip, my famous gift card play."
+    },
+    {
+      "start": 2327.18,
+      "end": 2333.08,
+      "text": "You can reuse the rollover upsells and attraction offer for new and current customers by advertising gift cards for 90% off."
+    },
+    {
+      "start": 2333.88,
+      "end": 2336.4,
+      "text": "Example, 200 dollar gift cards for 20 dollars."
+    },
+    {
+      "start": 2337.02,
+      "end": 2340.26,
+      "text": "Limit them to two per customer and say they can only use them on other people."
+    },
+    {
+      "start": 2340.9,
+      "end": 2342.98,
+      "text": "They buy them as gifts and give them to your friends."
+    },
+    {
+      "start": 2343.2,
+      "end": 2344.58,
+      "text": "This makes them a great holiday offer."
+    },
+    {
+      "start": 2345.08,
+      "end": 2349.26,
+      "text": "When customers buy the card, ask them who they want to make it out to and if they'll make an introduction."
+    },
+    {
+      "start": 2349.76,
+      "end": 2352.14,
+      "text": "Then when they come in, roll their gift card over."
+    },
+    {
+      "start": 2352.52,
+      "end": 2355.86,
+      "text": "Make the value of the card 20% of the price or whatever you want to sell next."
+    },
+    {
+      "start": 2356.02,
+      "end": 2362.68,
+      "text": "In our example, we sell a 200 dollar gift card for 20 bucks, then apply 200 dollars of value to an offer with at least a 1,000 dollar price tag."
+    },
+    {
+      "start": 2363.16,
+      "end": 2365.14,
+      "text": "People pay you to refer their friends."
+    },
+    {
+      "start": 2365.6,
+      "end": 2366.22,
+      "text": "It's pretty great."
+    },
+    {
+      "start": 2366.92,
+      "end": 2368.9,
+      "text": "Plus, you get some pocket change from the cards you sold."
+    },
+    {
+      "start": 2370.06,
+      "end": 2370.64,
+      "text": "Summary points."
+    },
+    {
+      "start": 2371.96,
+      "end": 2375.62,
+      "text": "Rollover upsells credit some or all of customers' previous purchases towards your next offer."
+    },
+    {
+      "start": 2376.54,
+      "end": 2381.28,
+      "text": "To do rollover upsells, figure out who to upsell, what to upsell, and how to roll credit over."
+    },
+    {
+      "start": 2382.26,
+      "end": 2382.78,
+      "text": "Who to upsell?"
+    },
+    {
+      "start": 2383.06,
+      "end": 2386.74,
+      "text": "Old customers, upset customers, other people's upset customers, your current customers."
+    },
+    {
+      "start": 2387.56,
+      "end": 2388.22,
+      "text": "What to upsell?"
+    },
+    {
+      "start": 2388.6,
+      "end": 2391.52,
+      "text": "More of something, better of something, something new, or something different."
+    },
+    {
+      "start": 2392.18,
+      "end": 2394.34,
+      "text": "Just make sure you make a profit after applying the credit."
+    },
+    {
+      "start": 2395.04,
+      "end": 2396.2,
+      "text": "How to roll the credit over?"
+    },
+    {
+      "start": 2396.94,
+      "end": 2400.0,
+      "text": "Full or partial purchase price, give it upfront or spread it out."
+    },
+    {
+      "start": 2401.04,
+      "end": 2405.1,
+      "text": "Price your next offer at least four times more than the credit you give."
+    },
+    {
+      "start": 2405.34,
+      "end": 2407.6,
+      "text": "This makes it a 25% or lower discount."
+    },
+    {
+      "start": 2408.28,
+      "end": 2409.74,
+      "text": "To get more takers, add urgency."
+    },
+    {
+      "start": 2410.1,
+      "end": 2412.2,
+      "text": "Make your rollover upsell a one-time offer only."
+    },
+    {
+      "start": 2413.12,
+      "end": 2413.52,
+      "text": "Free gift."
+    },
+    {
+      "start": 2414.2,
+      "end": 2415.14,
+      "text": "Rollover upsell training."
+    },
+    {
+      "start": 2415.66,
+      "end": 2417.46,
+      "text": "This is the upsell I use most frequently."
+    },
+    {
+      "start": 2418.0,
+      "end": 2420.32,
+      "text": "It has elegant urgency built into it, plus goodwill."
+    },
+    {
+      "start": 2420.7,
+      "end": 2423.52,
+      "text": "I made a video for you going over some of the scripting so that you can see me do it."
+    },
+    {
+      "start": 2423.86,
+      "end": 2425.12,
+      "text": "It's free, no opt-in required."
+    },
+    {
+      "start": 2425.46,
+      "end": 2427.8,
+      "text": "Watch it at acquisition.com/training/money."
+    },
+    {
+      "start": 2427.88,
+      "end": 2428.96,
+      "text": "Upsell offers conclusion."
+    },
+    {
+      "start": 2429.34,
+      "end": 2430.3,
+      "text": "Solve rich people problems."
+    },
+    {
+      "start": 2430.6,
+      "end": 2431.14,
+      "text": "They pay better."
+    },
+    {
+      "start": 2431.94,
+      "end": 2433.82,
+      "text": "Anytime you offer something next, you upsell."
+    },
+    {
+      "start": 2434.22,
+      "end": 2438.98,
+      "text": "Upsells play a key role in money models by getting more cash upfront for customers than you otherwise would have."
+    },
+    {
+      "start": 2439.82,
+      "end": 2444.36,
+      "text": "And if your attraction offer already covers cost of getting customers and delivering, more money ain't a bad thing."
+    },
+    {
+      "start": 2445.04,
+      "end": 2449.84,
+      "text": "I showed you the four most powerful upsells I use, the classic upsell, menu upsells, anchor upsells, and rollover upsells."
+    },
+    {
+      "start": 2450.26,
+      "end": 2451.66,
+      "text": "They are core to my business success."
+    },
+    {
+      "start": 2452.24,
+      "end": 2453.56,
+      "text": "Upsells change everything."
+    },
+    {
+      "start": 2454.04,
+      "end": 2456.78,
+      "text": "Many businesses go from burning cash to printing it overnight."
+    },
+    {
+      "start": 2457.06,
+      "end": 2459.52,
+      "text": "But as you know, business isn't all sunshine and rainbows."
+    },
+    {
+      "start": 2459.6,
+      "end": 2460.78,
+      "text": "Sometimes people say no."
+    },
+    {
+      "start": 2461.36,
+      "end": 2465.04,
+      "text": "This leads us to the next component of a 100 million dollar money model, downsell offers."
+    },
+    {
+      "start": 2465.4,
+      "end": 2466.52,
+      "text": "What to do when people say no."
+    },
+    {
+      "start": 2467.36,
+      "end": 2467.76,
+      "text": "Author note."
+    },
+    {
+      "start": 2468.32,
+      "end": 2472.0,
+      "text": "Have a cool new upsell not mentioned or see one in the wild?"
+    },
+    {
+      "start": 2472.36,
+      "end": 2476.16,
+      "text": "If so, I'd love to add it to the collection and do a full video breakdown on it."
+    },
+    {
+      "start": 2476.7,
+      "end": 2480.2,
+      "text": "Please send any cool ones you see to value@acquisition.com."
+    },
+    {
+      "start": 2480.74,
+      "end": 2487.82,
+      "text": "You can follow the same five-step format that I use in all these examples that I give in this book and send any links that would give extra info if you can."
+    },
+    {
+      "start": 2488.8,
+      "end": 2490.82,
+      "text": "I'll give you credit and publish the cool ones on my channels."
+    },
+    {
+      "start": 2491.34,
+      "end": 2491.56,
+      "text": "Alex."
+    },
+    {
+      "start": 2493.52,
+      "end": 2499.44,
+      "text": "Real quick, guys, I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 2500.12,
+      "end": 2505.42,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 2505.52,
+      "end": 2511.08,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 2511.12,
+      "end": 2517.22,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 2517.58,
+      "end": 2521.58,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 2521.74,
+      "end": 2525.16,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 2525.26,
+      "end": 2527.68,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 2527.84,
+      "end": 2532.78,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 2532.84,
+      "end": 2539.02,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 2539.66,
+      "end": 2543.76,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap."
+    },
+    {
+      "start": 2544.22,
+      "end": 2546.06,
+      "text": "R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "cb6c6497a2b5c12224ab4835c93d399fe994796827475599a4a2ad8c9a143a2c",
+  "audio_duration_sec": 2552.084898,
+  "elapsed_sec": 21.1,
+  "created": "2026-11-16T03:30:45+00:00"
+}

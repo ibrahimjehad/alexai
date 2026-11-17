@@ -1,0 +1,1412 @@
+{
+  "source_id": "hormozi-100m-money-models-p08",
+  "model": "scribe_v3",
+  "language": "en",
+  "segments": [
+    {
+      "start": 1.94,
+      "end": 2.54,
+      "text": "Section 6."
+    },
+    {
+      "start": 3.3,
+      "end": 3.96,
+      "text": "Make your money model."
+    },
+    {
+      "start": 4.78,
+      "end": 6.44,
+      "text": "How to take over your entire market."
+    },
+    {
+      "start": 8.06,
+      "end": 14.8,
+      "text": "Looking back at the evolution of Gym Launch's 100 million dollar money model today, I accidentally discovered the Gym Launch licensing money model."
+    },
+    {
+      "start": 15.42,
+      "end": 18.76,
+      "text": "I went from flying around and filling gyms to licensing the stuff I used when I did it."
+    },
+    {
+      "start": 19.38,
+      "end": 20.88,
+      "text": "This way, gym owners could do it themselves."
+    },
+    {
+      "start": 21.68,
+      "end": 23.64,
+      "text": "Looking back, it all started with a decoy offer."
+    },
+    {
+      "start": 24.3,
+      "end": 28.78,
+      "text": "I attracted new customers with lots of free books, courses, video training, live training, and so on."
+    },
+    {
+      "start": 29.44,
+      "end": 30.56,
+      "text": "All the stuff on growing a gym."
+    },
+    {
+      "start": 31.02,
+      "end": 33.38,
+      "text": "Each product came with its own free call to help gym owners use it."
+    },
+    {
+      "start": 33.72,
+      "end": 39.54,
+      "text": "On the call, I'd offer a decoy offer, now that you've got the plan, you could do it on your own for free, or the premium offer."
+    },
+    {
+      "start": 39.7,
+      "end": 42.42,
+      "text": "We can help you implement all this stuff for 16,000 dollars over 16 weeks."
+    },
+    {
+      "start": 43.12,
+      "end": 48.7,
+      "text": "If they took the premium offer, they'd get a treasure trove of money-making tactics, tactics that took me years to figure out."
+    },
+    {
+      "start": 49.22,
+      "end": 54.82,
+      "text": "People bought left and right, and whoosh, my decoy offer took me to 476,000 dollars per month in three months."
+    },
+    {
+      "start": 55.18,
+      "end": 55.9,
+      "text": "Not a typo."
+    },
+    {
+      "start": 56.72,
+      "end": 57.56,
+      "text": "But I had a problem."
+    },
+    {
+      "start": 57.96,
+      "end": 61.26,
+      "text": "Since I only had one thing to sell, I knew my revenue would plateau fast."
+    },
+    {
+      "start": 61.78,
+      "end": 64.38,
+      "text": "I needed an upsell to raise profits or Gym Launch would stagnate."
+    },
+    {
+      "start": 64.82,
+      "end": 68.02,
+      "text": "So I crafted an upsell offer for the more advanced gym owners."
+    },
+    {
+      "start": 68.42,
+      "end": 71.5,
+      "text": "I called it Gym Lords and priced it at 42,000 dollars per year."
+    },
+    {
+      "start": 72.14,
+      "end": 78.6,
+      "text": "I used the classic upsell to offer advanced playbooks and services, and a community to share best practices as a continuity bonus."
+    },
+    {
+      "start": 79.32,
+      "end": 82.7,
+      "text": "I started by offering a hefty 6,000 dollar discount for anyone who prepaid."
+    },
+    {
+      "start": 83.46,
+      "end": 86.06,
+      "text": "Many gym owners paid upfront with the money that I had just made them."
+    },
+    {
+      "start": 86.48,
+      "end": 88.68,
+      "text": "For the ones who didn't, I offered a payment plan downsell."
+    },
+    {
+      "start": 89.18,
+      "end": 92.38,
+      "text": "If they said no, I went with 10,000 down and spread the rest over time."
+    },
+    {
+      "start": 92.7,
+      "end": 96.22,
+      "text": "If they said no again, I'd go for 800 dollars a week spread over 52 weeks."
+    },
+    {
+      "start": 96.72,
+      "end": 99.2,
+      "text": "If they said no again, I said they could start for free."
+    },
+    {
+      "start": 99.6,
+      "end": 104.06,
+      "text": "I'd use a continuity discount to front-load the free time for as long as it took them to finish off the first offer."
+    },
+    {
+      "start": 104.54,
+      "end": 106.62,
+      "text": "Then they'd roll right into my continuity for the upsell."
+    },
+    {
+      "start": 107.06,
+      "end": 108.62,
+      "text": "This way, their payments stayed continuous."
+    },
+    {
+      "start": 109.02,
+      "end": 115.5,
+      "text": "And zoom, the classic upsell plus continuity bonus plus payment plan downsell plus continuity discount took me to 1.5 million a month."
+    },
+    {
+      "start": 116.2,
+      "end": 117.1,
+      "text": "I had another thing to sell."
+    },
+    {
+      "start": 117.36,
+      "end": 117.72,
+      "text": "Woo."
+    },
+    {
+      "start": 118.4,
+      "end": 120.92,
+      "text": "And it exploded Gym Launch's money model to the next level."
+    },
+    {
+      "start": 121.5,
+      "end": 122.44,
+      "text": "But I still had work to do."
+    },
+    {
+      "start": 123.04,
+      "end": 126.32,
+      "text": "Even though the upsell and downsell process worked well, some gym owners kept saying no."
+    },
+    {
+      "start": 127.12,
+      "end": 128.28,
+      "text": "So I went back to the drawing board."
+    },
+    {
+      "start": 128.92,
+      "end": 132.34,
+      "text": "I came up with a more personalized menu upsell with different levels of service."
+    },
+    {
+      "start": 132.9,
+      "end": 144.64,
+      "text": "Offered done-for-you advertising, done-for-you sales training, offered turnkey campaigns that made quick cash, and finally, I offered a minimum package, continuous access to the original Gym Launch materials with tech support for a discounted monthly rate."
+    },
+    {
+      "start": 145.4,
+      "end": 149.34,
+      "text": "If they didn't want the whole package, I used feature downsells to find the best option for them."
+    },
+    {
+      "start": 149.76,
+      "end": 151.22,
+      "text": "Almost everyone stayed for something."
+    },
+    {
+      "start": 151.86,
+      "end": 157.96,
+      "text": "And wham, menu upsells plus feature downsells took me to 2.3 million dollars per month, all within 14 months."
+    },
+    {
+      "start": 159.2,
+      "end": 164.38,
+      "text": "Then we started Prestige Labs and integrated it with Gym Launch, a totally different business with its own money model."
+    },
+    {
+      "start": 164.84,
+      "end": 168.06,
+      "text": "By month 20, we were raking in 4.4 million dollars per month."
+    },
+    {
+      "start": 168.38,
+      "end": 173.76,
+      "text": "It was life-changing, and it only took a few darn good products and a 100 million dollar money model to do it."
+    },
+    {
+      "start": 175.06,
+      "end": 175.44,
+      "text": "Author note."
+    },
+    {
+      "start": 175.86,
+      "end": 177.9,
+      "text": "When I started, I didn't know any of this money model stuff."
+    },
+    {
+      "start": 178.46,
+      "end": 183.7,
+      "text": "It only looks clean looking back, but I hope this simplifies things so you take much less time than it took me."
+    },
+    {
+      "start": 184.48,
+      "end": 185.0,
+      "text": "Description."
+    },
+    {
+      "start": 185.76,
+      "end": 187.82,
+      "text": "A money model is a deliberate sequence of offers."
+    },
+    {
+      "start": 188.06,
+      "end": 193.0,
+      "text": "It's what you offer, when you offer, and how you offer it to make as much money as you can as fast as you can."
+    },
+    {
+      "start": 193.52,
+      "end": 198.84,
+      "text": "Ideally, to make enough money from one customer to get and service at least two more customers in less than 30 days."
+    },
+    {
+      "start": 199.4,
+      "end": 200.52,
+      "text": "And it rarely looks clean."
+    },
+    {
+      "start": 200.96,
+      "end": 203.32,
+      "text": "But I break 100 million dollar money models into three stages."
+    },
+    {
+      "start": 203.82,
+      "end": 205.58,
+      "text": "Stage one, get cash."
+    },
+    {
+      "start": 206.02,
+      "end": 208.1,
+      "text": "Attraction offers get more customers for less."
+    },
+    {
+      "start": 208.54,
+      "end": 210.42,
+      "text": "Stage two, get more cash."
+    },
+    {
+      "start": 210.9,
+      "end": 213.48,
+      "text": "Upsell and downsell offers make more money from them faster."
+    },
+    {
+      "start": 214.06,
+      "end": 215.8,
+      "text": "Stage three, get the most cash."
+    },
+    {
+      "start": 216.04,
+      "end": 218.56,
+      "text": "Continuity offers maximize their total money spent."
+    },
+    {
+      "start": 219.32,
+      "end": 224.62,
+      "text": "I break my 100 million dollar money model down to these stages because money model growth happens alongside the growth of a business."
+    },
+    {
+      "start": 225.16,
+      "end": 231.08,
+      "text": "In other words, if you try to start a bootstrap business from zero on your own with a finished money model, it will collapse on top of you."
+    },
+    {
+      "start": 231.38,
+      "end": 234.34,
+      "text": "In fact, none of my businesses started with a fully forced money model."
+    },
+    {
+      "start": 235.22,
+      "end": 238.64,
+      "text": "They all start at stage one, even acquisition.com."
+    },
+    {
+      "start": 239.26,
+      "end": 241.26,
+      "text": "In my experience, money models evolve like this."
+    },
+    {
+      "start": 241.86,
+      "end": 243.36,
+      "text": "First, I get customers reliably."
+    },
+    {
+      "start": 243.64,
+      "end": 245.62,
+      "text": "Then I make sure they pay for themselves reliably."
+    },
+    {
+      "start": 245.86,
+      "end": 248.62,
+      "text": "Then I make sure they pay for other customers reliably."
+    },
+    {
+      "start": 248.98,
+      "end": 251.7,
+      "text": "Then I start maximizing each customer's long-term value."
+    },
+    {
+      "start": 252.26,
+      "end": 256.04,
+      "text": "Then I spend as many advertising dollars as I can to print as much money as possible."
+    },
+    {
+      "start": 257.04,
+      "end": 260.4,
+      "text": "My money models develop this way because I make sure each stage pays for the next."
+    },
+    {
+      "start": 261.06,
+      "end": 263.08,
+      "text": "We keep improving each stage until it gets reliable."
+    },
+    {
+      "start": 263.58,
+      "end": 266.16,
+      "text": "Also, this means financial and operational reliability."
+    },
+    {
+      "start": 266.46,
+      "end": 270.02,
+      "text": "So fair warning, when your money model starts working, your business starts breaking."
+    },
+    {
+      "start": 270.34,
+      "end": 270.98,
+      "text": "Part of the game."
+    },
+    {
+      "start": 271.54,
+      "end": 275.16,
+      "text": "So I suggest you find someone who can build and lead the team to make your vision a reality."
+    },
+    {
+      "start": 275.76,
+      "end": 276.86,
+      "text": "When I did, I married her."
+    },
+    {
+      "start": 277.14,
+      "end": 278.24,
+      "text": "I hope the same luck finds you."
+    },
+    {
+      "start": 278.96,
+      "end": 279.46,
+      "text": "Author note."
+    },
+    {
+      "start": 279.88,
+      "end": 281.14,
+      "text": "I want to make myself abundantly clear."
+    },
+    {
+      "start": 281.78,
+      "end": 283.68,
+      "text": "Lots of 100 million dollar money models exist."
+    },
+    {
+      "start": 284.06,
+      "end": 287.16,
+      "text": "Dare I say, a 100 million dollar money model exists for every 100 million dollar business."
+    },
+    {
+      "start": 287.82,
+      "end": 290.52,
+      "text": "Remember, plenty of businesses make gobs of money in plenty of ways."
+    },
+    {
+      "start": 290.86,
+      "end": 292.36,
+      "text": "I just show the ways that I've actually done it."
+    },
+    {
+      "start": 293.68,
+      "end": 294.56,
+      "text": "Example money models."
+    },
+    {
+      "start": 295.34,
+      "end": 296.64,
+      "text": "Gym Launch money model breakdown."
+    },
+    {
+      "start": 296.94,
+      "end": 297.44,
+      "text": "Services."
+    },
+    {
+      "start": 298.14,
+      "end": 299.44,
+      "text": "Stage one, attraction offer."
+    },
+    {
+      "start": 299.64,
+      "end": 300.22,
+      "text": "Decoy offer."
+    },
+    {
+      "start": 300.56,
+      "end": 305.16,
+      "text": "Free do-it-yourself versus premium 16K done-with-you licensing."
+    },
+    {
+      "start": 305.86,
+      "end": 307.52,
+      "text": "Stage two, upsell offer."
+    },
+    {
+      "start": 307.86,
+      "end": 308.62,
+      "text": "Classic upsell."
+    },
+    {
+      "start": 309.68,
+      "end": 311.98,
+      "text": "Once you know how to get them, you got to know how to keep them."
+    },
+    {
+      "start": 312.5,
+      "end": 316.8,
+      "text": "42,000 dollars per year, 36K prepaid for advanced business services."
+    },
+    {
+      "start": 317.44,
+      "end": 319.4,
+      "text": "Stage two continued, downsell offer."
+    },
+    {
+      "start": 319.8,
+      "end": 320.68,
+      "text": "Payment plan downsell."
+    },
+    {
+      "start": 321.06,
+      "end": 324.36,
+      "text": "See-saw downsell start at 10K with the rest spread over 52 weeks."
+    },
+    {
+      "start": 324.8,
+      "end": 327.52,
+      "text": "Final payment plan offer, 800 per week for 52 weeks."
+    },
+    {
+      "start": 328.4,
+      "end": 329.8,
+      "text": "Stage three, continuity offer."
+    },
+    {
+      "start": 330.28,
+      "end": 331.8,
+      "text": "Menu close plus feature downsell."
+    },
+    {
+      "start": 332.22,
+      "end": 333.72,
+      "text": "Full package, 800 per week."
+    },
+    {
+      "start": 334.62,
+      "end": 337.04,
+      "text": "Feature, done-for-you advertising, 300 dollars a week."
+    },
+    {
+      "start": 337.26,
+      "end": 339.78,
+      "text": "Feature, gym sales daily training, 200 dollars per week."
+    },
+    {
+      "start": 340.22,
+      "end": 342.44,
+      "text": "Feature, monthly new releases, 500 per week."
+    },
+    {
+      "start": 342.94,
+      "end": 345.88,
+      "text": "Feature, original licensed materials with tech support, 100 per week."
+    },
+    {
+      "start": 346.12,
+      "end": 347.56,
+      "text": "Minimum package, 100 per week."
+    },
+    {
+      "start": 348.14,
+      "end": 350.2,
+      "text": "Microgyms money model breakdown, local business."
+    },
+    {
+      "start": 350.6,
+      "end": 351.9,
+      "text": "Stage one, attraction offer."
+    },
+    {
+      "start": 352.86,
+      "end": 353.54,
+      "text": "Win your money back."
+    },
+    {
+      "start": 354.12,
+      "end": 356.62,
+      "text": "Pay to enter fitness challenge, win money back if you meet goals."
+    },
+    {
+      "start": 357.2,
+      "end": 358.24,
+      "text": "Stage one, downsell offer."
+    },
+    {
+      "start": 358.6,
+      "end": 359.4,
+      "text": "Payment plan downsell."
+    },
+    {
+      "start": 359.9,
+      "end": 361.76,
+      "text": "Split pay, three pay, free trial with penalty."
+    },
+    {
+      "start": 362.75,
+      "end": 364.69,
+      "text": "Stage two upsell offer, menu upsell."
+    },
+    {
+      "start": 365.27,
+      "end": 367.55,
+      "text": "You're not going to get the best results without the right supplements."
+    },
+    {
+      "start": 368.07,
+      "end": 370.83,
+      "text": "Supplement bundles, big bundle personalized to goal."
+    },
+    {
+      "start": 372.17,
+      "end": 374.09,
+      "text": "Stage two downsell offer, feature downsell."
+    },
+    {
+      "start": 374.37,
+      "end": 377.09,
+      "text": "Supplements, big bundle, small bundle, monthly subscription."
+    },
+    {
+      "start": 377.89,
+      "end": 379.19,
+      "text": "Stage three, continuity offer."
+    },
+    {
+      "start": 379.61,
+      "end": 381.41,
+      "text": "Rollover upsell plus lifetime discount."
+    },
+    {
+      "start": 382.03,
+      "end": 384.27,
+      "text": "50 dollars off per month with a 12-month commitment."
+    },
+    {
+      "start": 385.39,
+      "end": 386.71,
+      "text": "Newsletter, digital product."
+    },
+    {
+      "start": 387.09,
+      "end": 389.01,
+      "text": "Stage one attraction offer, free trial."
+    },
+    {
+      "start": 389.45,
+      "end": 391.79,
+      "text": "Zero dollars, then 3.99 a month after 30 days."
+    },
+    {
+      "start": 392.69,
+      "end": 394.81,
+      "text": "Stage two and three, upsell and continuity."
+    },
+    {
+      "start": 395.47,
+      "end": 397.89,
+      "text": "Pay less now, pay more later, plus lifetime discount."
+    },
+    {
+      "start": 398.61,
+      "end": 400.95,
+      "text": "Pay 2.97 now and keep that rate for life."
+    },
+    {
+      "start": 401.91,
+      "end": 403.63,
+      "text": "Author note, I love this offer."
+    },
+    {
+      "start": 403.93,
+      "end": 404.57,
+      "text": "It's nasty."
+    },
+    {
+      "start": 404.71,
+      "end": 411.79,
+      "text": "It combines free trial, pay less now, pay more later, lifetime discount, and is an attraction offer, an upsell offer, and a continuity offer."
+    },
+    {
+      "start": 412.39,
+      "end": 414.33,
+      "text": "A six-headed money-making monster."
+    },
+    {
+      "start": 414.85,
+      "end": 417.31,
+      "text": "This is just a taste of how creative you can get by combining these."
+    },
+    {
+      "start": 418.49,
+      "end": 422.15,
+      "text": "And finally, example four, dog food, physical product."
+    },
+    {
+      "start": 422.29,
+      "end": 424.53,
+      "text": "Stage one attraction offer, buy X, get Y free."
+    },
+    {
+      "start": 424.67,
+      "end": 426.63,
+      "text": "Buy four months of food, get two months free."
+    },
+    {
+      "start": 427.19,
+      "end": 430.63,
+      "text": "Stage two, upsell offer, the classic upsell, just like the rental car story."
+    },
+    {
+      "start": 431.25,
+      "end": 431.99,
+      "text": "Do you want monthly?"
+    },
+    {
+      "start": 432.19,
+      "end": 433.13,
+      "text": "Do you want dog toys?"
+    },
+    {
+      "start": 433.31,
+      "end": 434.15,
+      "text": "How about dog vitamins?"
+    },
+    {
+      "start": 435.07,
+      "end": 436.85,
+      "text": "Stage three downsell offer, feature downsell."
+    },
+    {
+      "start": 437.45,
+      "end": 438.47,
+      "text": "Just the premium food then?"
+    },
+    {
+      "start": 438.69,
+      "end": 439.67,
+      "text": "You don't want anything else, do you?"
+    },
+    {
+      "start": 440.83,
+      "end": 442.75,
+      "text": "Stage three, continuity offer."
+    },
+    {
+      "start": 443.27,
+      "end": 445.17,
+      "text": "Automatic renewal after the first bulk purchase."
+    },
+    {
+      "start": 445.49,
+      "end": 447.23,
+      "text": "After six months, it continues to month to month."
+    },
+    {
+      "start": 447.55,
+      "end": 448.35,
+      "text": "Cancel anytime."
+    },
+    {
+      "start": 448.83,
+      "end": 449.73,
+      "text": "Bingo, bango."
+    },
+    {
+      "start": 450.31,
+      "end": 451.21,
+      "text": "Make your own money model."
+    },
+    {
+      "start": 452.83,
+      "end": 454.99,
+      "text": "Step one, start with an attraction offer."
+    },
+    {
+      "start": 455.59,
+      "end": 458.03,
+      "text": "The goal is to turn strangers into customers and cover our costs."
+    },
+    {
+      "start": 458.43,
+      "end": 461.37,
+      "text": "So figure out what you're going to sell, then figure out the best way to present it."
+    },
+    {
+      "start": 461.79,
+      "end": 463.95,
+      "text": "The attraction offer has my top favorites."
+    },
+    {
+      "start": 464.29,
+      "end": 468.85,
+      "text": "Win your money back, giveaways, decoy offers, buy X, get Y free, pay less now or pay more later."
+    },
+    {
+      "start": 469.33,
+      "end": 470.35,
+      "text": "Then advertise it."
+    },
+    {
+      "start": 470.85,
+      "end": 472.93,
+      "text": "If you get leads who turn into customers, you're on your way."
+    },
+    {
+      "start": 473.39,
+      "end": 475.47,
+      "text": "Figuring out what works best may take up to a year."
+    },
+    {
+      "start": 475.91,
+      "end": 479.93,
+      "text": "If you want to learn more about advertising, make sure to check out my second book, 100 Million Dollar Leads."
+    },
+    {
+      "start": 481.13,
+      "end": 482.65,
+      "text": "Step two, pick an upsell offer."
+    },
+    {
+      "start": 483.33,
+      "end": 487.95,
+      "text": "The goal is to get 30-day profits well above our cost of getting a customer and delivering what you offer them."
+    },
+    {
+      "start": 488.63,
+      "end": 490.71,
+      "text": "Remember, once you solve a problem, another appears."
+    },
+    {
+      "start": 490.77,
+      "end": 492.21,
+      "text": "Those problems also need solutions."
+    },
+    {
+      "start": 492.77,
+      "end": 495.53,
+      "text": "You solve the problems your attraction offer creates with upsell offers."
+    },
+    {
+      "start": 495.97,
+      "end": 499.65,
+      "text": "So pick the upsell offer that best matches the problem you solve and how you solve it."
+    },
+    {
+      "start": 500.55,
+      "end": 505.75,
+      "text": "The upsell offer section gives you my four favorites, the classic upsell, menu upsell, anchor upsell, rollover upsell."
+    },
+    {
+      "start": 505.89,
+      "end": 508.19,
+      "text": "Then you make your offer at their time of greatest need."
+    },
+    {
+      "start": 508.99,
+      "end": 511.73,
+      "text": "And remember, make your offer at their time of greatest need."
+    },
+    {
+      "start": 512.53,
+      "end": 514.31,
+      "text": "Step three, pick a downsell offer."
+    },
+    {
+      "start": 515.27,
+      "end": 518.73,
+      "text": "The goal is to get customers who said no to your last offer to say yes to another offer."
+    },
+    {
+      "start": 519.53,
+      "end": 521.77,
+      "text": "This way, you sell way more people than you otherwise would."
+    },
+    {
+      "start": 522.39,
+      "end": 524.63,
+      "text": "So you make more total cash from the same number of leads."
+    },
+    {
+      "start": 525.27,
+      "end": 527.43,
+      "text": "The downsell offer section shows you my three favorites."
+    },
+    {
+      "start": 528.07,
+      "end": 532.03,
+      "text": "If you want to keep your price the same, change how they pay with payment plan downsells or trials."
+    },
+    {
+      "start": 532.49,
+      "end": 535.77,
+      "text": "If you want to charge less, change what they get with feature downsells."
+    },
+    {
+      "start": 536.15,
+      "end": 538.63,
+      "text": "And best of all, you can alternate between them in the same sale."
+    },
+    {
+      "start": 539.05,
+      "end": 541.31,
+      "text": "The more flexible you make your offers, the more people will buy them."
+    },
+    {
+      "start": 542.97,
+      "end": 545.07,
+      "text": "Step four, pick a continuity offer."
+    },
+    {
+      "start": 545.61,
+      "end": 549.47,
+      "text": "The goal here is to get one last sale in our 30-day window and stack recurring cash."
+    },
+    {
+      "start": 549.89,
+      "end": 553.37,
+      "text": "So I try to include continuity in every business eventually."
+    },
+    {
+      "start": 553.75,
+      "end": 558.23,
+      "text": "My three favorites are continuity bonuses, continuity discounts, and waived fee offers."
+    },
+    {
+      "start": 559.11,
+      "end": 563.31,
+      "text": "Sometimes the best timing for continuity offers happens after the first 30 days, and that's okay."
+    },
+    {
+      "start": 564.05,
+      "end": 567.43,
+      "text": "It's better to make the offer at the right time than to try and force it at the wrong time."
+    },
+    {
+      "start": 568.47,
+      "end": 569.93,
+      "text": "Author note for bootstrap businesses."
+    },
+    {
+      "start": 570.69,
+      "end": 572.15,
+      "text": "You have to get customers at a profit."
+    },
+    {
+      "start": 572.73,
+      "end": 580.37,
+      "text": "Unless you get outside investors, start with a fortune, or have an endless source of free customers, achieving a money model is the only way you can profitably scale."
+    },
+    {
+      "start": 580.91,
+      "end": 584.37,
+      "text": "Otherwise, you run out of cash and go out of business before you even have a shot."
+    },
+    {
+      "start": 585.01,
+      "end": 585.77,
+      "text": "Important notes."
+    },
+    {
+      "start": 586.45,
+      "end": 587.75,
+      "text": "Perfect one offer at a time."
+    },
+    {
+      "start": 588.11,
+      "end": 590.13,
+      "text": "It's tempting to implement a whole money model at once."
+    },
+    {
+      "start": 590.49,
+      "end": 590.73,
+      "text": "Don't."
+    },
+    {
+      "start": 591.03,
+      "end": 591.85,
+      "text": "Stick to your stage."
+    },
+    {
+      "start": 592.01,
+      "end": 595.13,
+      "text": "Pick one offer, try it, keep doing it until it works reliably."
+    },
+    {
+      "start": 595.27,
+      "end": 598.25,
+      "text": "Then after it's reliable, do it so many times it gets automatic."
+    },
+    {
+      "start": 598.65,
+      "end": 599.65,
+      "text": "Then go to the next stage."
+    },
+    {
+      "start": 600.25,
+      "end": 602.33,
+      "text": "Patience is still the fastest way to get to your goal."
+    },
+    {
+      "start": 602.91,
+      "end": 605.31,
+      "text": "So you'll need to measure in quarters, not weeks."
+    },
+    {
+      "start": 605.93,
+      "end": 609.21,
+      "text": "You either build it right or you build it again, and again, and again."
+    },
+    {
+      "start": 609.47,
+      "end": 612.47,
+      "text": "Building again, no matter how fast, still takes longer than building it right the first time."
+    },
+    {
+      "start": 613.33,
+      "end": 614.45,
+      "text": "I know that one from experience."
+    },
+    {
+      "start": 616.03,
+      "end": 617.21,
+      "text": "Raise prices in stages."
+    },
+    {
+      "start": 617.79,
+      "end": 619.25,
+      "text": "Make new offers cheap at first."
+    },
+    {
+      "start": 619.61,
+      "end": 621.41,
+      "text": "Then as you get yeses, raise the price."
+    },
+    {
+      "start": 621.85,
+      "end": 624.71,
+      "text": "Lots of early yeses, get customer feedback, and make the product better."
+    },
+    {
+      "start": 625.15,
+      "end": 630.97,
+      "text": "Then as the offer gets reliable, start raising the price and keep raising the price until the extra cash from the yeses doesn't make up for the nos."
+    },
+    {
+      "start": 632.01,
+      "end": 633.31,
+      "text": "Simple scales, fancy fails."
+    },
+    {
+      "start": 633.63,
+      "end": 635.31,
+      "text": "Get as much as you can out of what you have."
+    },
+    {
+      "start": 635.63,
+      "end": 640.19,
+      "text": "Remember, it's less about having 100 products to offer and more about having 100 ways to offer your product."
+    },
+    {
+      "start": 640.99,
+      "end": 644.51,
+      "text": "Think more ways to sell the same thing, not more things to sell."
+    },
+    {
+      "start": 645.25,
+      "end": 649.09,
+      "text": "If I offer personal training, I can offer one, two, three, four sessions per week."
+    },
+    {
+      "start": 649.39,
+      "end": 651.25,
+      "text": "This turns one product into many offers."
+    },
+    {
+      "start": 652.49,
+      "end": 653.03,
+      "text": "Important."
+    },
+    {
+      "start": 653.63,
+      "end": 655.53,
+      "text": "Affiliate products can fill money model gaps."
+    },
+    {
+      "start": 656.07,
+      "end": 659.23,
+      "text": "An affiliate relationship just means you sell other people's stuff for a commission."
+    },
+    {
+      "start": 659.75,
+      "end": 663.39,
+      "text": "If you don't have anything to offer and want to start a business, you can offer somebody else's stuff."
+    },
+    {
+      "start": 663.77,
+      "end": 668.23,
+      "text": "If you have a single offer and want to add more offers to your money model, you can also offer somebody else's stuff."
+    },
+    {
+      "start": 668.77,
+      "end": 674.65,
+      "text": "If you have 100 million dollar business and want to make more money without adding operational headache, you can offer somebody else's stuff too."
+    },
+    {
+      "start": 674.91,
+      "end": 677.85,
+      "text": "In short, you can always offer somebody else's stuff in your money model."
+    },
+    {
+      "start": 678.01,
+      "end": 678.91,
+      "text": "Here's a few examples."
+    },
+    {
+      "start": 679.95,
+      "end": 680.43,
+      "text": "Service."
+    },
+    {
+      "start": 681.21,
+      "end": 684.35,
+      "text": "A dental agency sends their dentist clients to a braces manufacturer."
+    },
+    {
+      "start": 684.73,
+      "end": 687.77,
+      "text": "The manufacturer sends them a commission for each dentist they send."
+    },
+    {
+      "start": 687.99,
+      "end": 689.85,
+      "text": "More money, no extra work, voila."
+    },
+    {
+      "start": 690.73,
+      "end": 691.35,
+      "text": "Local business."
+    },
+    {
+      "start": 691.95,
+      "end": 696.85,
+      "text": "Massage therapist sells clients somebody else's home massage tools, exercise bands, medicine balls, etc."
+    },
+    {
+      "start": 697.53,
+      "end": 701.63,
+      "text": "The customer pays through the therapist, and the other company ships it directly to them."
+    },
+    {
+      "start": 702.05,
+      "end": 703.89,
+      "text": "A few extra words, a lot extra money."
+    },
+    {
+      "start": 704.23,
+      "end": 705.25,
+      "text": "No extra service delivered."
+    },
+    {
+      "start": 706.43,
+      "end": 707.09,
+      "text": "Digital product."
+    },
+    {
+      "start": 707.71,
+      "end": 710.95,
+      "text": "An educator tells his clients to use a specific customer service software."
+    },
+    {
+      "start": 711.47,
+      "end": 714.17,
+      "text": "The software company sends the consultant a commission for every sign-up."
+    },
+    {
+      "start": 716.15,
+      "end": 719.43,
+      "text": "Turn attraction offers into continuity offers with automatic renewal."
+    },
+    {
+      "start": 720.11,
+      "end": 721.37,
+      "text": "This makes it two for one."
+    },
+    {
+      "start": 721.67,
+      "end": 729.13,
+      "text": "For example, if you do a buy six months, get six months free offer, they can automatically roll into a month-to-month subscription at the end of 12 months."
+    },
+    {
+      "start": 729.65,
+      "end": 732.03,
+      "text": "This gets the benefit of attraction and continuity offers."
+    },
+    {
+      "start": 732.52,
+      "end": 732.82,
+      "text": "Both."
+    },
+    {
+      "start": 733.14,
+      "end": 735.02,
+      "text": "A small tip with big implications."
+    },
+    {
+      "start": 735.84,
+      "end": 737.54,
+      "text": "You can mix and match offers however you want."
+    },
+    {
+      "start": 738.04,
+      "end": 740.08,
+      "text": "I present offers this way because it's how I use them."
+    },
+    {
+      "start": 740.5,
+      "end": 743.74,
+      "text": "But if you recall, I learned many of them from people who use them differently than me."
+    },
+    {
+      "start": 744.34,
+      "end": 745.94,
+      "text": "Many of these offers you can use anywhere."
+    },
+    {
+      "start": 746.26,
+      "end": 748.44,
+      "text": "You can use upsell tactics in your attraction offer."
+    },
+    {
+      "start": 748.54,
+      "end": 750.56,
+      "text": "You can install a downsell process with every offer."
+    },
+    {
+      "start": 751.04,
+      "end": 753.08,
+      "text": "You can use a continuity offer to attract new customers."
+    },
+    {
+      "start": 753.34,
+      "end": 754.18,
+      "text": "There are no rules."
+    },
+    {
+      "start": 754.58,
+      "end": 755.5,
+      "text": "You can do whatever you want."
+    },
+    {
+      "start": 756.02,
+      "end": 759.0,
+      "text": "I show you stuff one way, but I fully expect you to use it in another."
+    },
+    {
+      "start": 759.48,
+      "end": 762.74,
+      "text": "So, start with the way I suggest it, then as you get better, experiment."
+    },
+    {
+      "start": 762.86,
+      "end": 764.82,
+      "text": "It's how I learned this stuff, and it's how you'll learn it too."
+    },
+    {
+      "start": 766.06,
+      "end": 766.42,
+      "text": "Summary."
+    },
+    {
+      "start": 767.06,
+      "end": 769.06,
+      "text": "A money model is a deliberate sequence of offers."
+    },
+    {
+      "start": 769.96,
+      "end": 775.94,
+      "text": "Money models have three stages: get cash, attraction offers; get more cash, upsells and downsells; get the most cash, continuity offers."
+    },
+    {
+      "start": 776.66,
+      "end": 778.82,
+      "text": "To make your own money model, start an attraction offer."
+    },
+    {
+      "start": 779.42,
+      "end": 781.7,
+      "text": "Once it gets you customers and cash, add an upsell offer."
+    },
+    {
+      "start": 782.0,
+      "end": 784.34,
+      "text": "From there, add downsell offers to get even more people to buy."
+    },
+    {
+      "start": 784.56,
+      "end": 786.02,
+      "text": "Then finally, add your continuity offer."
+    },
+    {
+      "start": 786.8,
+      "end": 788.98,
+      "text": "Do not try and implement a full money model at once."
+    },
+    {
+      "start": 789.12,
+      "end": 789.92,
+      "text": "It will break your business."
+    },
+    {
+      "start": 790.5,
+      "end": 794.22,
+      "text": "It's less about having 100 products to offer and more about having 100 ways to offer your product."
+    },
+    {
+      "start": 795.0,
+      "end": 799.72,
+      "text": "To sell more stuff without starting 100 businesses, offer stuff from other businesses and let them deliver it."
+    },
+    {
+      "start": 800.58,
+      "end": 803.82,
+      "text": "Affiliate relationships can fill the gap in your money model without the headache of delivery."
+    },
+    {
+      "start": 804.8,
+      "end": 807.64,
+      "text": "Price new offers low enough that you will get lots of yeses."
+    },
+    {
+      "start": 808.34,
+      "end": 809.92,
+      "text": "Use customer feedback to improve your product."
+    },
+    {
+      "start": 810.22,
+      "end": 812.28,
+      "text": "Then start raising the price until you stop making more money."
+    },
+    {
+      "start": 813.6,
+      "end": 816.5,
+      "text": "A 100 million dollar money model eliminates cash as a bottleneck for growth."
+    },
+    {
+      "start": 816.96,
+      "end": 817.94,
+      "text": "Mission accomplished."
+    },
+    {
+      "start": 818.72,
+      "end": 819.14,
+      "text": "Free gift."
+    },
+    {
+      "start": 819.48,
+      "end": 821.28,
+      "text": "Make your own money model step-by-step training."
+    },
+    {
+      "start": 821.98,
+      "end": 823.36,
+      "text": "Woo, there is a lot in this chapter."
+    },
+    {
+      "start": 823.72,
+      "end": 825.54,
+      "text": "It's also arguably the most important one in the book."
+    },
+    {
+      "start": 826.06,
+      "end": 829.34,
+      "text": "So to make sure you don't get stuck, I made you a video walking through this process step-by-step."
+    },
+    {
+      "start": 829.62,
+      "end": 834.34,
+      "text": "As usual, you can watch it for free, no opt-in needed at acquisition.com/training/money."
+    },
+    {
+      "start": 836.22,
+      "end": 842.16,
+      "text": "Real quick, guys, I have a special, special gift for you for being loyal listeners of the podcast."
+    },
+    {
+      "start": 842.82,
+      "end": 848.14,
+      "text": "Leila and I spent probably an entire quarter putting together our scaling roadmap."
+    },
+    {
+      "start": 848.24,
+      "end": 853.78,
+      "text": "It's breaking scaling into 10 stages and across all eight functions of the business."
+    },
+    {
+      "start": 853.84,
+      "end": 859.94,
+      "text": "So you've got marketing, you've got sales, you've got product, you've got customer success, you've got IT, you've got recruiting, you've got HR, you've got finance."
+    },
+    {
+      "start": 860.28,
+      "end": 864.3,
+      "text": "And we show the problems that emerge at every level of scale and how to graduate to the next level."
+    },
+    {
+      "start": 864.46,
+      "end": 867.86,
+      "text": "It's all free, and you can get it personalized to you."
+    },
+    {
+      "start": 867.98,
+      "end": 870.4,
+      "text": "So it's about 30-ish pages for each of the stages."
+    },
+    {
+      "start": 870.54,
+      "end": 875.52,
+      "text": "Once you answer the questions, it will tell you exactly where you're at and what you need to do to grow."
+    },
+    {
+      "start": 875.56,
+      "end": 881.74,
+      "text": "It's about 14 hours of stuff, but it's narrowed down so that you only have to watch the part that's relevant to you, which will probably be about 90 minutes."
+    },
+    {
+      "start": 882.38,
+      "end": 888.76,
+      "text": "Um, and so if that's at all interesting, you can go to acquisition.com/roadmap, R-O-A-D map, roadmap."
+    }
+  ],
+  "backend": "elevenlabs",
+  "audio_sha256": "40c47406c713dfdc058189763e5db9379a59fe3766a3d15ea22ae0a72074a1e1",
+  "audio_duration_sec": 892.316735,
+  "elapsed_sec": 9.6,
+  "created": "2026-11-16T03:32:16+00:00"
+}

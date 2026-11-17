@@ -1,0 +1,42 @@
+# Known source collections. `python -m alexai ingest add --preset <name>` registers them.
+# title_regex is matched (case-insensitive, full match) against whitespace-normalised
+# episode titles and must capture the part number. First match wins (feeds list newest first).
+# Feed = public RSS of "The Game with Alex Hormozi" (found via the iTunes Search API).
+# Never use Spotify: its streams are DRM-protected.
+
+hormozi-100m-offers:
+  kind: podcast
+  url: https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml
+  author: alex-hormozi
+  collection: 100m-offers
+  id_prefix: hormozi-100m-offers
+  title_regex: '\$100M Offers Audiobook Part (\d+)'
+  expected_parts: 7
+
+hormozi-100m-leads:
+  kind: podcast
+  url: https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml
+  author: alex-hormozi
+  collection: 100m-leads
+  id_prefix: hormozi-100m-leads
+  title_regex: 'Part (\d+): .+ \| \$100M Leads Book'
+  expected_parts: 11
+
+hormozi-100m-money-models:
+  kind: podcast
+  url: https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml
+  author: alex-hormozi
+  collection: 100m-money-models
+  id_prefix: hormozi-100m-money-models
+  title_regex: 'Part (\d+): (?:Welcome to \$100M Money Models|.+ \| \$100M Money Models Audiobook)'
+  expected_parts: 9
+
+# Curated sales/closing episodes of The Game podcast (no sales book exists in the $100M series).
+hormozi-sales-episodes:
+  kind: podcast
+  url: https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml
+  author: alex-hormozi
+  collection: game-sales-episodes
+  id_prefix: hormozi-game-ep
+  title_regex: '.+ \| Ep (998|953|938|910|878|791|781|770|735|309|305|275|227|222|112|47|33|22|21|20)'
+  expected_parts: 0

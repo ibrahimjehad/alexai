@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alexai"
+version = "0.1.0"
+description = "Alex AI: knowledge brain + tools for applying Alex Hormozi's frameworks"
+requires-python = ">=3.11"
+dependencies = ["PyYAML>=6"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+pdf = ["pypdf>=4"]
+# Optional meaning-based search: local ONNX embedding model via FastEmbed (onnxruntime, no PyTorch).
+semantic = ["fastembed>=0.9,<0.10", "numpy>=1.26"]
+# Optional offline transcription backend (not installed by default; ElevenLabs is the default).
+local = ["mlx-whisper; platform_machine == 'arm64' and sys_platform == 'darwin'"]
+
+[project.scripts]
+alexai = "alexai.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["alexai*"]
+
+[tool.setuptools.package-data]
+"alexai.pipeline" = ["presets.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

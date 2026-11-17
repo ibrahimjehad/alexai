@@ -1,0 +1,804 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "hormozi-100m-leads-p01",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 1: Start Here | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/r6lub5j7d6h57fcrj7esfglq.mp3",
+      "duration_sec": 1846,
+      "sha256": "40280b23d3c6d6a46bad1b6f4803d41633e63ec1eae7bf345ee005dcd7767645",
+      "stages": {
+        "fetched": "2026-11-16T02:58:16+00:00",
+        "transcribed": "2026-11-16T03:04:37+00:00",
+        "distilled": "2026-11-16T03:18:37+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p02",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 2: Engage Your Leads | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/bdwh5toi1qs35qm3akel2g9w.mp3",
+      "duration_sec": 2047,
+      "sha256": "ca1ec834864d3fc9e855bdae05c960eb444a779a3a3b4f59574483ffec877b05",
+      "stages": {
+        "fetched": "2026-11-16T02:58:24+00:00",
+        "transcribed": "2026-11-16T03:04:54+00:00",
+        "distilled": "2026-11-16T03:18:37+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p03",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 3: Warm Outreach | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/svtru8wkcx9kz3c2xf1dmnic.mp3",
+      "duration_sec": 1874,
+      "sha256": "1c606aa80999b295e5f89068ffd4ac6636e1f307aea5e96998091c15d8094ce1",
+      "stages": {
+        "fetched": "2026-11-16T02:59:30+00:00",
+        "transcribed": "2026-11-16T03:05:10+00:00",
+        "distilled": "2026-11-16T03:18:37+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p04",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 4: Post Free Content | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/s1gd29hv56im72ljnraf823u.mp3",
+      "duration_sec": 2944,
+      "sha256": "e62b014da12441cbb58808ba9a9d25d4c2995248348e7dede8a258dc9776e6e3",
+      "stages": {
+        "fetched": "2026-11-16T02:59:52+00:00",
+        "transcribed": "2026-11-16T03:05:34+00:00",
+        "distilled": "2026-11-16T03:18:37+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p05",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 5: Cold Outreach | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/zq7swtiuy6s3fzh7v6dkwp6x.mp3",
+      "duration_sec": 2127,
+      "sha256": "71bf15f5879a4f6446a5c95335f774c71cace37f0c41f7f19543730bb13efeff",
+      "stages": {
+        "fetched": "2026-11-16T03:00:01+00:00",
+        "transcribed": "2026-11-16T03:05:52+00:00",
+        "distilled": "2026-11-16T03:18:37+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p06",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 6: Run Paid Ads | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/myvrsnkraz8z968j52om9404.mp3",
+      "duration_sec": 3050,
+      "sha256": "5ce3adc5e3d3d5381a1555b422a9d63ffda405f5dbb5efcfa4ef397d51dabae4",
+      "stages": {
+        "fetched": "2026-11-16T03:00:23+00:00",
+        "transcribed": "2026-11-16T03:06:17+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p07",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 7: Core Four on Steroids | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/y7o0o7tj6axa0dd6hfg558z3.mp3",
+      "duration_sec": 1022,
+      "sha256": "78db87cac5b3896373625213b53b706e375d2d6e14e47429e4e499570c776953",
+      "stages": {
+        "fetched": "2026-11-16T03:00:31+00:00",
+        "transcribed": "2026-11-16T03:06:28+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p08",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 8: Customer Referrals | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/u05qpuqjxczzpwtghjfxr1g7.mp3",
+      "duration_sec": 2110,
+      "sha256": "d3221eb5e10f397d4511841f59d02780c01bf6bfa7547b4f99fc0f7517e20b36",
+      "stages": {
+        "fetched": "2026-11-16T03:00:40+00:00",
+        "transcribed": "2026-11-16T03:06:47+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p09",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 9: Employees and Agencies | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/zk6trwqf5y0jtj63t921mhs9.mp3",
+      "duration_sec": 1942,
+      "sha256": "d69c589bc7e12238c02fb25d8ca795a1e4e2f60a4aa78d30d03300916967aa0f",
+      "stages": {
+        "fetched": "2026-11-16T03:00:50+00:00",
+        "transcribed": "2026-11-16T03:07:07+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p10",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 10: Affiliates and Partners | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/xrfla5w9nf31bymc04y7npt2.mp3",
+      "duration_sec": 2316,
+      "sha256": "7ed5266d2cdcc9a84d590c821c6ecb6d3aeec5da80c19963e9f9217b5975021f",
+      "stages": {
+        "fetched": "2026-11-16T03:01:08+00:00",
+        "transcribed": "2026-11-16T03:07:29+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-leads-p11",
+      "author": "alex-hormozi",
+      "collection": "100m-leads",
+      "title": "Part 11: Advertising in Real Life and The Roadmap | $100M Leads Book",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/bl53o7mrep83zxcn8gighy86.mp3",
+      "duration_sec": 1887,
+      "sha256": "e69c5d3a3b3ab7837a2d32b0dc71c1de91fd730e71eb676ee45901ed29b9a94d",
+      "stages": {
+        "fetched": "2026-11-16T03:01:29+00:00",
+        "transcribed": "2026-11-16T03:07:47+00:00",
+        "distilled": "2026-11-16T03:20:14+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p01",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 1: Welcome to $100M Money Models",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/h47mp5uuvla20invdhew5ejw.mp3",
+      "duration_sec": 897,
+      "sha256": "2d28dd6ec5bd71ba706b1bbecb543a3326a1f40dc16b40298f4ed8898250a995",
+      "stages": {
+        "fetched": "2026-11-16T03:28:36+00:00",
+        "transcribed": "2026-11-16T03:28:45+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p02",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 2: What Is A Money Model? | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/oc6dv04mp35hs0g4ip0vwoca.mp3",
+      "duration_sec": 704,
+      "sha256": "377ece7c75c57fbf5f5098a1e354ced46451a6ace6a6b9cc5101ae4fde1c3c54",
+      "stages": {
+        "fetched": "2026-11-16T03:28:58+00:00",
+        "transcribed": "2026-11-16T03:29:07+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p03",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 3: Attraction Offers | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/sq23y5j5abh6jrl2yz04zgq6.mp3",
+      "duration_sec": 1657,
+      "sha256": "8cf4b01c563bc3cbdc9d0af474f1290fba281a6a0e71a2f5f5454c92c5f43909",
+      "stages": {
+        "fetched": "2026-11-16T03:29:26+00:00",
+        "transcribed": "2026-11-16T03:29:42+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p04",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 4: Attraction Offers Continued | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/jhep9hsf0mxm3f0c2jbz6sp9.mp3",
+      "duration_sec": 1907,
+      "sha256": "043eb68bffbe481963dbf5a7a69a0200b597f9b442ce7f88f3f0884a5af566fb",
+      "stages": {
+        "fetched": "2026-11-16T03:29:59+00:00",
+        "transcribed": "2026-11-16T03:30:15+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p05",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 5: Upsell Offers | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/g4ot89w7a7i3cvoixcx1vo4p.mp3",
+      "duration_sec": 2548,
+      "sha256": "cb6c6497a2b5c12224ab4835c93d399fe994796827475599a4a2ad8c9a143a2c",
+      "stages": {
+        "fetched": "2026-11-16T03:30:24+00:00",
+        "transcribed": "2026-11-16T03:30:45+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p06",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 6: Downsell Offers | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/n813i0jcbe8m6yk114s0f85v.mp3",
+      "duration_sec": 2351,
+      "sha256": "e2ae93024cef6e39b2bcc5511d424661c457815d81ee5b982750ce5a6abb2c91",
+      "stages": {
+        "fetched": "2026-11-16T03:31:12+00:00",
+        "transcribed": "2026-11-16T03:31:32+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p07",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 7: Continuity Offers | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/q304692kkzbn7vxqe0hm93cz.mp3",
+      "duration_sec": 2037,
+      "sha256": "fa331b1c793d75190f7aae363c4207e4f74efb9196673fe9fc8d22d64f29733a",
+      "stages": {
+        "fetched": "2026-11-16T03:31:41+00:00",
+        "transcribed": "2026-11-16T03:31:58+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p08",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 8: Making Your Money Model | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/ze1y2tovepe92cupluape6ff.mp3",
+      "duration_sec": 891,
+      "sha256": "40c47406c713dfdc058189763e5db9379a59fe3766a3d15ea22ae0a72074a1e1",
+      "stages": {
+        "fetched": "2026-11-16T03:32:06+00:00",
+        "transcribed": "2026-11-16T03:32:16+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-money-models-p09",
+      "author": "alex-hormozi",
+      "collection": "100m-money-models",
+      "title": "Part 9: Ten Years in Ten Minutes | $100M Money Models Audiobook",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/u3x6lg8pnhqo5h8cmw3av5gj.mp3",
+      "duration_sec": 603,
+      "sha256": "087e01442a2c1940f3b5d8ef4c96f99980bbfcd01c91bb9dc03528635fcc70b8",
+      "stages": {
+        "fetched": "2026-11-16T03:32:23+00:00",
+        "transcribed": "2026-11-16T03:32:32+00:00",
+        "distilled": "2026-11-16T03:43:19+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p01",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 1",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/kq5lipwcdx710rd4052rgbth.mp3",
+      "duration_sec": 1949,
+      "sha256": "3f4b183d69697500c516a740f1b708ce61fcfeb8633d37a16a0aa11a3a765289",
+      "stages": {
+        "fetched": "2026-11-16T02:53:37+00:00",
+        "transcribed": "2026-11-16T03:04:09+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p02",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 2",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/r5vyz73xgj5tu4u2jxjly7e5.mp3",
+      "duration_sec": 3261,
+      "sha256": "5014a83698fbb64b7b32b2d83a25d1bfccfee427c35b43c59d5510d0902a9d00",
+      "stages": {
+        "fetched": "2026-11-16T03:01:39+00:00",
+        "transcribed": "2026-11-16T03:08:15+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p03",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 3",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/jc6i1v03kiwytdo2y7neqy1i.mp3",
+      "duration_sec": 1654,
+      "sha256": "39c3981716dcd82f3b164732ab1d29fcaa653cc9088286388b6b05bd6956d1ec",
+      "stages": {
+        "fetched": "2026-11-16T03:01:47+00:00",
+        "transcribed": "2026-11-16T03:08:32+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p04",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 4",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/q8k6chf3xhottcwiohq8dq3c.mp3",
+      "duration_sec": 2097,
+      "sha256": "89896cd53bd665197fe620c59c40d319151d67edc7a577f20a8633f7c925cb64",
+      "stages": {
+        "fetched": "2026-11-16T03:01:55+00:00",
+        "transcribed": "2026-11-16T03:08:51+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p05",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 5",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/qquyzsl98y6phqlytdllc325.mp3",
+      "duration_sec": 1988,
+      "sha256": "21d54d9b82e8fa705fc7be8b25c0a7111920cf39b42cd3f37c1c95964c4eb4f0",
+      "stages": {
+        "fetched": "2026-11-16T03:02:33+00:00",
+        "transcribed": "2026-11-16T03:09:10+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p06",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook Part 6",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/e65sycu4gi1dh2x1oc9xzpre.mp3",
+      "duration_sec": 2228,
+      "sha256": "1fa4ac5f045aa1437f80fca99603261c6e808e1162340c674e0f0de6b27db07a",
+      "stages": {
+        "fetched": "2026-11-16T03:02:40+00:00",
+        "transcribed": "2026-11-16T03:09:29+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-100m-offers-p07",
+      "author": "alex-hormozi",
+      "collection": "100m-offers",
+      "title": "$100M Offers Audiobook part 7",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/zexj8j1bq1zqbkfhvvbel8sn.mp3",
+      "duration_sec": 1524,
+      "sha256": "450003c003220e9920db9cf756d6a88e6fb2bcc0d00d170871c01417032ba928",
+      "stages": {
+        "fetched": "2026-11-16T03:09:47+00:00",
+        "transcribed": "2026-11-16T03:10:04+00:00",
+        "distilled": "2026-11-16T03:19:08+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p112",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "Simplifying Sales for your team to TWO YES/NO questions... | Ep 112",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/oqbilmxkeaa25qx814w01fx7.mp3",
+      "duration_sec": 918,
+      "sha256": "a6ab900c6774ba707028f7bde2863cf9ff9180eb73b0534228f0162b631c4743",
+      "stages": {
+        "fetched": "2026-11-16T15:16:53+00:00",
+        "transcribed": "2026-11-16T15:17:07+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p20",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Sell Expensive Stuff Pt. 1 | Ep 20",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/t9bm26ryy298wy3w6d0op66s.mp3",
+      "duration_sec": 436,
+      "sha256": "df6adccc0869507f85ffa09988502570b535e7ee8f61691c715d5d59df774b6e",
+      "stages": {
+        "fetched": "2026-11-16T15:22:59+00:00",
+        "transcribed": "2026-11-16T15:23:11+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p21",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Sell Expensive Stuff Part 2 | Ep 21",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/vqpu0lhh7dymt9zvaaalz1s4.mp3",
+      "duration_sec": 600,
+      "sha256": "8110739fd6a6d54f5bc1a6ed3425fb122f868306b6a849c2cf5427d9248abab6",
+      "stages": {
+        "fetched": "2026-11-16T15:23:29+00:00",
+        "transcribed": "2026-11-16T15:23:42+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p22",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Sell Expensive Stuff Part 3 | Ep 22",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/l5fvtef0mpmls49ag05h894e.mp3",
+      "duration_sec": 695,
+      "sha256": "705b6be36cb03407a11835cdb0437ba3077c5413538a00870187c77f182e560e",
+      "stages": {
+        "fetched": "2026-11-16T15:23:57+00:00",
+        "transcribed": "2026-11-16T15:24:26+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p222",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How To Close Sales By Them Saying NO | Ep 222",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/yiekged7y63pl9tan6hsdczj.mp3",
+      "duration_sec": 537,
+      "sha256": "6992a1f90ad8fbadaccdd1a1c0e59a0bd574256ad5365c29efbd702fbc2e4018",
+      "stages": {
+        "fetched": "2026-11-16T15:24:54+00:00",
+        "transcribed": "2026-11-16T15:25:07+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p227",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "The 7 Components of a Closed Deal | Ep 227",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/cimtcckglc9efydxlgendd8c.mp3",
+      "duration_sec": 497,
+      "sha256": "e4f92990b5a7917556726093f528177144cec4a65e886f7b48bde9e6e09cacef",
+      "stages": {
+        "fetched": "2026-11-16T15:26:25+00:00",
+        "transcribed": "2026-11-16T15:26:35+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p275",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "The Only 3 Things To Say When Closing Sales | Ep 275",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/l9413axmw2qw8pigjgc8hxai.mp3",
+      "duration_sec": 911,
+      "sha256": "eec8c1749b90c5e5411069a20160642771cbe2bce34b08564d678728962526ce",
+      "stages": {
+        "fetched": "2026-11-16T15:26:53+00:00",
+        "transcribed": "2026-11-16T15:27:07+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p305",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "I Taught 115+ Salesmen My Closing Framework | Ep 305",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/evielqhwmgajv1n7i87zt482.mp3",
+      "duration_sec": 2718,
+      "sha256": "63ca258e663d6d3210976a3a982dac59b205845dfe2d81610668325587adc859",
+      "stages": {
+        "fetched": "2026-11-16T15:27:34+00:00",
+        "transcribed": "2026-11-16T15:28:19+00:00",
+        "distilled": "2026-11-16T16:49:48+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p309",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "Closing a Higher Percentage of Deals Through Belief | Ep 309",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/wyf7vtcg8epd7ih48e3eqwbt.mp3",
+      "duration_sec": 575,
+      "sha256": "dc7088c1e51af1010ef07bf1b9c0f8f8defd21ac62537f2703a833da37b5ef64",
+      "stages": {
+        "fetched": "2026-11-16T15:34:39+00:00",
+        "transcribed": "2026-11-16T15:34:50+00:00",
+        "distilled": "2026-11-16T16:49:48+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p33",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How To Overcome Price Objections Like A Sales GENIE | Ep 33",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/hj5q0zdne56iycyczd742vxe.mp3",
+      "duration_sec": 424,
+      "sha256": "9ce07f77d633f6eb9b062b9650af2410ab93a696e87872615a1ed87b228f5d56",
+      "stages": {
+        "fetched": "2026-11-16T15:35:38+00:00",
+        "transcribed": "2026-11-16T15:35:49+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p47",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "💰💰🔥🔥HOW TO OVERCOME PRICE OBJECTIONS—My favorite one 🔥🔥...and a fun story to drive it home. | Ep 47",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/pkvxya0simevpno6wj7ys4mv.mp3",
+      "duration_sec": 721,
+      "sha256": "f7c9ff89bc00d780db681d7944ba7bb85c9004f12db436057b8c6b881ff06644",
+      "stages": {
+        "fetched": "2026-11-16T15:36:06+00:00",
+        "transcribed": "2026-11-16T15:36:19+00:00",
+        "distilled": "2026-11-16T16:49:49+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p735",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Sell Anything to Anyone If You're New To Sales [My Actual Script] | Ep 735",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/qfyok4h940mabztdfow243lx.mp3",
+      "duration_sec": 429,
+      "sha256": "f1d6915d95584dbc0f6b6302c57cdee25d0910049f29faf173658739d77935d3",
+      "stages": {
+        "fetched": "2026-11-16T15:37:00+00:00",
+        "transcribed": "2026-11-16T15:37:10+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p770",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "The Ultimate Sales Script Format (3 Pillar Pitch) | Ep 770",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/l7ifnfx3oa782pha080x3gf4.mp3",
+      "duration_sec": 553,
+      "sha256": "be619929f241948c9461a82c6126a2a58b7d3133b4f5a672ebb1366b3d87e79e",
+      "stages": {
+        "fetched": "2026-11-16T15:44:21+00:00",
+        "transcribed": "2026-11-16T15:44:30+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p781",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "Sales 301: Advanced Sales Training From Selling $100s of Millions | Ep 781",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/k21xfm3mum2bfkh3uml4a4dw.mp3",
+      "duration_sec": 1372,
+      "sha256": "cf066ed46f049f3cdfb53002a66dbce4e76bed15a2564f9b1aeb17d7a1ac8064",
+      "stages": {
+        "fetched": "2026-11-16T15:45:04+00:00",
+        "transcribed": "2026-11-16T15:45:21+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p791",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "Closing Made Easy: The Triple A Framework Explained | Ep 791",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/yu4obmxvz5u6l0fogzf93gzc.mp3",
+      "duration_sec": 744,
+      "sha256": "f056dabde25be293356b7e93b63302d25c540f2fac81a791b3168d445876d909",
+      "stages": {
+        "fetched": "2026-11-16T15:51:51+00:00",
+        "transcribed": "2026-11-16T15:52:02+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p878",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "Lead Gen vs. Closing: Which One’s Broken? | Ep 878",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/yl2g0448y2svntcj9qgrf7md.mp3",
+      "duration_sec": 1953,
+      "sha256": "a4050b0b629908c68d7ab7b4f749d42050fd591e1c43fc4e66d1313447306225",
+      "stages": {
+        "fetched": "2026-11-16T15:52:20+00:00",
+        "transcribed": "2026-11-16T15:52:47+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p910",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "The Ultimate Sales Script: Never Lose a Sale Again | Ep 910",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/e2szx0m2s0sh5r8c0ndiuya2.mp3",
+      "duration_sec": 1334,
+      "sha256": "d5bd956a25b267db8ff28bf1cfd4c44723bf5619765ccae58cbff738a07f897a",
+      "stages": {
+        "fetched": "2026-11-16T15:53:06+00:00",
+        "transcribed": "2026-11-16T15:53:26+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p938",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Sell High Ticket Offers to the Right Customers | Ep 938",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/tcgzxhuyp7ibf8nlsqkt779h.mp3",
+      "duration_sec": 2793,
+      "sha256": "35f4af8f603ec1de41c6f400c076257154ca294fb9f318d59556ae23daccd35a",
+      "stages": {
+        "fetched": "2026-11-16T16:27:20+00:00",
+        "transcribed": "2026-11-16T16:27:51+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p953",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "How to Close a Deal on the Phone Before They Hang Up | Ep 953",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/y824ngxxkdluy7vcswu3kmv7.mp3",
+      "duration_sec": 571,
+      "sha256": "4ed67c98c37e0bb1156aacbf836ff4751106765f85ad93a8fd076fcf6b498ce1",
+      "stages": {
+        "fetched": "2026-11-16T16:28:33+00:00",
+        "transcribed": "2026-11-16T16:28:52+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    },
+    {
+      "id": "hormozi-game-ep-p998",
+      "author": "alex-hormozi",
+      "collection": "game-sales-episodes",
+      "title": "If You Hate Selling, Watch This | Ep 998",
+      "kind": "podcast",
+      "url": "https://rss2.flightcast.com/zz5nwp81tktx53wb8fw6qq7j.xml",
+      "audio_url": "https://pscrb.fm/rss/p/episode.flightcast.com/01M240HRWHVF97RP18GWY86M9B.mp3",
+      "duration_sec": 1806,
+      "sha256": "b4730cb235e19940dc01445b3072655adaad02267f8683d3fa4c754f59ae42e3",
+      "stages": {
+        "fetched": "2026-11-16T16:29:15+00:00",
+        "transcribed": "2026-11-16T16:29:49+00:00",
+        "distilled": "2026-11-16T16:39:43+00:00"
+      },
+      "error": null
+    }
+  ]
+}
