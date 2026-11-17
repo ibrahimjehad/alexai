@@ -6,6 +6,7 @@ Everything goes through `search_brain`, so backends can change without changing 
 from __future__ import annotations
 
 import datetime as _dt
+import json
 import math
 import re
 from collections import Counter
@@ -259,6 +260,13 @@ def build_index(root=None, semantic: bool = True) -> dict:
     avgdl = (sum(d["length"] for d in docs) / len(docs)) if docs else 0.0
     index = {"version": INDEX_VERSION, "built": now_iso(), "n_docs": len(docs), "avgdl": avgdl,
              "df": dict(df), "notes": docs}
+    # Keep the old timestamp when nothing else changed, so re-indexing a fresh clone leaves git clean.
+    try:
+        prev = read_json(lay.index_json)
+    except Exception:
+        prev = None
+    if isinstance(prev, dict) and {**prev, "built": None} == json.loads(json.dumps({**index, "built": None})):
+        index["built"] = prev.get("built", index["built"])
     atomic_write_json(lay.index_json, index)
     atomic_write_text(lay.index_md, _render_index_md(docs))
     out = {"notes": len(docs), "index_json": str(lay.index_json), "index_md": str(lay.index_md)}
